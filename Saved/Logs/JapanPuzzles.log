@@ -1911,3 +1911,12 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.31-08.01.57:206][327]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2021.08.31-08.01.57:222][327]LogUObjectHash: Compacting FUObjectHashTables data took   5.25ms
 [2021.08.31-08.01.57:246][328]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2021.08.31-08.02.39:371][142]LogEditorTransaction: Undo Create Pin Link
+[2021.08.31-08.02.39:862][151]LogEditorTransaction: Undo Move Node
+[2021.08.31-08.02.40:690][195]LogEditorTransaction: Undo Delete current selection
+[2021.08.31-08.02.53:238][878]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/Tile/UMG_KakuroTile" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Tile/UMG_KakuroTile.uasset" SILENT=true
+[2021.08.31-08.02.53:306][878]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_KakuroTile58DC0A2841964D07E6A8E78D5D353D5C.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Tile/UMG_KakuroTile.uasset'
+[2021.08.31-08.02.53:325][878]AssetCheck: New page: Asset Save: UMG_KakuroTile
+[2021.08.31-08.02.53:325][878]LogContentValidation: Display: Validating WidgetBlueprint /Game/Kakuro/Tile/UMG_KakuroTile.UMG_KakuroTile
+[2021.08.31-08.02.54:055][906]BlueprintLog: New page: Compile UMG_KakuroTile
+[2021.08.31-08.02.54:168][906]LogUObjectHash: Compacting FUObjectHashTables data took   7.53ms
