@@ -1838,3 +1838,35 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.31-09.22.09:938][ 45]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_KakuroWidget7709C0AB465153D9876A198887B8DBDD.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/UMG_KakuroWidget.uasset'
 [2021.08.31-09.22.09:955][ 45]AssetCheck: New page: Asset Save: UMG_KakuroWidget
 [2021.08.31-09.22.09:955][ 45]LogContentValidation: Display: Validating WidgetBlueprint /Game/Kakuro/UMG_KakuroWidget.UMG_KakuroWidget
+[2021.08.31-09.22.37:462][209]LogUObjectHash: Compacting FUObjectHashTables data took   8.71ms
+[2021.08.31-09.22.37:464][209]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TestMap' took 0.069
+[2021.08.31-09.22.37:464][209]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Kakuro/Tile/UMG_KakuroTile] ([1] browsable assets)...
+[2021.08.31-09.22.37:464][209]OBJ SavePackage: Finished generating thumbnails for package [/Game/Kakuro/Tile/UMG_KakuroTile]
+[2021.08.31-09.22.37:464][209]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/Tile/UMG_KakuroTile" FILE="../../../../../Unreal Projects/JapanPuzzles/Saved/Autosaves/Game/Kakuro/Tile/UMG_KakuroTile_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2021.08.31-09.22.37:546][209]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_KakuroTile_Auto2E613053C4BF2A611440041976FE4FB78.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Saved/Autosaves/Game/Kakuro/Tile/UMG_KakuroTile_Auto2.uasset'
+[2021.08.31-09.22.37:546][209]LogFileHelpers: Auto-saving content packages took 0.083
+[2021.08.31-09.22.44:456][452]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/Tile/UMG_KakuroTile" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Tile/UMG_KakuroTile.uasset" SILENT=true
+[2021.08.31-09.22.44:528][452]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_KakuroTile0748EFC742F57E4CB9BB67AC700E50E0.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Tile/UMG_KakuroTile.uasset'
+[2021.08.31-09.22.44:546][452]AssetCheck: New page: Asset Save: UMG_KakuroTile
+[2021.08.31-09.22.44:546][452]LogContentValidation: Display: Validating WidgetBlueprint /Game/Kakuro/Tile/UMG_KakuroTile.UMG_KakuroTile
+[2021.08.31-09.25.37:330][911]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/LineClass" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/LineClass.uasset" SILENT=true
+[2021.08.31-09.25.37:364][911]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/LineClassB9C9B55646EA3ACE70849FBE236AFE09.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/LineClass.uasset'
+[2021.08.31-09.25.37:381][911]AssetCheck: New page: Asset Save: LineClass
+[2021.08.31-09.25.37:381][911]LogContentValidation: Display: Validating Blueprint /Game/Kakuro/LineClass.LineClass
+[2021.08.31-09.25.37:967][933]BlueprintLog: New page: Compile LineClass
+[2021.08.31-09.25.37:980][933]LogBlueprint: Warning: [AssetLog] D:\Unreal Projects\JapanPuzzles\Content\Kakuro\LineClass.uasset: [Compiler] Could not find the function 'ErrorAppeard' called from  Error Appeard
+[2021.08.31-09.25.37:980][933]LogBlueprint: Warning: [AssetLog] D:\Unreal Projects\JapanPuzzles\Content\Kakuro\LineClass.uasset: [Compiler] Could not find the function 'ErrorDisappeard' called from  Error Disappeard
+[2021.08.31-09.25.38:052][933]LogUObjectHash: Compacting FUObjectHashTables data took   8.42ms
+[2021.08.31-09.25.43:041][138]BlueprintLog: New page: Compile UMG_KakuroWidget
+[2021.08.31-09.25.43:095][138]LogClass: Warning: Type mismatch in ErrorsAmount of UMG_KakuroWidget_C - Previous (ArrayProperty) Current(IntProperty) for package:  FObjectReader
+[2021.08.31-09.25.43:158][138]LogUObjectHash: Compacting FUObjectHashTables data took   7.87ms
+[2021.08.31-09.25.43:963][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/UMG_KakuroWidget" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/UMG_KakuroWidget.uasset" SILENT=true
+[2021.08.31-09.25.44:090][183]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_KakuroWidget8C5CAFDE481EEFD1E70E6CBCE7993745.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/UMG_KakuroWidget.uasset'
+[2021.08.31-09.25.44:108][183]AssetCheck: New page: Asset Save: UMG_KakuroWidget
+[2021.08.31-09.25.44:108][183]LogContentValidation: Display: Validating WidgetBlueprint /Game/Kakuro/UMG_KakuroWidget.UMG_KakuroWidget
+[2021.08.31-09.25.46:632][292]BlueprintLog: New page: Compile LineClass
+[2021.08.31-09.25.46:713][292]LogUObjectHash: Compacting FUObjectHashTables data took   8.17ms
+[2021.08.31-09.25.47:147][309]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/LineClass" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/LineClass.uasset" SILENT=true
+[2021.08.31-09.25.47:180][309]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/LineClass798DC7674EE96894D9ECF5A86795CAA9.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/LineClass.uasset'
+[2021.08.31-09.25.47:196][309]AssetCheck: New page: Asset Save: LineClass
+[2021.08.31-09.25.47:196][309]LogContentValidation: Display: Validating Blueprint /Game/Kakuro/LineClass.LineClass
