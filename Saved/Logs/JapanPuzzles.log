@@ -2047,3 +2047,416 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.31-08.04.29:596][197]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2021.08.31-08.04.29:612][197]LogUObjectHash: Compacting FUObjectHashTables data took   5.15ms
 [2021.08.31-08.04.29:640][198]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2021.08.31-08.07.32:512][882]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/Tile/UMG_KakuroTile" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Tile/UMG_KakuroTile.uasset" SILENT=true
+[2021.08.31-08.07.32:652][882]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_KakuroTile1D4B46594D450AA9B4BD86A78FCF8BDC.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Tile/UMG_KakuroTile.uasset'
+[2021.08.31-08.07.32:673][882]AssetCheck: New page: Asset Save: UMG_KakuroTile
+[2021.08.31-08.07.32:673][882]LogContentValidation: Display: Validating WidgetBlueprint /Game/Kakuro/Tile/UMG_KakuroTile.UMG_KakuroTile
+[2021.08.31-08.07.52:179][  6]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/Tile/UMG_KakuroTile" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Tile/UMG_KakuroTile.uasset" SILENT=true
+[2021.08.31-08.07.52:307][  6]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_KakuroTileC896350341B43D89E4E65AB49D03A649.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Tile/UMG_KakuroTile.uasset'
+[2021.08.31-08.07.52:325][  6]AssetCheck: New page: Asset Save: UMG_KakuroTile
+[2021.08.31-08.07.52:325][  6]LogContentValidation: Display: Validating WidgetBlueprint /Game/Kakuro/Tile/UMG_KakuroTile.UMG_KakuroTile
+[2021.08.31-08.09.09:654][ 55]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.08.31-08.09.09:714][ 55]LogContentBrowser: Creating deferred item: NewFolder
+[2021.08.31-08.09.12:260][147]LogContentBrowser: Attempting asset rename: NewFolder -> Tile
+[2021.08.31-08.09.12:261][147]LogContentBrowser: End creating deferred item NewFolder
+[2021.08.31-08.09.13:363][188]LogSlate: Slate: Had to block on waiting for a draw buffer
+[2021.08.31-08.09.15:678][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VisualAssets/Materials/Tile/WallBackground" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/VisualAssets/Materials/Tile/WallBackground.uasset" SILENT=true
+[2021.08.31-08.09.15:682][306]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/WallBackgroundDD95DA404001CC4736697BB404DA5E9E.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/VisualAssets/Materials/Tile/WallBackground.uasset'
+[2021.08.31-08.09.15:695][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VisualAssets/Materials/Tile/SlotBackground" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/VisualAssets/Materials/Tile/SlotBackground.uasset" SILENT=true
+[2021.08.31-08.09.15:699][306]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/SlotBackground0558C25441CAE9FFAA10389E725F92C0.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/VisualAssets/Materials/Tile/SlotBackground.uasset'
+[2021.08.31-08.09.15:704][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VisualAssets/Materials/Tile/TileBackground" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/VisualAssets/Materials/Tile/TileBackground.uasset" SILENT=true
+[2021.08.31-08.09.15:708][306]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/TileBackgroundDA3DC4D74210B790D2FDDEB992CECE37.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/VisualAssets/Materials/Tile/TileBackground.uasset'
+[2021.08.31-08.09.15:917][306]LogUObjectHash: Compacting FUObjectHashTables data took   8.04ms
+[2021.08.31-08.09.15:970][306]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2021.08.31-08.09.16:016][306]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2021.08.31-08.09.16:073][306]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2021.08.31-08.09.16:120][306]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2021.08.31-08.09.16:152][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/Tile/UMG_KakuroTile" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Tile/UMG_KakuroTile.uasset" SILENT=true
+[2021.08.31-08.09.16:220][306]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_KakuroTileFCB5608B4D87E614AB0862A86323A2E7.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Tile/UMG_KakuroTile.uasset'
+[2021.08.31-08.09.16:306][306]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.31-08.09.16:306][306]LogContentValidation: Display: Validating WidgetBlueprint /Game/Kakuro/Tile/UMG_KakuroTile.UMG_KakuroTile
+[2021.08.31-08.09.16:307][306]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/VisualAssets/Materials/Tile/WallBackground.WallBackground
+[2021.08.31-08.09.16:307][306]LogContentValidation: Display: Validating Material /Game/VisualAssets/Materials/Tile/TileBackground.TileBackground
+[2021.08.31-08.09.16:307][306]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/VisualAssets/Materials/Tile/SlotBackground.SlotBackground
+[2021.08.31-08.09.22:026][535]LogContentBrowser: Attempting asset rename: Tile -> TileBackground
+[2021.08.31-08.09.22:149][535]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/WallBackground2BCA18AF4BA4793D459C0298104CE871.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/VisualAssets/Materials/TileBackground/WallBackground.uasset'
+[2021.08.31-08.09.22:159][535]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/TileBackground9A764DED469CB5B1F79F9791C65A07C1.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/VisualAssets/Materials/TileBackground/TileBackground.uasset'
+[2021.08.31-08.09.22:174][535]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/SlotBackgroundC80FBAF049C9B866B289FEB9F4922949.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/VisualAssets/Materials/TileBackground/SlotBackground.uasset'
+[2021.08.31-08.09.22:370][535]LogUObjectHash: Compacting FUObjectHashTables data took   5.20ms
+[2021.08.31-08.09.22:419][535]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2021.08.31-08.09.22:465][535]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2021.08.31-08.09.22:521][535]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2021.08.31-08.09.22:569][535]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2021.08.31-08.09.22:602][535]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/Tile/UMG_KakuroTile" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Tile/UMG_KakuroTile.uasset" SILENT=true
+[2021.08.31-08.09.22:669][535]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_KakuroTileCEEF484F46987598D31038AD07865872.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Tile/UMG_KakuroTile.uasset'
+[2021.08.31-08.09.22:750][535]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.31-08.09.22:750][535]LogContentValidation: Display: Validating WidgetBlueprint /Game/Kakuro/Tile/UMG_KakuroTile.UMG_KakuroTile
+[2021.08.31-08.09.22:750][535]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/VisualAssets/Materials/TileBackground/WallBackground.WallBackground
+[2021.08.31-08.09.22:750][535]LogContentValidation: Display: Validating Material /Game/VisualAssets/Materials/TileBackground/TileBackground.TileBackground
+[2021.08.31-08.09.22:750][535]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/VisualAssets/Materials/TileBackground/SlotBackground.SlotBackground
+[2021.08.31-08.09.26:190][652]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.08.31-08.09.26:207][652]LogContentBrowser: Creating deferred item: NewFolder
+[2021.08.31-08.09.30:246][792]LogContentBrowser: Attempting asset rename: NewFolder -> Cursor
+[2021.08.31-08.09.30:246][792]LogContentBrowser: End creating deferred item NewFolder
+[2021.08.31-08.09.33:682][952]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2021.08.31-08.09.33:699][952]LogContentBrowser: Creating deferred item: NewMaterial
+[2021.08.31-08.09.39:115][145]LogContentBrowser: Attempting asset rename: NewMaterial -> CursorBackground
+[2021.08.31-08.09.39:118][145]LogContentBrowser: End creating deferred item NewMaterial
+[2021.08.31-08.09.39:484][154]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/VisualAssets/Materials/Cursor/CursorBackground.CursorBackground
+[2021.08.31-08.09.39:486][154]LogMaterial: Display: Missing cached shader map for material CursorBackground, compiling. 
+[2021.08.31-08.09.39:589][154]LogMaterial: Display: Missing cached shader map for material CursorBackground, compiling. 
+[2021.08.31-08.09.39:601][154]LogMaterial: Display: Missing cached shader map for material CursorBackground, compiling. 
+[2021.08.31-08.09.39:618][154]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.08.31-08.09.39:618][154]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.08.31-08.09.39:618][154]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.08.31-08.09.39:618][154]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.08.31-08.09.40:438][175]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.08.31-08.09.40:701][184]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2021.08.31-08.09.40:838][187]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.08.31-08.09.40:869][188]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.08.31-08.09.41:302][201]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.08.31-08.09.41:391][202]LogMaterial: Display: Missing cached shader map for material CursorBackground, compiling. 
+[2021.08.31-08.09.41:477][203]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.08.31-08.09.41:775][222]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2021.08.31-08.09.41:792][223]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.08.31-08.09.41:908][230]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2021.08.31-08.09.42:410][258]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2021.08.31-08.09.42:476][262]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.08.31-08.09.42:638][272]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.08.31-08.09.42:883][287]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2021.08.31-08.09.42:934][289]LogMaterial: Display: Missing cached shader map for material CursorBackground, compiling. 
+[2021.08.31-08.09.42:954][289]LogMaterial: Display: Missing cached shader map for material CursorBackground, compiling. 
+[2021.08.31-08.09.42:969][289]LogMaterial: Display: Missing cached shader map for material CursorBackground, compiling. 
+[2021.08.31-08.09.43:087][293]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.08.31-08.09.43:407][304]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2021.08.31-08.09.43:622][311]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2021.08.31-08.09.43:755][316]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2021.08.31-08.09.43:791][317]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.08.31-08.09.43:851][319]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2021.08.31-08.09.43:984][324]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.08.31-08.09.44:079][327]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2021.08.31-08.09.44:140][329]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2021.08.31-08.09.44:431][339]MaterialEditorStats: Default UI Pixel Shader: 30 instructions
+[2021.08.31-08.09.44:431][339]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2021.08.31-08.09.44:431][339]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2021.08.31-08.09.44:431][339]MaterialEditorStats: Texture samplers: 1/16
+[2021.08.31-08.09.48:260][639]LogMaterial: Display: Missing cached shader map for material CursorBackground, compiling. 
+[2021.08.31-08.09.48:269][639]LogMaterial: Display: Missing cached shader map for material CursorBackground, compiling. 
+[2021.08.31-08.09.48:310][640]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.08.31-08.09.48:310][640]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.08.31-08.09.48:310][640]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.08.31-08.09.48:310][640]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.08.31-08.09.48:544][649]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.08.31-08.09.48:630][652]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2021.08.31-08.09.48:868][660]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2021.08.31-08.09.48:892][661]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2021.08.31-08.09.48:951][663]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.08.31-08.09.49:320][674]LogMaterial: Display: Missing cached shader map for material CursorBackground, compiling. 
+[2021.08.31-08.09.49:359][675]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.08.31-08.09.49:359][675]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.08.31-08.09.49:359][675]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.08.31-08.09.49:359][675]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.08.31-08.09.49:566][684]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.08.31-08.09.49:682][688]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2021.08.31-08.09.49:917][696]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2021.08.31-08.09.49:949][697]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2021.08.31-08.09.50:005][699]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.08.31-08.09.50:307][709]MaterialEditorStats: Default UI Pixel Shader: 30 instructions
+[2021.08.31-08.09.50:307][709]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2021.08.31-08.09.50:307][709]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2021.08.31-08.09.50:307][709]MaterialEditorStats: Texture samplers: 1/16
+[2021.08.31-08.09.54:421][996]LogMaterial: Display: Missing cached shader map for material CursorBackground, compiling. 
+[2021.08.31-08.09.54:430][996]LogMaterial: Display: Missing cached shader map for material CursorBackground, compiling. 
+[2021.08.31-08.09.54:479][997]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.08.31-08.09.54:479][997]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.08.31-08.09.54:479][997]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.08.31-08.09.54:479][997]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.08.31-08.09.54:485][997]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.08.31-08.09.54:699][  4]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.08.31-08.09.54:794][  7]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.08.31-08.09.55:044][ 16]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.08.31-08.09.55:056][ 16]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2021.08.31-08.09.55:131][ 19]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.08.31-08.09.55:186][ 21]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.08.31-08.09.55:300][ 25]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.08.31-08.09.55:484][ 31]MaterialEditorStats: Default UI Pixel Shader: 30 instructions
+[2021.08.31-08.09.55:484][ 31]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2021.08.31-08.09.55:484][ 31]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2021.08.31-08.09.55:484][ 31]MaterialEditorStats: Texture samplers: 1/16
+[2021.08.31-08.09.56:169][ 54]LogMaterial: Display: Missing cached shader map for material CursorBackground, compiling. 
+[2021.08.31-08.09.56:230][ 55]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.08.31-08.09.56:230][ 55]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.08.31-08.09.56:230][ 55]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.08.31-08.09.56:230][ 55]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.08.31-08.09.56:424][ 63]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.08.31-08.09.56:518][ 66]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2021.08.31-08.09.56:759][ 74]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2021.08.31-08.09.56:790][ 75]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2021.08.31-08.09.56:856][ 75]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.08.31-08.10.06:248][866]MaterialEditorStats: Default UI Pixel Shader: 30 instructions
+[2021.08.31-08.10.06:248][866]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2021.08.31-08.10.06:248][866]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2021.08.31-08.10.06:248][866]MaterialEditorStats: Texture samplers: 1/16
+[2021.08.31-08.10.07:062][882]LogUObjectHash: Compacting FUObjectHashTables data took   5.51ms
+[2021.08.31-08.10.08:765][882]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.31-08.10.19:068][680]LogMaterial: Display: Missing cached shader map for material CursorBackground, compiling. 
+[2021.08.31-08.10.19:089][680]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.08.31-08.10.19:090][680]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.08.31-08.10.19:090][680]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.08.31-08.10.19:090][680]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.08.31-08.10.19:090][680]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.08.31-08.10.19:106][680]LogMaterial: Display: Missing cached shader map for material CursorBackground, compiling. 
+[2021.08.31-08.10.19:126][680]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.08.31-08.10.19:562][695]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2021.08.31-08.10.19:696][700]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2021.08.31-08.10.19:969][709]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2021.08.31-08.10.20:114][714]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2021.08.31-08.10.20:249][718]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2021.08.31-08.10.20:390][726]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2021.08.31-08.10.20:425][728]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.08.31-08.10.20:494][732]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.08.31-08.10.20:614][739]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.08.31-08.10.20:781][746]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2021.08.31-08.10.20:811][747]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.08.31-08.10.20:862][749]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.08.31-08.10.21:008][754]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.08.31-08.10.21:051][755]MaterialEditorStats: Default UI Pixel Shader: 31 instructions
+[2021.08.31-08.10.21:052][755]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2021.08.31-08.10.21:052][755]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2021.08.31-08.10.21:052][755]MaterialEditorStats: Texture samplers: 1/16
+[2021.08.31-08.10.33:339][221]LogMaterial: Display: Missing cached shader map for material CursorBackground, compiling. 
+[2021.08.31-08.10.33:353][221]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.08.31-08.10.33:353][221]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.08.31-08.10.33:353][221]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.08.31-08.10.33:353][221]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.08.31-08.10.33:355][221]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.08.31-08.10.33:366][221]LogMaterial: Display: Missing cached shader map for material CursorBackground, compiling. 
+[2021.08.31-08.10.33:601][230]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2021.08.31-08.10.33:662][232]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2021.08.31-08.10.33:946][242]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2021.08.31-08.10.34:067][246]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2021.08.31-08.10.34:179][251]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.08.31-08.10.34:417][259]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2021.08.31-08.10.34:650][264]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2021.08.31-08.10.34:711][267]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2021.08.31-08.10.34:907][274]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.08.31-08.10.34:910][274]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2021.08.31-08.10.35:010][277]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.08.31-08.10.35:060][279]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2021.08.31-08.10.35:243][285]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2021.08.31-08.10.35:532][294]MaterialEditorStats: Default UI Pixel Shader: 31 instructions
+[2021.08.31-08.10.35:532][294]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2021.08.31-08.10.35:532][294]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2021.08.31-08.10.35:532][294]MaterialEditorStats: Texture samplers: 1/16
+[2021.08.31-08.10.50:535][143]LogMaterial: Display: Missing cached shader map for material CursorBackground, compiling. 
+[2021.08.31-08.10.50:549][143]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.08.31-08.10.50:556][143]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.08.31-08.10.50:556][143]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.08.31-08.10.50:556][143]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.08.31-08.10.50:556][143]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.08.31-08.10.50:567][143]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.08.31-08.10.50:579][143]LogMaterial: Display: Missing cached shader map for material CursorBackground, compiling. 
+[2021.08.31-08.10.50:595][143]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.08.31-08.10.50:608][143]LogMaterial: Display: Missing cached shader map for material CursorBackground, compiling. 
+[2021.08.31-08.10.50:617][143]LogSlate: Window 'Color Picker' being destroyed
+[2021.08.31-08.10.50:799][149]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2021.08.31-08.10.50:904][151]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2021.08.31-08.10.51:125][157]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2021.08.31-08.10.51:260][162]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2021.08.31-08.10.51:406][167]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.08.31-08.10.51:655][176]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2021.08.31-08.10.51:859][183]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2021.08.31-08.10.51:877][184]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2021.08.31-08.10.52:099][192]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2021.08.31-08.10.52:142][193]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.08.31-08.10.52:221][196]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2021.08.31-08.10.52:234][196]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.08.31-08.10.52:442][204]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.08.31-08.10.52:743][214]MaterialEditorStats: Default UI Pixel Shader: 31 instructions
+[2021.08.31-08.10.52:743][214]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2021.08.31-08.10.52:743][214]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2021.08.31-08.10.52:743][214]MaterialEditorStats: Texture samplers: 1/16
+[2021.08.31-08.10.56:911][422]LogMaterial: Display: Missing cached shader map for material CursorBackground, compiling. 
+[2021.08.31-08.10.56:958][423]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.08.31-08.10.56:958][423]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.08.31-08.10.56:958][423]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.08.31-08.10.56:958][423]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.08.31-08.10.57:194][435]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.08.31-08.10.57:307][442]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2021.08.31-08.10.57:552][456]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2021.08.31-08.10.57:569][457]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2021.08.31-08.10.57:653][462]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.08.31-08.10.59:753][642]LogMaterial: Display: Missing cached shader map for material CursorBackground, compiling. 
+[2021.08.31-08.10.59:779][642]LogMaterial: Display: Missing cached shader map for material CursorBackground, compiling. 
+[2021.08.31-08.10.59:794][642]LogMaterial: Display: Missing cached shader map for material CursorBackground, compiling. 
+[2021.08.31-08.10.59:839][643]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2021.08.31-08.10.59:839][643]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2021.08.31-08.10.59:839][643]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2021.08.31-08.10.59:839][643]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2021.08.31-08.11.00:134][654]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2021.08.31-08.11.00:358][662]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2021.08.31-08.11.00:560][668]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.08.31-08.11.00:655][671]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.08.31-08.11.00:670][672]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.08.31-08.11.00:904][679]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.08.31-08.11.01:222][695]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2021.08.31-08.11.01:252][697]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2021.08.31-08.11.01:285][699]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2021.08.31-08.11.01:464][711]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2021.08.31-08.11.01:569][715]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.08.31-08.11.24:537][644]MaterialEditorStats: Default UI Pixel Shader: 31 instructions
+[2021.08.31-08.11.24:537][644]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2021.08.31-08.11.24:537][644]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2021.08.31-08.11.24:537][644]MaterialEditorStats: Texture samplers: 4/16
+[2021.08.31-08.11.33:023][327]LogMaterial: Display: Missing cached shader map for material CursorBackground, compiling. 
+[2021.08.31-08.11.33:038][327]LogMaterial: Display: Missing cached shader map for material CursorBackground, compiling. 
+[2021.08.31-08.11.33:101][328]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2021.08.31-08.11.33:101][328]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2021.08.31-08.11.33:101][328]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2021.08.31-08.11.33:101][328]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2021.08.31-08.11.33:554][345]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2021.08.31-08.11.33:768][352]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2021.08.31-08.11.33:987][359]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.08.31-08.11.34:075][362]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2021.08.31-08.11.34:079][362]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2021.08.31-08.11.34:332][373]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2021.08.31-08.11.34:665][391]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2021.08.31-08.11.34:697][393]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2021.08.31-08.11.34:757][397]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2021.08.31-08.11.34:921][405]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.08.31-08.11.35:011][408]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.08.31-08.11.35:333][419]MaterialEditorStats: Default UI Pixel Shader: 32 instructions
+[2021.08.31-08.11.35:333][419]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2021.08.31-08.11.35:333][419]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2021.08.31-08.11.35:333][419]MaterialEditorStats: Texture samplers: 4/16
+[2021.08.31-08.11.39:098][571]LogMaterial: Display: Missing cached shader map for material CursorBackground, compiling. 
+[2021.08.31-08.11.39:113][571]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2021.08.31-08.11.39:113][571]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2021.08.31-08.11.39:113][571]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2021.08.31-08.11.39:113][571]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2021.08.31-08.11.39:122][571]LogMaterial: Display: Missing cached shader map for material CursorBackground, compiling. 
+[2021.08.31-08.11.39:457][584]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2021.08.31-08.11.39:652][591]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2021.08.31-08.11.39:834][597]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2021.08.31-08.11.40:170][608]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2021.08.31-08.11.40:500][619]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2021.08.31-08.11.40:517][620]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2021.08.31-08.11.40:551][621]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.08.31-08.11.40:833][630]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2021.08.31-08.11.40:837][630]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.08.31-08.11.41:000][636]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2021.08.31-08.11.41:085][639]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2021.08.31-08.11.41:267][645]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.08.31-08.11.41:322][647]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2021.08.31-08.11.41:417][650]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.08.31-08.11.41:612][657]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2021.08.31-08.11.41:888][666]MaterialEditorStats: Default UI Pixel Shader: 32 instructions
+[2021.08.31-08.11.41:888][666]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2021.08.31-08.11.41:888][666]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2021.08.31-08.11.41:888][666]MaterialEditorStats: Texture samplers: 4/16
+[2021.08.31-08.11.44:292][745]LogMaterial: Display: Missing cached shader map for material CursorBackground, compiling. 
+[2021.08.31-08.11.44:307][745]LogMaterial: Display: Missing cached shader map for material CursorBackground, compiling. 
+[2021.08.31-08.11.44:333][746]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2021.08.31-08.11.44:333][746]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2021.08.31-08.11.44:333][746]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2021.08.31-08.11.44:333][746]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2021.08.31-08.11.44:645][758]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2021.08.31-08.11.44:844][765]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2021.08.31-08.11.45:067][773]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.08.31-08.11.45:163][776]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2021.08.31-08.11.45:184][777]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2021.08.31-08.11.45:417][785]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2021.08.31-08.11.45:713][795]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2021.08.31-08.11.45:749][796]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2021.08.31-08.11.45:785][797]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2021.08.31-08.11.45:945][803]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.08.31-08.11.46:039][806]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.08.31-08.11.46:190][809]LogMaterial: Display: Missing cached shader map for material CursorBackground, compiling. 
+[2021.08.31-08.11.46:204][809]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2021.08.31-08.11.46:204][809]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2021.08.31-08.11.46:204][809]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2021.08.31-08.11.46:209][809]LogMaterial: Display: Missing cached shader map for material CursorBackground, compiling. 
+[2021.08.31-08.11.46:335][815]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2021.08.31-08.11.46:750][829]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2021.08.31-08.11.46:949][835]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2021.08.31-08.11.47:280][847]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2021.08.31-08.11.47:616][859]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2021.08.31-08.11.47:616][859]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2021.08.31-08.11.47:679][861]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2021.08.31-08.11.47:716][862]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2021.08.31-08.11.47:924][869]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.08.31-08.11.48:130][876]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2021.08.31-08.11.48:185][878]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.08.31-08.11.48:248][878]LogMaterial: Display: Missing cached shader map for material CursorBackground, compiling. 
+[2021.08.31-08.11.48:292][878]LogMaterial: Display: Missing cached shader map for material CursorBackground, compiling. 
+[2021.08.31-08.11.48:405][883]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2021.08.31-08.11.48:477][886]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2021.08.31-08.11.48:514][887]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2021.08.31-08.11.48:532][888]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2021.08.31-08.11.48:848][898]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2021.08.31-08.11.49:002][904]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2021.08.31-08.11.49:238][912]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.08.31-08.11.49:312][914]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.08.31-08.11.49:367][916]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.08.31-08.11.49:620][928]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2021.08.31-08.11.49:812][935]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2021.08.31-08.11.49:982][943]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.08.31-08.11.49:998][944]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.08.31-08.11.50:137][948]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.08.31-08.11.50:154][949]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.08.31-08.11.50:507][961]MaterialEditorStats: Default UI Pixel Shader: 32 instructions
+[2021.08.31-08.11.50:507][961]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2021.08.31-08.11.50:507][961]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2021.08.31-08.11.50:507][961]MaterialEditorStats: Texture samplers: 4/16
+[2021.08.31-08.11.51:572][998]LogMaterial: Display: Missing cached shader map for material CursorBackground, compiling. 
+[2021.08.31-08.11.51:588][998]LogMaterial: Display: Missing cached shader map for material CursorBackground, compiling. 
+[2021.08.31-08.11.51:612][999]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2021.08.31-08.11.51:613][999]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2021.08.31-08.11.51:613][999]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2021.08.31-08.11.51:613][999]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2021.08.31-08.11.51:943][ 12]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2021.08.31-08.11.52:122][ 18]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2021.08.31-08.11.52:354][ 26]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.08.31-08.11.52:461][ 30]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.08.31-08.11.52:467][ 30]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.08.31-08.11.52:708][ 38]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.08.31-08.11.53:017][ 51]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2021.08.31-08.11.53:058][ 53]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2021.08.31-08.11.53:079][ 53]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2021.08.31-08.11.53:248][ 59]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2021.08.31-08.11.53:355][ 63]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.08.31-08.11.53:692][ 74]MaterialEditorStats: Default UI Pixel Shader: 32 instructions
+[2021.08.31-08.11.53:692][ 74]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2021.08.31-08.11.53:692][ 74]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2021.08.31-08.11.53:692][ 74]MaterialEditorStats: Texture samplers: 4/16
+[2021.08.31-08.11.55:296][131]LogMaterialEditor: Saving and Compiling material CursorBackground
+[2021.08.31-08.11.56:328][131]LogMaterial: Display: Missing cached shader map for material CursorBackground, compiling. 
+[2021.08.31-08.11.56:392][131]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2021.08.31-08.11.56:392][131]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2021.08.31-08.11.56:392][131]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2021.08.31-08.11.56:392][131]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2021.08.31-08.11.56:412][131]LogMaterial: Display: Missing cached shader map for material CursorBackground, compiling. 
+[2021.08.31-08.11.56:500][131]LogUObjectHash: Compacting FUObjectHashTables data took   6.55ms
+[2021.08.31-08.11.56:503][131]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2021.08.31-08.11.56:557][131]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2021.08.31-08.11.57:158][131]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 26
+[2021.08.31-08.11.57:158][131]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 25
+[2021.08.31-08.11.57:158][131]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 24
+[2021.08.31-08.11.57:719][131]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 23
+[2021.08.31-08.11.57:719][131]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 22
+[2021.08.31-08.11.57:719][131]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2021.08.31-08.11.57:719][131]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 20
+[2021.08.31-08.11.58:281][131]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2021.08.31-08.11.58:281][131]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2021.08.31-08.11.58:281][131]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2021.08.31-08.11.58:281][131]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2021.08.31-08.11.58:281][131]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2021.08.31-08.11.58:281][131]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2021.08.31-08.11.58:281][131]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2021.08.31-08.11.58:281][131]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2021.08.31-08.11.58:842][131]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.08.31-08.11.59:402][131]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.08.31-08.11.59:402][131]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.08.31-08.12.00:364][131]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/CursorBackgroundA3BCC24B40B0A782FB37D4869993421F.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/VisualAssets/Materials/Cursor/CursorBackground.uasset'
+[2021.08.31-08.12.00:441][131]AssetCheck: New page: Asset Save: CursorBackground
+[2021.08.31-08.12.00:441][131]LogContentValidation: Display: Validating Material /Game/VisualAssets/Materials/Cursor/CursorBackground.CursorBackground
