@@ -1588,3 +1588,253 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.31-08.40.22:711][376]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2021.08.31-08.40.22:727][376]LogUObjectHash: Compacting FUObjectHashTables data took   5.23ms
 [2021.08.31-08.40.22:754][377]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2021.08.31-08.43.04:890][334]BlueprintLog: New page: Compile UMG_KakuroWidget
+[2021.08.31-08.43.04:995][334]LogUObjectHash: Compacting FUObjectHashTables data took   8.08ms
+[2021.08.31-08.43.05:903][362]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/UMG_KakuroWidget" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/UMG_KakuroWidget.uasset" SILENT=true
+[2021.08.31-08.43.05:998][362]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_KakuroWidget7EDC977E4C417D67C9C07A91CAE9D648.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/UMG_KakuroWidget.uasset'
+[2021.08.31-08.43.06:014][362]AssetCheck: New page: Asset Save: UMG_KakuroWidget
+[2021.08.31-08.43.06:014][362]LogContentValidation: Display: Validating WidgetBlueprint /Game/Kakuro/UMG_KakuroWidget.UMG_KakuroWidget
+[2021.08.31-08.53.26:806][866]LogSlate: Took 0.016087 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.08.31-08.53.50:599][394]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.08.31-08.53.50:606][394]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.08.31-08.53.50:628][394]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.08.31-08.53.53:720][496]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetTileView [SAssetView.cpp(1561)].
+[2021.08.31-08.53.53:720][496]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2021.08.31-08.53.53:725][496]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.08.31-08.53.53:856][496]LogUObjectHash: Compacting FUObjectHashTables data took   7.86ms
+[2021.08.31-08.53.53:858][496]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TestMap' took 0.086
+[2021.08.31-08.53.53:858][496]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Kakuro/UMG_KakuroWidget] ([1] browsable assets)...
+[2021.08.31-08.53.53:858][496]OBJ SavePackage: Finished generating thumbnails for package [/Game/Kakuro/UMG_KakuroWidget]
+[2021.08.31-08.53.53:858][496]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/UMG_KakuroWidget" FILE="../../../../../Unreal Projects/JapanPuzzles/Saved/Autosaves/Game/Kakuro/UMG_KakuroWidget_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2021.08.31-08.53.53:955][496]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_KakuroWidget_Auto15674F29F4B7879455D040D9F566375A7.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Saved/Autosaves/Game/Kakuro/UMG_KakuroWidget_Auto1.uasset'
+[2021.08.31-08.53.53:956][496]LogFileHelpers: Auto-saving content packages took 0.098
+[2021.08.31-08.53.58:583][654]LogContentBrowser: Attempting asset rename: NewBlueprint -> RowClass
+[2021.08.31-08.53.58:621][654]LogMetaData: Removing '/Game/Kakuro/RowClass.SKEL_RowClass_C' ref from Metadata '/Game/Kakuro/NewBlueprint.PackageMetaData'
+[2021.08.31-08.53.58:621][654]LogMetaData: Removing '/Game/Kakuro/RowClass.RowClass_C' ref from Metadata '/Game/Kakuro/NewBlueprint.PackageMetaData'
+[2021.08.31-08.53.58:670][654]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/RowClass" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/RowClass.uasset" SILENT=true
+[2021.08.31-08.53.58:672][654]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/RowClassC8F75B7F4812C6EA51E50082DF20F209.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/RowClass.uasset'
+[2021.08.31-08.53.58:806][654]LogUObjectHash: Compacting FUObjectHashTables data took   5.23ms
+[2021.08.31-08.53.58:870][654]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2021.08.31-08.53.58:916][654]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2021.08.31-08.53.58:973][654]AssetCheck: New page: Asset Save: RowClass
+[2021.08.31-08.53.58:974][654]LogContentValidation: Display: Validating Blueprint /Game/Kakuro/RowClass.RowClass
+[2021.08.31-08.54.00:904][719]LogUObjectHash: Compacting FUObjectHashTables data took   6.42ms
+[2021.08.31-08.54.06:369][903]LogContentBrowser: Attempting asset rename: RowClass_2 -> ColumnClass
+[2021.08.31-08.54.06:406][903]LogMetaData: Removing '/Game/Kakuro/ColumnClass.SKEL_ColumnClass_C' ref from Metadata '/Game/Kakuro/RowClass_2.PackageMetaData'
+[2021.08.31-08.54.06:406][903]LogMetaData: Removing '/Game/Kakuro/ColumnClass.ColumnClass_C' ref from Metadata '/Game/Kakuro/RowClass_2.PackageMetaData'
+[2021.08.31-08.54.06:459][903]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/ColumnClass" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/ColumnClass.uasset" SILENT=true
+[2021.08.31-08.54.06:463][903]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/ColumnClassEDEA54234D6422AACA856BA1D94F0FA9.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/ColumnClass.uasset'
+[2021.08.31-08.54.06:619][903]LogUObjectHash: Compacting FUObjectHashTables data took   5.35ms
+[2021.08.31-08.54.06:681][903]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2021.08.31-08.54.06:729][903]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2021.08.31-08.54.06:784][903]AssetCheck: New page: Asset Save: ColumnClass
+[2021.08.31-08.54.06:784][903]LogContentValidation: Display: Validating Blueprint /Game/Kakuro/ColumnClass.ColumnClass
+[2021.08.31-08.54.43:152][398]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/UMG_KakuroWidget" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/UMG_KakuroWidget.uasset" SILENT=true
+[2021.08.31-08.54.43:250][398]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_KakuroWidget9380C1FA4B480D385C666BA1764975B4.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/UMG_KakuroWidget.uasset'
+[2021.08.31-08.54.43:269][398]AssetCheck: New page: Asset Save: UMG_KakuroWidget
+[2021.08.31-08.54.43:269][398]LogContentValidation: Display: Validating WidgetBlueprint /Game/Kakuro/UMG_KakuroWidget.UMG_KakuroWidget
+[2021.08.31-08.54.57:200][917]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Kakuro/RowClass.RowClass
+[2021.08.31-08.55.49:906][893]LogSlate: Window 'RowClass' being destroyed
+[2021.08.31-08.55.51:821][959]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.08.31-08.55.51:821][959]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.31-08.55.53:416][ 12]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.08.31-08.55.53:416][ 12]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.31-08.55.54:615][ 55]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.08.31-08.55.54:615][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.31-08.55.54:626][ 55]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.08.31-08.55.54:626][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.31-08.55.56:096][110]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.08.31-08.55.56:096][110]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.31-08.55.56:107][110]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.08.31-08.55.56:107][110]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.31-08.56.01:749][317]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/UMG_KakuroWidget" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/UMG_KakuroWidget.uasset" SILENT=true
+[2021.08.31-08.56.01:888][317]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_KakuroWidget9D3CDB204850A9E5B94DA2B3236B3B58.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/UMG_KakuroWidget.uasset'
+[2021.08.31-08.56.01:909][317]AssetCheck: New page: Asset Save: UMG_KakuroWidget
+[2021.08.31-08.56.01:909][317]LogContentValidation: Display: Validating WidgetBlueprint /Game/Kakuro/UMG_KakuroWidget.UMG_KakuroWidget
+[2021.08.31-08.56.20:229][338]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/UMG_KakuroWidget" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/UMG_KakuroWidget.uasset" SILENT=true
+[2021.08.31-08.56.20:336][338]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_KakuroWidgetD5022F294A6B007565A232AE0A880923.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/UMG_KakuroWidget.uasset'
+[2021.08.31-08.56.20:354][338]AssetCheck: New page: Asset Save: UMG_KakuroWidget
+[2021.08.31-08.56.20:354][338]LogContentValidation: Display: Validating WidgetBlueprint /Game/Kakuro/UMG_KakuroWidget.UMG_KakuroWidget
+[2021.08.31-08.56.31:162][774]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Kakuro/RowClass.RowClass
+[2021.08.31-08.56.43:317][185]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2021.08.31-08.56.43:317][185]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.31-08.56.43:380][185]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Kakuro/RowClass.RowClass
+[2021.08.31-08.56.46:579][272]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Kakuro/ColumnClass.ColumnClass
+[2021.08.31-08.56.48:329][319]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2021.08.31-08.56.48:329][319]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.31-08.56.48:397][319]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Kakuro/ColumnClass.ColumnClass
+[2021.08.31-08.56.54:005][506]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.08.31-08.56.54:005][506]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.08.31-08.56.55:563][578]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.08.31-08.56.55:563][578]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.08.31-08.57.23:508][107]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.08.31-08.57.23:508][107]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.08.31-08.57.24:043][120]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.08.31-08.57.24:043][120]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.08.31-08.58.14:936][ 28]LogBlueprint: Warning: [AssetLog] D:\Unreal Projects\JapanPuzzles\Content\Kakuro\RowClass.uasset: [Compiler] Variable Length is marked as 'Expose on Spawn' but not marked as 'Instance Editable'; please make it 'Instance Editable'
+[2021.08.31-08.58.21:622][277]BlueprintLog: New page: Compile RowClass
+[2021.08.31-08.58.21:730][277]LogUObjectHash: Compacting FUObjectHashTables data took   8.97ms
+[2021.08.31-08.58.22:540][308]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/RowClass" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/RowClass.uasset" SILENT=true
+[2021.08.31-08.58.22:544][308]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/RowClass27BD6EEC4853ACAF4988F89C83E517BC.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/RowClass.uasset'
+[2021.08.31-08.58.22:560][308]AssetCheck: New page: Asset Save: RowClass
+[2021.08.31-08.58.22:560][308]LogContentValidation: Display: Validating Blueprint /Game/Kakuro/RowClass.RowClass
+[2021.08.31-08.58.49:142][348]LogContentBrowser: Attempting asset rename: RowClass -> RowClass
+[2021.08.31-08.59.05:177][930]BlueprintLog: New page: Compile ColumnClass
+[2021.08.31-08.59.05:238][930]LogUObjectHash: Compacting FUObjectHashTables data took   6.95ms
+[2021.08.31-08.59.10:755][153]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/ColumnClass" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/ColumnClass.uasset" SILENT=true
+[2021.08.31-08.59.10:758][153]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/ColumnClassF65EDA414867507BE2EDF7A457A2363B.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/ColumnClass.uasset'
+[2021.08.31-08.59.10:775][153]AssetCheck: New page: Asset Save: ColumnClass
+[2021.08.31-08.59.10:775][153]LogContentValidation: Display: Validating Blueprint /Game/Kakuro/ColumnClass.ColumnClass
+[2021.08.31-08.59.45:272][ 12]LogSlate: Window 'Change Variable Type' being destroyed
+[2021.08.31-08.59.47:221][ 68]LogSlate: Window 'Find in Blueprints' being destroyed
+[2021.08.31-08.59.47:236][ 68]LogSlate: Window 'Find in Blueprints' being destroyed
+[2021.08.31-09.00.30:939][318]LogContentBrowser: Attempting asset rename: RowClass -> LineClass
+[2021.08.31-09.00.31:002][318]LogMetaData: Removing '/Game/Kakuro/LineClass.LineClass_C' ref from Metadata '/Game/Kakuro/RowClass.PackageMetaData'
+[2021.08.31-09.00.31:002][318]LogMetaData: Removing '/Game/Kakuro/LineClass.SKEL_LineClass_C' ref from Metadata '/Game/Kakuro/RowClass.PackageMetaData'
+[2021.08.31-09.00.31:051][318]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/LineClass" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/LineClass.uasset" SILENT=true
+[2021.08.31-09.00.31:054][318]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/LineClassC67AF8C64869F973ABAFA1BBA2719B34.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/LineClass.uasset'
+[2021.08.31-09.00.31:251][318]LogUObjectHash: Compacting FUObjectHashTables data took   8.52ms
+[2021.08.31-09.00.31:308][318]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2021.08.31-09.00.31:356][318]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2021.08.31-09.00.31:384][318]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/UMG_KakuroWidget" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/UMG_KakuroWidget.uasset" SILENT=true
+[2021.08.31-09.00.31:482][318]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_KakuroWidgetD5A2C0AF4BA901CEC9617EAE0711C007.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/UMG_KakuroWidget.uasset'
+[2021.08.31-09.00.31:547][318]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.31-09.00.31:547][318]LogContentValidation: Display: Validating WidgetBlueprint /Game/Kakuro/UMG_KakuroWidget.UMG_KakuroWidget
+[2021.08.31-09.00.31:549][318]LogContentValidation: Display: Validating Blueprint /Game/Kakuro/LineClass.LineClass
+[2021.08.31-09.00.33:657][401]LogUObjectHash: Compacting FUObjectHashTables data took   6.65ms
+[2021.08.31-09.00.34:969][401]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.31-09.00.51:952][290]LogUObjectHash: Compacting FUObjectHashTables data took   7.85ms
+[2021.08.31-09.00.54:433][290]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.31-09.00.55:234][323]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/UMG_KakuroWidget" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/UMG_KakuroWidget.uasset" SILENT=true
+[2021.08.31-09.00.55:332][323]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_KakuroWidget877120C54A0EF8B4D0BAE4B686BBBFC8.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/UMG_KakuroWidget.uasset'
+[2021.08.31-09.00.55:348][323]AssetCheck: New page: Asset Save: UMG_KakuroWidget
+[2021.08.31-09.00.55:348][323]LogContentValidation: Display: Validating WidgetBlueprint /Game/Kakuro/UMG_KakuroWidget.UMG_KakuroWidget
+[2021.08.31-09.00.56:112][352]BlueprintLog: New page: Compile UMG_KakuroWidget
+[2021.08.31-09.00.56:234][352]LogUObjectHash: Compacting FUObjectHashTables data took   8.36ms
+[2021.08.31-09.00.57:540][399]LogUObjectHash: Compacting FUObjectHashTables data took   7.53ms
+[2021.08.31-09.01.02:234][399]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.31-09.01.02:312][399]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2021.08.31-09.01.02:312][399]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.31-09.01.02:378][399]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Kakuro/ColumnClass.ColumnClass
+[2021.08.31-09.01.03:944][399]LogUObjectHash: Compacting FUObjectHashTables data took   6.00ms
+[2021.08.31-09.01.03:995][399]LogUObjectHash: Compacting FUObjectHashTables data took   5.24ms
+[2021.08.31-09.01.04:039][399]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2021.08.31-09.04.24:356][ 46]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2021.08.31-09.04.24:356][ 46]LogBlueprint: Warning: [AssetLog]  (no disk path found): [Compiler] Pasted node  CustomEvent   conflicted with  NumErased  and was replaced as a Custom Event!
+[2021.08.31-09.05.03:309][423]BlueprintLog: New page: Compile LineClass
+[2021.08.31-09.05.03:379][423]LogUObjectHash: Compacting FUObjectHashTables data took   8.32ms
+[2021.08.31-09.05.03:821][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/LineClass" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/LineClass.uasset" SILENT=true
+[2021.08.31-09.05.03:841][440]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/LineClass0554E8B64B87CCA1988B0DB071D06B12.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/LineClass.uasset'
+[2021.08.31-09.05.03:857][440]AssetCheck: New page: Asset Save: LineClass
+[2021.08.31-09.05.03:857][440]LogContentValidation: Display: Validating Blueprint /Game/Kakuro/LineClass.LineClass
+[2021.08.31-09.06.45:384][779]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/LineClass" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/LineClass.uasset" SILENT=true
+[2021.08.31-09.06.45:419][779]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/LineClass3D15C9A846C54D3F2D752CA441E91565.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/LineClass.uasset'
+[2021.08.31-09.06.45:440][779]AssetCheck: New page: Asset Save: LineClass
+[2021.08.31-09.06.45:440][779]LogContentValidation: Display: Validating Blueprint /Game/Kakuro/LineClass.LineClass
+[2021.08.31-09.07.45:084][694]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Move Node entirely.
+[2021.08.31-09.08.09:429][878]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/LineClass" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/LineClass.uasset" SILENT=true
+[2021.08.31-09.08.09:453][878]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/LineClass01F978AC42C40FA0D20CF5BBEE4DC3D7.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/LineClass.uasset'
+[2021.08.31-09.08.09:471][878]AssetCheck: New page: Asset Save: LineClass
+[2021.08.31-09.08.09:471][878]LogContentValidation: Display: Validating Blueprint /Game/Kakuro/LineClass.LineClass
+[2021.08.31-09.08.10:454][921]BlueprintLog: New page: Compile LineClass
+[2021.08.31-09.08.10:463][921]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\JapanPuzzles\Content\Kakuro\LineClass.uasset: [Compiler] Could not find a pin for the parameter NewVal of CurrentNumSet on  Current Num Set
+[2021.08.31-09.08.10:463][921]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\JapanPuzzles\Content\Kakuro\LineClass.uasset: [Compiler] Pin  New Param  named NewParam doesn't match any parameters of function CurrentNumSet
+[2021.08.31-09.08.10:463][921]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\JapanPuzzles\Content\Kakuro\LineClass.uasset: [Compiler] Could not find a pin for the parameter NewVal of CurrentNumSet on  Current Num Set
+[2021.08.31-09.08.10:463][921]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\JapanPuzzles\Content\Kakuro\LineClass.uasset: [Compiler] Pin  New Param  named NewParam doesn't match any parameters of function CurrentNumSet
+[2021.08.31-09.08.10:463][921]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\JapanPuzzles\Content\Kakuro\LineClass.uasset: [Compiler] Could not find a pin for the parameter NewVal of CurrentNumSet on  Current Num Set
+[2021.08.31-09.08.10:464][921]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\JapanPuzzles\Content\Kakuro\LineClass.uasset: [Compiler] Pin  New Param  named NewParam doesn't match any parameters of function CurrentNumSet
+[2021.08.31-09.08.10:527][921]LogUObjectHash: Compacting FUObjectHashTables data took   8.31ms
+[2021.08.31-09.08.12:562][998]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/LineClass" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/LineClass.uasset" SILENT=true
+[2021.08.31-09.08.12:586][998]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/LineClassD4B5CF894A3F85C14E9AB2A547221263.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/LineClass.uasset'
+[2021.08.31-09.08.12:601][998]AssetCheck: New page: Asset Save: LineClass
+[2021.08.31-09.08.12:601][998]LogContentValidation: Display: Validating Blueprint /Game/Kakuro/LineClass.LineClass
+[2021.08.31-09.08.21:512][345]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/LineClass" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/LineClass.uasset" SILENT=true
+[2021.08.31-09.08.21:536][345]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/LineClassB080154748790990CDC701B7280D0113.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/LineClass.uasset'
+[2021.08.31-09.08.21:554][345]AssetCheck: New page: Asset Save: LineClass
+[2021.08.31-09.08.21:554][345]LogContentValidation: Display: Validating Blueprint /Game/Kakuro/LineClass.LineClass
+[2021.08.31-09.08.21:954][363]BlueprintLog: New page: Compile LineClass
+[2021.08.31-09.08.21:964][363]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\JapanPuzzles\Content\Kakuro\LineClass.uasset: [Compiler] Could not find a pin for the parameter NewVal of CurrentNumSet on  Current Num Set
+[2021.08.31-09.08.21:964][363]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\JapanPuzzles\Content\Kakuro\LineClass.uasset: [Compiler] Pin  New Param  named NewParam doesn't match any parameters of function CurrentNumSet
+[2021.08.31-09.08.21:964][363]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\JapanPuzzles\Content\Kakuro\LineClass.uasset: [Compiler] Could not find a pin for the parameter NewVal of CurrentNumSet on  Current Num Set
+[2021.08.31-09.08.21:964][363]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\JapanPuzzles\Content\Kakuro\LineClass.uasset: [Compiler] Pin  New Param  named NewParam doesn't match any parameters of function CurrentNumSet
+[2021.08.31-09.08.21:964][363]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\JapanPuzzles\Content\Kakuro\LineClass.uasset: [Compiler] Could not find a pin for the parameter NewVal of CurrentNumSet on  Current Num Set
+[2021.08.31-09.08.21:964][363]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\JapanPuzzles\Content\Kakuro\LineClass.uasset: [Compiler] Pin  New Param  named NewParam doesn't match any parameters of function CurrentNumSet
+[2021.08.31-09.08.22:025][363]LogUObjectHash: Compacting FUObjectHashTables data took   9.36ms
+[2021.08.31-09.08.22:557][387]BlueprintLog: New page: Compile LineClass
+[2021.08.31-09.08.22:565][387]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\JapanPuzzles\Content\Kakuro\LineClass.uasset: [Compiler] Could not find a pin for the parameter NewVal of CurrentNumSet on  Current Num Set
+[2021.08.31-09.08.22:566][387]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\JapanPuzzles\Content\Kakuro\LineClass.uasset: [Compiler] Pin  New Param  named NewParam doesn't match any parameters of function CurrentNumSet
+[2021.08.31-09.08.22:566][387]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\JapanPuzzles\Content\Kakuro\LineClass.uasset: [Compiler] Could not find a pin for the parameter NewVal of CurrentNumSet on  Current Num Set
+[2021.08.31-09.08.22:566][387]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\JapanPuzzles\Content\Kakuro\LineClass.uasset: [Compiler] Pin  New Param  named NewParam doesn't match any parameters of function CurrentNumSet
+[2021.08.31-09.08.22:566][387]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\JapanPuzzles\Content\Kakuro\LineClass.uasset: [Compiler] Could not find a pin for the parameter NewVal of CurrentNumSet on  Current Num Set
+[2021.08.31-09.08.22:566][387]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\JapanPuzzles\Content\Kakuro\LineClass.uasset: [Compiler] Pin  New Param  named NewParam doesn't match any parameters of function CurrentNumSet
+[2021.08.31-09.08.22:621][387]LogUObjectHash: Compacting FUObjectHashTables data took   7.92ms
+[2021.08.31-09.08.44:545][373]BlueprintLog: New page: Compile LineClass
+[2021.08.31-09.08.44:553][373]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\JapanPuzzles\Content\Kakuro\LineClass.uasset: [Compiler] Could not find a pin for the parameter NewVal of CurrentNumSet on  Current Num Set
+[2021.08.31-09.08.44:553][373]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\JapanPuzzles\Content\Kakuro\LineClass.uasset: [Compiler] Pin  New Param  named NewParam doesn't match any parameters of function CurrentNumSet
+[2021.08.31-09.08.44:553][373]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\JapanPuzzles\Content\Kakuro\LineClass.uasset: [Compiler] Could not find a pin for the parameter NewVal of CurrentNumSet on  Current Num Set
+[2021.08.31-09.08.44:554][373]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\JapanPuzzles\Content\Kakuro\LineClass.uasset: [Compiler] Pin  New Param  named NewParam doesn't match any parameters of function CurrentNumSet
+[2021.08.31-09.08.44:554][373]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\JapanPuzzles\Content\Kakuro\LineClass.uasset: [Compiler] Could not find a pin for the parameter NewVal of CurrentNumSet on  Current Num Set
+[2021.08.31-09.08.44:554][373]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\JapanPuzzles\Content\Kakuro\LineClass.uasset: [Compiler] Pin  New Param  named NewParam doesn't match any parameters of function CurrentNumSet
+[2021.08.31-09.08.44:610][373]LogUObjectHash: Compacting FUObjectHashTables data took   7.95ms
+[2021.08.31-09.08.45:161][392]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/LineClass" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/LineClass.uasset" SILENT=true
+[2021.08.31-09.08.45:185][392]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/LineClass96302A324EAB51CFE89C2CB645A35C47.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/LineClass.uasset'
+[2021.08.31-09.08.45:200][392]AssetCheck: New page: Asset Save: LineClass
+[2021.08.31-09.08.45:200][392]LogContentValidation: Display: Validating Blueprint /Game/Kakuro/LineClass.LineClass
+[2021.08.31-09.08.45:761][416]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/LineClass" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/LineClass.uasset" SILENT=true
+[2021.08.31-09.08.45:788][416]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/LineClass901933494954421BEB9175809B4BEF71.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/LineClass.uasset'
+[2021.08.31-09.08.45:803][416]AssetCheck: New page: Asset Save: LineClass
+[2021.08.31-09.08.45:803][416]LogContentValidation: Display: Validating Blueprint /Game/Kakuro/LineClass.LineClass
+[2021.08.31-09.08.46:161][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/LineClass" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/LineClass.uasset" SILENT=true
+[2021.08.31-09.08.46:184][428]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/LineClassA4B6A9A14C820EEC289B1A9BC18C6714.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/LineClass.uasset'
+[2021.08.31-09.08.46:199][428]AssetCheck: New page: Asset Save: LineClass
+[2021.08.31-09.08.46:199][428]LogContentValidation: Display: Validating Blueprint /Game/Kakuro/LineClass.LineClass
+[2021.08.31-09.09.24:180][228]BlueprintLog: New page: Compile LineClass
+[2021.08.31-09.09.24:248][228]LogUObjectHash: Compacting FUObjectHashTables data took   7.79ms
+[2021.08.31-09.09.24:959][255]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/LineClass" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/LineClass.uasset" SILENT=true
+[2021.08.31-09.09.24:983][255]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/LineClass89F71ED5419975DB71C258AA159F1721.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/LineClass.uasset'
+[2021.08.31-09.09.24:998][255]AssetCheck: New page: Asset Save: LineClass
+[2021.08.31-09.09.24:998][255]LogContentValidation: Display: Validating Blueprint /Game/Kakuro/LineClass.LineClass
+[2021.08.31-09.09.26:448][311]BlueprintLog: New page: Compile LineClass
+[2021.08.31-09.09.26:511][311]LogUObjectHash: Compacting FUObjectHashTables data took   7.60ms
+[2021.08.31-09.10.54:092][973]BlueprintLog: New page: Compile LineClass
+[2021.08.31-09.10.54:164][973]LogUObjectHash: Compacting FUObjectHashTables data took   8.41ms
+[2021.08.31-09.10.54:938][ 11]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/LineClass" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/LineClass.uasset" SILENT=true
+[2021.08.31-09.10.54:966][ 11]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/LineClass8C0766FA4C0570182161BC833A59BD36.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/LineClass.uasset'
+[2021.08.31-09.10.54:981][ 11]AssetCheck: New page: Asset Save: LineClass
+[2021.08.31-09.10.54:982][ 11]LogContentValidation: Display: Validating Blueprint /Game/Kakuro/LineClass.LineClass
+[2021.08.31-09.11.06:553][655]BlueprintLog: New page: Compile LineClass
+[2021.08.31-09.11.06:620][655]LogUObjectHash: Compacting FUObjectHashTables data took   7.97ms
+[2021.08.31-09.11.07:238][681]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/LineClass" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/LineClass.uasset" SILENT=true
+[2021.08.31-09.11.07:266][681]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/LineClassF57A441049DE745E6217778229EBBD1C.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/LineClass.uasset'
+[2021.08.31-09.11.07:282][681]AssetCheck: New page: Asset Save: LineClass
+[2021.08.31-09.11.07:282][681]LogContentValidation: Display: Validating Blueprint /Game/Kakuro/LineClass.LineClass
+[2021.08.31-09.11.33:013][ 81]BlueprintLog: New page: Compile LineClass
+[2021.08.31-09.11.33:082][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   8.01ms
+[2021.08.31-09.11.34:287][126]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/LineClass" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/LineClass.uasset" SILENT=true
+[2021.08.31-09.11.34:314][126]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/LineClass130D5F3B439011778B164AB62A98463D.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/LineClass.uasset'
+[2021.08.31-09.11.34:330][126]AssetCheck: New page: Asset Save: LineClass
+[2021.08.31-09.11.34:330][126]LogContentValidation: Display: Validating Blueprint /Game/Kakuro/LineClass.LineClass
+[2021.08.31-09.17.44:719][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/UMG_KakuroWidget" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/UMG_KakuroWidget.uasset" SILENT=true
+[2021.08.31-09.17.44:837][336]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_KakuroWidgetDB30860D44AEC52CD89A9B9BE870F472.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/UMG_KakuroWidget.uasset'
+[2021.08.31-09.17.44:857][336]AssetCheck: New page: Asset Save: UMG_KakuroWidget
+[2021.08.31-09.17.44:857][336]LogContentValidation: Display: Validating WidgetBlueprint /Game/Kakuro/UMG_KakuroWidget.UMG_KakuroWidget
+[2021.08.31-09.17.45:382][360]BlueprintLog: New page: Compile UMG_KakuroWidget
+[2021.08.31-09.17.45:513][360]LogUObjectHash: Compacting FUObjectHashTables data took   8.32ms
+[2021.08.31-09.18.04:301][ 71]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/UMG_KakuroWidget" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/UMG_KakuroWidget.uasset" SILENT=true
+[2021.08.31-09.18.04:421][ 71]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_KakuroWidget74C0055643FBC4C8D3F57E9E2DA4FAE8.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/UMG_KakuroWidget.uasset'
+[2021.08.31-09.18.04:439][ 71]AssetCheck: New page: Asset Save: UMG_KakuroWidget
+[2021.08.31-09.18.04:439][ 71]LogContentValidation: Display: Validating WidgetBlueprint /Game/Kakuro/UMG_KakuroWidget.UMG_KakuroWidget
+[2021.08.31-09.18.24:791][824]LogSlate: Window 'Color Picker' being destroyed
+[2021.08.31-09.18.38:773][558]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.08.31-09.18.38:773][558]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.08.31-09.18.42:123][692]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.08.31-09.18.42:123][692]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.08.31-09.18.49:227][958]LogSlate: Window 'Color Picker' being destroyed
+[2021.08.31-09.18.53:288][115]LogSlate: Window 'Color Picker' being destroyed
+[2021.08.31-09.20.05:784][831]BlueprintLog: New page: Compile UMG_KakuroWidget
+[2021.08.31-09.20.05:917][831]LogUObjectHash: Compacting FUObjectHashTables data took   8.25ms
+[2021.08.31-09.22.09:808][ 45]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/UMG_KakuroWidget" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/UMG_KakuroWidget.uasset" SILENT=true
+[2021.08.31-09.22.09:938][ 45]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_KakuroWidget7709C0AB465153D9876A198887B8DBDD.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/UMG_KakuroWidget.uasset'
+[2021.08.31-09.22.09:955][ 45]AssetCheck: New page: Asset Save: UMG_KakuroWidget
+[2021.08.31-09.22.09:955][ 45]LogContentValidation: Display: Validating WidgetBlueprint /Game/Kakuro/UMG_KakuroWidget.UMG_KakuroWidget
