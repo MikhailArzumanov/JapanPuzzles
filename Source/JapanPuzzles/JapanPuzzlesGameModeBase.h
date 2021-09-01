@@ -12,6 +12,7 @@
 UCLASS()
 class JAPANPUZZLES_API AJapanPuzzlesGameModeBase : public AGameModeBase
 {
+
 	GENERATED_BODY()
 	
 };
