@@ -1117,3 +1117,82 @@ Make sure 'UMG_Kakuro_C' has been compiled for  Get UMG_KakuroChooseLevel
 [2021.09.01-16.07.33:257][461]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2021.09.01-16.07.33:267][461]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
 [2021.09.01-16.07.33:267][461]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.01-16.08.19:625][884]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Kakuro/Levels/UMG_KakuroChooseLevel.UMG_KakuroChooseLevel
+[2021.09.01-16.08.24:624][ 38]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Kakuro/UMG_KakuroGameWidget.UMG_KakuroGameWidget
+[2021.09.01-16.08.25:906][ 62]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Kakuro/UMG_Kakuro.UMG_Kakuro
+[2021.09.01-16.08.34:612][343]LogSlate: Took 0.000286 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.09.01-16.08.37:167][456]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.01-16.08.37:176][456]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.01-16.08.37:176][456]PIE: New page: PIE session: TestMap (1 сент. 2021 г., 22:08:37)
+[2021.09.01-16.08.37:176][456]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestMap
+[2021.09.01-16.08.37:181][456]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004845s)
+[2021.09.01-16.08.37:184][456]LogAIModule: Creating AISystem for world TestMap
+[2021.09.01-16.08.37:184][456]LogPlayLevel: PIE: World Init took: (0.002968s)
+[2021.09.01-16.08.37:184][456]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestMap.TestMap to /Game/UEDPIE_0_TestMap.TestMap (0.008042s)
+[2021.09.01-16.08.37:282][456]LogUObjectHash: Compacting FUObjectHashTables data took   7.85ms
+[2021.09.01-16.08.37:285][456]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.09.01-16.08.37:286][456]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.01-16.08.37:286][456]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.01-16.08.37:286][456]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.01-16.08.37:286][456]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.01-16.08.37:286][456]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.01-16.08.37:286][456]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.01-16.08.37:286][456]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.01-16.08.37:286][456]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.01-16.08.37:286][456]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.01-16.08.37:286][456]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.01-16.08.37:288][456]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.01-16.08.37:288][456]LogAudioMixer: Display: 1: FrontRight
+[2021.09.01-16.08.37:300][456]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2021.09.01-16.08.37:301][456]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.01-16.08.37:301][456]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.01-16.08.37:301][456]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.01-16.08.37:301][456]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.01-16.08.37:301][456]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.01-16.08.37:301][456]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.01-16.08.37:325][456]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.01-16.08.37:325][456]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.01-16.08.37:325][456]LogInit: FAudioDevice initialized.
+[2021.09.01-16.08.37:325][456]LogAudio: Display: Audio Device (ID: 6) registered with world 'TestMap'.
+[2021.09.01-16.08.37:337][456]LogLoad: Game class is 'GameModeBase'
+[2021.09.01-16.08.37:338][456]LogWorld: Bringing World /Game/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2021.09.01-19.08.37
+[2021.09.01-16.08.37:339][456]LogWorld: Bringing up level for play took: 0.000785
+[2021.09.01-16.08.37:339][456]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2021.09.01-16.08.37:549][456]LogBlueprintUserMessages: [UMG_KakuroChooseLevel] 0
+[2021.09.01-16.08.37:550][456]LogBlueprintUserMessages: [UMG_KakuroChooseLevel] 0
+[2021.09.01-16.08.37:550][456]LogBlueprintUserMessages: [UMG_KakuroChooseLevel] 0
+[2021.09.01-16.08.37:551][456]LogBlueprintUserMessages: [UMG_KakuroChooseLevel] 1
+[2021.09.01-16.08.37:551][456]LogBlueprintUserMessages: [UMG_KakuroChooseLevel] 1
+[2021.09.01-16.08.37:552][456]LogBlueprintUserMessages: [UMG_KakuroChooseLevel] 1
+[2021.09.01-16.08.37:552][456]LogBlueprintUserMessages: [UMG_KakuroChooseLevel] 2
+[2021.09.01-16.08.37:553][456]LogBlueprintUserMessages: [UMG_KakuroChooseLevel] 2
+[2021.09.01-16.08.37:553][456]LogBlueprintUserMessages: [UMG_KakuroChooseLevel] 2
+[2021.09.01-16.08.37:554][456]LogBlueprintUserMessages: [UMG_KakuroChooseLevel] 3
+[2021.09.01-16.08.37:554][456]LogBlueprintUserMessages: [UMG_KakuroChooseLevel] 3
+[2021.09.01-16.08.37:554][456]LogBlueprintUserMessages: [UMG_KakuroChooseLevel] 3
+[2021.09.01-16.08.37:555][456]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.01-16.08.37:555][456]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.09.01-16.08.37:555][456]PIE: Server logged in
+[2021.09.01-16.08.37:557][456]PIE: Play in editor total start time 0,381 seconds.
+[2021.09.01-16.08.40:097][548]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.01-16.08.40:097][548]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TestMap
+[2021.09.01-16.08.40:098][548]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.09.01-16.08.40:098][548]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.01-16.08.40:108][548]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.01-16.08.40:118][548]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.01-16.08.40:161][548]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.01-16.08.40:166][548]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.01-16.08.40:167][548]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.01-16.08.40:191][548]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.01-16.08.40:238][548]LogUObjectHash: Compacting FUObjectHashTables data took   6.36ms
+[2021.09.01-16.08.40:269][549]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.09.01-16.08.55:506][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/Levels/UMG_KakuroChooseLevel" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Levels/UMG_KakuroChooseLevel.uasset" SILENT=true
+[2021.09.01-16.08.55:561][ 34]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_KakuroChooseLevel1E83608D4B543E6C1554949A730E23CB.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Levels/UMG_KakuroChooseLevel.uasset'
+[2021.09.01-16.08.55:576][ 34]AssetCheck: New page: Asset Save: UMG_KakuroChooseLevel
+[2021.09.01-16.08.55:576][ 34]LogContentValidation: Display: Validating WidgetBlueprint /Game/Kakuro/Levels/UMG_KakuroChooseLevel.UMG_KakuroChooseLevel
+[2021.09.01-16.08.55:988][ 50]BlueprintLog: New page: Compile UMG_KakuroChooseLevel
+[2021.09.01-16.08.56:106][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   5.15ms
+[2021.09.01-16.08.56:472][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/Levels/UMG_KakuroChooseLevel" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Levels/UMG_KakuroChooseLevel.uasset" SILENT=true
+[2021.09.01-16.08.56:554][ 64]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_KakuroChooseLevel63D22A3D4F000502D33F3BA846B1468E.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Levels/UMG_KakuroChooseLevel.uasset'
+[2021.09.01-16.08.56:567][ 64]AssetCheck: New page: Asset Save: UMG_KakuroChooseLevel
+[2021.09.01-16.08.56:567][ 64]LogContentValidation: Display: Validating WidgetBlueprint /Game/Kakuro/Levels/UMG_KakuroChooseLevel.UMG_KakuroChooseLevel
