@@ -1653,3 +1653,119 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.02-12.35.27:623][261]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2021.09.02-12.35.27:666][261]LogUObjectHash: Compacting FUObjectHashTables data took   5.32ms
 [2021.09.02-12.35.27:694][262]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2021.09.02-12.36.18:310][624]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG_MainMenu" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/UMG_MainMenu.uasset" SILENT=true
+[2021.09.02-12.36.18:340][624]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_MainMenuA3B3052940424FFB3659CCA3A6CD0A11.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/UMG_MainMenu.uasset'
+[2021.09.02-12.36.18:357][624]AssetCheck: New page: Asset Save: UMG_MainMenu
+[2021.09.02-12.36.18:357][624]LogContentValidation: Display: Validating WidgetBlueprint /Game/UMG_MainMenu.UMG_MainMenu
+[2021.09.02-13.07.31:081][523]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2021.09.02-13.07.31:096][523]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2021.09.02-13.07.42:514][ 30]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> UMG_HitoriGameWidget
+[2021.09.02-13.07.42:520][ 30]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2021.09.02-13.07.45:033][140]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Hitori/UMG_HitoriGameWidget.UMG_HitoriGameWidget
+[2021.09.02-13.07.48:087][259]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2021.09.02-13.07.48:087][259]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.02-13.08.01:481][840]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG_MainMenu" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/UMG_MainMenu.uasset" SILENT=true
+[2021.09.02-13.08.01:515][840]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_MainMenu1B8B8D944C5895C2C222B0895F5D030A.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/UMG_MainMenu.uasset'
+[2021.09.02-13.08.01:546][840]AssetCheck: New page: Asset Save: UMG_MainMenu
+[2021.09.02-13.08.01:546][840]LogContentValidation: Display: Validating WidgetBlueprint /Game/UMG_MainMenu.UMG_MainMenu
+[2021.09.02-13.08.08:270][186]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2021.09.02-13.08.08:313][186]LogContentBrowser: Creating deferred item: NewWorld
+[2021.09.02-13.08.11:365][322]LogContentBrowser: Attempting asset rename: NewWorld -> HitoriLevel
+[2021.09.02-13.08.11:374][322]LogContentBrowser: End creating deferred item NewWorld
+[2021.09.02-13.08.14:566][496]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2021.09.02-13.08.14:583][496]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2021.09.02-13.08.22:273][832]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> UMG_Hitori
+[2021.09.02-13.08.22:279][832]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2021.09.02-13.08.24:764][936]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hitori/UMG_Hitori" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Hitori/UMG_Hitori.uasset" SILENT=true
+[2021.09.02-13.08.24:769][936]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_Hitori9D917A224539FB1026B7ACB8C21400F0.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Hitori/UMG_Hitori.uasset'
+[2021.09.02-13.08.24:783][936]AssetCheck: New page: Asset Save: UMG_Hitori
+[2021.09.02-13.08.24:783][936]LogContentValidation: Display: Validating WidgetBlueprint /Game/Hitori/UMG_Hitori.UMG_Hitori
+[2021.09.02-13.08.25:530][971]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hitori/UMG_HitoriGameWidget" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Hitori/UMG_HitoriGameWidget.uasset" SILENT=true
+[2021.09.02-13.08.25:534][971]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_HitoriGameWidget5249003E4DA3BE8A07D095BC9F73002B.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Hitori/UMG_HitoriGameWidget.uasset'
+[2021.09.02-13.08.25:550][971]AssetCheck: New page: Asset Save: UMG_HitoriGameWidget
+[2021.09.02-13.08.25:550][971]LogContentValidation: Display: Validating WidgetBlueprint /Game/Hitori/UMG_HitoriGameWidget.UMG_HitoriGameWidget
+[2021.09.02-13.08.26:263][  4]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hitori/HitoriLevel" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Hitori/HitoriLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.09.02-13.08.26:328][  4]LogUObjectHash: Compacting FUObjectHashTables data took   7.05ms
+[2021.09.02-13.08.26:335][  4]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/HitoriLevel8D2AA0014ACBE638858A4A86521A277A.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Hitori/HitoriLevel.umap'
+[2021.09.02-13.08.26:336][  4]LogFileHelpers: Saving map 'HitoriLevel' took 0.073
+[2021.09.02-13.08.26:350][  4]AssetCheck: New page: Asset Save: HitoriLevel
+[2021.09.02-13.08.26:351][  4]LogContentValidation: Display: Validating World /Game/Hitori/HitoriLevel.HitoriLevel
+[2021.09.02-13.08.27:937][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   5.22ms
+[2021.09.02-13.08.27:963][ 70]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Hitori/HitoriLevel.HitoriLevel
+[2021.09.02-13.08.27:963][ 70]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Hitori/HitoriLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.09.02-13.08.27:963][ 70]LightingResults: New page: Lighting Build
+[2021.09.02-13.08.27:966][ 70]LoadErrors: New page: Loading map: HitoriLevel.umap
+[2021.09.02-13.08.27:967][ 70]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.09.02-13.08.27:967][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.02-13.08.27:967][ 70]MapCheck: New page: Map Check
+[2021.09.02-13.08.27:967][ 70]LightingResults: New page: Lighting Build
+[2021.09.02-13.08.28:008][ 70]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.02-13.08.28:019][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   7.26ms
+[2021.09.02-13.08.28:070][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   5.88ms
+[2021.09.02-13.08.28:115][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   5.26ms
+[2021.09.02-13.08.28:116][ 70]LogAudio: Display: Audio Device (ID: 1) registered with world 'HitoriLevel'.
+[2021.09.02-13.08.28:117][ 70]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.09.02-13.08.28:117][ 70]LogAIModule: Creating AISystem for world HitoriLevel
+[2021.09.02-13.08.28:165][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   5.15ms
+[2021.09.02-13.08.28:173][ 70]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.09.02-13.08.28:173][ 70]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,09ms to complete.
+[2021.09.02-13.08.28:173][ 70]LogFileHelpers: Loading map 'HitoriLevel' took 0.210
+[2021.09.02-13.08.31:364][203]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Hitori/HitoriLevel.HitoriLevel:PersistentLevel.HitoriLevel
+[2021.09.02-13.08.47:862][957]LogUObjectHash: Compacting FUObjectHashTables data took   5.78ms
+[2021.09.02-13.08.49:255][957]LogSlate: Window 'Save Content' being destroyed
+[2021.09.02-13.08.49:296][957]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hitori/HitoriLevel" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Hitori/HitoriLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.09.02-13.08.49:342][957]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2021.09.02-13.08.49:346][957]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/HitoriLevel978106E64C523652469C0EB83A441E08.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Hitori/HitoriLevel.umap'
+[2021.09.02-13.08.49:355][957]LogFileHelpers: Saving map 'HitoriLevel' took 0.059
+[2021.09.02-13.08.49:408][957]LogAssetEditorSubsystem: Opening Asset editor for World /Game/MainMenuLevel.MainMenuLevel
+[2021.09.02-13.08.49:408][957]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/JapanPuzzles/Content/MainMenuLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.09.02-13.08.49:408][957]LightingResults: New page: Lighting Build
+[2021.09.02-13.08.49:408][957]LoadErrors: New page: Loading map: MainMenuLevel.umap
+[2021.09.02-13.08.49:416][957]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2021.09.02-13.08.49:416][957]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.02-13.08.49:469][957]LogWorld: UWorld::CleanupWorld for HitoriLevel, bSessionEnded=true, bCleanupResources=true
+[2021.09.02-13.08.49:469][957]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.02-13.08.49:469][957]MapCheck: New page: Map Check
+[2021.09.02-13.08.49:469][957]LightingResults: New page: Lighting Build
+[2021.09.02-13.08.49:511][957]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.02-13.08.49:521][957]LogUObjectHash: Compacting FUObjectHashTables data took   6.02ms
+[2021.09.02-13.08.49:521][957]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenuLevel'.
+[2021.09.02-13.08.49:523][957]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.09.02-13.08.49:523][957]LogAIModule: Creating AISystem for world MainMenuLevel
+[2021.09.02-13.08.49:572][957]LogUObjectHash: Compacting FUObjectHashTables data took   5.26ms
+[2021.09.02-13.08.49:578][957]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.09.02-13.08.49:578][957]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,087ms to complete.
+[2021.09.02-13.08.49:579][957]LogFileHelpers: Loading map 'MainMenuLevel' took 0.170
+[2021.09.02-13.08.49:599][957]AssetCheck: New page: Asset Save: HitoriLevel
+[2021.09.02-13.08.49:599][957]LogContentValidation: Display: Validating World /Game/Hitori/HitoriLevel.HitoriLevel
+[2021.09.02-13.08.53:246][154]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel
+[2021.09.02-13.08.57:590][343]LogUObjectHash: Compacting FUObjectHashTables data took   5.45ms
+[2021.09.02-13.08.57:628][343]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Hitori/HitoriLevel.HitoriLevel
+[2021.09.02-13.08.57:628][343]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Hitori/HitoriLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.09.02-13.08.57:628][343]LightingResults: New page: Lighting Build
+[2021.09.02-13.08.57:629][343]LoadErrors: New page: Loading map: HitoriLevel.umap
+[2021.09.02-13.08.57:637][343]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2021.09.02-13.08.57:637][343]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.02-13.08.57:689][343]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.09.02-13.08.57:689][343]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.02-13.08.57:689][343]MapCheck: New page: Map Check
+[2021.09.02-13.08.57:689][343]LightingResults: New page: Lighting Build
+[2021.09.02-13.08.57:731][343]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.02-13.08.57:741][343]LogUObjectHash: Compacting FUObjectHashTables data took   6.07ms
+[2021.09.02-13.08.57:741][343]LogAudio: Display: Audio Device (ID: 1) registered with world 'HitoriLevel'.
+[2021.09.02-13.08.57:743][343]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.09.02-13.08.57:743][343]LogAIModule: Creating AISystem for world HitoriLevel
+[2021.09.02-13.08.57:791][343]LogUObjectHash: Compacting FUObjectHashTables data took   5.35ms
+[2021.09.02-13.08.57:798][343]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.09.02-13.08.57:798][343]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,089ms to complete.
+[2021.09.02-13.08.57:798][343]LogFileHelpers: Loading map 'HitoriLevel' took 0.170
+[2021.09.02-13.08.59:279][451]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Hitori/HitoriLevel.HitoriLevel:PersistentLevel.HitoriLevel
+[2021.09.02-13.09.13:187][394]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.09.02-13.09.30:191][685]BlueprintLog: New page: Compile HitoriLevel
+[2021.09.02-13.09.30:250][685]LogUObjectHash: Compacting FUObjectHashTables data took   6.50ms
+[2021.09.02-13.09.30:943][725]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hitori/HitoriLevel" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Hitori/HitoriLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.09.02-13.09.30:995][725]LogUObjectHash: Compacting FUObjectHashTables data took   7.10ms
+[2021.09.02-13.09.31:006][725]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/HitoriLevel8947F1FE4A97EBE4D064B0B567A1EEE9.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Hitori/HitoriLevel.umap'
+[2021.09.02-13.09.31:014][725]LogFileHelpers: Saving map 'HitoriLevel' took 0.071
+[2021.09.02-13.09.31:028][725]AssetCheck: New page: Asset Save: HitoriLevel
+[2021.09.02-13.09.31:028][725]LogContentValidation: Display: Validating World /Game/Hitori/HitoriLevel.HitoriLevel
