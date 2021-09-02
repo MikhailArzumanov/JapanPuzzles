@@ -1250,3 +1250,389 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.02-04.35.32:422][949]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/LineClass3373995741EF60666CE327BEF8207BEA.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/LineClass.uasset'
 [2021.09.02-04.35.32:435][949]AssetCheck: New page: Asset Save: LineClass
 [2021.09.02-04.35.32:435][949]LogContentValidation: Display: Validating Blueprint /Game/Kakuro/LineClass.LineClass
+[2021.09.02-04.36.14:705][586]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.09.02-04.36.14:706][586]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.02-04.36.16:388][647]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.02-04.36.16:396][647]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.02-04.36.16:396][647]PIE: New page: PIE session: TestMap (2 сент. 2021 г., 10:36:16)
+[2021.09.02-04.36.16:397][647]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestMap
+[2021.09.02-04.36.16:401][647]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004759s)
+[2021.09.02-04.36.16:404][647]LogAIModule: Creating AISystem for world TestMap
+[2021.09.02-04.36.16:405][647]LogPlayLevel: PIE: World Init took: (0.003133s)
+[2021.09.02-04.36.16:405][647]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestMap.TestMap to /Game/UEDPIE_0_TestMap.TestMap (0.008071s)
+[2021.09.02-04.36.16:459][647]LogUObjectHash: Compacting FUObjectHashTables data took   7.76ms
+[2021.09.02-04.36.16:461][647]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.09.02-04.36.16:461][647]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.02-04.36.16:461][647]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.02-04.36.16:461][647]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.02-04.36.16:461][647]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.02-04.36.16:461][647]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.02-04.36.16:461][647]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.02-04.36.16:461][647]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.02-04.36.16:461][647]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.02-04.36.16:462][647]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.02-04.36.16:462][647]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.02-04.36.16:463][647]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.02-04.36.16:463][647]LogAudioMixer: Display: 1: FrontRight
+[2021.09.02-04.36.16:475][647]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2021.09.02-04.36.16:476][647]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.02-04.36.16:476][647]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.02-04.36.16:476][647]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.02-04.36.16:476][647]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.02-04.36.16:476][647]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.02-04.36.16:477][647]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.02-04.36.16:499][647]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.02-04.36.16:499][647]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.02-04.36.16:499][647]LogInit: FAudioDevice initialized.
+[2021.09.02-04.36.16:499][647]LogAudio: Display: Audio Device (ID: 9) registered with world 'TestMap'.
+[2021.09.02-04.36.16:512][647]LogLoad: Game class is 'GameModeBase'
+[2021.09.02-04.36.16:513][647]LogWorld: Bringing World /Game/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2021.09.02-07.36.16
+[2021.09.02-04.36.16:513][647]LogWorld: Bringing up level for play took: 0.000795
+[2021.09.02-04.36.16:514][647]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2021.09.02-04.36.16:698][647]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.02-04.36.16:698][647]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.09.02-04.36.16:698][647]PIE: Server logged in
+[2021.09.02-04.36.16:699][647]PIE: Play in editor total start time 0,304 seconds.
+[2021.09.02-04.36.23:333][888]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.02-04.36.23:333][888]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TestMap
+[2021.09.02-04.36.23:334][888]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.09.02-04.36.23:334][888]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.02-04.36.23:347][888]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.02-04.36.23:357][888]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.02-04.36.23:399][888]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.02-04.36.23:403][888]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.02-04.36.23:404][888]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.02-04.36.23:448][888]LogUObjectHash: Compacting FUObjectHashTables data took   7.80ms
+[2021.09.02-04.36.23:477][889]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.09.02-04.36.58:881][139]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/Kakuro/Levels/LevelsTable.LevelsTable
+[2021.09.02-04.40.09:990][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/Levels/LevelsTable" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Levels/LevelsTable.uasset" SILENT=true
+[2021.09.02-04.40.09:993][325]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/LevelsTable82351CDF481AC66A89479AAD8A700142.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Levels/LevelsTable.uasset'
+[2021.09.02-04.40.10:017][325]AssetCheck: New page: Asset Save: LevelsTable
+[2021.09.02-04.40.10:017][325]LogContentValidation: Display: Validating DataTable /Game/Kakuro/Levels/LevelsTable.LevelsTable
+[2021.09.02-04.40.16:590][397]LogAudioMixer: Resetting audio stream to device id 
+[2021.09.02-04.40.16:618][397]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.02-04.40.16:619][397]LogAudioMixer: Display: 1: FrontRight
+[2021.09.02-09.36.07:042][415]LogAudioMixer: Resetting audio stream to device id 
+[2021.09.02-09.36.07:200][415]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.02-09.36.07:200][415]LogAudioMixer: Display: 1: FrontRight
+[2021.09.02-09.36.11:407][416]LogHttp: Warning: 000000D8A2B87200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0C2C81A0-41D5-6630-571C-0CB38958C83E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=81a97b2b4c67b65cf416b492952a6caf%7C3745f63610274c8b89f877806bd21d91%7Cf449a2b9-482c-4fa0-bbcd-d8a36b60ebe6&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.09.02-09.36.11:410][416]LogHttp: Warning: 000000D8A2B87200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.09.02-09.36.11:410][416]LogHttp: Warning: 000000D8A2B87200: libcurl info message cache 0 (Connection 0 seems to be dead!)
+[2021.09.02-09.36.11:410][416]LogHttp: Warning: 000000D8A2B87200: libcurl info message cache 1 (Closing connection 0)
+[2021.09.02-09.36.11:410][416]LogHttp: Warning: 000000D8A2B87200: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.09.02-09.36.11:410][416]LogHttp: Warning: 000000D8A2B87200: libcurl info message cache 3 (Closing connection 1)
+[2021.09.02-09.36.11:411][416]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0C2C81A0-41D5-6630-571C-0CB38958C83E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=81a97b2b4c67b65cf416b492952a6caf%7C3745f63610274c8b89f877806bd21d91%7Cf449a2b9-482c-4fa0-bbcd-d8a36b60ebe6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.09.02-09.36.11:420][416]LogAudioMixer: Resetting audio stream to device id 
+[2021.09.02-09.36.11:452][416]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.02-09.36.11:452][416]LogAudioMixer: Display: 1: FrontRight
+[2021.09.02-09.36.31:930][975]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.02-09.36.31:938][975]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.02-09.36.31:938][975]PIE: New page: PIE session: TestMap (2 сент. 2021 г., 15:36:31)
+[2021.09.02-09.36.31:938][975]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestMap
+[2021.09.02-09.36.31:944][975]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004916s)
+[2021.09.02-09.36.31:949][975]LogAIModule: Creating AISystem for world TestMap
+[2021.09.02-09.36.31:950][975]LogPlayLevel: PIE: World Init took: (0.006249s)
+[2021.09.02-09.36.31:950][975]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestMap.TestMap to /Game/UEDPIE_0_TestMap.TestMap (0.011374s)
+[2021.09.02-09.36.32:102][975]LogUObjectHash: Compacting FUObjectHashTables data took  10.03ms
+[2021.09.02-09.36.32:108][975]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2021.09.02-09.36.32:108][975]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.02-09.36.32:108][975]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.02-09.36.32:108][975]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.02-09.36.32:109][975]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.02-09.36.32:109][975]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.02-09.36.32:109][975]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.02-09.36.32:109][975]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.02-09.36.32:109][975]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.02-09.36.32:109][975]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.02-09.36.32:109][975]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.02-09.36.32:111][975]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.02-09.36.32:111][975]LogAudioMixer: Display: 1: FrontRight
+[2021.09.02-09.36.32:122][975]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2021.09.02-09.36.32:123][975]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.02-09.36.32:123][975]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.02-09.36.32:123][975]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.02-09.36.32:124][975]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.02-09.36.32:124][975]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.02-09.36.32:124][975]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.02-09.36.32:147][975]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.02-09.36.32:147][975]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.02-09.36.32:147][975]LogInit: FAudioDevice initialized.
+[2021.09.02-09.36.32:147][975]LogAudio: Display: Audio Device (ID: 10) registered with world 'TestMap'.
+[2021.09.02-09.36.32:158][975]LogLoad: Game class is 'GameModeBase'
+[2021.09.02-09.36.32:160][975]LogWorld: Bringing World /Game/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2021.09.02-12.36.32
+[2021.09.02-09.36.32:160][975]LogWorld: Bringing up level for play took: 0.000844
+[2021.09.02-09.36.32:160][975]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2021.09.02-09.36.32:349][975]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.02-09.36.32:349][975]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.09.02-09.36.32:349][975]PIE: Server logged in
+[2021.09.02-09.36.32:350][975]PIE: Play in editor total start time 0,413 seconds.
+[2021.09.02-09.41.44:661][406]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/Levels/LevelsTable" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Levels/LevelsTable.uasset" SILENT=true
+[2021.09.02-09.41.44:664][406]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/LevelsTableE1D8269A42C04FDF3ED5D0A21C9B14E3.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Levels/LevelsTable.uasset'
+[2021.09.02-09.41.44:676][406]AssetCheck: New page: Asset Save: LevelsTable
+[2021.09.02-09.41.44:676][406]LogContentValidation: Display: Validating DataTable /Game/Kakuro/Levels/LevelsTable.LevelsTable
+[2021.09.02-09.41.46:258][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.02-09.41.46:258][469]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TestMap
+[2021.09.02-09.41.46:258][469]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.09.02-09.41.46:258][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.02-09.41.46:267][469]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.02-09.41.46:277][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.02-09.41.46:320][469]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.02-09.41.46:321][469]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.02-09.41.46:322][469]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.02-09.41.46:348][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.02-09.41.46:368][469]LogUObjectHash: Compacting FUObjectHashTables data took   8.19ms
+[2021.09.02-09.41.46:395][470]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2021.09.02-09.41.46:840][491]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.02-09.41.46:848][491]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.02-09.41.46:848][491]PIE: New page: PIE session: TestMap (2 сент. 2021 г., 15:41:46)
+[2021.09.02-09.41.46:848][491]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestMap
+[2021.09.02-09.41.46:852][491]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004467s)
+[2021.09.02-09.41.46:854][491]LogAIModule: Creating AISystem for world TestMap
+[2021.09.02-09.41.46:855][491]LogPlayLevel: PIE: World Init took: (0.002117s)
+[2021.09.02-09.41.46:855][491]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestMap.TestMap to /Game/UEDPIE_0_TestMap.TestMap (0.006742s)
+[2021.09.02-09.41.46:896][491]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2021.09.02-09.41.46:896][491]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2021.09.02-09.41.46:896][491]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.02-09.41.46:896][491]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.02-09.41.46:896][491]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.02-09.41.46:896][491]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.02-09.41.46:897][491]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.02-09.41.46:897][491]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.02-09.41.46:897][491]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.02-09.41.46:897][491]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.02-09.41.46:897][491]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.02-09.41.46:897][491]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.02-09.41.46:899][491]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.02-09.41.46:899][491]LogAudioMixer: Display: 1: FrontRight
+[2021.09.02-09.41.46:911][491]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2021.09.02-09.41.46:911][491]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.02-09.41.46:912][491]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.02-09.41.46:912][491]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.02-09.41.46:912][491]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.02-09.41.46:912][491]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.02-09.41.46:913][491]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.02-09.41.46:935][491]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.02-09.41.46:935][491]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.02-09.41.46:935][491]LogInit: FAudioDevice initialized.
+[2021.09.02-09.41.46:935][491]LogAudio: Display: Audio Device (ID: 11) registered with world 'TestMap'.
+[2021.09.02-09.41.46:944][491]LogLoad: Game class is 'GameModeBase'
+[2021.09.02-09.41.46:946][491]LogWorld: Bringing World /Game/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2021.09.02-12.41.46
+[2021.09.02-09.41.46:946][491]LogWorld: Bringing up level for play took: 0.000778
+[2021.09.02-09.41.46:946][491]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2021.09.02-09.41.47:130][491]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.02-09.41.47:130][491]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.09.02-09.41.47:131][491]PIE: Server logged in
+[2021.09.02-09.41.47:132][491]PIE: Play in editor total start time 0,285 seconds.
+[2021.09.02-09.42.10:827][180]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.02-09.42.10:827][180]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TestMap
+[2021.09.02-09.42.10:827][180]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.09.02-09.42.10:827][180]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.02-09.42.10:835][180]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.02-09.42.10:847][180]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.02-09.42.10:892][180]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.02-09.42.10:892][180]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.02-09.42.10:893][180]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.02-09.42.10:936][180]LogUObjectHash: Compacting FUObjectHashTables data took   5.24ms
+[2021.09.02-09.42.10:962][181]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.09.02-09.42.35:390][ 73]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/Levels/LevelsTable" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Levels/LevelsTable.uasset" SILENT=true
+[2021.09.02-09.42.35:393][ 73]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/LevelsTable7FF638A34D62BED2EA63AFB841160B91.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Levels/LevelsTable.uasset'
+[2021.09.02-09.42.35:411][ 73]AssetCheck: New page: Asset Save: LevelsTable
+[2021.09.02-09.42.35:411][ 73]LogContentValidation: Display: Validating DataTable /Game/Kakuro/Levels/LevelsTable.LevelsTable
+[2021.09.02-09.42.36:239][108]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.02-09.42.36:247][108]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.02-09.42.36:247][108]PIE: New page: PIE session: TestMap (2 сент. 2021 г., 15:42:36)
+[2021.09.02-09.42.36:247][108]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestMap
+[2021.09.02-09.42.36:252][108]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004423s)
+[2021.09.02-09.42.36:254][108]LogAIModule: Creating AISystem for world TestMap
+[2021.09.02-09.42.36:254][108]LogPlayLevel: PIE: World Init took: (0.002151s)
+[2021.09.02-09.42.36:254][108]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestMap.TestMap to /Game/UEDPIE_0_TestMap.TestMap (0.006769s)
+[2021.09.02-09.42.36:297][108]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2021.09.02-09.42.36:299][108]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2021.09.02-09.42.36:299][108]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.02-09.42.36:299][108]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.02-09.42.36:299][108]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.02-09.42.36:299][108]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.02-09.42.36:299][108]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.02-09.42.36:299][108]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.02-09.42.36:299][108]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.02-09.42.36:299][108]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.02-09.42.36:300][108]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.02-09.42.36:300][108]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.02-09.42.36:301][108]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.02-09.42.36:301][108]LogAudioMixer: Display: 1: FrontRight
+[2021.09.02-09.42.36:313][108]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2021.09.02-09.42.36:313][108]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.02-09.42.36:313][108]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.02-09.42.36:313][108]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.02-09.42.36:314][108]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.02-09.42.36:314][108]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.02-09.42.36:314][108]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.02-09.42.36:336][108]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.02-09.42.36:337][108]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.02-09.42.36:337][108]LogInit: FAudioDevice initialized.
+[2021.09.02-09.42.36:337][108]LogAudio: Display: Audio Device (ID: 12) registered with world 'TestMap'.
+[2021.09.02-09.42.36:349][108]LogLoad: Game class is 'GameModeBase'
+[2021.09.02-09.42.36:350][108]LogWorld: Bringing World /Game/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2021.09.02-12.42.36
+[2021.09.02-09.42.36:351][108]LogWorld: Bringing up level for play took: 0.000998
+[2021.09.02-09.42.36:351][108]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2021.09.02-09.42.36:560][108]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.02-09.42.36:560][108]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.09.02-09.42.36:560][108]PIE: Server logged in
+[2021.09.02-09.42.36:561][108]PIE: Play in editor total start time 0,315 seconds.
+[2021.09.02-09.42.44:027][377]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.02-09.42.44:027][377]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TestMap
+[2021.09.02-09.42.44:028][377]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.09.02-09.42.44:028][377]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.02-09.42.44:039][377]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.02-09.42.44:049][377]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.02-09.42.44:096][377]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.02-09.42.44:097][377]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.02-09.42.44:098][377]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.02-09.42.44:139][377]LogUObjectHash: Compacting FUObjectHashTables data took   5.09ms
+[2021.09.02-09.42.44:165][378]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.09.02-09.42.49:340][574]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/Levels/LevelsTable" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Levels/LevelsTable.uasset" SILENT=true
+[2021.09.02-09.42.49:343][574]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/LevelsTable54E20534484398F8336A05AA9431C6BF.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Levels/LevelsTable.uasset'
+[2021.09.02-09.42.49:356][574]AssetCheck: New page: Asset Save: LevelsTable
+[2021.09.02-09.42.49:356][574]LogContentValidation: Display: Validating DataTable /Game/Kakuro/Levels/LevelsTable.LevelsTable
+[2021.09.02-09.42.50:110][607]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.02-09.42.50:118][607]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.02-09.42.50:118][607]PIE: New page: PIE session: TestMap (2 сент. 2021 г., 15:42:50)
+[2021.09.02-09.42.50:118][607]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestMap
+[2021.09.02-09.42.50:123][607]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004374s)
+[2021.09.02-09.42.50:125][607]LogAIModule: Creating AISystem for world TestMap
+[2021.09.02-09.42.50:126][607]LogPlayLevel: PIE: World Init took: (0.003346s)
+[2021.09.02-09.42.50:126][607]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestMap.TestMap to /Game/UEDPIE_0_TestMap.TestMap (0.007891s)
+[2021.09.02-09.42.50:167][607]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2021.09.02-09.42.50:168][607]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2021.09.02-09.42.50:168][607]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.02-09.42.50:168][607]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.02-09.42.50:168][607]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.02-09.42.50:168][607]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.02-09.42.50:168][607]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.02-09.42.50:168][607]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.02-09.42.50:168][607]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.02-09.42.50:168][607]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.02-09.42.50:169][607]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.02-09.42.50:169][607]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.02-09.42.50:170][607]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.02-09.42.50:170][607]LogAudioMixer: Display: 1: FrontRight
+[2021.09.02-09.42.50:181][607]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2021.09.02-09.42.50:181][607]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.02-09.42.50:181][607]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.02-09.42.50:182][607]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.02-09.42.50:182][607]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.02-09.42.50:182][607]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.02-09.42.50:182][607]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.02-09.42.50:204][607]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.02-09.42.50:204][607]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.02-09.42.50:204][607]LogInit: FAudioDevice initialized.
+[2021.09.02-09.42.50:204][607]LogAudio: Display: Audio Device (ID: 13) registered with world 'TestMap'.
+[2021.09.02-09.42.50:215][607]LogLoad: Game class is 'GameModeBase'
+[2021.09.02-09.42.50:217][607]LogWorld: Bringing World /Game/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2021.09.02-12.42.50
+[2021.09.02-09.42.50:217][607]LogWorld: Bringing up level for play took: 0.000749
+[2021.09.02-09.42.50:217][607]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.09.02-09.42.50:398][607]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.02-09.42.50:398][607]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.09.02-09.42.50:398][607]PIE: Server logged in
+[2021.09.02-09.42.50:399][607]PIE: Play in editor total start time 0,282 seconds.
+[2021.09.02-09.42.58:777][839]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.02-09.42.58:777][839]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TestMap
+[2021.09.02-09.42.58:777][839]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.09.02-09.42.58:777][839]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.02-09.42.58:791][839]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.02-09.42.58:801][839]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.02-09.42.58:844][839]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.02-09.42.58:844][839]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.02-09.42.58:846][839]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.02-09.42.58:887][839]LogUObjectHash: Compacting FUObjectHashTables data took   5.04ms
+[2021.09.02-09.42.58:913][840]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.09.02-09.45.25:466][436]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/Levels/LevelsTable" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Levels/LevelsTable.uasset" SILENT=true
+[2021.09.02-09.45.25:470][436]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/LevelsTable4038F7E1454194D847DB099E25C74993.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Levels/LevelsTable.uasset'
+[2021.09.02-09.45.25:490][436]AssetCheck: New page: Asset Save: LevelsTable
+[2021.09.02-09.45.25:490][436]LogContentValidation: Display: Validating DataTable /Game/Kakuro/Levels/LevelsTable.LevelsTable
+[2021.09.02-09.45.26:082][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/Levels/LevelsTable" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Levels/LevelsTable.uasset" SILENT=true
+[2021.09.02-09.45.26:085][463]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/LevelsTable0B41F2104B99B1AEB26EDF9D76285B12.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Levels/LevelsTable.uasset'
+[2021.09.02-09.45.26:099][463]AssetCheck: New page: Asset Save: LevelsTable
+[2021.09.02-09.45.26:099][463]LogContentValidation: Display: Validating DataTable /Game/Kakuro/Levels/LevelsTable.LevelsTable
+[2021.09.02-09.46.09:513][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/Levels/LevelsTable" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Levels/LevelsTable.uasset" SILENT=true
+[2021.09.02-09.46.09:517][ 99]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/LevelsTable1DED60DF4CA07C22812A77B27AF53AE3.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Levels/LevelsTable.uasset'
+[2021.09.02-09.46.09:535][ 99]AssetCheck: New page: Asset Save: LevelsTable
+[2021.09.02-09.46.09:535][ 99]LogContentValidation: Display: Validating DataTable /Game/Kakuro/Levels/LevelsTable.LevelsTable
+[2021.09.02-09.48.53:906][363]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/Levels/LevelsTable" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Levels/LevelsTable.uasset" SILENT=true
+[2021.09.02-09.48.53:910][363]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/LevelsTable0CD672E44D9DCB6BAD54CCBC39552A55.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Levels/LevelsTable.uasset'
+[2021.09.02-09.48.53:930][363]AssetCheck: New page: Asset Save: LevelsTable
+[2021.09.02-09.48.53:930][363]LogContentValidation: Display: Validating DataTable /Game/Kakuro/Levels/LevelsTable.LevelsTable
+[2021.09.02-09.48.54:789][395]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.02-09.48.54:797][395]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.02-09.48.54:797][395]PIE: New page: PIE session: TestMap (2 сент. 2021 г., 15:48:54)
+[2021.09.02-09.48.54:797][395]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestMap
+[2021.09.02-09.48.54:802][395]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004540s)
+[2021.09.02-09.48.54:804][395]LogAIModule: Creating AISystem for world TestMap
+[2021.09.02-09.48.54:805][395]LogPlayLevel: PIE: World Init took: (0.002552s)
+[2021.09.02-09.48.54:805][395]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestMap.TestMap to /Game/UEDPIE_0_TestMap.TestMap (0.007282s)
+[2021.09.02-09.48.54:850][395]LogUObjectHash: Compacting FUObjectHashTables data took   5.71ms
+[2021.09.02-09.48.54:860][395]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2021.09.02-09.48.54:860][395]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.02-09.48.54:861][395]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.02-09.48.54:861][395]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.02-09.48.54:861][395]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.02-09.48.54:861][395]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.02-09.48.54:861][395]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.02-09.48.54:861][395]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.02-09.48.54:861][395]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.02-09.48.54:861][395]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.02-09.48.54:861][395]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.02-09.48.54:863][395]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.02-09.48.54:863][395]LogAudioMixer: Display: 1: FrontRight
+[2021.09.02-09.48.54:876][395]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2021.09.02-09.48.54:876][395]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.02-09.48.54:876][395]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.02-09.48.54:876][395]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.02-09.48.54:877][395]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.02-09.48.54:877][395]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.02-09.48.54:877][395]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.02-09.48.54:900][395]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.02-09.48.54:900][395]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.02-09.48.54:900][395]LogInit: FAudioDevice initialized.
+[2021.09.02-09.48.54:900][395]LogAudio: Display: Audio Device (ID: 14) registered with world 'TestMap'.
+[2021.09.02-09.48.54:911][395]LogLoad: Game class is 'GameModeBase'
+[2021.09.02-09.48.54:914][395]LogWorld: Bringing World /Game/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2021.09.02-12.48.54
+[2021.09.02-09.48.54:914][395]LogWorld: Bringing up level for play took: 0.000973
+[2021.09.02-09.48.54:914][395]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2021.09.02-09.48.55:148][395]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.02-09.48.55:148][395]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.09.02-09.48.55:148][395]PIE: Server logged in
+[2021.09.02-09.48.55:150][395]PIE: Play in editor total start time 0,354 seconds.
+[2021.09.02-09.49.04:658][689]LogBlueprintUserMessages: [UMG_KakuroGameWidget] 79
+[2021.09.02-09.51.22:463][170]LogBlueprintUserMessages: [UMG_KakuroGameWidget] 27
+[2021.09.02-09.51.52:032][353]LogBlueprintUserMessages: [UMG_KakuroGameWidget] 78
+[2021.09.02-09.51.53:410][408]LogBlueprintUserMessages: [UMG_KakuroGameWidget] 79
+[2021.09.02-09.51.54:261][442]LogBlueprintUserMessages: [UMG_KakuroGameWidget] 89
+[2021.09.02-09.51.55:382][487]LogBlueprintUserMessages: [UMG_KakuroGameWidget] 87
+[2021.09.02-09.51.56:461][530]LogBlueprintUserMessages: [UMG_KakuroGameWidget] 97
+[2021.09.02-09.51.57:432][569]LogBlueprintUserMessages: [UMG_KakuroGameWidget] 98
+[2021.09.02-09.52.04:359][846]LogBlueprintUserMessages: [UMG_KakuroGameWidget] 89
+[2021.09.02-09.52.05:860][906]LogBlueprintUserMessages: [UMG_KakuroGameWidget] 88
+[2021.09.02-09.52.49:247][640]LogBlueprintUserMessages: [UMG_KakuroGameWidget] 78
+[2021.09.02-09.52.50:274][681]LogBlueprintUserMessages: [UMG_KakuroGameWidget] 79
+[2021.09.02-09.52.51:623][735]LogBlueprintUserMessages: [UMG_KakuroGameWidget] 89
+[2021.09.02-09.52.52:596][774]LogBlueprintUserMessages: [UMG_KakuroGameWidget] 88
+[2021.09.02-09.52.53:926][827]LogBlueprintUserMessages: [UMG_KakuroGameWidget] 87
+[2021.09.02-09.52.55:196][878]LogBlueprintUserMessages: [UMG_KakuroGameWidget] 97
+[2021.09.02-09.52.56:247][920]LogBlueprintUserMessages: [UMG_KakuroGameWidget] 98
+[2021.09.02-09.53.18:935][824]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.02-09.53.18:935][824]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TestMap
+[2021.09.02-09.53.18:935][824]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.09.02-09.53.18:935][824]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.02-09.53.18:944][824]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.02-09.53.18:954][824]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.02-09.53.18:991][824]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.02-09.53.18:998][824]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.02-09.53.18:999][824]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.02-09.53.19:026][824]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.02-09.53.19:060][824]LogUObjectHash: Compacting FUObjectHashTables data took   5.83ms
+[2021.09.02-09.53.19:118][825]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.09.02-09.53.29:210][174]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/Levels/LevelsTable" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Levels/LevelsTable.uasset" SILENT=true
+[2021.09.02-09.53.29:214][174]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/LevelsTable043103AC48BF8A32F2BE64897EF2444E.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Levels/LevelsTable.uasset'
+[2021.09.02-09.53.29:229][174]AssetCheck: New page: Asset Save: LevelsTable
+[2021.09.02-09.53.29:229][174]LogContentValidation: Display: Validating DataTable /Game/Kakuro/Levels/LevelsTable.LevelsTable
