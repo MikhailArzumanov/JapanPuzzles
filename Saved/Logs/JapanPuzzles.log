@@ -1,59 +1,65 @@
-﻿Log file open, 09/02/21 13:15:19
+﻿Log file open, 09/02/21 14:48:51
 LogInit: LLM is enabled
 LogInit: LLM CsvWriter: off TraceWriter: off
 LogInit: Display: Running engine for game: JapanPuzzles
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.314520
+LogStats: Stats thread started at 0.314503
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
 LogPluginManager: Mounting plugin MeshPainting
 LogPluginManager: Mounting plugin XGEController
-LogPluginManager: Mounting plugin Paper2D
 LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin Paper2D
 LogPluginManager: Mounting plugin EnvironmentQueryEditor
 LogPluginManager: Mounting plugin LightPropagationVolume
-LogPluginManager: Mounting plugin CameraShakePreviewer
-LogPluginManager: Mounting plugin AssetManagerEditor
-LogPluginManager: Mounting plugin CryptoKeys
-LogPluginManager: Mounting plugin CurveEditorTools
-LogPluginManager: Mounting plugin DataValidation
-LogPluginManager: Mounting plugin FacialAnimation
-LogPluginManager: Mounting plugin GameplayTagsEditor
-LogPluginManager: Mounting plugin GeometryMode
-LogPluginManager: Mounting plugin MacGraphicsSwitching
-LogPluginManager: Mounting plugin MobileLauncherProfileWizard
-LogPluginManager: Mounting plugin PluginBrowser
-LogPluginManager: Mounting plugin MaterialAnalyzer
 LogPluginManager: Mounting plugin AnimationSharing
-LogPluginManager: Mounting plugin SpeedTreeImporter
-LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
 LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
 LogPluginManager: Mounting plugin GitSourceControl
-LogPluginManager: Mounting plugin NullSourceCodeAccess
 LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
 LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
 LogPluginManager: Mounting plugin PlasticSourceControl
 LogPluginManager: Mounting plugin PluginUtils
 LogPluginManager: Mounting plugin PropertyAccessNode
 LogPluginManager: Mounting plugin RiderSourceCodeAccess
 LogPluginManager: Mounting plugin SubversionSourceControl
-LogPluginManager: Mounting plugin XCodeSourceCodeAccess
-LogPluginManager: Mounting plugin UObjectPlugin
 LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
 LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
 LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
 LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
 LogPluginManager: Mounting plugin AutomationUtils
 LogPluginManager: Mounting plugin BackChannel
-LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin MLSDK
 LogPluginManager: Mounting plugin ChaosCloth
-LogPluginManager: Mounting plugin DatasmithContent
-LogPluginManager: Mounting plugin ChaosEditor
 LogPluginManager: Mounting plugin ChaosSolverPlugin
 LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosClothEditor
 LogPluginManager: Mounting plugin CharacterAI
-LogPluginManager: Mounting plugin VariantManagerContent
 LogPluginManager: Mounting plugin GeometryCache
 LogPluginManager: Mounting plugin GeometryCollectionPlugin
 LogPluginManager: Mounting plugin GeometryProcessing
@@ -62,37 +68,31 @@ LogPluginManager: Mounting plugin PlanarCut
 LogPluginManager: Mounting plugin PlatformCrypto
 LogPluginManager: Mounting plugin ProxyLODPlugin
 LogPluginManager: Mounting plugin SkeletalReduction
-LogPluginManager: Mounting plugin LuminPlatformFeatures
-LogPluginManager: Mounting plugin MagicLeap
-LogPluginManager: Mounting plugin MagicLeapLightEstimation
-LogPluginManager: Mounting plugin MagicLeapMedia
-LogPluginManager: Mounting plugin MagicLeapPassableWorld
-LogPluginManager: Mounting plugin MLSDK
 LogPluginManager: Mounting plugin AndroidMedia
 LogPluginManager: Mounting plugin AvfMedia
 LogPluginManager: Mounting plugin ImgMedia
 LogPluginManager: Mounting plugin MediaCompositing
 LogPluginManager: Mounting plugin MediaPlayerEditor
-LogPluginManager: Mounting plugin WmfMedia
-LogPluginManager: Mounting plugin WebMMedia
 LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin WebMMedia
 LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin WmfMedia
 LogPluginManager: Mounting plugin ActorSequence
-LogPluginManager: Mounting plugin MatineeToLevelSequence
 LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
 LogPluginManager: Mounting plugin TemplateSequence
 LogPluginManager: Mounting plugin OnlineSubsystem
 LogPluginManager: Mounting plugin OnlineSubsystemNull
-LogPluginManager: Mounting plugin OnlineSubsystemUtils
 LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
 LogPluginManager: Mounting plugin ActorLayerUtilities
 LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
 LogPluginManager: Mounting plugin AndroidMoviePlayer
 LogPluginManager: Mounting plugin AndroidPermission
-LogPluginManager: Mounting plugin ArchVisCharacter
 LogPluginManager: Mounting plugin AppleImageUtils
 LogPluginManager: Mounting plugin AppleMoviePlayer
 LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin ArchVisCharacter
 LogPluginManager: Mounting plugin AudioCapture
 LogPluginManager: Mounting plugin AudioSynesthesia
 LogPluginManager: Mounting plugin CableComponent
@@ -100,20 +100,20 @@ LogPluginManager: Mounting plugin ChunkDownloader
 LogPluginManager: Mounting plugin CustomMeshComponent
 LogPluginManager: Mounting plugin EditableMesh
 LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
-LogPluginManager: Mounting plugin GooglePAD
 LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
 LogPluginManager: Mounting plugin IOSDeviceProfileSelector
 LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
 LogPluginManager: Mounting plugin LocationServicesBPLibrary
 LogPluginManager: Mounting plugin MobilePatchingUtils
 LogPluginManager: Mounting plugin PhysXVehicles
 LogPluginManager: Mounting plugin PostSplashScreen
-LogPluginManager: Mounting plugin ScreenshotTools
 LogPluginManager: Mounting plugin PropertyAccessEditor
 LogPluginManager: Mounting plugin ProceduralMeshComponent
 LogPluginManager: Mounting plugin RuntimePhysXCooking
 LogPluginManager: Mounting plugin SignificanceManager
 LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin ScreenshotTools
 LogPluginManager: Mounting plugin Synthesis
 LogPluginManager: Mounting plugin WebMMoviePlayer
 LogPluginManager: Mounting plugin WindowsMoviePlayer
@@ -207,911 +207,852 @@ LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
-[2021.09.02-10.15.20:010][  0]LogConfig: Setting CVar [[r.VSync:0]]
-[2021.09.02-10.15.20:010][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
-[2021.09.02-10.15.20:010][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Unreal Projects/JapanPuzzles/Saved/Config/Windows/Engine.ini]
-[2021.09.02-10.15.20:010][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
-[2021.09.02-10.15.20:010][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Unreal Projects/JapanPuzzles/Saved/Config/Windows/Engine.ini]
-[2021.09.02-10.15.20:010][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Unreal Projects/JapanPuzzles/Saved/Config/Windows/Engine.ini]
-[2021.09.02-10.15.20:010][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
-[2021.09.02-10.15.20:010][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
-[2021.09.02-10.15.20:010][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
-[2021.09.02-10.15.20:010][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
-[2021.09.02-10.15.20:010][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
-[2021.09.02-10.15.20:010][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
-[2021.09.02-10.15.20:010][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
-[2021.09.02-10.15.20:010][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
-[2021.09.02-10.15.20:010][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
-[2021.09.02-10.15.20:010][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
-[2021.09.02-10.15.20:010][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
-[2021.09.02-10.15.20:010][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
-[2021.09.02-10.15.20:010][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
-[2021.09.02-10.15.20:010][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
-[2021.09.02-10.15.20:010][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Unreal Projects/JapanPuzzles/Saved/Config/Windows/Engine.ini]
-[2021.09.02-10.15.20:010][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
-[2021.09.02-10.15.20:010][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
-[2021.09.02-10.15.20:010][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
-[2021.09.02-10.15.20:010][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
-[2021.09.02-10.15.20:010][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
-[2021.09.02-10.15.20:010][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
-[2021.09.02-10.15.20:010][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
-[2021.09.02-10.15.20:010][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
-[2021.09.02-10.15.20:010][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
-[2021.09.02-10.15.20:010][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
-[2021.09.02-10.15.20:010][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
-[2021.09.02-10.15.20:010][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
-[2021.09.02-10.15.20:010][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
-[2021.09.02-10.15.20:010][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
-[2021.09.02-10.15.20:010][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Unreal Projects/JapanPuzzles/Saved/Config/Windows/Engine.ini]
-[2021.09.02-10.15.20:010][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Unreal Projects/JapanPuzzles/Saved/Config/Windows/Engine.ini]
-[2021.09.02-10.15.20:014][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal Projects/JapanPuzzles/Saved/Config/Windows/Scalability.ini]
-[2021.09.02-10.15.20:014][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2021.09.02-10.15.20:014][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2021.09.02-10.15.20:014][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal Projects/JapanPuzzles/Saved/Config/Windows/Scalability.ini]
-[2021.09.02-10.15.20:014][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2021.09.02-10.15.20:014][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal Projects/JapanPuzzles/Saved/Config/Windows/Scalability.ini]
-[2021.09.02-10.15.20:014][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2021.09.02-10.15.20:014][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2021.09.02-10.15.20:014][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2021.09.02-10.15.20:014][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2021.09.02-10.15.20:014][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2021.09.02-10.15.20:014][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2021.09.02-10.15.20:014][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2021.09.02-10.15.20:014][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2021.09.02-10.15.20:014][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2021.09.02-10.15.20:014][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2021.09.02-10.15.20:014][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2021.09.02-10.15.20:014][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2021.09.02-10.15.20:014][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2021.09.02-10.15.20:014][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2021.09.02-10.15.20:014][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2021.09.02-10.15.20:014][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2021.09.02-10.15.20:014][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2021.09.02-10.15.20:014][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2021.09.02-10.15.20:014][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal Projects/JapanPuzzles/Saved/Config/Windows/Scalability.ini]
-[2021.09.02-10.15.20:014][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2021.09.02-10.15.20:015][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2021.09.02-10.15.20:015][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2021.09.02-10.15.20:015][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2021.09.02-10.15.20:015][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2021.09.02-10.15.20:015][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2021.09.02-10.15.20:015][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2021.09.02-10.15.20:015][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2021.09.02-10.15.20:015][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2021.09.02-10.15.20:015][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2021.09.02-10.15.20:015][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2021.09.02-10.15.20:015][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2021.09.02-10.15.20:015][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2021.09.02-10.15.20:015][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2021.09.02-10.15.20:015][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2021.09.02-10.15.20:015][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2021.09.02-10.15.20:015][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2021.09.02-10.15.20:015][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2021.09.02-10.15.20:015][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2021.09.02-10.15.20:015][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2021.09.02-10.15.20:015][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2021.09.02-10.15.20:015][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2021.09.02-10.15.20:015][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2021.09.02-10.15.20:015][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2021.09.02-10.15.20:015][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2021.09.02-10.15.20:015][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2021.09.02-10.15.20:015][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2021.09.02-10.15.20:015][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2021.09.02-10.15.20:015][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2021.09.02-10.15.20:015][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2021.09.02-10.15.20:015][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal Projects/JapanPuzzles/Saved/Config/Windows/Scalability.ini]
-[2021.09.02-10.15.20:015][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2021.09.02-10.15.20:015][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2021.09.02-10.15.20:015][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2021.09.02-10.15.20:015][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2021.09.02-10.15.20:015][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2021.09.02-10.15.20:015][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
-[2021.09.02-10.15.20:015][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2021.09.02-10.15.20:015][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2021.09.02-10.15.20:015][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2021.09.02-10.15.20:015][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal Projects/JapanPuzzles/Saved/Config/Windows/Scalability.ini]
-[2021.09.02-10.15.20:015][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2021.09.02-10.15.20:015][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2021.09.02-10.15.20:015][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2021.09.02-10.15.20:015][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
-[2021.09.02-10.15.20:015][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2021.09.02-10.15.20:015][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2021.09.02-10.15.20:015][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2021.09.02-10.15.20:015][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2021.09.02-10.15.20:015][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
-[2021.09.02-10.15.20:015][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2021.09.02-10.15.20:015][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2021.09.02-10.15.20:015][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2021.09.02-10.15.20:015][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
-[2021.09.02-10.15.20:015][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
-[2021.09.02-10.15.20:015][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2021.09.02-10.15.20:015][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2021.09.02-10.15.20:015][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
-[2021.09.02-10.15.20:016][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
-[2021.09.02-10.15.20:016][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
-[2021.09.02-10.15.20:016][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
-[2021.09.02-10.15.20:016][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
-[2021.09.02-10.15.20:016][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
-[2021.09.02-10.15.20:016][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
-[2021.09.02-10.15.20:016][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
-[2021.09.02-10.15.20:016][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
-[2021.09.02-10.15.20:016][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
-[2021.09.02-10.15.20:016][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
-[2021.09.02-10.15.20:016][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal Projects/JapanPuzzles/Saved/Config/Windows/Scalability.ini]
-[2021.09.02-10.15.20:016][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2021.09.02-10.15.20:016][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2021.09.02-10.15.20:016][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Unreal Projects/JapanPuzzles/Saved/Config/Windows/Scalability.ini]
-[2021.09.02-10.15.20:016][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
-[2021.09.02-10.15.20:016][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
-[2021.09.02-10.15.20:016][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
-[2021.09.02-10.15.20:016][  0]LogInit: Selected Device Profile: [Windows]
-[2021.09.02-10.15.20:016][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2021.09.02-10.15.20:016][  0]LogHAL: Display: Platform has ~ 8 GB [8535756800 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
-[2021.09.02-10.15.20:016][  0]LogInit: Going up to parent DeviceProfile []
-[2021.09.02-10.15.20:016][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal Projects/JapanPuzzles/Saved/Config/Windows/Scalability.ini]
-[2021.09.02-10.15.20:016][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2021.09.02-10.15.20:016][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2021.09.02-10.15.20:016][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal Projects/JapanPuzzles/Saved/Config/Windows/Scalability.ini]
-[2021.09.02-10.15.20:016][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2021.09.02-10.15.20:016][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal Projects/JapanPuzzles/Saved/Config/Windows/Scalability.ini]
-[2021.09.02-10.15.20:016][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2021.09.02-10.15.20:016][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2021.09.02-10.15.20:016][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2021.09.02-10.15.20:016][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2021.09.02-10.15.20:016][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2021.09.02-10.15.20:016][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2021.09.02-10.15.20:016][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2021.09.02-10.15.20:016][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2021.09.02-10.15.20:016][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2021.09.02-10.15.20:016][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2021.09.02-10.15.20:016][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2021.09.02-10.15.20:016][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2021.09.02-10.15.20:016][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2021.09.02-10.15.20:016][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2021.09.02-10.15.20:016][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2021.09.02-10.15.20:016][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2021.09.02-10.15.20:016][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2021.09.02-10.15.20:016][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2021.09.02-10.15.20:016][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal Projects/JapanPuzzles/Saved/Config/Windows/Scalability.ini]
-[2021.09.02-10.15.20:016][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2021.09.02-10.15.20:017][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2021.09.02-10.15.20:017][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2021.09.02-10.15.20:017][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2021.09.02-10.15.20:017][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2021.09.02-10.15.20:017][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2021.09.02-10.15.20:017][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2021.09.02-10.15.20:017][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2021.09.02-10.15.20:017][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2021.09.02-10.15.20:017][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2021.09.02-10.15.20:017][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2021.09.02-10.15.20:017][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2021.09.02-10.15.20:017][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2021.09.02-10.15.20:017][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2021.09.02-10.15.20:017][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2021.09.02-10.15.20:017][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2021.09.02-10.15.20:017][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2021.09.02-10.15.20:017][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2021.09.02-10.15.20:017][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2021.09.02-10.15.20:017][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2021.09.02-10.15.20:017][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2021.09.02-10.15.20:017][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2021.09.02-10.15.20:017][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2021.09.02-10.15.20:017][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2021.09.02-10.15.20:017][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2021.09.02-10.15.20:017][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2021.09.02-10.15.20:017][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2021.09.02-10.15.20:017][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2021.09.02-10.15.20:017][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2021.09.02-10.15.20:017][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2021.09.02-10.15.20:017][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal Projects/JapanPuzzles/Saved/Config/Windows/Scalability.ini]
-[2021.09.02-10.15.20:017][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2021.09.02-10.15.20:017][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2021.09.02-10.15.20:017][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2021.09.02-10.15.20:017][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2021.09.02-10.15.20:017][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2021.09.02-10.15.20:017][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
-[2021.09.02-10.15.20:017][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2021.09.02-10.15.20:017][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2021.09.02-10.15.20:017][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2021.09.02-10.15.20:017][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal Projects/JapanPuzzles/Saved/Config/Windows/Scalability.ini]
-[2021.09.02-10.15.20:017][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2021.09.02-10.15.20:017][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2021.09.02-10.15.20:017][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2021.09.02-10.15.20:017][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
-[2021.09.02-10.15.20:017][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2021.09.02-10.15.20:017][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2021.09.02-10.15.20:017][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2021.09.02-10.15.20:017][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2021.09.02-10.15.20:017][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
-[2021.09.02-10.15.20:017][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2021.09.02-10.15.20:017][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2021.09.02-10.15.20:017][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2021.09.02-10.15.20:017][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
-[2021.09.02-10.15.20:017][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
-[2021.09.02-10.15.20:017][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2021.09.02-10.15.20:017][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2021.09.02-10.15.20:017][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
-[2021.09.02-10.15.20:018][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
-[2021.09.02-10.15.20:018][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
-[2021.09.02-10.15.20:018][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
-[2021.09.02-10.15.20:018][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
-[2021.09.02-10.15.20:018][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
-[2021.09.02-10.15.20:018][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
-[2021.09.02-10.15.20:018][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
-[2021.09.02-10.15.20:018][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
-[2021.09.02-10.15.20:018][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
-[2021.09.02-10.15.20:018][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
-[2021.09.02-10.15.20:018][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal Projects/JapanPuzzles/Saved/Config/Windows/Scalability.ini]
-[2021.09.02-10.15.20:018][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2021.09.02-10.15.20:018][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2021.09.02-10.15.20:018][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Unreal Projects/JapanPuzzles/Saved/Config/Windows/Scalability.ini]
-[2021.09.02-10.15.20:018][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
-[2021.09.02-10.15.20:018][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
-[2021.09.02-10.15.20:018][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
-[2021.09.02-10.15.20:018][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
-[2021.09.02-10.15.20:018][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
-[2021.09.02-10.15.20:018][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
-[2021.09.02-10.15.20:018][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
-[2021.09.02-10.15.20:018][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Unreal Projects/JapanPuzzles/Saved/Config/Windows/Engine.ini]
-[2021.09.02-10.15.20:018][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Unreal Projects/JapanPuzzles/Saved/Config/Windows/Editor.ini]
-[2021.09.02-10.15.20:018][  0]LogInit: Computer: IDEA-PC
-[2021.09.02-10.15.20:018][  0]LogInit: User: Mikhaill
-[2021.09.02-10.15.20:018][  0]LogInit: CPU Page size=4096, Cores=4
-[2021.09.02-10.15.20:018][  0]LogInit: High frequency timer resolution =3.312661 MHz
-[2021.09.02-10.15.20:018][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
-[2021.09.02-10.15.20:018][  0]LogMemory: Platform Memory Stats for Windows
-[2021.09.02-10.15.20:018][  0]LogMemory: Process Physical Memory: 126.77 MB used, 126.77 MB peak
-[2021.09.02-10.15.20:019][  0]LogMemory: Process Virtual Memory: 108.41 MB used, 108.41 MB peak
-[2021.09.02-10.15.20:019][  0]LogMemory: Physical Memory: 2588.41 MB used,  5551.92 MB free, 8140.33 MB total
-[2021.09.02-10.15.20:019][  0]LogMemory: Virtual Memory: 134211736.00 MB used,  5993.59 MB free, 134217728.00 MB total
-[2021.09.02-10.15.20:030][  0]LogWindows: WindowsPlatformFeatures enabled
-[2021.09.02-10.15.20:062][  0]LogInit: Physics initialised using underlying interface: PhysX
-[2021.09.02-10.15.20:063][  0]LogInit: Using OS detected language (ru-RU).
-[2021.09.02-10.15.20:063][  0]LogInit: Using OS detected locale (ru-RU).
-[2021.09.02-10.15.20:067][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
-[2021.09.02-10.15.20:067][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
-[2021.09.02-10.15.20:067][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
-[2021.09.02-10.15.20:067][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
-[2021.09.02-10.15.20:067][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
-[2021.09.02-10.15.20:068][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
-[2021.09.02-10.15.20:068][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
-[2021.09.02-10.15.20:068][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
-[2021.09.02-10.15.20:069][  0]LogInit: Setting process to per monitor DPI aware
-[2021.09.02-10.15.20:075][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
-[2021.09.02-10.15.20:096][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
-[2021.09.02-10.15.20:096][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
-[2021.09.02-10.15.20:353][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2021.09.02-10.15.20:353][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
-[2021.09.02-10.15.20:353][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
-[2021.09.02-10.15.20:353][  0]LogD3D11RHI: D3D11 adapters:
-[2021.09.02-10.15.20:401][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GT 635' (Feature Level 11_0)
-[2021.09.02-10.15.20:401][  0]LogD3D11RHI:       1967/0/4070 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
-[2021.09.02-10.15.20:403][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2021.09.02-10.15.20:403][  0]LogD3D11RHI:       0/0/256 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2021.09.02-10.15.20:403][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2021.09.02-10.15.20:408][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2021.09.02-10.15.20:408][  0]LogD3D11RHI:     GPU DeviceId: 0x1280 (for the marketing name, search the web for "GPU Device Id")
-[2021.09.02-10.15.20:408][  0]LogWindows: EnumDisplayDevices:
-[2021.09.02-10.15.20:408][  0]LogWindows:    0. 'NVIDIA GeForce GT 635' (P:1 D:1)
-[2021.09.02-10.15.20:409][  0]LogWindows:    1. 'NVIDIA GeForce GT 635' (P:0 D:0)
-[2021.09.02-10.15.20:409][  0]LogWindows: DebugString: FoundDriverCount:2 
-[2021.09.02-10.15.20:409][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GT 635
-[2021.09.02-10.15.20:409][  0]LogD3D11RHI:   Driver Version: 391.35 (internal:23.21.13.9135, unified:391.35)
-[2021.09.02-10.15.20:409][  0]LogD3D11RHI:      Driver Date: 3-23-2018
-[2021.09.02-10.15.20:409][  0]LogRHI: Texture pool is 1377 MB (70% of 1967 MB)
-[2021.09.02-10.15.20:433][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
-[2021.09.02-10.15.20:433][  0]LogD3D11RHI: Async texture creation enabled
-[2021.09.02-10.15.20:507][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
-[2021.09.02-10.15.20:509][  0]LogRHI: GeForceNow SDK initialized: 1
-[2021.09.02-10.15.20:904][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
-[2021.09.02-10.15.20:937][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
-[2021.09.02-10.15.20:937][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
-[2021.09.02-10.15.20:937][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
-[2021.09.02-10.15.20:937][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
-[2021.09.02-10.15.20:937][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
-[2021.09.02-10.15.20:937][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
-[2021.09.02-10.15.20:937][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
-[2021.09.02-10.15.20:937][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
-[2021.09.02-10.15.20:937][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
-[2021.09.02-10.15.20:937][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
-[2021.09.02-10.15.20:969][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
-[2021.09.02-10.15.20:969][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
-[2021.09.02-10.15.20:983][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
-[2021.09.02-10.15.20:996][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
-[2021.09.02-10.15.21:008][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
-[2021.09.02-10.15.21:021][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
-[2021.09.02-10.15.21:033][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
-[2021.09.02-10.15.21:046][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
-[2021.09.02-10.15.21:059][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
-[2021.09.02-10.15.21:096][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
-[2021.09.02-10.15.21:096][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
-[2021.09.02-10.15.21:108][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
-[2021.09.02-10.15.21:121][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
-[2021.09.02-10.15.21:133][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
-[2021.09.02-10.15.21:146][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
-[2021.09.02-10.15.21:168][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
-[2021.09.02-10.15.21:168][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
-[2021.09.02-10.15.21:181][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
-[2021.09.02-10.15.21:194][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
-[2021.09.02-10.15.21:206][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
-[2021.09.02-10.15.21:219][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
-[2021.09.02-10.15.21:219][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2021.09.02-10.15.21:228][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
-[2021.09.02-10.15.21:302][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
-[2021.09.02-10.15.21:302][  0]LogShaderCompilers: Guid format shader working directory is 5 characters bigger than the processId version (../../../../../Unreal Projects/JapanPuzzles/Intermediate/Shaders/WorkingDirectory/10092/).
-[2021.09.02-10.15.21:302][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Mikhaill/AppData/Local/Temp/UnrealShaderWorkingDir/B0247A1D40F7407AC5B7B8B4B31AA226/'.
-[2021.09.02-10.15.21:302][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
-[2021.09.02-10.15.21:302][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2021.09.02-10.15.22:811][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2021.09.02-10.15.22:909][  0]LogDerivedDataCache: Loaded boot cache 0.10s 77MB C:/Users/Mikhaill/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
-[2021.09.02-10.15.22:910][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Mikhaill/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
-[2021.09.02-10.15.22:910][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Unreal Projects/JapanPuzzles/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2021.09.02-10.15.22:910][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2021.09.02-10.15.22:910][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Unreal Projects/JapanPuzzles/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2021.09.02-10.15.22:910][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2021.09.02-10.15.22:932][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2021.09.02-10.15.22:932][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2021.09.02-10.15.22:932][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
-[2021.09.02-10.15.22:942][  0]LogDerivedDataCache: Speed tests for C:/Users/Mikhaill/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
-[2021.09.02-10.15.22:942][  0]LogDerivedDataCache: Display: Performance to C:/Users/Mikhaill/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.01ms. RandomReadSpeed=689.13MBs, RandomWriteSpeed=119.69MBs. Assigned SpeedClass 'Local'
-[2021.09.02-10.15.22:943][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Mikhaill/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2021.09.02-10.15.22:943][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
-[2021.09.02-10.15.22:943][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
-[2021.09.02-10.15.23:031][  0]LogSlate: Using FreeType 2.10.0
-[2021.09.02-10.15.23:031][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2021.09.02-10.15.23:075][  0]LogAssetRegistry: FAssetRegistry took 0.0041 seconds to start up
-[2021.09.02-10.15.23:497][  0]LogInit: Selected Device Profile: [Windows]
-[2021.09.02-10.15.23:497][  0]LogInit: Active device profile: [000000AA2DFA1B00][000000AA2C05A0C0 49] Windows
-[2021.09.02-10.15.23:497][  0]LogInit: Profiles: [000000AA2DFA1B00][000000AA2C05A0C0 49] Windows, [000000AA2DF80D00][000000AA2E254240 49] WindowsNoEditor, [000000AA2DFA0C00][000000AA2E2583C0 49] WindowsServer, [000000AA2DF82400][000000AA2E25C540 49] WindowsClient, [000000AA2DFA3700][000000AA2E2606C0 49] IOS, [000000AA2DF83B00][000000AA2E264840 49] iPadAir, [000000AA2DFA2E00][000000AA2E2689C0 49] iPadAir2, [000000AA2DF26E00][000000AA2E270C80 49] IPadPro, [000000AA2DF26F00][000000AA2E26CCC0 49] iPadAir3, [000000AA2DFA1300][000000AA2E274E40 49] iPadAir4, [000000AA2DF26800][000000AA2E278FC0 49] iPadMini2, [000000AA2DFA3100][000000AA2E27D140 49] iPadMini3, [000000AA2DF25700][000000AA2E2812C0 49] iPadMini4, [000000AA2DFA1200][000000AA2E285440 49] iPadMini5, [000000AA2DF6A700][000000AA2E289680 49] iPhone6, [000000AA2DF6A800][000000AA2E2516C0 49] iPodTouch6, [000000AA2DF27600][000000AA2E291900 49] iPhone7, [000000AA2DF27700][000000AA2E28D940 49] iPodTouch7, [000000AA2DF6BF00][000000AA2E299AC0 49] iPhone5S, [000000AA2DF27500][000000AA2E29DC40 49] iPhone6Plus, [000000AA2DF69500][000000AA2E2A0100 49] iPhone6S, [000000AA2DF25100][000000AA2E2A4280 49] iPhone6SPlus, [000000AA2DF68400][000000AA2E2A8400 49] iPhone7Plus, [000000AA2DF24B00][000000AA2E2AC580 49] iPhoneSE, [000000AA2DF6B300][000000AA2E2B0700 49] iPhone8, [000000AA2DF25500][000000AA2E2B4880 49] iPhone8Plus, [000000AA2DF69900][000000AA2E2B8A00 49] iPhoneX, [000000AA2DF26200][000000AA2E2BCB80 49] iPhoneXS, [000000AA2DF6AE00][000000AA2E2C0D00 49] iPhoneXSMax, [000000AA2DF27F00][000000AA2E2C4E80 49] iPhoneXR, [000000AA2DF68B00][000000AA2E2C9000 49] iPhone11, [000000AA2DF27300][000000AA2E2CD180 49] iPhone11Pro, [000000AA2DF6BC00][000000AA2E2D1300 49] iPhone11ProMax, [000000AA2DF24100][000000AA2E2D5480 49] iPhoneSE2, [000000AA2DF6A200][000000AA2E2D9600 49] iPhone12Mini, [000000AA2DF25300][000000AA2E295740 49] iPhone12, [000000AA2DF69000][000000AA2E2DD880 49] iPhone12Pro, [000000AA2DF25600][000000AA2E2E19C0 49] iPhone12ProMax, [000000AA2DF69200][000000AA2E2E9B40 49] iPadPro105, [000000AA2DF6B800][000000AA2E2EDCC0 49] iPadPro129, [000000AA2DF81C00][000000AA2E2F0180 49] iPadPro97, [000000AA2DF6B100][000000AA2E2F4300 49] iPadPro2_129, [000000AA2DF83D00][000000AA2E2F8480 49] iPad5, [000000AA2DF6AB00][000000AA2E2FC600 49] iPad6, [000000AA2DF82D00][000000AA2E300780 49] iPad7, [000000AA2DF6B600][000000AA2E304900 49] iPad8, [000000AA2DF81E00][000000AA2E308A80 49] iPadPro11, [000000AA2DF6AF00][000000AA2E30CC00 49] iPadPro2_11, [000000AA2DF82B00][000000AA2E310D80 49] iPadPro3_129, [000000AA2DF83300][000000AA2E314F00 49] iPadPro4_129, [000000AA2DF24A00][000000AA2E319080 49] AppleTV, [000000AA2DF83F00][000000AA2E31D200 49] AppleTV4K, [000000AA2DF26B00][000000AA2E321380 49] TVOS, [000000AA2DF6A300][000000AA2E325500 49] Mac, [000000AA2DF26700][000000AA2E329680 49] MacClient, [000000AA2DF68200][000000AA2E2E57C0 49] MacNoEditor, [000000AA2DF24300][000000AA2E32D900 49] MacServer, [000000AA2DF6B000][000000AA2E331A40 49] Linux, [000000AA2DF24C00][000000AA2E335B80 49] LinuxAArch64, [000000AA2DF69B00][000000AA2E33DD00 49] LinuxNoEditor, [000000AA2DF26C00][000000AA2E3401C0 49] LinuxAArch64NoEditor, [000000AA2DF68F00][000000AA2E344340 49] LinuxClient, [000000AA2DF27D00][000000AA2E3484C0 49] LinuxAArch64Client, [000000AA2DF6B400][000000AA2E34C640 49] LinuxServer, [000000AA2DF27900][000000AA2E3507C0 49] LinuxAArch64Server, [000000AA2DF68500][000000AA2E354940 49] Android, [000000AA2DF27400][000000AA2E358AC0 49] Android_Low, [000000AA2DF6AC00][000000AA2E35CC40 49] Android_Mid, [000000AA2DF24F00][000000AA2E360DC0 49] Android_High, [000000AA2DF6BE00][000000AA2E364F40 49] Android_Default, [000000AA2DF24600][000000AA2E3690C0 49] Android_Adreno4xx, [000000AA2DF68E00][000000AA2E36D240 49] Android_Adreno5xx_Low, [000000AA2DF24500][000000AA2E3713C0 49] Android_Adreno5xx, [000000AA2DF6AA00][000000AA2E375540 49] Android_Adreno6xx, [000000AA2DF27000][000000AA2E3796C0 49] Android_Adreno6xx_Vulkan, [000000AA2DF6A500][000000AA2E339800 49] Android_Mali_T6xx, [000000AA2DF26000][000000AA2E37D940 49] Android_Mali_T7xx, [000000AA2DF69700][000000AA2E381A80 49] Android_Mali_T8xx, [000000AA2DF25800][000000AA2E385BC0 49] Android_Mali_G71, [000000AA2DF6B200][000000AA2E38DD40 49] Android_Mali_G72, [000000AA2DF25C00][000000AA2E390200 49] Android_Mali_G72_Vulkan, [000000AA2DF6BD00][000000AA2E394380 49] Android_Mali_G76, [000000AA2DF27800][000000AA2E398500 49] Android_Mali_G76_Vulkan, [000000AA2DF68800][000000AA2E39C680 49] Android_Mali_G77, [000000AA2DF24700][000000AA2E3A0800 49] Android_Mali_G77_Vulkan, [000000AA2DF68C00][000000AA2E3A4980 49] Android_Vulkan_SM5, [000000AA2DF25A00][000000AA2E3A8B00 49] Android_PowerVR_G6xxx, [000000AA2DF68100][000000AA2E3ACC80 49] Android_PowerVR_GT7xxx, [000000AA2DF25B00][000000AA2E3B0E00 49] Android_PowerVR_GE8xxx, [000000AA2DF69400][000000AA2E3B4F80 49] Android_PowerVR_GM9xxx, [000000AA2DF26900][000000AA2E3B9100 49] Android_PowerVR_GM9xxx_Vulkan, [000000AA2DF6BB00][000000AA2E3BD280 49] Android_TegraK1, [000000AA2DF27B00][000000AA2E3C1400 49] Android_Unknown_Vulkan, [000000AA2DF69C00][000000AA2E3C5580 49] Lumin, [000000AA2DF82100][000000AA2E3C9700 49] Lumin_Desktop, [000000AA2DFA0400][000000AA2E3CD880 49] HoloLens, 
-[2021.09.02-10.15.23:683][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2021.09.02-10.15.23:683][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
-[2021.09.02-10.15.23:683][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
-[2021.09.02-10.15.23:683][  0]LogMeshReduction: No distributed automatic mesh merging module available
-[2021.09.02-10.15.23:683][  0]LogMeshMerging: No distributed automatic mesh merging module available
-[2021.09.02-10.15.23:707][  0]LogNetVersion: JapanPuzzles 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 1956596755)
-[2021.09.02-10.15.24:451][  0]LogHMD: PokeAHoleMaterial loaded successfully
-[2021.09.02-10.15.24:507][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.054634 seconds
-[2021.09.02-10.15.24:515][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
-[2021.09.02-10.15.24:515][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
-[2021.09.02-10.15.24:515][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2021.09.02-10.15.25:013][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2021.09.02-10.15.25:019][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2021.09.02-10.15.25:203][  0]SourceControl: Source control is disabled
-[2021.09.02-10.15.25:203][  0]SourceControl: Source control is disabled
-[2021.09.02-10.15.25:209][  0]SourceControl: Source control is disabled
-[2021.09.02-10.15.25:212][  0]SourceControl: Source control is disabled
-[2021.09.02-10.15.25:222][  0]SourceControl: Source control is disabled
-[2021.09.02-10.15.25:229][  0]LogUProjectInfo: Found projects:
-[2021.09.02-10.15.25:451][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2021.09.02-10.15.25:475][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
-[2021.09.02-10.15.25:475][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
-[2021.09.02-10.15.25:537][  0]LogCollectionManager: Loaded 0 collections in 0.000837 seconds
-[2021.09.02-10.15.25:567][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/JapanPuzzles/Saved/Collections/' took 0.00s
-[2021.09.02-10.15.25:567][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/JapanPuzzles/Content/Developers/Mikhaill/Collections/' took 0.00s
-[2021.09.02-10.15.25:567][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/JapanPuzzles/Content/Collections/' took 0.00s
-[2021.09.02-10.15.25:567][  0]LogOcInput: OculusInput pre-init called
-[2021.09.02-10.15.25:580][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
-[2021.09.02-10.15.25:580][  0]LogWindows: File 'OVRPlugin.dll' does not exist
-[2021.09.02-10.15.25:656][  0]LogEngine: Initializing Engine...
-[2021.09.02-10.15.25:657][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2021.09.02-10.15.25:657][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
-[2021.09.02-10.15.25:658][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
-[2021.09.02-10.15.25:857][  0]LogInit: Initializing FReadOnlyCVARCache
-[2021.09.02-10.15.25:868][  0]LogAIModule: Creating AISystem for world Untitled
-[2021.09.02-10.15.25:889][  0]LogAudio: Display: Initializing Audio Device Manager...
-[2021.09.02-10.15.25:894][  0]LogAudio: Display: Audio Device Manager Initialized
-[2021.09.02-10.15.25:894][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
-[2021.09.02-10.15.25:894][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
-[2021.09.02-10.15.25:894][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
-[2021.09.02-10.15.25:894][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
-[2021.09.02-10.15.25:895][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
-[2021.09.02-10.15.25:895][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
-[2021.09.02-10.15.25:895][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
-[2021.09.02-10.15.25:895][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
-[2021.09.02-10.15.25:895][  0]LogAudio: Display: AudioDevice MaxSources: 32
-[2021.09.02-10.15.25:895][  0]LogAudio: Display: Using built-in audio occlusion.
-[2021.09.02-10.15.25:895][  0]LogAudioMixer: Display: Initializing audio mixer.
-[2021.09.02-10.15.25:903][  0]LogAudioMixer: Display: 0: FrontLeft
-[2021.09.02-10.15.25:903][  0]LogAudioMixer: Display: 1: FrontRight
-[2021.09.02-10.15.25:940][  0]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
-[2021.09.02-10.15.25:951][  0]LogAudioMixer: Display: Initializing Sound Submixes...
-[2021.09.02-10.15.25:954][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
-[2021.09.02-10.15.25:954][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
-[2021.09.02-10.15.25:956][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
-[2021.09.02-10.15.25:956][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
-[2021.09.02-10.15.25:956][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
-[2021.09.02-10.15.25:957][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
-[2021.09.02-10.15.25:957][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
-[2021.09.02-10.15.25:957][  0]LogInit: FAudioDevice initialized.
-[2021.09.02-10.15.25:957][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
-[2021.09.02-10.15.25:958][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
-[2021.09.02-10.15.26:101][  0]LogDerivedDataCache: Saved boot cache 0.14s 77MB C:/Users/Mikhaill/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
-[2021.09.02-10.15.26:103][  0]LogInit: Texture streaming: Enabled
-[2021.09.02-10.15.26:118][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
-[2021.09.02-10.15.26:122][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2021.09.02-10.15.26:122][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
-[2021.09.02-10.15.26:124][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
-[2021.09.02-10.15.26:154][  0]LogInit: Transaction tracking system initialized
-[2021.09.02-10.15.26:182][  0]BlueprintLog: New page: Editor Load
-[2021.09.02-10.15.26:331][  0]LocalizationService: Localization service is disabled
-[2021.09.02-10.15.26:360][  0]TimingProfiler: Initialize
-[2021.09.02-10.15.26:360][  0]TimingProfiler: OnSessionChanged
-[2021.09.02-10.15.26:361][  0]LoadingProfiler: Initialize
-[2021.09.02-10.15.26:361][  0]LoadingProfiler: OnSessionChanged
-[2021.09.02-10.15.26:361][  0]NetworkingProfiler: Initialize
-[2021.09.02-10.15.26:361][  0]NetworkingProfiler: OnSessionChanged
-[2021.09.02-10.15.26:361][  0]MemoryProfiler: Initialize
-[2021.09.02-10.15.26:361][  0]MemoryProfiler: OnSessionChanged
-[2021.09.02-10.15.26:551][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
-[2021.09.02-10.15.26:551][  0]LogCook: Display: Mobile HDR setting 1
-[2021.09.02-10.15.26:752][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/JapanPuzzles/Content/' took 0.00s
-[2021.09.02-10.15.27:088][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
-[2021.09.02-10.15.27:093][  0]SourceControl: Source control is disabled
-[2021.09.02-10.15.27:093][  0]LogUnrealEdMisc: Loading editor; pre map load, took 8.556
-[2021.09.02-10.15.27:093][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
-[2021.09.02-10.15.27:093][  0]LightingResults: New page: Lighting Build
-[2021.09.02-10.15.27:094][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
-[2021.09.02-10.15.27:094][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2021.09.02-10.15.27:094][  0]MapCheck: New page: Map Check
-[2021.09.02-10.15.27:094][  0]LightingResults: New page: Lighting Build
-[2021.09.02-10.15.27:107][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
-[2021.09.02-10.15.27:213][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
-[2021.09.02-10.15.27:216][  0]LogAIModule: Creating AISystem for world Untitled_1
-[2021.09.02-10.15.27:222][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2021.09.02-10.15.27:233][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
-[2021.09.02-10.15.27:233][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2021.09.02-10.15.27:233][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,123ms to complete.
-[2021.09.02-10.15.27:233][  0]LogFileHelpers: Loading map 'Template_Default' took 0.141
-[2021.09.02-10.15.27:236][  0]LogUnrealEdMisc: Total Editor Startup Time, took 8.700
-[2021.09.02-10.15.27:309][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
-[2021.09.02-10.15.27:380][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2021.09.02-10.15.27:392][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2021.09.02-10.15.27:402][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2021.09.02-10.15.27:412][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2021.09.02-10.15.27:434][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0161 seconds. Added 3602 classes and 861 folders.
-[2021.09.02-10.15.27:438][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
-[2021.09.02-10.15.27:440][  0]LogPakFile: PakFile PrimaryIndexSize=187
-[2021.09.02-10.15.27:440][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.09.02-10.15.27:440][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
-[2021.09.02-10.15.27:440][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
-[2021.09.02-10.15.27:441][  0]LogPakFile: PakFile PrimaryIndexSize=189
-[2021.09.02-10.15.27:441][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.09.02-10.15.27:441][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
-[2021.09.02-10.15.27:441][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
-[2021.09.02-10.15.27:442][  0]LogPakFile: PakFile PrimaryIndexSize=191
-[2021.09.02-10.15.27:442][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.09.02-10.15.27:442][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
-[2021.09.02-10.15.27:442][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
-[2021.09.02-10.15.27:443][  0]LogPakFile: PakFile PrimaryIndexSize=185
-[2021.09.02-10.15.27:443][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.09.02-10.15.27:443][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
-[2021.09.02-10.15.27:443][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
-[2021.09.02-10.15.27:444][  0]LogPakFile: PakFile PrimaryIndexSize=190
-[2021.09.02-10.15.27:444][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.09.02-10.15.27:444][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
-[2021.09.02-10.15.27:444][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
-[2021.09.02-10.15.27:445][  0]LogPakFile: PakFile PrimaryIndexSize=192
-[2021.09.02-10.15.27:445][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.09.02-10.15.27:445][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
-[2021.09.02-10.15.27:445][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
-[2021.09.02-10.15.27:446][  0]LogPakFile: PakFile PrimaryIndexSize=182
-[2021.09.02-10.15.27:446][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.09.02-10.15.27:446][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
-[2021.09.02-10.15.27:446][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
-[2021.09.02-10.15.27:447][  0]LogPakFile: PakFile PrimaryIndexSize=184
-[2021.09.02-10.15.27:447][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.09.02-10.15.27:447][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
-[2021.09.02-10.15.27:447][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
-[2021.09.02-10.15.27:447][  0]LogPakFile: PakFile PrimaryIndexSize=188
-[2021.09.02-10.15.27:447][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.09.02-10.15.27:447][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
-[2021.09.02-10.15.27:447][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
-[2021.09.02-10.15.27:448][  0]LogPakFile: PakFile PrimaryIndexSize=182
-[2021.09.02-10.15.27:448][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.09.02-10.15.27:448][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
-[2021.09.02-10.15.27:448][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
-[2021.09.02-10.15.27:449][  0]LogPakFile: PakFile PrimaryIndexSize=184
-[2021.09.02-10.15.27:449][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.09.02-10.15.27:449][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
-[2021.09.02-10.15.27:449][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
-[2021.09.02-10.15.27:450][  0]LogPakFile: PakFile PrimaryIndexSize=183
-[2021.09.02-10.15.27:450][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.09.02-10.15.27:450][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
-[2021.09.02-10.15.27:450][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
-[2021.09.02-10.15.27:451][  0]LogPakFile: PakFile PrimaryIndexSize=185
-[2021.09.02-10.15.27:451][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.09.02-10.15.27:451][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
-[2021.09.02-10.15.27:451][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
-[2021.09.02-10.15.27:452][  0]LogPakFile: PakFile PrimaryIndexSize=188
-[2021.09.02-10.15.27:452][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.09.02-10.15.27:452][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
-[2021.09.02-10.15.27:452][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
-[2021.09.02-10.15.27:453][  0]LogPakFile: PakFile PrimaryIndexSize=190
-[2021.09.02-10.15.27:453][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.09.02-10.15.27:453][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
-[2021.09.02-10.15.27:453][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
-[2021.09.02-10.15.27:454][  0]LogPakFile: PakFile PrimaryIndexSize=187
-[2021.09.02-10.15.27:454][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.09.02-10.15.27:454][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
-[2021.09.02-10.15.27:454][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
-[2021.09.02-10.15.27:455][  0]LogPakFile: PakFile PrimaryIndexSize=189
-[2021.09.02-10.15.27:455][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.09.02-10.15.27:455][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
-[2021.09.02-10.15.27:455][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
-[2021.09.02-10.15.27:456][  0]LogPakFile: PakFile PrimaryIndexSize=183
-[2021.09.02-10.15.27:456][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.09.02-10.15.27:456][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
-[2021.09.02-10.15.27:456][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
-[2021.09.02-10.15.27:456][  0]LogPakFile: PakFile PrimaryIndexSize=185
-[2021.09.02-10.15.27:457][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.09.02-10.15.27:457][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
-[2021.09.02-10.15.27:457][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
-[2021.09.02-10.15.27:457][  0]LogPakFile: PakFile PrimaryIndexSize=185
-[2021.09.02-10.15.27:457][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.09.02-10.15.27:457][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
-[2021.09.02-10.15.27:457][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
-[2021.09.02-10.15.27:458][  0]LogPakFile: PakFile PrimaryIndexSize=187
-[2021.09.02-10.15.27:458][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.09.02-10.15.27:458][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
-[2021.09.02-10.15.27:458][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
-[2021.09.02-10.15.27:459][  0]LogPakFile: PakFile PrimaryIndexSize=183
-[2021.09.02-10.15.27:459][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.09.02-10.15.27:459][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
-[2021.09.02-10.15.27:460][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
-[2021.09.02-10.15.27:460][  0]LogPakFile: PakFile PrimaryIndexSize=186
-[2021.09.02-10.15.27:461][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.09.02-10.15.27:461][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
-[2021.09.02-10.15.27:461][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
-[2021.09.02-10.15.27:461][  0]LogPakFile: PakFile PrimaryIndexSize=188
-[2021.09.02-10.15.27:461][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.09.02-10.15.27:461][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
-[2021.09.02-10.15.27:462][  0]LogPakFile: OnPakFileMounted2Time == 0.000057
-[2021.09.02-10.15.27:462][  0]LogPakFile: PakFile PrimaryIndexSize=185
-[2021.09.02-10.15.27:462][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.09.02-10.15.27:462][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
-[2021.09.02-10.15.27:462][  0]LogPakFile: OnPakFileMounted2Time == 0.000059
-[2021.09.02-10.15.27:463][  0]LogPakFile: PakFile PrimaryIndexSize=192
-[2021.09.02-10.15.27:463][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.09.02-10.15.27:463][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
-[2021.09.02-10.15.27:463][  0]LogPakFile: OnPakFileMounted2Time == 0.000061
-[2021.09.02-10.15.27:546][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
-[2021.09.02-10.15.27:547][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
-[2021.09.02-10.15.28:284][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
-[2021.09.02-10.15.28:474][  0]LogSlate: Took 0.000314 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2021.09.02-10.15.28:478][  0]LogSlate: Took 0.000258 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2021.09.02-10.15.28:491][  0]LogSlate: Took 0.000304 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2021.09.02-10.15.28:736][  0]LogRenderer: Reallocating scene render targets to support 1028x572 Format 10 NumSamples 1 (Frame:1).
-[2021.09.02-10.15.28:842][  0]LogSlate: Took 0.000337 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2021.09.02-10.15.29:405][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
-[2021.09.02-10.15.29:406][  0]LogLoad: (Engine Initialization) Total time: 10.87 seconds
-[2021.09.02-10.15.29:406][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2021.09.02-10.15.29:406][  0]LogInit: First time updating LLM stats...
-[2021.09.02-10.15.29:633][  0]LogAssetRegistry: Asset discovery search completed in 6.5588 seconds
-[2021.09.02-10.15.29:635][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
-[2021.09.02-10.15.29:677][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2021.09.02-10.15.30:478][ 25]LogSlate: Took 0.000239 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2021.09.02-10.15.32:993][161]LogTemp: Repeating last play command: Selected Viewport
-[2021.09.02-10.15.33:001][161]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2021.09.02-10.15.33:001][161]PIE: New page: PIE session: Untitled_1 (2 сент. 2021 г., 16:15:33)
-[2021.09.02-10.15.33:003][161]LogOnline: OSS: Creating online subsystem instance for: NULL
-[2021.09.02-10.15.33:004][161]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
-[2021.09.02-10.15.33:005][161]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
-[2021.09.02-10.15.33:009][161]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003660s)
-[2021.09.02-10.15.33:013][161]LogAIModule: Creating AISystem for world Untitled_1
-[2021.09.02-10.15.33:014][161]LogPlayLevel: PIE: World Init took: (0.005031s)
-[2021.09.02-10.15.33:014][161]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.009264s)
-[2021.09.02-10.15.33:022][161]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
-[2021.09.02-10.15.33:029][161]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
-[2021.09.02-10.15.33:029][161]LogAudioMixer: Display: Audio Mixer Platform Settings:
-[2021.09.02-10.15.33:029][161]LogAudioMixer: Display: 	Sample Rate:						  48000
-[2021.09.02-10.15.33:029][161]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
-[2021.09.02-10.15.33:029][161]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
-[2021.09.02-10.15.33:029][161]LogAudioMixer: Display: 	Number of buffers to queue:			  2
-[2021.09.02-10.15.33:029][161]LogAudioMixer: Display: 	Max Channels (voices):				  32
-[2021.09.02-10.15.33:029][161]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
-[2021.09.02-10.15.33:029][161]LogAudio: Display: AudioDevice MaxSources: 32
-[2021.09.02-10.15.33:030][161]LogAudio: Display: Using built-in audio occlusion.
-[2021.09.02-10.15.33:030][161]LogAudioMixer: Display: Initializing audio mixer.
-[2021.09.02-10.15.33:032][161]LogAudioMixer: Display: 0: FrontLeft
-[2021.09.02-10.15.33:032][161]LogAudioMixer: Display: 1: FrontRight
-[2021.09.02-10.15.33:043][161]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
-[2021.09.02-10.15.33:043][161]LogAudioMixer: Display: Initializing Sound Submixes...
-[2021.09.02-10.15.33:043][161]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
-[2021.09.02-10.15.33:043][161]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
-[2021.09.02-10.15.33:044][161]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
-[2021.09.02-10.15.33:044][161]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
-[2021.09.02-10.15.33:044][161]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
-[2021.09.02-10.15.33:066][161]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
-[2021.09.02-10.15.33:066][161]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
-[2021.09.02-10.15.33:066][161]LogInit: FAudioDevice initialized.
-[2021.09.02-10.15.33:067][161]LogAudio: Display: Audio Device (ID: 2) registered with world 'Untitled_1'.
-[2021.09.02-10.15.33:075][161]LogLoad: Game class is 'GameModeBase'
-[2021.09.02-10.15.33:077][161]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2021.09.02-13.15.33
-[2021.09.02-10.15.33:078][161]LogWorld: Bringing up level for play took: 0.000739
-[2021.09.02-10.15.33:078][161]LogOnline: OSS: Creating online subsystem instance for: :Context_2
-[2021.09.02-10.15.33:082][161]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
-[2021.09.02-10.15.33:084][161]PIE: Server logged in
-[2021.09.02-10.15.33:086][161]PIE: Play in editor total start time 0,085 seconds.
-[2021.09.02-10.15.35:711][270]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2021.09.02-10.15.35:711][270]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
-[2021.09.02-10.15.35:711][270]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
-[2021.09.02-10.15.35:711][270]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2021.09.02-10.15.35:727][270]LogPlayLevel: Display: Shutting down PIE online subsystems
-[2021.09.02-10.15.35:729][270]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2021.09.02-10.15.35:737][270]LogAudio: Display: Audio Device unregistered from world 'None'.
-[2021.09.02-10.15.35:737][270]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
-[2021.09.02-10.15.35:738][270]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
-[2021.09.02-10.15.35:762][270]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2021.09.02-10.15.35:764][270]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
-[2021.09.02-10.15.35:791][271]LogPlayLevel: Display: Destroying online subsystem :Context_2
-[2021.09.02-10.15.37:167][322]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
-[2021.09.02-10.15.37:564][322]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Kakuro/KakuroLevel.KakuroLevel
-[2021.09.02-10.15.37:564][322]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/KakuroLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2021.09.02-10.15.37:564][322]LightingResults: New page: Lighting Build
-[2021.09.02-10.15.37:564][322]LoadErrors: New page: Loading map: KakuroLevel.umap
-[2021.09.02-10.15.37:565][322]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
-[2021.09.02-10.15.37:565][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2021.09.02-10.15.37:565][322]MapCheck: New page: Map Check
-[2021.09.02-10.15.37:565][322]LightingResults: New page: Lighting Build
-[2021.09.02-10.15.37:573][322]LogAudio: Display: Audio Device unregistered from world 'None'.
-[2021.09.02-10.15.37:580][322]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
-[2021.09.02-10.15.37:581][322]LogAudio: Display: Audio Device (ID: 1) registered with world 'KakuroLevel'.
-[2021.09.02-10.15.37:584][322]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2021.09.02-10.15.37:584][322]LogAIModule: Creating AISystem for world KakuroLevel
-[2021.09.02-10.15.37:595][322]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
-[2021.09.02-10.15.37:602][322]Cmd: MAP CHECKDEP NOCLEARLOG
-[2021.09.02-10.15.37:602][322]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,087ms to complete.
-[2021.09.02-10.15.37:602][322]LogFileHelpers: Loading map 'KakuroLevel' took 0.038
-[2021.09.02-10.15.38:192][343]LogTemp: Repeating last play command: Selected Viewport
-[2021.09.02-10.15.38:200][343]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2021.09.02-10.15.38:201][343]PIE: New page: PIE session: KakuroLevel (2 сент. 2021 г., 16:15:38)
-[2021.09.02-10.15.38:201][343]LogPlayLevel: Creating play world package: /Game/Kakuro/UEDPIE_0_KakuroLevel
-[2021.09.02-10.15.38:206][343]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004889s)
-[2021.09.02-10.15.38:207][343]LogAIModule: Creating AISystem for world KakuroLevel
-[2021.09.02-10.15.38:207][343]LogPlayLevel: PIE: World Init took: (0.001681s)
-[2021.09.02-10.15.38:207][343]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kakuro/KakuroLevel.KakuroLevel to /Game/Kakuro/UEDPIE_0_KakuroLevel.KakuroLevel (0.006744s)
-[2021.09.02-10.15.38:216][343]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
-[2021.09.02-10.15.38:217][343]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
-[2021.09.02-10.15.38:217][343]LogAudioMixer: Display: Audio Mixer Platform Settings:
-[2021.09.02-10.15.38:217][343]LogAudioMixer: Display: 	Sample Rate:						  48000
-[2021.09.02-10.15.38:218][343]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
-[2021.09.02-10.15.38:218][343]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
-[2021.09.02-10.15.38:218][343]LogAudioMixer: Display: 	Number of buffers to queue:			  2
-[2021.09.02-10.15.38:218][343]LogAudioMixer: Display: 	Max Channels (voices):				  32
-[2021.09.02-10.15.38:218][343]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
-[2021.09.02-10.15.38:218][343]LogAudio: Display: AudioDevice MaxSources: 32
-[2021.09.02-10.15.38:218][343]LogAudio: Display: Using built-in audio occlusion.
-[2021.09.02-10.15.38:218][343]LogAudioMixer: Display: Initializing audio mixer.
-[2021.09.02-10.15.38:221][343]LogAudioMixer: Display: 0: FrontLeft
-[2021.09.02-10.15.38:221][343]LogAudioMixer: Display: 1: FrontRight
-[2021.09.02-10.15.38:239][343]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
-[2021.09.02-10.15.38:240][343]LogAudioMixer: Display: Initializing Sound Submixes...
-[2021.09.02-10.15.38:240][343]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
-[2021.09.02-10.15.38:240][343]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
-[2021.09.02-10.15.38:240][343]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
-[2021.09.02-10.15.38:240][343]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
-[2021.09.02-10.15.38:240][343]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
-[2021.09.02-10.15.38:261][343]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
-[2021.09.02-10.15.38:261][343]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
-[2021.09.02-10.15.38:261][343]LogInit: FAudioDevice initialized.
-[2021.09.02-10.15.38:261][343]LogAudio: Display: Audio Device (ID: 3) registered with world 'KakuroLevel'.
-[2021.09.02-10.15.38:268][343]LogLoad: Game class is 'GameModeBase'
-[2021.09.02-10.15.38:269][343]LogWorld: Bringing World /Game/Kakuro/UEDPIE_0_KakuroLevel.KakuroLevel up for play (max tick rate 0) at 2021.09.02-13.15.38
-[2021.09.02-10.15.38:269][343]LogWorld: Bringing up level for play took: 0.000834
-[2021.09.02-10.15.38:270][343]LogOnline: OSS: Creating online subsystem instance for: :Context_3
-[2021.09.02-10.15.38:529][343]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
-[2021.09.02-10.15.38:529][343]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
-[2021.09.02-10.15.38:529][343]PIE: Server logged in
-[2021.09.02-10.15.38:530][343]PIE: Play in editor total start time 0,331 seconds.
-[2021.09.02-10.15.46:201][636]LogSlate: Window 'Project Settings' being destroyed
-[2021.09.02-10.15.46:208][636]LogSlate: Window 'Project Settings' being destroyed
-[2021.09.02-10.15.51:637][986]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Kakuro/KakuroLevel.KakuroLevel:PersistentLevel.KakuroLevel
-[2021.09.02-10.15.51:908][986]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 126 classes and 0 folders.
-[2021.09.02-10.15.53:423][986]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2021.09.02-10.15.53:423][986]LogWorld: BeginTearingDown for /Game/Kakuro/UEDPIE_0_KakuroLevel
-[2021.09.02-10.15.53:423][986]LogWorld: UWorld::CleanupWorld for KakuroLevel, bSessionEnded=true, bCleanupResources=true
-[2021.09.02-10.15.53:424][986]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2021.09.02-10.15.53:437][986]LogPlayLevel: Display: Shutting down PIE online subsystems
-[2021.09.02-10.15.53:445][986]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2021.09.02-10.15.53:472][986]LogAudio: Display: Audio Device unregistered from world 'None'.
-[2021.09.02-10.15.53:475][986]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
-[2021.09.02-10.15.53:476][986]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
-[2021.09.02-10.15.53:499][986]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2021.09.02-10.15.53:523][986]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
-[2021.09.02-10.15.53:537][986]LogSlate: Took 0.000228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
-[2021.09.02-10.15.53:591][987]LogPlayLevel: Display: Destroying online subsystem :Context_3
-[2021.09.02-10.15.53:595][987]LogSlate: Took 0.000279 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
-[2021.09.02-10.16.21:475][465]LogTemp: Repeating last play command: Selected Viewport
-[2021.09.02-10.16.21:483][465]BlueprintLog: New page: Pre-Play auto-recompile
-[2021.09.02-10.16.21:484][465]LogPlayLevel: [PlayLevel] Compiling KakuroLevel before play...
-[2021.09.02-10.16.21:552][465]LogUObjectHash: Compacting FUObjectHashTables data took   5.12ms
-[2021.09.02-10.16.21:553][465]LogPlayLevel: PlayLevel: Blueprint regeneration took 70 ms (1 blueprints)
-[2021.09.02-10.16.21:553][465]PIE: New page: PIE session: KakuroLevel (2 сент. 2021 г., 16:16:21)
-[2021.09.02-10.16.21:554][465]LogPlayLevel: Creating play world package: /Game/Kakuro/UEDPIE_0_KakuroLevel
-[2021.09.02-10.16.21:559][465]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004962s)
-[2021.09.02-10.16.21:560][465]LogAIModule: Creating AISystem for world KakuroLevel
-[2021.09.02-10.16.21:561][465]LogPlayLevel: PIE: World Init took: (0.002167s)
-[2021.09.02-10.16.21:561][465]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kakuro/KakuroLevel.KakuroLevel to /Game/Kakuro/UEDPIE_0_KakuroLevel.KakuroLevel (0.007307s)
-[2021.09.02-10.16.21:593][465]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
-[2021.09.02-10.16.21:593][465]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
-[2021.09.02-10.16.21:593][465]LogAudioMixer: Display: Audio Mixer Platform Settings:
-[2021.09.02-10.16.21:593][465]LogAudioMixer: Display: 	Sample Rate:						  48000
-[2021.09.02-10.16.21:593][465]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
-[2021.09.02-10.16.21:593][465]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
-[2021.09.02-10.16.21:593][465]LogAudioMixer: Display: 	Number of buffers to queue:			  2
-[2021.09.02-10.16.21:593][465]LogAudioMixer: Display: 	Max Channels (voices):				  32
-[2021.09.02-10.16.21:593][465]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
-[2021.09.02-10.16.21:593][465]LogAudio: Display: AudioDevice MaxSources: 32
-[2021.09.02-10.16.21:594][465]LogAudio: Display: Using built-in audio occlusion.
-[2021.09.02-10.16.21:594][465]LogAudioMixer: Display: Initializing audio mixer.
-[2021.09.02-10.16.21:595][465]LogAudioMixer: Display: 0: FrontLeft
-[2021.09.02-10.16.21:595][465]LogAudioMixer: Display: 1: FrontRight
-[2021.09.02-10.16.21:610][465]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
-[2021.09.02-10.16.21:610][465]LogAudioMixer: Display: Initializing Sound Submixes...
-[2021.09.02-10.16.21:610][465]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
-[2021.09.02-10.16.21:610][465]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
-[2021.09.02-10.16.21:611][465]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
-[2021.09.02-10.16.21:611][465]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
-[2021.09.02-10.16.21:611][465]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
-[2021.09.02-10.16.21:633][465]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
-[2021.09.02-10.16.21:633][465]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
-[2021.09.02-10.16.21:633][465]LogInit: FAudioDevice initialized.
-[2021.09.02-10.16.21:633][465]LogAudio: Display: Audio Device (ID: 4) registered with world 'KakuroLevel'.
-[2021.09.02-10.16.21:647][465]LogLoad: Game class is 'GameModeBase'
-[2021.09.02-10.16.21:648][465]LogWorld: Bringing World /Game/Kakuro/UEDPIE_0_KakuroLevel.KakuroLevel up for play (max tick rate 0) at 2021.09.02-13.16.21
-[2021.09.02-10.16.21:648][465]LogWorld: Bringing up level for play took: 0.000793
-[2021.09.02-10.16.21:648][465]LogOnline: OSS: Creating online subsystem instance for: :Context_5
-[2021.09.02-10.16.21:843][465]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
-[2021.09.02-10.16.21:843][465]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
-[2021.09.02-10.16.21:843][465]PIE: Server logged in
-[2021.09.02-10.16.21:844][465]PIE: Play in editor total start time 0,363 seconds.
-[2021.09.02-10.16.24:501][567]LogBlueprintUserMessages: [KakuroLevel_C_0] 1
-[2021.09.02-10.16.24:852][580]LogBlueprintUserMessages: [KakuroLevel_C_0] 1
-[2021.09.02-10.16.25:363][599]LogBlueprintUserMessages: [KakuroLevel_C_0] 1
-[2021.09.02-10.16.26:234][633]LogBlueprintUserMessages: [KakuroLevel_C_0] 1
-[2021.09.02-10.16.27:100][666]LogBlueprintUserMessages: [KakuroLevel_C_0] 2
-[2021.09.02-10.16.28:515][720]LogBlueprintUserMessages: [KakuroLevel_C_0] 2
-[2021.09.02-10.16.29:509][758]LogBlueprintUserMessages: [KakuroLevel_C_0] 1
-[2021.09.02-10.16.33:726][872]LogBlueprintUserMessages: [KakuroLevel_C_0] 3
-[2021.09.02-10.16.34:081][885]LogBlueprintUserMessages: [KakuroLevel_C_0] 1
-[2021.09.02-10.16.35:457][938]LogBlueprintUserMessages: [KakuroLevel_C_0] 9
-[2021.09.02-10.16.38:616][ 59]LogBlueprintUserMessages: [KakuroLevel_C_0] 9
-[2021.09.02-10.16.39:982][111]LogBlueprintUserMessages: [KakuroLevel_C_0] 0
-[2021.09.02-10.16.41:442][168]LogBlueprintUserMessages: [KakuroLevel_C_0] 0
-[2021.09.02-10.16.41:806][182]LogBlueprintUserMessages: [KakuroLevel_C_0] 6
-[2021.09.02-10.16.42:679][215]LogBlueprintUserMessages: [KakuroLevel_C_0] 0
-[2021.09.02-10.16.45:433][312]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2021.09.02-10.16.45:433][312]LogWorld: BeginTearingDown for /Game/Kakuro/UEDPIE_0_KakuroLevel
-[2021.09.02-10.16.45:434][312]LogWorld: UWorld::CleanupWorld for KakuroLevel, bSessionEnded=true, bCleanupResources=true
-[2021.09.02-10.16.45:434][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2021.09.02-10.16.45:447][312]LogPlayLevel: Display: Shutting down PIE online subsystems
-[2021.09.02-10.16.45:456][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2021.09.02-10.16.45:488][312]LogAudio: Display: Audio Device unregistered from world 'None'.
-[2021.09.02-10.16.45:489][312]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
-[2021.09.02-10.16.45:490][312]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
-[2021.09.02-10.16.45:514][312]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2021.09.02-10.16.45:536][312]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
-[2021.09.02-10.16.45:564][313]LogPlayLevel: Display: Destroying online subsystem :Context_5
-[2021.09.02-10.16.56:362][752]LogTemp: Repeating last play command: Selected Viewport
-[2021.09.02-10.16.56:370][752]BlueprintLog: New page: Pre-Play auto-recompile
-[2021.09.02-10.16.56:371][752]LogPlayLevel: [PlayLevel] Compiling KakuroLevel before play...
-[2021.09.02-10.16.56:437][752]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
-[2021.09.02-10.16.56:438][752]LogPlayLevel: PlayLevel: Blueprint regeneration took 67 ms (1 blueprints)
-[2021.09.02-10.16.56:438][752]PIE: New page: PIE session: KakuroLevel (2 сент. 2021 г., 16:16:56)
-[2021.09.02-10.16.56:438][752]LogPlayLevel: Creating play world package: /Game/Kakuro/UEDPIE_0_KakuroLevel
-[2021.09.02-10.16.56:443][752]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004686s)
-[2021.09.02-10.16.56:444][752]LogAIModule: Creating AISystem for world KakuroLevel
-[2021.09.02-10.16.56:445][752]LogPlayLevel: PIE: World Init took: (0.002190s)
-[2021.09.02-10.16.56:445][752]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kakuro/KakuroLevel.KakuroLevel to /Game/Kakuro/UEDPIE_0_KakuroLevel.KakuroLevel (0.007053s)
-[2021.09.02-10.16.56:476][752]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
-[2021.09.02-10.16.56:476][752]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
-[2021.09.02-10.16.56:476][752]LogAudioMixer: Display: Audio Mixer Platform Settings:
-[2021.09.02-10.16.56:476][752]LogAudioMixer: Display: 	Sample Rate:						  48000
-[2021.09.02-10.16.56:476][752]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
-[2021.09.02-10.16.56:476][752]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
-[2021.09.02-10.16.56:476][752]LogAudioMixer: Display: 	Number of buffers to queue:			  2
-[2021.09.02-10.16.56:476][752]LogAudioMixer: Display: 	Max Channels (voices):				  32
-[2021.09.02-10.16.56:476][752]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
-[2021.09.02-10.16.56:476][752]LogAudio: Display: AudioDevice MaxSources: 32
-[2021.09.02-10.16.56:477][752]LogAudio: Display: Using built-in audio occlusion.
-[2021.09.02-10.16.56:477][752]LogAudioMixer: Display: Initializing audio mixer.
-[2021.09.02-10.16.56:478][752]LogAudioMixer: Display: 0: FrontLeft
-[2021.09.02-10.16.56:478][752]LogAudioMixer: Display: 1: FrontRight
-[2021.09.02-10.16.56:514][752]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
-[2021.09.02-10.16.56:514][752]LogAudioMixer: Display: Initializing Sound Submixes...
-[2021.09.02-10.16.56:514][752]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
-[2021.09.02-10.16.56:514][752]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
-[2021.09.02-10.16.56:515][752]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
-[2021.09.02-10.16.56:515][752]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
-[2021.09.02-10.16.56:515][752]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
-[2021.09.02-10.16.56:536][752]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
-[2021.09.02-10.16.56:536][752]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
-[2021.09.02-10.16.56:536][752]LogInit: FAudioDevice initialized.
-[2021.09.02-10.16.56:536][752]LogAudio: Display: Audio Device (ID: 5) registered with world 'KakuroLevel'.
-[2021.09.02-10.16.56:547][752]LogLoad: Game class is 'GameModeBase'
-[2021.09.02-10.16.56:548][752]LogWorld: Bringing World /Game/Kakuro/UEDPIE_0_KakuroLevel.KakuroLevel up for play (max tick rate 0) at 2021.09.02-13.16.56
-[2021.09.02-10.16.56:549][752]LogWorld: Bringing up level for play took: 0.000760
-[2021.09.02-10.16.56:549][752]LogOnline: OSS: Creating online subsystem instance for: :Context_6
-[2021.09.02-10.16.56:737][752]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
-[2021.09.02-10.16.56:737][752]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
-[2021.09.02-10.16.56:737][752]PIE: Server logged in
-[2021.09.02-10.16.56:738][752]PIE: Play in editor total start time 0,369 seconds.
-[2021.09.02-10.17.03:199][969]LogBlueprintUserMessages: [KakuroLevel_C_1] 1
-[2021.09.02-10.17.03:605][985]LogBlueprintUserMessages: [KakuroLevel_C_1] 3
-[2021.09.02-10.17.04:827][ 32]LogBlueprintUserMessages: [KakuroLevel_C_1] 3
-[2021.09.02-10.17.05:292][ 50]LogBlueprintUserMessages: [KakuroLevel_C_1] 1
-[2021.09.02-10.17.06:569][ 99]LogBlueprintUserMessages: [KakuroLevel_C_1] 9
-[2021.09.02-10.17.08:570][177]LogBlueprintUserMessages: [KakuroLevel_C_1] 9
-[2021.09.02-10.17.09:444][211]LogBlueprintUserMessages: [KakuroLevel_C_1] 8
-[2021.09.02-10.17.10:421][249]LogBlueprintUserMessages: [KakuroLevel_C_1] 7
-[2021.09.02-10.17.11:043][273]LogBlueprintUserMessages: [KakuroLevel_C_1] 3
-[2021.09.02-10.17.13:554][371]LogBlueprintUserMessages: [KakuroLevel_C_1] 2
-[2021.09.02-10.17.14:549][410]LogBlueprintUserMessages: [KakuroLevel_C_1] 9
-[2021.09.02-10.17.15:562][449]LogBlueprintUserMessages: [KakuroLevel_C_1] 8
-[2021.09.02-10.17.23:062][738]LogBlueprintUserMessages: [KakuroLevel_C_1] 9
-[2021.09.02-10.17.23:543][757]LogBlueprintUserMessages: [KakuroLevel_C_1] 8
-[2021.09.02-10.17.24:643][800]LogBlueprintUserMessages: [KakuroLevel_C_1] 7
-[2021.09.02-10.17.25:948][850]LogBlueprintUserMessages: [KakuroLevel_C_1] 5
-[2021.09.02-10.17.29:659][992]LogBlueprintUserMessages: [KakuroLevel_C_1] 6
-[2021.09.02-10.17.30:465][ 23]LogBlueprintUserMessages: [KakuroLevel_C_1] 2
-[2021.09.02-10.17.30:889][ 39]LogBlueprintUserMessages: [KakuroLevel_C_1] 1
-[2021.09.02-10.17.31:605][ 67]LogBlueprintUserMessages: [KakuroLevel_C_1] 2
-[2021.09.02-10.17.32:715][110]LogBlueprintUserMessages: [KakuroLevel_C_1] 7
-[2021.09.02-10.17.33:716][148]LogBlueprintUserMessages: [KakuroLevel_C_1] 9
-[2021.09.02-10.17.34:521][179]LogBlueprintUserMessages: [KakuroLevel_C_1] 1
-[2021.09.02-10.17.35:197][206]LogBlueprintUserMessages: [KakuroLevel_C_1] 2
-[2021.09.02-10.17.36:940][272]LogBlueprintUserMessages: [KakuroLevel_C_1] 7
-[2021.09.02-10.17.37:822][307]LogBlueprintUserMessages: [KakuroLevel_C_1] 2
-[2021.09.02-10.17.38:598][337]LogBlueprintUserMessages: [KakuroLevel_C_1] 7
-[2021.09.02-10.17.39:017][353]LogBlueprintUserMessages: [KakuroLevel_C_1] 1
-[2021.09.02-10.17.39:795][383]LogBlueprintUserMessages: [KakuroLevel_C_1] 4
-[2021.09.02-10.17.41:805][460]LogBlueprintUserMessages: [KakuroLevel_C_1] 8
-[2021.09.02-10.17.42:405][483]LogBlueprintUserMessages: [KakuroLevel_C_1] 9
-[2021.09.02-10.17.43:471][525]LogBlueprintUserMessages: [KakuroLevel_C_1] 5
-[2021.09.02-10.17.44:088][549]LogBlueprintUserMessages: [KakuroLevel_C_1] 1
-[2021.09.02-10.17.45:700][611]LogBlueprintUserMessages: [KakuroLevel_C_1] 3
-[2021.09.02-10.17.46:127][628]LogBlueprintUserMessages: [KakuroLevel_C_1] 1
-[2021.09.02-10.17.46:522][643]LogBlueprintUserMessages: [KakuroLevel_C_1] 2
-[2021.09.02-10.17.49:571][761]LogBlueprintUserMessages: [KakuroLevel_C_1] 9
-[2021.09.02-10.17.50:694][805]LogBlueprintUserMessages: [KakuroLevel_C_1] 7
-[2021.09.02-10.17.51:892][852]LogBlueprintUserMessages: [KakuroLevel_C_1] 9
-[2021.09.02-10.17.56:173][ 16]LogBlueprintUserMessages: [KakuroLevel_C_1] 1
-[2021.09.02-10.17.56:520][ 29]LogBlueprintUserMessages: [KakuroLevel_C_1] 2
-[2021.09.02-10.17.56:820][ 41]LogBlueprintUserMessages: [KakuroLevel_C_1] 1
-[2021.09.02-10.17.57:327][ 61]LogBlueprintUserMessages: [KakuroLevel_C_1] 3
-[2021.09.02-10.17.59:204][133]LogBlueprintUserMessages: [KakuroLevel_C_1] 1
-[2021.09.02-10.18.00:537][185]LogBlueprintUserMessages: [KakuroLevel_C_1] 6
-[2021.09.02-10.18.00:858][198]LogBlueprintUserMessages: [KakuroLevel_C_1] 7
-[2021.09.02-10.18.02:171][249]LogBlueprintUserMessages: [KakuroLevel_C_1] 9
-[2021.09.02-10.18.03:357][294]LogBlueprintUserMessages: [KakuroLevel_C_1] 4
-[2021.09.02-10.18.06:698][423]LogBlueprintUserMessages: [KakuroLevel_C_1] 6
-[2021.09.02-10.18.07:057][437]LogBlueprintUserMessages: [KakuroLevel_C_1] 2
-[2021.09.02-10.18.07:481][453]LogBlueprintUserMessages: [KakuroLevel_C_1] 1
-[2021.09.02-10.18.11:307][600]LogBlueprintUserMessages: [KakuroLevel_C_1] 2
-[2021.09.02-10.18.12:365][641]LogBlueprintUserMessages: [KakuroLevel_C_1] 8
-[2021.09.02-10.18.13:107][670]LogBlueprintUserMessages: [KakuroLevel_C_1] 9
-[2021.09.02-10.18.13:836][698]LogBlueprintUserMessages: [KakuroLevel_C_1] 8
-[2021.09.02-10.18.20:753][960]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2021.09.02-10.18.20:753][960]LogWorld: BeginTearingDown for /Game/Kakuro/UEDPIE_0_KakuroLevel
-[2021.09.02-10.18.20:753][960]LogWorld: UWorld::CleanupWorld for KakuroLevel, bSessionEnded=true, bCleanupResources=true
-[2021.09.02-10.18.20:754][960]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2021.09.02-10.18.20:775][960]LogPlayLevel: Display: Shutting down PIE online subsystems
-[2021.09.02-10.18.20:785][960]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2021.09.02-10.18.20:822][960]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2021.09.02-10.18.20:822][960]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
-[2021.09.02-10.18.20:823][960]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
-[2021.09.02-10.18.20:862][960]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
-[2021.09.02-10.18.20:889][961]LogPlayLevel: Display: Destroying online subsystem :Context_6
-[2021.09.02-10.18.41:189][118]BlueprintLog: New page: Compile KakuroLevel
-[2021.09.02-10.18.41:250][118]LogUObjectHash: Compacting FUObjectHashTables data took   5.08ms
-[2021.09.02-10.18.41:299][118]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
-[2021.09.02-10.18.42:121][156]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/KakuroLevel" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/KakuroLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2021.09.02-10.18.42:153][156]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
-[2021.09.02-10.18.42:176][156]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/KakuroLevelC9DE24C7427FBAEE790753AC2B7F2E74.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/KakuroLevel.umap'
-[2021.09.02-10.18.42:185][156]LogFileHelpers: Saving map 'KakuroLevel' took 0.065
-[2021.09.02-10.18.42:201][156]AssetCheck: New page: Asset Save: KakuroLevel
-[2021.09.02-10.18.42:201][156]LogContentValidation: Display: Validating World /Game/Kakuro/KakuroLevel.KakuroLevel
-[2021.09.02-10.18.44:834][261]LogSlate: Window 'KakuroLevel' being destroyed
-[2021.09.02-10.18.44:840][261]LogSlate: Window 'KakuroLevel' being destroyed
-[2021.09.02-10.18.44:844][261]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
-[2021.09.02-10.18.44:844][261]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.02-11.48.51:808][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.09.02-11.48.51:808][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.09.02-11.48.51:808][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Unreal Projects/JapanPuzzles/Saved/Config/Windows/Engine.ini]
+[2021.09.02-11.48.51:808][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.09.02-11.48.51:808][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Unreal Projects/JapanPuzzles/Saved/Config/Windows/Engine.ini]
+[2021.09.02-11.48.51:808][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Unreal Projects/JapanPuzzles/Saved/Config/Windows/Engine.ini]
+[2021.09.02-11.48.51:808][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.09.02-11.48.51:808][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.09.02-11.48.51:808][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.09.02-11.48.51:808][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.09.02-11.48.51:808][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.09.02-11.48.51:808][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.09.02-11.48.51:808][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.09.02-11.48.51:808][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.09.02-11.48.51:808][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.09.02-11.48.51:808][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.09.02-11.48.51:808][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.09.02-11.48.51:808][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.09.02-11.48.51:808][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.09.02-11.48.51:808][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.09.02-11.48.51:808][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Unreal Projects/JapanPuzzles/Saved/Config/Windows/Engine.ini]
+[2021.09.02-11.48.51:808][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.09.02-11.48.51:808][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.09.02-11.48.51:808][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.09.02-11.48.51:808][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.09.02-11.48.51:808][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.09.02-11.48.51:808][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.09.02-11.48.51:808][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.09.02-11.48.51:808][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.09.02-11.48.51:808][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.09.02-11.48.51:808][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.09.02-11.48.51:808][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.09.02-11.48.51:808][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.09.02-11.48.51:808][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.09.02-11.48.51:808][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.09.02-11.48.51:808][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Unreal Projects/JapanPuzzles/Saved/Config/Windows/Engine.ini]
+[2021.09.02-11.48.51:808][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Unreal Projects/JapanPuzzles/Saved/Config/Windows/Engine.ini]
+[2021.09.02-11.48.51:812][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal Projects/JapanPuzzles/Saved/Config/Windows/Scalability.ini]
+[2021.09.02-11.48.51:812][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.09.02-11.48.51:812][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.09.02-11.48.51:812][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal Projects/JapanPuzzles/Saved/Config/Windows/Scalability.ini]
+[2021.09.02-11.48.51:812][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.09.02-11.48.51:812][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal Projects/JapanPuzzles/Saved/Config/Windows/Scalability.ini]
+[2021.09.02-11.48.51:812][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.09.02-11.48.51:812][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.09.02-11.48.51:812][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.09.02-11.48.51:812][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.09.02-11.48.51:812][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.09.02-11.48.51:812][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.09.02-11.48.51:812][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.09.02-11.48.51:812][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.09.02-11.48.51:812][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.09.02-11.48.51:812][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.09.02-11.48.51:812][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.09.02-11.48.51:812][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.09.02-11.48.51:812][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.09.02-11.48.51:812][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.09.02-11.48.51:812][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.09.02-11.48.51:812][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.09.02-11.48.51:812][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.09.02-11.48.51:812][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.09.02-11.48.51:812][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal Projects/JapanPuzzles/Saved/Config/Windows/Scalability.ini]
+[2021.09.02-11.48.51:812][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.09.02-11.48.51:812][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.09.02-11.48.51:812][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.09.02-11.48.51:812][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.09.02-11.48.51:812][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.09.02-11.48.51:812][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.09.02-11.48.51:813][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.09.02-11.48.51:813][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.09.02-11.48.51:813][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.09.02-11.48.51:813][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.09.02-11.48.51:813][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.09.02-11.48.51:813][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.09.02-11.48.51:813][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.09.02-11.48.51:813][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.09.02-11.48.51:813][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.09.02-11.48.51:813][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.09.02-11.48.51:813][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.09.02-11.48.51:813][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.09.02-11.48.51:813][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.09.02-11.48.51:813][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.09.02-11.48.51:813][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.09.02-11.48.51:813][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.09.02-11.48.51:813][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.09.02-11.48.51:813][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.09.02-11.48.51:813][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.09.02-11.48.51:813][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.09.02-11.48.51:813][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.09.02-11.48.51:813][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.09.02-11.48.51:813][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.09.02-11.48.51:813][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.09.02-11.48.51:813][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal Projects/JapanPuzzles/Saved/Config/Windows/Scalability.ini]
+[2021.09.02-11.48.51:813][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.09.02-11.48.51:813][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.09.02-11.48.51:813][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.09.02-11.48.51:813][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.09.02-11.48.51:813][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.09.02-11.48.51:813][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.09.02-11.48.51:813][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.09.02-11.48.51:813][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.09.02-11.48.51:813][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.09.02-11.48.51:813][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal Projects/JapanPuzzles/Saved/Config/Windows/Scalability.ini]
+[2021.09.02-11.48.51:813][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.09.02-11.48.51:813][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.09.02-11.48.51:813][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.09.02-11.48.51:813][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.09.02-11.48.51:813][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.09.02-11.48.51:813][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.09.02-11.48.51:813][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.09.02-11.48.51:813][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.09.02-11.48.51:813][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.09.02-11.48.51:813][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.09.02-11.48.51:813][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.09.02-11.48.51:813][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.09.02-11.48.51:813][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.09.02-11.48.51:813][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.09.02-11.48.51:813][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.09.02-11.48.51:813][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.09.02-11.48.51:813][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.09.02-11.48.51:813][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.09.02-11.48.51:813][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.09.02-11.48.51:813][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.09.02-11.48.51:813][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.09.02-11.48.51:813][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.09.02-11.48.51:814][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.09.02-11.48.51:814][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.09.02-11.48.51:814][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.09.02-11.48.51:814][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.09.02-11.48.51:814][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.09.02-11.48.51:814][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal Projects/JapanPuzzles/Saved/Config/Windows/Scalability.ini]
+[2021.09.02-11.48.51:814][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.09.02-11.48.51:814][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.09.02-11.48.51:814][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Unreal Projects/JapanPuzzles/Saved/Config/Windows/Scalability.ini]
+[2021.09.02-11.48.51:814][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.09.02-11.48.51:814][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.09.02-11.48.51:814][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.09.02-11.48.51:814][  0]LogInit: Selected Device Profile: [Windows]
+[2021.09.02-11.48.51:814][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.09.02-11.48.51:814][  0]LogHAL: Display: Platform has ~ 8 GB [8535756800 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.09.02-11.48.51:814][  0]LogInit: Going up to parent DeviceProfile []
+[2021.09.02-11.48.51:814][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal Projects/JapanPuzzles/Saved/Config/Windows/Scalability.ini]
+[2021.09.02-11.48.51:814][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.09.02-11.48.51:814][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.09.02-11.48.51:814][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal Projects/JapanPuzzles/Saved/Config/Windows/Scalability.ini]
+[2021.09.02-11.48.51:814][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.09.02-11.48.51:814][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal Projects/JapanPuzzles/Saved/Config/Windows/Scalability.ini]
+[2021.09.02-11.48.51:814][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.09.02-11.48.51:814][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.09.02-11.48.51:814][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.09.02-11.48.51:814][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.09.02-11.48.51:814][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.09.02-11.48.51:814][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.09.02-11.48.51:814][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.09.02-11.48.51:814][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.09.02-11.48.51:814][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.09.02-11.48.51:814][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.09.02-11.48.51:814][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.09.02-11.48.51:814][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.09.02-11.48.51:814][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.09.02-11.48.51:814][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.09.02-11.48.51:814][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.09.02-11.48.51:814][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.09.02-11.48.51:814][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.09.02-11.48.51:814][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.09.02-11.48.51:814][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal Projects/JapanPuzzles/Saved/Config/Windows/Scalability.ini]
+[2021.09.02-11.48.51:814][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.09.02-11.48.51:814][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.09.02-11.48.51:814][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.09.02-11.48.51:814][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.09.02-11.48.51:814][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.09.02-11.48.51:814][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.09.02-11.48.51:815][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.09.02-11.48.51:815][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.09.02-11.48.51:815][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.09.02-11.48.51:815][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.09.02-11.48.51:815][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.09.02-11.48.51:815][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.09.02-11.48.51:815][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.09.02-11.48.51:815][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.09.02-11.48.51:815][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.09.02-11.48.51:815][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.09.02-11.48.51:815][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.09.02-11.48.51:815][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.09.02-11.48.51:815][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.09.02-11.48.51:815][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.09.02-11.48.51:815][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.09.02-11.48.51:815][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.09.02-11.48.51:815][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.09.02-11.48.51:815][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.09.02-11.48.51:815][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.09.02-11.48.51:815][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.09.02-11.48.51:815][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.09.02-11.48.51:815][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.09.02-11.48.51:815][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.09.02-11.48.51:815][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.09.02-11.48.51:815][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal Projects/JapanPuzzles/Saved/Config/Windows/Scalability.ini]
+[2021.09.02-11.48.51:815][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.09.02-11.48.51:815][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.09.02-11.48.51:815][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.09.02-11.48.51:815][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.09.02-11.48.51:815][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.09.02-11.48.51:815][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.09.02-11.48.51:815][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.09.02-11.48.51:815][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.09.02-11.48.51:815][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.09.02-11.48.51:815][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal Projects/JapanPuzzles/Saved/Config/Windows/Scalability.ini]
+[2021.09.02-11.48.51:815][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.09.02-11.48.51:815][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.09.02-11.48.51:815][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.09.02-11.48.51:815][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.09.02-11.48.51:815][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.09.02-11.48.51:815][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.09.02-11.48.51:815][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.09.02-11.48.51:815][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.09.02-11.48.51:815][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.09.02-11.48.51:815][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.09.02-11.48.51:815][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.09.02-11.48.51:815][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.09.02-11.48.51:815][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.09.02-11.48.51:815][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.09.02-11.48.51:815][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.09.02-11.48.51:815][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.09.02-11.48.51:815][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.09.02-11.48.51:815][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.09.02-11.48.51:815][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.09.02-11.48.51:815][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.09.02-11.48.51:815][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.09.02-11.48.51:815][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.09.02-11.48.51:816][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.09.02-11.48.51:816][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.09.02-11.48.51:816][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.09.02-11.48.51:816][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.09.02-11.48.51:816][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.09.02-11.48.51:816][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal Projects/JapanPuzzles/Saved/Config/Windows/Scalability.ini]
+[2021.09.02-11.48.51:816][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.09.02-11.48.51:816][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.09.02-11.48.51:816][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Unreal Projects/JapanPuzzles/Saved/Config/Windows/Scalability.ini]
+[2021.09.02-11.48.51:816][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.09.02-11.48.51:816][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.09.02-11.48.51:816][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.09.02-11.48.51:816][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.09.02-11.48.51:816][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.09.02-11.48.51:816][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.09.02-11.48.51:816][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.09.02-11.48.51:816][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Unreal Projects/JapanPuzzles/Saved/Config/Windows/Engine.ini]
+[2021.09.02-11.48.51:816][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Unreal Projects/JapanPuzzles/Saved/Config/Windows/Editor.ini]
+[2021.09.02-11.48.51:816][  0]LogInit: Computer: IDEA-PC
+[2021.09.02-11.48.51:816][  0]LogInit: User: Mikhaill
+[2021.09.02-11.48.51:816][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.09.02-11.48.51:816][  0]LogInit: High frequency timer resolution =3.312660 MHz
+[2021.09.02-11.48.51:816][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2021.09.02-11.48.51:816][  0]LogMemory: Platform Memory Stats for Windows
+[2021.09.02-11.48.51:816][  0]LogMemory: Process Physical Memory: 127.00 MB used, 127.00 MB peak
+[2021.09.02-11.48.51:816][  0]LogMemory: Process Virtual Memory: 108.55 MB used, 108.55 MB peak
+[2021.09.02-11.48.51:816][  0]LogMemory: Physical Memory: 4487.86 MB used,  3652.47 MB free, 8140.33 MB total
+[2021.09.02-11.48.51:816][  0]LogMemory: Virtual Memory: 134210648.00 MB used,  7080.90 MB free, 134217728.00 MB total
+[2021.09.02-11.48.51:827][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.09.02-11.48.51:857][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.09.02-11.48.51:858][  0]LogInit: Using OS detected language (ru-RU).
+[2021.09.02-11.48.51:858][  0]LogInit: Using OS detected locale (ru-RU).
+[2021.09.02-11.48.51:862][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2021.09.02-11.48.51:863][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2021.09.02-11.48.51:863][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2021.09.02-11.48.51:863][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2021.09.02-11.48.51:863][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2021.09.02-11.48.51:863][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2021.09.02-11.48.51:863][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2021.09.02-11.48.51:864][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2021.09.02-11.48.51:865][  0]LogInit: Setting process to per monitor DPI aware
+[2021.09.02-11.48.51:869][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.09.02-11.48.51:886][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.09.02-11.48.51:886][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.09.02-11.48.52:139][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.09.02-11.48.52:139][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.09.02-11.48.52:139][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.09.02-11.48.52:139][  0]LogD3D11RHI: D3D11 adapters:
+[2021.09.02-11.48.52:183][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GT 635' (Feature Level 11_0)
+[2021.09.02-11.48.52:183][  0]LogD3D11RHI:       1967/0/4070 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.09.02-11.48.52:185][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.09.02-11.48.52:185][  0]LogD3D11RHI:       0/0/256 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.09.02-11.48.52:185][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.09.02-11.48.52:191][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.09.02-11.48.52:191][  0]LogD3D11RHI:     GPU DeviceId: 0x1280 (for the marketing name, search the web for "GPU Device Id")
+[2021.09.02-11.48.52:192][  0]LogWindows: EnumDisplayDevices:
+[2021.09.02-11.48.52:192][  0]LogWindows:    0. 'NVIDIA GeForce GT 635' (P:1 D:1)
+[2021.09.02-11.48.52:192][  0]LogWindows:    1. 'NVIDIA GeForce GT 635' (P:0 D:0)
+[2021.09.02-11.48.52:192][  0]LogWindows: DebugString: FoundDriverCount:2 
+[2021.09.02-11.48.52:192][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GT 635
+[2021.09.02-11.48.52:192][  0]LogD3D11RHI:   Driver Version: 391.35 (internal:23.21.13.9135, unified:391.35)
+[2021.09.02-11.48.52:192][  0]LogD3D11RHI:      Driver Date: 3-23-2018
+[2021.09.02-11.48.52:192][  0]LogRHI: Texture pool is 1377 MB (70% of 1967 MB)
+[2021.09.02-11.48.52:218][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2021.09.02-11.48.52:218][  0]LogD3D11RHI: Async texture creation enabled
+[2021.09.02-11.48.52:290][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2021.09.02-11.48.52:292][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.09.02-11.48.52:698][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.09.02-11.48.52:730][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.09.02-11.48.52:730][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.09.02-11.48.52:730][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.09.02-11.48.52:730][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.09.02-11.48.52:730][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.09.02-11.48.52:730][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.09.02-11.48.52:730][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.09.02-11.48.52:730][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.09.02-11.48.52:730][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.09.02-11.48.52:730][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.09.02-11.48.52:761][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.09.02-11.48.52:762][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.09.02-11.48.52:775][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.09.02-11.48.52:787][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.09.02-11.48.52:799][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.09.02-11.48.52:811][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.09.02-11.48.52:823][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.09.02-11.48.52:835][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.09.02-11.48.52:847][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.09.02-11.48.52:884][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.09.02-11.48.52:884][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.09.02-11.48.52:896][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.09.02-11.48.52:909][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.09.02-11.48.52:921][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.09.02-11.48.52:933][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.09.02-11.48.52:955][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.09.02-11.48.52:955][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.09.02-11.48.52:968][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.09.02-11.48.52:981][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.09.02-11.48.52:993][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.09.02-11.48.53:005][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.09.02-11.48.53:005][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.09.02-11.48.53:014][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.09.02-11.48.53:088][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.09.02-11.48.53:089][  0]LogShaderCompilers: Guid format shader working directory is 6 characters bigger than the processId version (../../../../../Unreal Projects/JapanPuzzles/Intermediate/Shaders/WorkingDirectory/7732/).
+[2021.09.02-11.48.53:089][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Mikhaill/AppData/Local/Temp/UnrealShaderWorkingDir/F936BC164E1A5E9F6B2B1FB089B4E413/'.
+[2021.09.02-11.48.53:089][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.09.02-11.48.53:089][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.09.02-11.48.54:591][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.09.02-11.48.54:690][  0]LogDerivedDataCache: Loaded boot cache 0.10s 77MB C:/Users/Mikhaill/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.09.02-11.48.54:690][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Mikhaill/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.09.02-11.48.54:690][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Unreal Projects/JapanPuzzles/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.09.02-11.48.54:690][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.09.02-11.48.54:690][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Unreal Projects/JapanPuzzles/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.09.02-11.48.54:690][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.09.02-11.48.54:713][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.09.02-11.48.54:713][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.09.02-11.48.54:713][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.09.02-11.48.54:722][  0]LogDerivedDataCache: Speed tests for C:/Users/Mikhaill/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.09.02-11.48.54:722][  0]LogDerivedDataCache: Display: Performance to C:/Users/Mikhaill/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.01ms. RandomReadSpeed=764.01MBs, RandomWriteSpeed=128.58MBs. Assigned SpeedClass 'Local'
+[2021.09.02-11.48.54:723][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Mikhaill/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.09.02-11.48.54:723][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.09.02-11.48.54:723][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.09.02-11.48.54:810][  0]LogSlate: Using FreeType 2.10.0
+[2021.09.02-11.48.54:810][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.09.02-11.48.54:853][  0]LogAssetRegistry: FAssetRegistry took 0.0038 seconds to start up
+[2021.09.02-11.48.55:253][  0]LogInit: Selected Device Profile: [Windows]
+[2021.09.02-11.48.55:253][  0]LogInit: Active device profile: [00000023EA741B00][00000023E92F4540 49] Windows
+[2021.09.02-11.48.55:253][  0]LogInit: Profiles: [00000023EA741B00][00000023E92F4540 49] Windows, [00000023EB710D00][00000023E92FC6C0 49] WindowsNoEditor, [00000023EA740C00][00000023EA588840 49] WindowsServer, [00000023EB712400][00000023EA58C9C0 49] WindowsClient, [00000023EA743700][00000023EA590B40 49] IOS, [00000023EB713B00][00000023EA594CC0 49] iPadAir, [00000023EA742E00][00000023EA598E40 49] iPadAir2, [00000023EB6BAE00][00000023EA5A1100 49] IPadPro, [00000023EB6BAF00][00000023EA59D140 49] iPadAir3, [00000023EA741300][00000023EA5A52C0 49] iPadAir4, [00000023EB6BA800][00000023EA5A9440 49] iPadMini2, [00000023EA743100][00000023E92F9580 49] iPadMini3, [00000023EB6B9700][00000023EA5AD6C0 49] iPadMini4, [00000023EA741200][00000023EA5B1800 49] iPadMini5, [00000023EA72A700][00000023EA5BDA80 49] iPhone6, [00000023EA72A800][00000023EA5B5AC0 49] iPodTouch6, [00000023EB6BB600][00000023EA5C40C0 49] iPhone7, [00000023EB6BB700][00000023EA5C0100 49] iPodTouch7, [00000023EA72BF00][00000023EA5C8280 49] iPhone5S, [00000023EB6BB500][00000023EA5CC400 49] iPhone6Plus, [00000023EA729500][00000023EA5D0580 49] iPhone6S, [00000023EB6B9100][00000023EA5D4700 49] iPhone6SPlus, [00000023EA728400][00000023EA5D8880 49] iPhone7Plus, [00000023EB6B8B00][00000023EA5DCA00 49] iPhoneSE, [00000023EA72B300][00000023EA5E0B80 49] iPhone8, [00000023EB6B9500][00000023EA5E4D00 49] iPhone8Plus, [00000023EA729900][00000023EA5E8E80 49] iPhoneX, [00000023EB6BA200][00000023EA5ED000 49] iPhoneXS, [00000023EA72AE00][00000023EA5F1180 49] iPhoneXSMax, [00000023EB6BBF00][00000023EA5F5300 49] iPhoneXR, [00000023EA728B00][00000023EA5F9480 49] iPhone11, [00000023EB6BB300][00000023EA5FD600 49] iPhone11Pro, [00000023EA72BC00][00000023EA5B9740 49] iPhone11ProMax, [00000023EB6B8100][00000023EA601880 49] iPhoneSE2, [00000023EA72A200][00000023EA6059C0 49] iPhone12Mini, [00000023EB6B9300][00000023EA60DB40 49] iPhone12, [00000023EA729000][00000023EA611CC0 49] iPhone12Pro, [00000023EB6B9600][00000023EA614180 49] iPhone12ProMax, [00000023EA729200][00000023EA618300 49] iPadPro105, [00000023EA72B800][00000023EA61C480 49] iPadPro129, [00000023EB711C00][00000023EA620600 49] iPadPro97, [00000023EA72B100][00000023EA624780 49] iPadPro2_129, [00000023EB713D00][00000023EA628900 49] iPad5, [00000023EA72AB00][00000023EA62CA80 49] iPad6, [00000023EB712D00][00000023EA630C00 49] iPad7, [00000023EA72B600][00000023EA634D80 49] iPad8, [00000023EB711E00][00000023EA638F00 49] iPadPro11, [00000023EA72AF00][00000023EA63D080 49] iPadPro2_11, [00000023EB712B00][00000023EA641200 49] iPadPro3_129, [00000023EB713300][00000023EA645380 49] iPadPro4_129, [00000023EB6B8A00][00000023EA649500 49] AppleTV, [00000023EB713F00][00000023EA64D680 49] AppleTV4K, [00000023EB6BAB00][00000023EA6097C0 49] TVOS, [00000023EA72A300][00000023EA651900 49] Mac, [00000023EB6BA700][00000023EA655A40 49] MacClient, [00000023EA728200][00000023EA659B80 49] MacNoEditor, [00000023EB6B8300][00000023EA661D00 49] MacServer, [00000023EA72B000][00000023EA6641C0 49] Linux, [00000023EB6B8C00][00000023EA668340 49] LinuxAArch64, [00000023EA729B00][00000023EA66C4C0 49] LinuxNoEditor, [00000023EB6BAC00][00000023EA670640 49] LinuxAArch64NoEditor, [00000023EA728F00][00000023EA6747C0 49] LinuxClient, [00000023EB6BBD00][00000023EA678940 49] LinuxAArch64Client, [00000023EA72B400][00000023EA67CAC0 49] LinuxServer, [00000023EB6BB900][00000023EA680C40 49] LinuxAArch64Server, [00000023EA728500][00000023EA684DC0 49] Android, [00000023EB6BB400][00000023EA688F40 49] Android_Low, [00000023EA72AC00][00000023EA68D0C0 49] Android_Mid, [00000023EB6B8F00][00000023EA691240 49] Android_High, [00000023EA72BE00][00000023EA6953C0 49] Android_Default, [00000023EB6B8600][00000023EA699540 49] Android_Adreno4xx, [00000023EA728E00][00000023EA69D6C0 49] Android_Adreno5xx_Low, [00000023EB6B8500][00000023EA65D800 49] Android_Adreno5xx, [00000023EA72AA00][00000023EA6A1940 49] Android_Adreno6xx, [00000023EB6BB000][00000023EA6A5A80 49] Android_Adreno6xx_Vulkan, [00000023EA72A500][00000023EA6A9BC0 49] Android_Mali_T6xx, [00000023EB6BA000][00000023EA6B1D40 49] Android_Mali_T7xx, [00000023EA729700][00000023EA6B4200 49] Android_Mali_T8xx, [00000023EB6B9800][00000023EA6B8380 49] Android_Mali_G71, [00000023EA72B200][00000023EA6BC500 49] Android_Mali_G72, [00000023EB6B9C00][00000023EA6C0680 49] Android_Mali_G72_Vulkan, [00000023EA72BD00][00000023EA6C4800 49] Android_Mali_G76, [00000023EB6BB800][00000023EA6C8980 49] Android_Mali_G76_Vulkan, [00000023EA728800][00000023EA6CCB00 49] Android_Mali_G77, [00000023EB6B8700][00000023EA6D0C80 49] Android_Mali_G77_Vulkan, [00000023EA728C00][00000023EA6D4E00 49] Android_Vulkan_SM5, [00000023EB6B9A00][00000023EA6D8F80 49] Android_PowerVR_G6xxx, [00000023EA728100][00000023EA6DD100 49] Android_PowerVR_GT7xxx, [00000023EB6B9B00][00000023EA6E1280 49] Android_PowerVR_GE8xxx, [00000023EA729400][00000023EA6E5400 49] Android_PowerVR_GM9xxx, [00000023EB6BA900][00000023EA6E9580 49] Android_PowerVR_GM9xxx_Vulkan, [00000023EA72BB00][00000023EA6ED700 49] Android_TegraK1, [00000023EB6BBB00][00000023EA6F1880 49] Android_Unknown_Vulkan, [00000023EA729C00][00000023EA6AD9C0 49] Lumin, [00000023EB712100][00000023EA6F5B00 49] Lumin_Desktop, [00000023EA740400][00000023EA6F9C40 49] HoloLens, 
+[2021.09.02-11.48.55:309][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.09.02-11.48.55:309][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.09.02-11.48.55:309][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.09.02-11.48.55:309][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.09.02-11.48.55:309][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.09.02-11.48.55:459][  0]LogNetVersion: JapanPuzzles 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 1956596755)
+[2021.09.02-11.48.56:189][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.09.02-11.48.56:240][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.050728 seconds
+[2021.09.02-11.48.56:248][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.09.02-11.48.56:248][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.09.02-11.48.56:248][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.09.02-11.48.56:730][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.09.02-11.48.56:735][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.09.02-11.48.56:846][  0]SourceControl: Source control is disabled
+[2021.09.02-11.48.56:846][  0]SourceControl: Source control is disabled
+[2021.09.02-11.48.56:851][  0]SourceControl: Source control is disabled
+[2021.09.02-11.48.56:855][  0]SourceControl: Source control is disabled
+[2021.09.02-11.48.56:867][  0]SourceControl: Source control is disabled
+[2021.09.02-11.48.56:870][  0]LogUProjectInfo: Found projects:
+[2021.09.02-11.48.57:165][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.09.02-11.48.57:190][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.09.02-11.48.57:190][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.09.02-11.48.57:251][  0]LogCollectionManager: Loaded 0 collections in 0.000829 seconds
+[2021.09.02-11.48.57:280][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/JapanPuzzles/Saved/Collections/' took 0.00s
+[2021.09.02-11.48.57:280][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/JapanPuzzles/Content/Developers/Mikhaill/Collections/' took 0.00s
+[2021.09.02-11.48.57:280][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/JapanPuzzles/Content/Collections/' took 0.00s
+[2021.09.02-11.48.57:280][  0]LogOcInput: OculusInput pre-init called
+[2021.09.02-11.48.57:292][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.09.02-11.48.57:293][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.09.02-11.48.57:367][  0]LogEngine: Initializing Engine...
+[2021.09.02-11.48.57:369][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.09.02-11.48.57:369][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.09.02-11.48.57:370][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.09.02-11.48.57:583][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.09.02-11.48.57:600][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.09.02-11.48.57:630][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.09.02-11.48.57:636][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.09.02-11.48.57:636][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.09.02-11.48.57:637][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.02-11.48.57:637][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.02-11.48.57:637][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.02-11.48.57:637][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.02-11.48.57:637][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.02-11.48.57:637][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.02-11.48.57:637][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.02-11.48.57:637][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.02-11.48.57:637][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.02-11.48.57:637][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.02-11.48.57:645][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.02-11.48.57:645][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.09.02-11.48.57:682][  0]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2021.09.02-11.48.57:690][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.02-11.48.57:693][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.02-11.48.57:693][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.02-11.48.57:695][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.02-11.48.57:695][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.02-11.48.57:695][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.02-11.48.57:696][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.02-11.48.57:697][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.02-11.48.57:697][  0]LogInit: FAudioDevice initialized.
+[2021.09.02-11.48.57:697][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.09.02-11.48.57:697][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.09.02-11.48.57:823][  0]LogDerivedDataCache: Saved boot cache 0.13s 77MB C:/Users/Mikhaill/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.09.02-11.48.57:825][  0]LogInit: Texture streaming: Enabled
+[2021.09.02-11.48.57:839][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.09.02-11.48.57:843][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.09.02-11.48.57:843][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.09.02-11.48.57:845][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.09.02-11.48.57:877][  0]LogInit: Transaction tracking system initialized
+[2021.09.02-11.48.57:902][  0]BlueprintLog: New page: Editor Load
+[2021.09.02-11.48.57:986][  0]LocalizationService: Localization service is disabled
+[2021.09.02-11.48.58:014][  0]TimingProfiler: Initialize
+[2021.09.02-11.48.58:014][  0]TimingProfiler: OnSessionChanged
+[2021.09.02-11.48.58:014][  0]LoadingProfiler: Initialize
+[2021.09.02-11.48.58:014][  0]LoadingProfiler: OnSessionChanged
+[2021.09.02-11.48.58:014][  0]NetworkingProfiler: Initialize
+[2021.09.02-11.48.58:014][  0]NetworkingProfiler: OnSessionChanged
+[2021.09.02-11.48.58:014][  0]MemoryProfiler: Initialize
+[2021.09.02-11.48.58:014][  0]MemoryProfiler: OnSessionChanged
+[2021.09.02-11.48.58:204][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.09.02-11.48.58:204][  0]LogCook: Display: Mobile HDR setting 1
+[2021.09.02-11.48.58:400][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/JapanPuzzles/Content/' took 0.00s
+[2021.09.02-11.48.58:750][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.09.02-11.48.58:756][  0]SourceControl: Source control is disabled
+[2021.09.02-11.48.58:756][  0]LogUnrealEdMisc: Loading editor; pre map load, took 8.445
+[2021.09.02-11.48.58:756][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.09.02-11.48.58:756][  0]LightingResults: New page: Lighting Build
+[2021.09.02-11.48.58:757][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.09.02-11.48.58:757][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.02-11.48.58:757][  0]MapCheck: New page: Map Check
+[2021.09.02-11.48.58:757][  0]LightingResults: New page: Lighting Build
+[2021.09.02-11.48.58:769][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2021.09.02-11.48.58:869][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2021.09.02-11.48.58:870][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2021.09.02-11.48.58:875][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.09.02-11.48.58:886][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2021.09.02-11.48.58:887][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.09.02-11.48.58:887][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,129ms to complete.
+[2021.09.02-11.48.58:887][  0]LogFileHelpers: Loading map 'Template_Default' took 0.131
+[2021.09.02-11.48.58:890][  0]LogUnrealEdMisc: Total Editor Startup Time, took 8.580
+[2021.09.02-11.48.59:080][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.02-11.48.59:090][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.02-11.48.59:099][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.02-11.48.59:109][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.02-11.48.59:147][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0158 seconds. Added 3602 classes and 861 folders.
+[2021.09.02-11.48.59:192][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2021.09.02-11.48.59:222][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.09.02-11.48.59:222][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.02-11.48.59:222][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.09.02-11.48.59:222][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.09.02-11.48.59:233][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.09.02-11.48.59:233][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.02-11.48.59:233][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.09.02-11.48.59:234][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2021.09.02-11.48.59:238][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.09.02-11.48.59:238][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.02-11.48.59:238][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.09.02-11.48.59:238][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2021.09.02-11.48.59:241][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.09.02-11.48.59:242][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.02-11.48.59:242][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.09.02-11.48.59:242][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2021.09.02-11.48.59:245][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.09.02-11.48.59:245][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.02-11.48.59:245][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.09.02-11.48.59:245][  0]LogPakFile: OnPakFileMounted2Time == 0.000061
+[2021.09.02-11.48.59:249][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.09.02-11.48.59:249][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.02-11.48.59:249][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.09.02-11.48.59:249][  0]LogPakFile: OnPakFileMounted2Time == 0.000068
+[2021.09.02-11.48.59:254][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.09.02-11.48.59:254][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.02-11.48.59:254][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.09.02-11.48.59:254][  0]LogPakFile: OnPakFileMounted2Time == 0.000078
+[2021.09.02-11.48.59:257][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.09.02-11.48.59:257][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.02-11.48.59:257][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.09.02-11.48.59:257][  0]LogPakFile: OnPakFileMounted2Time == 0.000087
+[2021.09.02-11.48.59:260][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.09.02-11.48.59:260][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.02-11.48.59:260][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.09.02-11.48.59:260][  0]LogPakFile: OnPakFileMounted2Time == 0.000093
+[2021.09.02-11.48.59:262][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.09.02-11.48.59:262][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.02-11.48.59:262][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.09.02-11.48.59:263][  0]LogPakFile: OnPakFileMounted2Time == 0.000100
+[2021.09.02-11.48.59:266][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.09.02-11.48.59:266][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.02-11.48.59:266][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.09.02-11.48.59:266][  0]LogPakFile: OnPakFileMounted2Time == 0.000106
+[2021.09.02-11.48.59:268][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.09.02-11.48.59:268][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.02-11.48.59:268][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.09.02-11.48.59:268][  0]LogPakFile: OnPakFileMounted2Time == 0.000112
+[2021.09.02-11.48.59:271][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.09.02-11.48.59:271][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.02-11.48.59:271][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.09.02-11.48.59:271][  0]LogPakFile: OnPakFileMounted2Time == 0.000115
+[2021.09.02-11.48.59:273][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.09.02-11.48.59:273][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.02-11.48.59:273][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.09.02-11.48.59:273][  0]LogPakFile: OnPakFileMounted2Time == 0.000120
+[2021.09.02-11.48.59:276][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.09.02-11.48.59:276][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.02-11.48.59:276][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.09.02-11.48.59:276][  0]LogPakFile: OnPakFileMounted2Time == 0.000126
+[2021.09.02-11.48.59:278][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.09.02-11.48.59:278][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.02-11.48.59:278][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.09.02-11.48.59:278][  0]LogPakFile: OnPakFileMounted2Time == 0.000130
+[2021.09.02-11.48.59:280][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.09.02-11.48.59:280][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.02-11.48.59:280][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.09.02-11.48.59:280][  0]LogPakFile: OnPakFileMounted2Time == 0.000133
+[2021.09.02-11.48.59:282][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.09.02-11.48.59:282][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.02-11.48.59:282][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.09.02-11.48.59:282][  0]LogPakFile: OnPakFileMounted2Time == 0.000136
+[2021.09.02-11.48.59:285][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.09.02-11.48.59:285][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.02-11.48.59:285][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.09.02-11.48.59:285][  0]LogPakFile: OnPakFileMounted2Time == 0.000140
+[2021.09.02-11.48.59:287][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.09.02-11.48.59:287][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.02-11.48.59:287][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.09.02-11.48.59:287][  0]LogPakFile: OnPakFileMounted2Time == 0.000143
+[2021.09.02-11.48.59:289][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.09.02-11.48.59:289][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.02-11.48.59:289][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.09.02-11.48.59:289][  0]LogPakFile: OnPakFileMounted2Time == 0.000146
+[2021.09.02-11.48.59:291][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.09.02-11.48.59:291][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.02-11.48.59:291][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.09.02-11.48.59:291][  0]LogPakFile: OnPakFileMounted2Time == 0.000148
+[2021.09.02-11.48.59:294][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.09.02-11.48.59:294][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.02-11.48.59:294][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.09.02-11.48.59:294][  0]LogPakFile: OnPakFileMounted2Time == 0.000150
+[2021.09.02-11.48.59:296][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.09.02-11.48.59:296][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.02-11.48.59:296][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.09.02-11.48.59:296][  0]LogPakFile: OnPakFileMounted2Time == 0.000152
+[2021.09.02-11.48.59:297][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.09.02-11.48.59:297][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.02-11.48.59:298][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.09.02-11.48.59:298][  0]LogPakFile: OnPakFileMounted2Time == 0.000155
+[2021.09.02-11.48.59:299][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.09.02-11.48.59:299][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.02-11.48.59:299][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.09.02-11.48.59:299][  0]LogPakFile: OnPakFileMounted2Time == 0.000157
+[2021.09.02-11.48.59:715][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2021.09.02-11.48.59:717][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.09.02-11.48.59:766][  0]LogSlate: Took 0.000245 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.09.02-11.48.59:769][  0]LogSlate: Took 0.000202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.09.02-11.48.59:794][  0]LogSlate: Took 0.017676 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.09.02-11.49.00:069][  0]LogRenderer: Reallocating scene render targets to support 1028x572 Format 10 NumSamples 1 (Frame:1).
+[2021.09.02-11.49.00:136][  0]LogSlate: Took 0.013804 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.09.02-11.49.00:810][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.09.02-11.49.00:810][  0]LogLoad: (Engine Initialization) Total time: 10.50 seconds
+[2021.09.02-11.49.00:810][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.09.02-11.49.00:810][  0]LogInit: First time updating LLM stats...
+[2021.09.02-11.49.00:889][  0]LogAssetRegistry: Asset discovery search completed in 6.0377 seconds
+[2021.09.02-11.49.00:891][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
+[2021.09.02-11.49.00:934][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.09.02-11.51.55:387][521]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.09.02-11.51.55:387][521]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.09.02-11.51.59:401][708]LogSlate: Took 0.000250 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.09.02-11.51.59:444][708]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/Kakuro/Levels/LevelsTable.LevelsTable
+[2021.09.02-11.53.01:964][645]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.02-11.53.01:972][645]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.02-11.53.01:981][645]PIE: New page: PIE session: Untitled_1 (2 сент. 2021 г., 17:53:01)
+[2021.09.02-11.53.01:983][645]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.09.02-11.53.01:985][645]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.09.02-11.53.01:985][645]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2021.09.02-11.53.01:989][645]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004401s)
+[2021.09.02-11.53.01:995][645]LogAIModule: Creating AISystem for world Untitled_1
+[2021.09.02-11.53.01:995][645]LogPlayLevel: PIE: World Init took: (0.005532s)
+[2021.09.02-11.53.01:995][645]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.010128s)
+[2021.09.02-11.53.02:006][645]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2021.09.02-11.53.02:008][645]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.09.02-11.53.02:008][645]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.02-11.53.02:008][645]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.02-11.53.02:008][645]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.02-11.53.02:008][645]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.02-11.53.02:008][645]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.02-11.53.02:008][645]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.02-11.53.02:008][645]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.02-11.53.02:008][645]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.02-11.53.02:009][645]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.02-11.53.02:009][645]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.02-11.53.02:010][645]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.02-11.53.02:010][645]LogAudioMixer: Display: 1: FrontRight
+[2021.09.02-11.53.02:022][645]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2021.09.02-11.53.02:022][645]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.02-11.53.02:023][645]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.02-11.53.02:023][645]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.02-11.53.02:023][645]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.02-11.53.02:023][645]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.02-11.53.02:023][645]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.02-11.53.02:046][645]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.02-11.53.02:046][645]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.02-11.53.02:046][645]LogInit: FAudioDevice initialized.
+[2021.09.02-11.53.02:046][645]LogAudio: Display: Audio Device (ID: 2) registered with world 'Untitled_1'.
+[2021.09.02-11.53.02:056][645]LogLoad: Game class is 'GameModeBase'
+[2021.09.02-11.53.02:058][645]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2021.09.02-14.53.02
+[2021.09.02-11.53.02:058][645]LogWorld: Bringing up level for play took: 0.000841
+[2021.09.02-11.53.02:059][645]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2021.09.02-11.53.02:094][645]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 20 classes and 0 folders.
+[2021.09.02-11.53.02:136][645]PIE: Server logged in
+[2021.09.02-11.53.02:138][645]PIE: Play in editor total start time 0,167 seconds.
+[2021.09.02-11.53.03:522][701]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.02-11.53.03:522][701]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2021.09.02-11.53.03:522][701]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2021.09.02-11.53.03:522][701]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.02-11.53.03:530][701]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.02-11.53.03:533][701]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.02-11.53.03:540][701]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.02-11.53.03:540][701]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.02-11.53.03:542][701]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.02-11.53.03:565][701]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.02-11.53.03:567][701]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2021.09.02-11.53.03:588][702]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2021.09.02-11.53.08:008][866]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2021.09.02-11.53.08:698][866]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Kakuro/KakuroLevel.KakuroLevel
+[2021.09.02-11.53.08:698][866]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/KakuroLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.09.02-11.53.08:698][866]LightingResults: New page: Lighting Build
+[2021.09.02-11.53.08:698][866]LoadErrors: New page: Loading map: KakuroLevel.umap
+[2021.09.02-11.53.08:699][866]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2021.09.02-11.53.08:699][866]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.02-11.53.08:699][866]MapCheck: New page: Map Check
+[2021.09.02-11.53.08:699][866]LightingResults: New page: Lighting Build
+[2021.09.02-11.53.08:710][866]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.02-11.53.08:718][866]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2021.09.02-11.53.08:720][866]LogAudio: Display: Audio Device (ID: 1) registered with world 'KakuroLevel'.
+[2021.09.02-11.53.08:724][866]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.09.02-11.53.08:724][866]LogAIModule: Creating AISystem for world KakuroLevel
+[2021.09.02-11.53.08:736][866]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2021.09.02-11.53.08:742][866]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.09.02-11.53.08:743][866]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,095ms to complete.
+[2021.09.02-11.53.08:743][866]LogFileHelpers: Loading map 'KakuroLevel' took 0.045
+[2021.09.02-11.53.10:247][924]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.02-11.53.10:255][924]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.02-11.53.10:255][924]PIE: New page: PIE session: KakuroLevel (2 сент. 2021 г., 17:53:10)
+[2021.09.02-11.53.10:255][924]LogPlayLevel: Creating play world package: /Game/Kakuro/UEDPIE_0_KakuroLevel
+[2021.09.02-11.53.10:260][924]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004733s)
+[2021.09.02-11.53.10:262][924]LogAIModule: Creating AISystem for world KakuroLevel
+[2021.09.02-11.53.10:262][924]LogPlayLevel: PIE: World Init took: (0.002348s)
+[2021.09.02-11.53.10:262][924]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kakuro/KakuroLevel.KakuroLevel to /Game/Kakuro/UEDPIE_0_KakuroLevel.KakuroLevel (0.007278s)
+[2021.09.02-11.53.10:272][924]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2021.09.02-11.53.10:272][924]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.09.02-11.53.10:273][924]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.02-11.53.10:273][924]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.02-11.53.10:273][924]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.02-11.53.10:273][924]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.02-11.53.10:273][924]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.02-11.53.10:273][924]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.02-11.53.10:273][924]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.02-11.53.10:273][924]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.02-11.53.10:273][924]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.02-11.53.10:273][924]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.02-11.53.10:275][924]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.02-11.53.10:275][924]LogAudioMixer: Display: 1: FrontRight
+[2021.09.02-11.53.10:285][924]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2021.09.02-11.53.10:285][924]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.02-11.53.10:285][924]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.02-11.53.10:285][924]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.02-11.53.10:286][924]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.02-11.53.10:286][924]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.02-11.53.10:286][924]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.02-11.53.10:307][924]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.02-11.53.10:307][924]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.02-11.53.10:307][924]LogInit: FAudioDevice initialized.
+[2021.09.02-11.53.10:307][924]LogAudio: Display: Audio Device (ID: 3) registered with world 'KakuroLevel'.
+[2021.09.02-11.53.10:315][924]LogLoad: Game class is 'GameModeBase'
+[2021.09.02-11.53.10:316][924]LogWorld: Bringing World /Game/Kakuro/UEDPIE_0_KakuroLevel.KakuroLevel up for play (max tick rate 0) at 2021.09.02-14.53.10
+[2021.09.02-11.53.10:317][924]LogWorld: Bringing up level for play took: 0.000731
+[2021.09.02-11.53.10:317][924]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2021.09.02-11.53.10:572][924]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.02-11.53.10:572][924]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.09.02-11.53.10:572][924]PIE: Server logged in
+[2021.09.02-11.53.10:574][924]PIE: Play in editor total start time 0,32 seconds.
+[2021.09.02-11.53.21:885][380]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2021.09.02-11.53.21:897][380]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2021.09.02-11.53.24:391][499]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.09.02-11.53.24:391][499]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.09.02-11.53.26:451][593]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> MainMenu
+[2021.09.02-11.53.26:454][593]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2021.09.02-11.53.31:741][795]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/MainMenu.uasset" SILENT=true
+[2021.09.02-11.53.31:746][795]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/MainMenu31D2507B4F6F9EBA7B792FB584BAA47C.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/MainMenu.uasset'
+[2021.09.02-11.53.31:751][795]AssetCheck: New page: Asset Save: MainMenu
+[2021.09.02-11.53.31:751][795]LogContentValidation: Display: Validating WidgetBlueprint /Game/MainMenu.MainMenu
+[2021.09.02-11.53.37:161][  1]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MainMenu.MainMenu
+[2021.09.02-11.53.37:846][  1]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 126 classes and 0 folders.
+[2021.09.02-11.53.40:226][  1]LogSlate: Took 0.000257 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.09.02-11.53.42:784][ 82]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.02-11.53.42:784][ 82]LogWorld: BeginTearingDown for /Game/Kakuro/UEDPIE_0_KakuroLevel
+[2021.09.02-11.53.42:784][ 82]LogWorld: UWorld::CleanupWorld for KakuroLevel, bSessionEnded=true, bCleanupResources=true
+[2021.09.02-11.53.42:785][ 82]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.02-11.53.42:797][ 82]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.02-11.53.42:807][ 82]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.02-11.53.42:841][ 82]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.02-11.53.42:843][ 82]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.02-11.53.42:844][ 82]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.02-11.53.42:868][ 82]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.02-11.53.42:961][ 82]LogUObjectHash: Compacting FUObjectHashTables data took  11.37ms
+[2021.09.02-11.53.43:006][ 83]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2021.09.02-11.53.51:987][390]LogContentBrowser: Attempting asset rename: LevelsTable -> KakuroLevelsTable
+[2021.09.02-11.53.52:118][390]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/Levels/KakuroLevelsTable" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Levels/KakuroLevelsTable.uasset" SILENT=true
+[2021.09.02-11.53.52:122][390]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/KakuroLevelsTableD633C15A4620309E0E82959327FD1B26.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Levels/KakuroLevelsTable.uasset'
+[2021.09.02-11.53.52:257][390]LogUObjectHash: Compacting FUObjectHashTables data took   5.40ms
+[2021.09.02-11.53.52:299][390]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2021.09.02-11.53.52:333][390]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2021.09.02-11.53.52:368][390]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/Levels/UMG_KakuroChooseLevel" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Levels/UMG_KakuroChooseLevel.uasset" SILENT=true
+[2021.09.02-11.53.52:436][390]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_KakuroChooseLevelC787F8EB4BDA7534AF5D94ABF29B8144.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Levels/UMG_KakuroChooseLevel.uasset'
+[2021.09.02-11.53.52:624][390]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.02-11.53.52:624][390]LogContentValidation: Display: Validating DataTable /Game/Kakuro/Levels/KakuroLevelsTable.KakuroLevelsTable
+[2021.09.02-11.53.52:624][390]LogContentValidation: Display: Validating WidgetBlueprint /Game/Kakuro/Levels/UMG_KakuroChooseLevel.UMG_KakuroChooseLevel
+[2021.09.02-11.53.56:370][523]LogContentBrowser: Attempting asset rename: LevelStruct -> KakurpLevelStruct
+[2021.09.02-11.53.56:436][523]LogMetaData: Removing '/Game/Kakuro/Levels/KakurpLevelStruct.KakurpLevelStruct' ref from Metadata '/Game/Kakuro/Levels/LevelStruct.PackageMetaData'
+[2021.09.02-11.53.56:485][523]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/Levels/KakurpLevelStruct" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Levels/KakurpLevelStruct.uasset" SILENT=true
+[2021.09.02-11.53.56:487][523]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/KakurpLevelStruct5970E6BD4CFFE8177C16598F1E164DE3.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Levels/KakurpLevelStruct.uasset'
+[2021.09.02-11.53.56:611][523]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2021.09.02-11.53.56:656][523]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2021.09.02-11.53.56:691][523]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2021.09.02-11.53.56:718][523]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/Levels/UMG_KakuroChooseLevel" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Levels/UMG_KakuroChooseLevel.uasset" SILENT=true
+[2021.09.02-11.53.56:785][523]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_KakuroChooseLevelF970A6C646F446891E2D76ADC5375B33.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Levels/UMG_KakuroChooseLevel.uasset'
+[2021.09.02-11.53.56:786][523]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/Levels/KakuroLevelsTable" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Levels/KakuroLevelsTable.uasset" SILENT=true
+[2021.09.02-11.53.56:789][523]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/KakuroLevelsTable66CFDB694DB004DB35DBA1AC91452EE5.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Levels/KakuroLevelsTable.uasset'
+[2021.09.02-11.53.56:922][523]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.02-11.53.56:922][523]LogContentValidation: Display: Validating DataTable /Game/Kakuro/Levels/KakuroLevelsTable.KakuroLevelsTable
+[2021.09.02-11.53.56:922][523]LogContentValidation: Display: Validating UserDefinedStruct /Game/Kakuro/Levels/KakurpLevelStruct.KakurpLevelStruct
+[2021.09.02-11.53.56:922][523]LogContentValidation: Display: Validating WidgetBlueprint /Game/Kakuro/Levels/UMG_KakuroChooseLevel.UMG_KakuroChooseLevel
+[2021.09.02-11.54.01:321][675]LogContentBrowser: Attempting asset rename: KakurpLevelStruct -> KakuroLevelStruct
+[2021.09.02-11.54.01:368][675]LogMetaData: Removing '/Game/Kakuro/Levels/KakuroLevelStruct.KakuroLevelStruct' ref from Metadata '/Game/Kakuro/Levels/KakurpLevelStruct.PackageMetaData'
+[2021.09.02-11.54.01:418][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/Levels/KakuroLevelStruct" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Levels/KakuroLevelStruct.uasset" SILENT=true
+[2021.09.02-11.54.01:420][675]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/KakuroLevelStruct0657E1F749A69AA2107359AA7923B6EE.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Levels/KakuroLevelStruct.uasset'
+[2021.09.02-11.54.01:526][675]LogUObjectHash: Compacting FUObjectHashTables data took   5.75ms
+[2021.09.02-11.54.01:569][675]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2021.09.02-11.54.01:605][675]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2021.09.02-11.54.01:634][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/Levels/UMG_KakuroChooseLevel" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Levels/UMG_KakuroChooseLevel.uasset" SILENT=true
+[2021.09.02-11.54.01:701][675]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_KakuroChooseLevel9FB0A5D442D70631F5936B861646A6D6.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Levels/UMG_KakuroChooseLevel.uasset'
+[2021.09.02-11.54.01:702][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/Levels/KakuroLevelsTable" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Levels/KakuroLevelsTable.uasset" SILENT=true
+[2021.09.02-11.54.01:705][675]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/KakuroLevelsTable2B11D80447C0701F2F015A9D7308E9B0.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Levels/KakuroLevelsTable.uasset'
+[2021.09.02-11.54.01:768][675]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.02-11.54.01:768][675]LogContentValidation: Display: Validating DataTable /Game/Kakuro/Levels/KakuroLevelsTable.KakuroLevelsTable
+[2021.09.02-11.54.01:768][675]LogContentValidation: Display: Validating UserDefinedStruct /Game/Kakuro/Levels/KakuroLevelStruct.KakuroLevelStruct
+[2021.09.02-11.54.01:768][675]LogContentValidation: Display: Validating WidgetBlueprint /Game/Kakuro/Levels/UMG_KakuroChooseLevel.UMG_KakuroChooseLevel
+[2021.09.02-11.54.07:179][867]LogContentBrowser: Attempting asset rename: LineStruct -> KakuorLineStruct
+[2021.09.02-11.54.07:217][867]LogMetaData: Removing '/Game/Kakuro/Levels/KakuorLineStruct.KakuorLineStruct' ref from Metadata '/Game/Kakuro/Levels/LineStruct.PackageMetaData'
+[2021.09.02-11.54.07:268][867]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/Levels/KakuorLineStruct" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Levels/KakuorLineStruct.uasset" SILENT=true
+[2021.09.02-11.54.07:270][867]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/KakuorLineStruct9C937BC643A9E3613A9F0398DBA8764B.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Levels/KakuorLineStruct.uasset'
+[2021.09.02-11.54.07:374][867]LogUObjectHash: Compacting FUObjectHashTables data took   5.85ms
+[2021.09.02-11.54.07:420][867]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2021.09.02-11.54.07:456][867]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2021.09.02-11.54.07:484][867]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/Levels/UMG_KakuroChooseLevel" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Levels/UMG_KakuroChooseLevel.uasset" SILENT=true
+[2021.09.02-11.54.07:550][867]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_KakuroChooseLevelAAD9C72B4BDE958352A8B39DCAFA7742.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Levels/UMG_KakuroChooseLevel.uasset'
+[2021.09.02-11.54.07:552][867]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/UMG_Kakuro" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/UMG_Kakuro.uasset" SILENT=true
+[2021.09.02-11.54.07:587][867]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_KakuroDDC7C0494FD247B77DAFE5B9079D9287.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/UMG_Kakuro.uasset'
+[2021.09.02-11.54.07:588][867]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/Levels/KakuroLevelStruct" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Levels/KakuroLevelStruct.uasset" SILENT=true
+[2021.09.02-11.54.07:590][867]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/KakuroLevelStruct4232C21F4736D55F0CB07E9511DFA9CB.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Levels/KakuroLevelStruct.uasset'
+[2021.09.02-11.54.07:653][867]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.02-11.54.07:653][867]LogContentValidation: Display: Validating UserDefinedStruct /Game/Kakuro/Levels/KakuroLevelStruct.KakuroLevelStruct
+[2021.09.02-11.54.07:653][867]LogContentValidation: Display: Validating UserDefinedStruct /Game/Kakuro/Levels/KakuorLineStruct.KakuorLineStruct
+[2021.09.02-11.54.07:653][867]LogContentValidation: Display: Validating WidgetBlueprint /Game/Kakuro/UMG_Kakuro.UMG_Kakuro
+[2021.09.02-11.54.07:655][867]LogContentValidation: Display: Validating WidgetBlueprint /Game/Kakuro/Levels/UMG_KakuroChooseLevel.UMG_KakuroChooseLevel
+[2021.09.02-11.54.11:640][  5]LogContentBrowser: Attempting asset rename: KakuorLineStruct -> KakuroLineStruct
+[2021.09.02-11.54.11:684][  5]LogMetaData: Removing '/Game/Kakuro/Levels/KakuroLineStruct.KakuroLineStruct' ref from Metadata '/Game/Kakuro/Levels/KakuorLineStruct.PackageMetaData'
+[2021.09.02-11.54.11:734][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/Levels/KakuroLineStruct" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Levels/KakuroLineStruct.uasset" SILENT=true
+[2021.09.02-11.54.11:736][  5]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/KakuroLineStruct9485DE664DB2E044C7933890AEB8227D.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Levels/KakuroLineStruct.uasset'
+[2021.09.02-11.54.11:877][  5]LogUObjectHash: Compacting FUObjectHashTables data took   5.74ms
+[2021.09.02-11.54.11:923][  5]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2021.09.02-11.54.11:960][  5]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2021.09.02-11.54.12:000][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/Levels/UMG_KakuroChooseLevel" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Levels/UMG_KakuroChooseLevel.uasset" SILENT=true
+[2021.09.02-11.54.12:068][  5]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_KakuroChooseLevelF52304B44AA924A66CB879A41A25F19B.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Levels/UMG_KakuroChooseLevel.uasset'
+[2021.09.02-11.54.12:069][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/UMG_Kakuro" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/UMG_Kakuro.uasset" SILENT=true
+[2021.09.02-11.54.12:103][  5]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_KakuroF324DF5D4F5D4E914E3A338E3D92E13A.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/UMG_Kakuro.uasset'
+[2021.09.02-11.54.12:105][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/Levels/KakuroLevelStruct" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Levels/KakuroLevelStruct.uasset" SILENT=true
+[2021.09.02-11.54.12:107][  5]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/KakuroLevelStruct559AF28E48E1C55ECC03C4BDCC7D35AF.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Levels/KakuroLevelStruct.uasset'
+[2021.09.02-11.54.12:170][  5]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.02-11.54.12:170][  5]LogContentValidation: Display: Validating UserDefinedStruct /Game/Kakuro/Levels/KakuroLevelStruct.KakuroLevelStruct
+[2021.09.02-11.54.12:170][  5]LogContentValidation: Display: Validating UserDefinedStruct /Game/Kakuro/Levels/KakuroLineStruct.KakuroLineStruct
+[2021.09.02-11.54.12:170][  5]LogContentValidation: Display: Validating WidgetBlueprint /Game/Kakuro/UMG_Kakuro.UMG_Kakuro
+[2021.09.02-11.54.12:177][  5]LogContentValidation: Display: Validating WidgetBlueprint /Game/Kakuro/Levels/UMG_KakuroChooseLevel.UMG_KakuroChooseLevel
+[2021.09.02-11.54.24:178][408]LogContentBrowser: Attempting asset rename: WritingToolEnum -> KakuroWritingToolEnum
+[2021.09.02-11.54.24:233][408]LogMetaData: Removing '/Game/Kakuro/KakuroWritingToolEnum.KakuroWritingToolEnum' ref from Metadata '/Game/Kakuro/WritingToolEnum.PackageMetaData'
+[2021.09.02-11.54.24:287][408]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/KakuroWritingToolEnum" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/KakuroWritingToolEnum.uasset" SILENT=true
+[2021.09.02-11.54.24:290][408]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/KakuroWritingToolEnum91AB0EC14D6875BE922B0BB70BF73D12.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/KakuroWritingToolEnum.uasset'
+[2021.09.02-11.54.24:461][408]LogUObjectHash: Compacting FUObjectHashTables data took   6.06ms
+[2021.09.02-11.54.24:506][408]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2021.09.02-11.54.24:542][408]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2021.09.02-11.54.24:582][408]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/UMG_KakuroGameWidget" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/UMG_KakuroGameWidget.uasset" SILENT=true
+[2021.09.02-11.54.24:793][408]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_KakuroGameWidget4EC75780417A451E63C5D8AD9F52489F.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/UMG_KakuroGameWidget.uasset'
+[2021.09.02-11.54.24:858][408]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.02-11.54.24:858][408]LogContentValidation: Display: Validating UserDefinedEnum /Game/Kakuro/KakuroWritingToolEnum.KakuroWritingToolEnum
+[2021.09.02-11.54.24:858][408]LogContentValidation: Display: Validating WidgetBlueprint /Game/Kakuro/UMG_KakuroGameWidget.UMG_KakuroGameWidget
+[2021.09.02-11.57.25:259][425]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.09.02-11.57.25:259][425]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.09.02-11.59.55:471][586]LogSlate: Took 0.036329 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.09.02-12.00.12:837][219]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.09.02-12.00.12:837][219]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.09.02-12.03.04:862][929]LogEditorTransaction: Undo Paste clipboard contents
+[2021.09.02-12.03.05:225][936]LogEditorTransaction: Undo Remove Widget
+[2021.09.02-12.04.11:010][707]LogEditorTransaction: Undo Wrap Widgets
+[2021.09.02-12.06.05:935][229]LogUObjectHash: Compacting FUObjectHashTables data took   7.67ms
+[2021.09.02-12.06.05:937][229]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Kakuro/KakuroLevel' took 0.073
+[2021.09.02-12.06.05:939][229]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MainMenu] ([2] browsable assets)...
+[2021.09.02-12.06.05:939][229]OBJ SavePackage: Finished generating thumbnails for package [/Game/MainMenu]
+[2021.09.02-12.06.05:939][229]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu" FILE="../../../../../Unreal Projects/JapanPuzzles/Saved/Autosaves/Game/MainMenu_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2021.09.02-12.06.05:948][229]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/MainMenu_Auto1971980AF4F1EB583F26F16A15CDE3A22.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Saved/Autosaves/Game/MainMenu_Auto1.uasset'
+[2021.09.02-12.06.05:948][229]LogFileHelpers: Auto-saving content packages took 0.011
+[2021.09.02-12.08.54:738][569]LogEditorTransaction: Undo Paste clipboard contents
+[2021.09.02-12.13.31:601][647]LogEditorTransaction: Undo Remove Widget
+[2021.09.02-12.13.31:928][652]LogEditorTransaction: Undo Edit Horizontal Alignment
+[2021.09.02-12.13.32:226][657]LogEditorTransaction: Undo Edit Size Rule
+[2021.09.02-12.13.32:694][691]LogEditorTransaction: Undo Edit Horizontal Alignment
+[2021.09.02-12.13.33:072][704]LogEditorTransaction: Undo Resize Widget
+[2021.09.02-12.13.33:807][730]LogEditorTransaction: Undo Paste clipboard contents
+[2021.09.02-12.13.34:449][752]LogEditorTransaction: Undo Resize Widget
+[2021.09.02-12.13.35:569][793]LogEditorTransaction: Undo Wrap Widgets
+[2021.09.02-12.16.32:442][952]LogEditorTransaction: Undo Resize Widget
+[2021.09.02-12.16.53:620][746]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 43746
+[2021.09.02-12.16.53:621][746]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.02-12.16.53:671][747]LogSlate: Took 0.000257 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.09.02-12.16.53:680][747]LogSlate: Took 0.000265 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.09.02-12.16.53:686][747]LogSlate: Took 0.000198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.09.02-12.16.53:690][747]LogSlate: Took 0.000211 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.09.02-12.16.53:696][747]LogSlate: Took 0.000195 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.09.02-12.16.53:703][747]LogSlate: Took 0.000209 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.09.02-12.16.57:570][893]LogSlate: Window 'Color Picker' being destroyed
+[2021.09.02-12.18.22:814][999]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/MainMenu.uasset" SILENT=true
+[2021.09.02-12.18.22:846][999]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/MainMenu2EEA83EF46803B0EFB2C3D8BC42F1844.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/MainMenu.uasset'
+[2021.09.02-12.18.22:886][999]AssetCheck: New page: Asset Save: MainMenu
+[2021.09.02-12.18.22:886][999]LogContentValidation: Display: Validating WidgetBlueprint /Game/MainMenu.MainMenu
