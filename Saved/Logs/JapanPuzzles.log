@@ -1056,3 +1056,600 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.02-12.18.22:846][999]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/MainMenu2EEA83EF46803B0EFB2C3D8BC42F1844.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/MainMenu.uasset'
 [2021.09.02-12.18.22:886][999]AssetCheck: New page: Asset Save: MainMenu
 [2021.09.02-12.18.22:886][999]LogContentValidation: Display: Validating WidgetBlueprint /Game/MainMenu.MainMenu
+[2021.09.02-12.19.43:359][  6]BlueprintLog: New page: Compile MainMenu
+[2021.09.02-12.19.43:449][  6]LogUObjectHash: Compacting FUObjectHashTables data took   7.49ms
+[2021.09.02-12.19.43:578][  6]LogSlate: Took 0.027005 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.09.02-12.19.44:156][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/MainMenu.uasset" SILENT=true
+[2021.09.02-12.19.44:174][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/MainMenuE67301604AEB1EE9A3A161826A8B2F41.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/MainMenu.uasset'
+[2021.09.02-12.19.44:189][ 32]AssetCheck: New page: Asset Save: MainMenu
+[2021.09.02-12.19.44:189][ 32]LogContentValidation: Display: Validating WidgetBlueprint /Game/MainMenu.MainMenu
+[2021.09.02-12.19.52:156][444]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.09.02-12.19.52:180][444]LogContentBrowser: Creating deferred item: NewFolder
+[2021.09.02-12.19.55:128][550]LogContentBrowser: Attempting asset rename: NewFolder -> Hitori
+[2021.09.02-12.19.55:128][550]LogContentBrowser: End creating deferred item NewFolder
+[2021.09.02-12.19.58:134][711]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.09.02-12.19.58:163][711]LogContentBrowser: Creating deferred item: NewFolder
+[2021.09.02-12.20.00:214][787]LogContentBrowser: Attempting asset rename: NewFolder -> Sudoku
+[2021.09.02-12.20.00:215][787]LogContentBrowser: End creating deferred item NewFolder
+[2021.09.02-12.20.03:897][994]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.09.02-12.20.03:929][994]LogContentBrowser: Creating deferred item: NewFolder
+[2021.09.02-12.20.10:067][217]LogContentBrowser: Attempting asset rename: NewFolder -> Slitherlink
+[2021.09.02-12.20.10:067][217]LogContentBrowser: End creating deferred item NewFolder
+[2021.09.02-12.20.13:345][395]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.09.02-12.20.13:362][395]LogContentBrowser: Creating deferred item: NewFolder
+[2021.09.02-12.20.15:436][471]LogContentBrowser: Attempting asset rename: NewFolder -> Bridges
+[2021.09.02-12.20.15:437][471]LogContentBrowser: End creating deferred item NewFolder
+[2021.09.02-12.20.19:481][706]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.09.02-12.20.19:497][706]LogContentBrowser: Creating deferred item: NewFolder
+[2021.09.02-12.20.22:061][800]LogContentBrowser: Attempting asset rename: NewFolder -> Nikurabe
+[2021.09.02-12.20.22:061][800]LogContentBrowser: End creating deferred item NewFolder
+[2021.09.02-12.20.58:544][599]LogUObjectHash: Compacting FUObjectHashTables data took   6.95ms
+[2021.09.02-12.20.58:586][599]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Kakuro/KakuroLevel.KakuroLevel
+[2021.09.02-12.20.58:586][599]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/KakuroLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.09.02-12.20.58:586][599]LightingResults: New page: Lighting Build
+[2021.09.02-12.20.58:594][599]LoadErrors: New page: Loading map: KakuroLevel.umap
+[2021.09.02-12.20.58:596][599]LogWorld: UWorld::CleanupWorld for KakuroLevel, bSessionEnded=true, bCleanupResources=true
+[2021.09.02-12.20.58:596][599]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.02-12.20.58:596][599]MapCheck: New page: Map Check
+[2021.09.02-12.20.58:596][599]LightingResults: New page: Lighting Build
+[2021.09.02-12.20.58:632][599]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.02-12.20.58:646][599]LogUObjectHash: Compacting FUObjectHashTables data took   7.12ms
+[2021.09.02-12.20.58:678][599]LogAudio: Display: Audio Device (ID: 1) registered with world 'KakuroLevel'.
+[2021.09.02-12.20.58:680][599]LogAIModule: Creating AISystem for world KakuroLevel
+[2021.09.02-12.20.58:683][599]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.09.02-12.20.58:730][599]LogUObjectHash: Compacting FUObjectHashTables data took   6.15ms
+[2021.09.02-12.20.58:737][599]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.09.02-12.20.58:737][599]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,094ms to complete.
+[2021.09.02-12.20.58:737][599]LogFileHelpers: Loading map 'KakuroLevel' took 0.151
+[2021.09.02-12.21.00:935][714]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Kakuro/KakuroLevel.KakuroLevel:PersistentLevel.KakuroLevel
+[2021.09.02-12.21.01:968][715]LogSlate: Took 0.010826 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.09.02-12.21.31:361][157]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2021.09.02-12.21.31:376][157]LogContentBrowser: Creating deferred item: NewWorld
+[2021.09.02-12.21.34:734][312]LogContentBrowser: Attempting asset rename: NewWorld -> MainMenuLevel
+[2021.09.02-12.21.34:806][312]LogContentBrowser: End creating deferred item NewWorld
+[2021.09.02-12.21.36:790][383]LogContentBrowser: Attempting asset rename: MainMenuLevel -> MainMenuLevel
+[2021.09.02-12.21.55:133][421]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenuLevel" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/MainMenuLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.09.02-12.21.55:190][421]LogUObjectHash: Compacting FUObjectHashTables data took   7.91ms
+[2021.09.02-12.21.55:196][421]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/MainMenuLevelA5A79FE3411645690CE09EB9267E4A77.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/MainMenuLevel.umap'
+[2021.09.02-12.21.55:197][421]LogFileHelpers: Saving map 'MainMenuLevel' took 0.064
+[2021.09.02-12.21.55:210][421]AssetCheck: New page: Asset Save: MainMenuLevel
+[2021.09.02-12.21.55:210][421]LogContentValidation: Display: Validating World /Game/MainMenuLevel.MainMenuLevel
+[2021.09.02-12.22.01:742][658]BlueprintLog: New page: Compile KakuroLevel
+[2021.09.02-12.22.01:839][658]LogUObjectHash: Compacting FUObjectHashTables data took   7.35ms
+[2021.09.02-12.22.02:250][678]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/KakuroLevel" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/KakuroLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.09.02-12.22.02:296][678]LogUObjectHash: Compacting FUObjectHashTables data took   5.70ms
+[2021.09.02-12.22.02:322][678]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/KakuroLevelFCCB31B54E4CAB158EF874895A9112DE.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/KakuroLevel.umap'
+[2021.09.02-12.22.02:331][678]LogFileHelpers: Saving map 'KakuroLevel' took 0.082
+[2021.09.02-12.22.02:346][678]AssetCheck: New page: Asset Save: KakuroLevel
+[2021.09.02-12.22.02:346][678]LogContentValidation: Display: Validating World /Game/Kakuro/KakuroLevel.KakuroLevel
+[2021.09.02-12.22.09:498][942]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Kakuro/UMG_Kakuro.UMG_Kakuro
+[2021.09.02-12.22.18:624][219]LogSlate: Took 0.005762 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.09.02-12.23.43:064][444]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/UMG_Kakuro" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/UMG_Kakuro.uasset" SILENT=true
+[2021.09.02-12.23.43:157][444]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_KakuroAADCBE6945175CE710D9A5BDD4534633.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/UMG_Kakuro.uasset'
+[2021.09.02-12.23.43:194][444]AssetCheck: New page: Asset Save: UMG_Kakuro
+[2021.09.02-12.23.43:195][444]LogContentValidation: Display: Validating WidgetBlueprint /Game/Kakuro/UMG_Kakuro.UMG_Kakuro
+[2021.09.02-12.23.51:794][702]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Kakuro/UMG_KakuroGameWidget.UMG_KakuroGameWidget
+[2021.09.02-12.23.55:377][813]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Kakuro/Levels/UMG_KakuroChooseLevel.UMG_KakuroChooseLevel
+[2021.09.02-12.24.15:879][777]BlueprintLog: New page: Compile UMG_KakuroChooseLevel
+[2021.09.02-12.24.15:903][777]LogBlueprint: Warning: [AssetLog] D:\Unreal Projects\JapanPuzzles\Content\Kakuro\Levels\UMG_KakuroChooseLevel.uasset: [Compiler] Could not find the function 'BackToMainMenu' called from  Back to Main Menu
+[2021.09.02-12.24.16:021][777]LogUObjectHash: Compacting FUObjectHashTables data took   8.26ms
+[2021.09.02-12.24.16:593][798]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/Levels/UMG_KakuroChooseLevel" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Levels/UMG_KakuroChooseLevel.uasset" SILENT=true
+[2021.09.02-12.24.16:663][798]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_KakuroChooseLevel2798C4C948E871C6121A6FAF83BD0C28.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Levels/UMG_KakuroChooseLevel.uasset'
+[2021.09.02-12.24.16:678][798]AssetCheck: New page: Asset Save: UMG_KakuroChooseLevel
+[2021.09.02-12.24.16:679][798]LogContentValidation: Display: Validating WidgetBlueprint /Game/Kakuro/Levels/UMG_KakuroChooseLevel.UMG_KakuroChooseLevel
+[2021.09.02-12.24.18:802][887]BlueprintLog: New page: Compile KakuroLevel
+[2021.09.02-12.24.18:898][887]LogUObjectHash: Compacting FUObjectHashTables data took   7.96ms
+[2021.09.02-12.24.19:225][899]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/KakuroLevel" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/KakuroLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.09.02-12.24.19:281][899]LogUObjectHash: Compacting FUObjectHashTables data took   5.73ms
+[2021.09.02-12.24.19:304][899]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/KakuroLevel2ADD10624CCFB9C8E2AEB5AD36C7448F.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/KakuroLevel.umap'
+[2021.09.02-12.24.19:314][899]LogFileHelpers: Saving map 'KakuroLevel' took 0.089
+[2021.09.02-12.24.19:328][899]AssetCheck: New page: Asset Save: KakuroLevel
+[2021.09.02-12.24.19:328][899]LogContentValidation: Display: Validating World /Game/Kakuro/KakuroLevel.KakuroLevel
+[2021.09.02-12.24.21:070][966]BlueprintLog: New page: Compile UMG_Kakuro
+[2021.09.02-12.24.21:154][966]LogUObjectHash: Compacting FUObjectHashTables data took   6.13ms
+[2021.09.02-12.24.21:493][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/UMG_Kakuro" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/UMG_Kakuro.uasset" SILENT=true
+[2021.09.02-12.24.21:531][983]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_KakuroC3DC98084A31319CF4A27F8D19F8D174.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/UMG_Kakuro.uasset'
+[2021.09.02-12.24.21:546][983]AssetCheck: New page: Asset Save: UMG_Kakuro
+[2021.09.02-12.24.21:546][983]LogContentValidation: Display: Validating WidgetBlueprint /Game/Kakuro/UMG_Kakuro.UMG_Kakuro
+[2021.09.02-12.24.22:943][ 34]BlueprintLog: New page: Compile UMG_KakuroChooseLevel
+[2021.09.02-12.24.23:073][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   7.93ms
+[2021.09.02-12.24.23:375][ 46]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/Levels/UMG_KakuroChooseLevel" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Levels/UMG_KakuroChooseLevel.uasset" SILENT=true
+[2021.09.02-12.24.23:444][ 46]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_KakuroChooseLevel65DBF16445EEA3100E94A2955391676C.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Levels/UMG_KakuroChooseLevel.uasset'
+[2021.09.02-12.24.23:458][ 46]AssetCheck: New page: Asset Save: UMG_KakuroChooseLevel
+[2021.09.02-12.24.23:458][ 46]LogContentValidation: Display: Validating WidgetBlueprint /Game/Kakuro/Levels/UMG_KakuroChooseLevel.UMG_KakuroChooseLevel
+[2021.09.02-12.24.31:694][344]LogUObjectHash: Compacting FUObjectHashTables data took   7.48ms
+[2021.09.02-12.24.31:741][344]LogAssetEditorSubsystem: Opening Asset editor for World /Game/MainMenuLevel.MainMenuLevel
+[2021.09.02-12.24.31:741][344]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/JapanPuzzles/Content/MainMenuLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.09.02-12.24.31:741][344]LightingResults: New page: Lighting Build
+[2021.09.02-12.24.31:741][344]LoadErrors: New page: Loading map: MainMenuLevel.umap
+[2021.09.02-12.24.31:752][344]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.09.02-12.24.31:752][344]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.02-12.24.31:804][344]LogWorld: UWorld::CleanupWorld for KakuroLevel, bSessionEnded=true, bCleanupResources=true
+[2021.09.02-12.24.31:804][344]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.02-12.24.31:804][344]MapCheck: New page: Map Check
+[2021.09.02-12.24.31:804][344]LightingResults: New page: Lighting Build
+[2021.09.02-12.24.31:851][344]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.02-12.24.31:863][344]LogUObjectHash: Compacting FUObjectHashTables data took   7.46ms
+[2021.09.02-12.24.31:863][344]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenuLevel'.
+[2021.09.02-12.24.31:864][344]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.09.02-12.24.31:864][344]LogAIModule: Creating AISystem for world MainMenuLevel
+[2021.09.02-12.24.31:919][344]LogUObjectHash: Compacting FUObjectHashTables data took   5.23ms
+[2021.09.02-12.24.31:926][344]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.09.02-12.24.31:926][344]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,092ms to complete.
+[2021.09.02-12.24.31:926][344]LogFileHelpers: Loading map 'MainMenuLevel' took 0.185
+[2021.09.02-12.24.34:326][469]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel
+[2021.09.02-12.24.55:730][ 43]LogContentBrowser: Attempting asset rename: MainMenu -> UMG_MainMenu
+[2021.09.02-12.24.55:775][ 43]LogMetaData: Removing '/Game/UMG_MainMenu.SKEL_UMG_MainMenu_C' ref from Metadata '/Game/MainMenu.PackageMetaData'
+[2021.09.02-12.24.55:775][ 43]LogMetaData: Removing '/Game/UMG_MainMenu.UMG_MainMenu_C' ref from Metadata '/Game/MainMenu.PackageMetaData'
+[2021.09.02-12.24.55:775][ 43]LogMetaData: Removing '/Game/UMG_MainMenu.UMG_MainMenu:EventGraph.K2Node_Event_0' ref from Metadata '/Game/MainMenu.PackageMetaData'
+[2021.09.02-12.24.55:775][ 43]LogMetaData: Removing '/Game/UMG_MainMenu.UMG_MainMenu:EventGraph.K2Node_Event_1' ref from Metadata '/Game/MainMenu.PackageMetaData'
+[2021.09.02-12.24.55:775][ 43]LogMetaData: Removing '/Game/UMG_MainMenu.UMG_MainMenu:EventGraph.K2Node_Event_2' ref from Metadata '/Game/MainMenu.PackageMetaData'
+[2021.09.02-12.24.55:775][ 43]LogMetaData: Removing '/Game/UMG_MainMenu.SKEL_UMG_MainMenu_C:PreConstruct' ref from Metadata '/Game/MainMenu.PackageMetaData'
+[2021.09.02-12.24.55:775][ 43]LogMetaData: Removing '/Game/UMG_MainMenu.SKEL_UMG_MainMenu_C:Construct' ref from Metadata '/Game/MainMenu.PackageMetaData'
+[2021.09.02-12.24.55:775][ 43]LogMetaData: Removing '/Game/UMG_MainMenu.SKEL_UMG_MainMenu_C:Tick' ref from Metadata '/Game/MainMenu.PackageMetaData'
+[2021.09.02-12.24.55:825][ 43]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG_MainMenu" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/UMG_MainMenu.uasset" SILENT=true
+[2021.09.02-12.24.55:843][ 43]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_MainMenuD9B2641D40DB909D8AAA8C8D36B6681C.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/UMG_MainMenu.uasset'
+[2021.09.02-12.24.55:980][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   5.35ms
+[2021.09.02-12.24.56:039][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2021.09.02-12.24.56:090][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2021.09.02-12.24.56:135][ 43]AssetCheck: New page: Asset Save: UMG_MainMenu
+[2021.09.02-12.24.56:135][ 43]LogContentValidation: Display: Validating WidgetBlueprint /Game/UMG_MainMenu.UMG_MainMenu
+[2021.09.02-12.25.10:240][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenuLevel" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/MainMenuLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.09.02-12.25.10:300][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   6.29ms
+[2021.09.02-12.25.10:307][ 33]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/MainMenuLevelF5E3A8D4431B27ECF81239872BCFFC43.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/MainMenuLevel.umap'
+[2021.09.02-12.25.10:315][ 33]LogFileHelpers: Saving map 'MainMenuLevel' took 0.076
+[2021.09.02-12.25.10:328][ 33]AssetCheck: New page: Asset Save: MainMenuLevel
+[2021.09.02-12.25.10:329][ 33]LogContentValidation: Display: Validating World /Game/MainMenuLevel.MainMenuLevel
+[2021.09.02-12.25.13:999][202]BlueprintLog: New page: Compile MainMenuLevel
+[2021.09.02-12.25.14:060][202]LogUObjectHash: Compacting FUObjectHashTables data took   5.87ms
+[2021.09.02-12.25.14:557][227]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenuLevel" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/MainMenuLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.09.02-12.25.14:610][227]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2021.09.02-12.25.14:616][227]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/MainMenuLevel3740C09040017EFE1BFCB79344F1D20A.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/MainMenuLevel.umap'
+[2021.09.02-12.25.14:624][227]LogFileHelpers: Saving map 'MainMenuLevel' took 0.068
+[2021.09.02-12.25.14:638][227]AssetCheck: New page: Asset Save: MainMenuLevel
+[2021.09.02-12.25.14:639][227]LogContentValidation: Display: Validating World /Game/MainMenuLevel.MainMenuLevel
+[2021.09.02-12.25.17:575][384]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2021.09.02-12.25.17:575][384]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.02-12.25.41:519][561]LogSlate: Took 0.002989 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.09.02-12.26.13:341][419]BlueprintLog: New page: Compile UMG_MainMenu
+[2021.09.02-12.26.13:414][419]LogUObjectHash: Compacting FUObjectHashTables data took   7.90ms
+[2021.09.02-12.26.14:187][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG_MainMenu" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/UMG_MainMenu.uasset" SILENT=true
+[2021.09.02-12.26.14:206][453]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_MainMenuEB96F3AF4EA8B418FA7BC3A9D1BC526B.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/UMG_MainMenu.uasset'
+[2021.09.02-12.26.14:222][453]AssetCheck: New page: Asset Save: UMG_MainMenu
+[2021.09.02-12.26.14:222][453]LogContentValidation: Display: Validating WidgetBlueprint /Game/UMG_MainMenu.UMG_MainMenu
+[2021.09.02-12.26.17:405][603]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.02-12.26.17:415][603]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.09.02-12.26.17:421][603]LogPlayLevel: [PlayLevel] Compiling UMG_KakuroGameWidget before play...
+[2021.09.02-12.26.17:635][603]LogUObjectHash: Compacting FUObjectHashTables data took   9.16ms
+[2021.09.02-12.26.17:635][603]LogPlayLevel: PlayLevel: Blueprint regeneration took 220 ms (1 blueprints)
+[2021.09.02-12.26.17:635][603]PIE: New page: PIE session: MainMenuLevel (2 сент. 2021 г., 18:26:17)
+[2021.09.02-12.26.17:636][603]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenuLevel
+[2021.09.02-12.26.17:637][603]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001515s)
+[2021.09.02-12.26.17:639][603]LogAIModule: Creating AISystem for world MainMenuLevel
+[2021.09.02-12.26.17:639][603]LogPlayLevel: PIE: World Init took: (0.001751s)
+[2021.09.02-12.26.17:639][603]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenuLevel.MainMenuLevel to /Game/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.003440s)
+[2021.09.02-12.26.17:691][603]LogUObjectHash: Compacting FUObjectHashTables data took   5.31ms
+[2021.09.02-12.26.17:692][603]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.09.02-12.26.17:692][603]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.02-12.26.17:692][603]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.02-12.26.17:692][603]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.02-12.26.17:692][603]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.02-12.26.17:692][603]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.02-12.26.17:692][603]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.02-12.26.17:692][603]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.02-12.26.17:692][603]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.02-12.26.17:692][603]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.02-12.26.17:692][603]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.02-12.26.17:694][603]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.02-12.26.17:694][603]LogAudioMixer: Display: 1: FrontRight
+[2021.09.02-12.26.17:706][603]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2021.09.02-12.26.17:706][603]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.02-12.26.17:706][603]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.02-12.26.17:706][603]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.02-12.26.17:707][603]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.02-12.26.17:707][603]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.02-12.26.17:707][603]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.02-12.26.17:729][603]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.02-12.26.17:729][603]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.02-12.26.17:729][603]LogInit: FAudioDevice initialized.
+[2021.09.02-12.26.17:730][603]LogAudio: Display: Audio Device (ID: 4) registered with world 'MainMenuLevel'.
+[2021.09.02-12.26.17:744][603]LogLoad: Game class is 'GameModeBase'
+[2021.09.02-12.26.17:744][603]LogWorld: Bringing World /Game/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2021.09.02-15.26.17
+[2021.09.02-12.26.17:745][603]LogWorld: Bringing up level for play took: 0.000460
+[2021.09.02-12.26.17:745][603]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2021.09.02-12.26.17:749][603]PIE: Server logged in
+[2021.09.02-12.26.17:750][603]PIE: Play in editor total start time 0,336 seconds.
+[2021.09.02-12.26.22:824][845]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.02-12.26.22:825][845]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMenuLevel
+[2021.09.02-12.26.22:825][845]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.09.02-12.26.22:825][845]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.02-12.26.22:842][845]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.02-12.26.22:856][845]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.02-12.26.22:925][845]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.02-12.26.22:926][845]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.02-12.26.22:927][845]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.02-12.26.22:956][845]LogUObjectHash: Compacting FUObjectHashTables data took   5.11ms
+[2021.09.02-12.26.22:982][846]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.09.02-12.26.33:870][290]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel
+[2021.09.02-12.26.42:262][643]LogUObjectHash: Compacting FUObjectHashTables data took   5.58ms
+[2021.09.02-12.26.42:326][643]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Kakuro/KakuroLevel.KakuroLevel
+[2021.09.02-12.26.42:326][643]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/KakuroLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.09.02-12.26.42:326][643]LightingResults: New page: Lighting Build
+[2021.09.02-12.26.42:328][643]LoadErrors: New page: Loading map: KakuroLevel.umap
+[2021.09.02-12.26.42:371][643]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2021.09.02-12.26.42:371][643]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.02-12.26.42:423][643]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.09.02-12.26.42:423][643]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.02-12.26.42:423][643]MapCheck: New page: Map Check
+[2021.09.02-12.26.42:423][643]LightingResults: New page: Lighting Build
+[2021.09.02-12.26.42:471][643]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.02-12.26.42:482][643]LogUObjectHash: Compacting FUObjectHashTables data took   6.21ms
+[2021.09.02-12.26.42:482][643]LogAudio: Display: Audio Device (ID: 1) registered with world 'KakuroLevel'.
+[2021.09.02-12.26.42:487][643]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.09.02-12.26.42:487][643]LogAIModule: Creating AISystem for world KakuroLevel
+[2021.09.02-12.26.42:542][643]LogUObjectHash: Compacting FUObjectHashTables data took   5.32ms
+[2021.09.02-12.26.42:548][643]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.09.02-12.26.42:549][643]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,098ms to complete.
+[2021.09.02-12.26.42:549][643]LogFileHelpers: Loading map 'KakuroLevel' took 0.223
+[2021.09.02-12.26.44:704][714]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Kakuro/KakuroLevel.KakuroLevel:PersistentLevel.KakuroLevel
+[2021.09.02-12.26.58:132][170]LogUObjectHash: Compacting FUObjectHashTables data took   7.00ms
+[2021.09.02-12.26.59:191][170]LogSlate: Window 'Save Content' being destroyed
+[2021.09.02-12.26.59:237][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/KakuroLevel" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/KakuroLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.09.02-12.26.59:288][170]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2021.09.02-12.26.59:311][170]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/KakuroLevelB2C680A447EA1F51D60C64A07844C8E5.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/KakuroLevel.umap'
+[2021.09.02-12.26.59:320][170]LogFileHelpers: Saving map 'KakuroLevel' took 0.083
+[2021.09.02-12.26.59:364][170]LogAssetEditorSubsystem: Opening Asset editor for World /Game/MainMenuLevel.MainMenuLevel
+[2021.09.02-12.26.59:364][170]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/JapanPuzzles/Content/MainMenuLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.09.02-12.26.59:365][170]LightingResults: New page: Lighting Build
+[2021.09.02-12.26.59:365][170]LoadErrors: New page: Loading map: MainMenuLevel.umap
+[2021.09.02-12.26.59:411][170]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2021.09.02-12.26.59:411][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.02-12.26.59:498][170]LogWorld: UWorld::CleanupWorld for KakuroLevel, bSessionEnded=true, bCleanupResources=true
+[2021.09.02-12.26.59:498][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.02-12.26.59:498][170]MapCheck: New page: Map Check
+[2021.09.02-12.26.59:499][170]LightingResults: New page: Lighting Build
+[2021.09.02-12.26.59:566][170]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.02-12.26.59:576][170]LogUObjectHash: Compacting FUObjectHashTables data took   6.06ms
+[2021.09.02-12.26.59:578][170]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenuLevel'.
+[2021.09.02-12.26.59:579][170]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.09.02-12.26.59:579][170]LogAIModule: Creating AISystem for world MainMenuLevel
+[2021.09.02-12.26.59:635][170]LogUObjectHash: Compacting FUObjectHashTables data took   5.25ms
+[2021.09.02-12.26.59:642][170]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.09.02-12.26.59:642][170]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,112ms to complete.
+[2021.09.02-12.26.59:642][170]LogFileHelpers: Loading map 'MainMenuLevel' took 0.278
+[2021.09.02-12.26.59:663][170]AssetCheck: New page: Asset Save: KakuroLevel
+[2021.09.02-12.26.59:663][170]LogContentValidation: Display: Validating World /Game/Kakuro/KakuroLevel.KakuroLevel
+[2021.09.02-12.27.06:234][463]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel
+[2021.09.02-12.27.21:268][101]BlueprintLog: New page: Compile MainMenuLevel
+[2021.09.02-12.27.21:360][101]LogUObjectHash: Compacting FUObjectHashTables data took   6.65ms
+[2021.09.02-12.27.21:801][117]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenuLevel" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/MainMenuLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.09.02-12.27.21:855][117]LogUObjectHash: Compacting FUObjectHashTables data took   5.56ms
+[2021.09.02-12.27.21:865][117]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/MainMenuLevel3191A4E14A6F267EBB5A96BF458C60A2.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/MainMenuLevel.umap'
+[2021.09.02-12.27.21:873][117]LogFileHelpers: Saving map 'MainMenuLevel' took 0.073
+[2021.09.02-12.27.21:889][117]AssetCheck: New page: Asset Save: MainMenuLevel
+[2021.09.02-12.27.21:889][117]LogContentValidation: Display: Validating World /Game/MainMenuLevel.MainMenuLevel
+[2021.09.02-12.27.22:598][151]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.02-12.27.22:607][151]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.02-12.27.22:607][151]PIE: New page: PIE session: MainMenuLevel (2 сент. 2021 г., 18:27:22)
+[2021.09.02-12.27.22:608][151]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenuLevel
+[2021.09.02-12.27.22:609][151]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001816s)
+[2021.09.02-12.27.22:611][151]LogAIModule: Creating AISystem for world MainMenuLevel
+[2021.09.02-12.27.22:611][151]LogPlayLevel: PIE: World Init took: (0.001681s)
+[2021.09.02-12.27.22:611][151]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenuLevel.MainMenuLevel to /Game/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.003664s)
+[2021.09.02-12.27.22:668][151]LogUObjectHash: Compacting FUObjectHashTables data took   5.62ms
+[2021.09.02-12.27.22:671][151]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.09.02-12.27.22:671][151]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.02-12.27.22:671][151]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.02-12.27.22:671][151]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.02-12.27.22:671][151]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.02-12.27.22:671][151]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.02-12.27.22:671][151]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.02-12.27.22:671][151]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.02-12.27.22:671][151]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.02-12.27.22:672][151]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.02-12.27.22:672][151]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.02-12.27.22:673][151]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.02-12.27.22:673][151]LogAudioMixer: Display: 1: FrontRight
+[2021.09.02-12.27.22:684][151]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2021.09.02-12.27.22:685][151]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.02-12.27.22:685][151]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.02-12.27.22:685][151]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.02-12.27.22:686][151]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.02-12.27.22:686][151]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.02-12.27.22:686][151]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.02-12.27.22:707][151]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.02-12.27.22:707][151]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.02-12.27.22:707][151]LogInit: FAudioDevice initialized.
+[2021.09.02-12.27.22:707][151]LogAudio: Display: Audio Device (ID: 5) registered with world 'MainMenuLevel'.
+[2021.09.02-12.27.22:720][151]LogLoad: Game class is 'GameModeBase'
+[2021.09.02-12.27.22:721][151]LogWorld: Bringing World /Game/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2021.09.02-15.27.22
+[2021.09.02-12.27.22:721][151]LogWorld: Bringing up level for play took: 0.000582
+[2021.09.02-12.27.22:721][151]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2021.09.02-12.27.22:725][151]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.02-12.27.22:725][151]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.09.02-12.27.22:725][151]PIE: Server logged in
+[2021.09.02-12.27.22:726][151]PIE: Play in editor total start time 0,12 seconds.
+[2021.09.02-12.27.23:910][210]LogNet: Browse: /Game/Kakuro/KakuroLevel
+[2021.09.02-12.27.23:912][210]LogLoad: LoadMap: /Game/Kakuro/KakuroLevel
+[2021.09.02-12.27.23:912][210]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMenuLevel
+[2021.09.02-12.27.23:929][210]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.09.02-12.27.23:930][210]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.02-12.27.23:981][210]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.02-12.27.23:987][210]LogUObjectHash: Compacting FUObjectHashTables data took   5.50ms
+[2021.09.02-12.27.24:005][210]LogPlayLevel: Creating play world package: /Game/Kakuro/UEDPIE_0_KakuroLevel
+[2021.09.02-12.27.24:013][210]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004815s)
+[2021.09.02-12.27.24:015][210]LogAIModule: Creating AISystem for world KakuroLevel
+[2021.09.02-12.27.24:015][210]LogPlayLevel: PIE: World Init took: (0.002042s)
+[2021.09.02-12.27.24:015][210]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kakuro/KakuroLevel.KakuroLevel to /Game/Kakuro/UEDPIE_0_KakuroLevel.KakuroLevel (0.009872s)
+[2021.09.02-12.27.24:015][210]LogAudio: Display: Audio Device (ID: 5) registered with world 'KakuroLevel'.
+[2021.09.02-12.27.24:015][210]LogLoad: Game class is 'GameModeBase'
+[2021.09.02-12.27.24:018][210]LogWorld: Bringing World /Game/Kakuro/UEDPIE_0_KakuroLevel.KakuroLevel up for play (max tick rate 0) at 2021.09.02-15.27.24
+[2021.09.02-12.27.24:019][210]LogWorld: Bringing up level for play took: 0.002353
+[2021.09.02-12.27.24:230][210]LogLoad: Took 0.317485 seconds to LoadMap(/Game/Kakuro/UEDPIE_0_KakuroLevel)
+[2021.09.02-12.27.25:775][266]LogNet: Browse: /Game/MainMenuLevel
+[2021.09.02-12.27.25:775][266]LogLoad: LoadMap: /Game/MainMenuLevel
+[2021.09.02-12.27.25:775][266]LogWorld: BeginTearingDown for /Game/Kakuro/UEDPIE_0_KakuroLevel
+[2021.09.02-12.27.25:789][266]LogWorld: UWorld::CleanupWorld for KakuroLevel, bSessionEnded=true, bCleanupResources=true
+[2021.09.02-12.27.25:790][266]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.02-12.27.25:847][266]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.02-12.27.25:868][266]LogUObjectHash: Compacting FUObjectHashTables data took   5.36ms
+[2021.09.02-12.27.25:869][266]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenuLevel
+[2021.09.02-12.27.25:871][266]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001891s)
+[2021.09.02-12.27.25:873][266]LogAIModule: Creating AISystem for world MainMenuLevel
+[2021.09.02-12.27.25:873][266]LogPlayLevel: PIE: World Init took: (0.001787s)
+[2021.09.02-12.27.25:873][266]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenuLevel.MainMenuLevel to /Game/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.003867s)
+[2021.09.02-12.27.25:873][266]LogAudio: Display: Audio Device (ID: 5) registered with world 'MainMenuLevel'.
+[2021.09.02-12.27.25:873][266]LogLoad: Game class is 'GameModeBase'
+[2021.09.02-12.27.25:874][266]LogWorld: Bringing World /Game/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2021.09.02-15.27.25
+[2021.09.02-12.27.25:874][266]LogWorld: Bringing up level for play took: 0.000390
+[2021.09.02-12.27.25:875][266]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.09.02-12.27.25:877][266]LogLoad: Took 0.100674 seconds to LoadMap(/Game/UEDPIE_0_MainMenuLevel)
+[2021.09.02-12.27.28:285][355]LogNet: Browse: /Game/Kakuro/KakuroLevel
+[2021.09.02-12.27.28:285][355]LogLoad: LoadMap: /Game/Kakuro/KakuroLevel
+[2021.09.02-12.27.28:286][355]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMenuLevel
+[2021.09.02-12.27.28:286][355]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.09.02-12.27.28:286][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.02-12.27.28:335][355]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.02-12.27.28:342][355]LogUObjectHash: Compacting FUObjectHashTables data took   5.20ms
+[2021.09.02-12.27.28:343][355]LogPlayLevel: Creating play world package: /Game/Kakuro/UEDPIE_0_KakuroLevel
+[2021.09.02-12.27.28:347][355]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004579s)
+[2021.09.02-12.27.28:350][355]LogAIModule: Creating AISystem for world KakuroLevel
+[2021.09.02-12.27.28:350][355]LogPlayLevel: PIE: World Init took: (0.003005s)
+[2021.09.02-12.27.28:350][355]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kakuro/KakuroLevel.KakuroLevel to /Game/Kakuro/UEDPIE_0_KakuroLevel.KakuroLevel (0.007795s)
+[2021.09.02-12.27.28:351][355]LogAudio: Display: Audio Device (ID: 5) registered with world 'KakuroLevel'.
+[2021.09.02-12.27.28:351][355]LogLoad: Game class is 'GameModeBase'
+[2021.09.02-12.27.28:352][355]LogWorld: Bringing World /Game/Kakuro/UEDPIE_0_KakuroLevel.KakuroLevel up for play (max tick rate 0) at 2021.09.02-15.27.28
+[2021.09.02-12.27.28:352][355]LogWorld: Bringing up level for play took: 0.000824
+[2021.09.02-12.27.28:537][355]LogLoad: Took 0.251914 seconds to LoadMap(/Game/Kakuro/UEDPIE_0_KakuroLevel)
+[2021.09.02-12.27.40:765][837]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.02-12.27.40:765][837]LogWorld: BeginTearingDown for /Game/Kakuro/UEDPIE_0_KakuroLevel
+[2021.09.02-12.27.40:765][837]LogWorld: UWorld::CleanupWorld for KakuroLevel, bSessionEnded=true, bCleanupResources=true
+[2021.09.02-12.27.40:766][837]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.02-12.27.40:777][837]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.02-12.27.40:788][837]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.02-12.27.40:840][837]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.02-12.27.40:844][837]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.02-12.27.40:845][837]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.02-12.27.40:887][837]LogUObjectHash: Compacting FUObjectHashTables data took   5.60ms
+[2021.09.02-12.27.40:912][838]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2021.09.02-12.28.25:171][634]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.02-12.28.25:181][634]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.02-12.28.25:181][634]PIE: New page: PIE session: MainMenuLevel (2 сент. 2021 г., 18:28:25)
+[2021.09.02-12.28.25:181][634]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenuLevel
+[2021.09.02-12.28.25:183][634]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002166s)
+[2021.09.02-12.28.25:185][634]LogAIModule: Creating AISystem for world MainMenuLevel
+[2021.09.02-12.28.25:185][634]LogPlayLevel: PIE: World Init took: (0.001830s)
+[2021.09.02-12.28.25:185][634]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenuLevel.MainMenuLevel to /Game/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.004161s)
+[2021.09.02-12.28.25:245][634]LogUObjectHash: Compacting FUObjectHashTables data took   5.50ms
+[2021.09.02-12.28.25:246][634]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.09.02-12.28.25:246][634]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.02-12.28.25:246][634]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.02-12.28.25:246][634]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.02-12.28.25:246][634]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.02-12.28.25:246][634]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.02-12.28.25:246][634]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.02-12.28.25:246][634]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.02-12.28.25:246][634]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.02-12.28.25:247][634]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.02-12.28.25:247][634]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.02-12.28.25:248][634]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.02-12.28.25:248][634]LogAudioMixer: Display: 1: FrontRight
+[2021.09.02-12.28.25:259][634]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2021.09.02-12.28.25:259][634]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.02-12.28.25:259][634]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.02-12.28.25:259][634]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.02-12.28.25:260][634]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.02-12.28.25:260][634]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.02-12.28.25:260][634]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.02-12.28.25:282][634]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.02-12.28.25:282][634]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.02-12.28.25:282][634]LogInit: FAudioDevice initialized.
+[2021.09.02-12.28.25:282][634]LogAudio: Display: Audio Device (ID: 6) registered with world 'MainMenuLevel'.
+[2021.09.02-12.28.25:290][634]LogLoad: Game class is 'GameModeBase'
+[2021.09.02-12.28.25:291][634]LogWorld: Bringing World /Game/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2021.09.02-15.28.25
+[2021.09.02-12.28.25:291][634]LogWorld: Bringing up level for play took: 0.000504
+[2021.09.02-12.28.25:291][634]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2021.09.02-12.28.25:296][634]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.02-12.28.25:296][634]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.09.02-12.28.25:296][634]PIE: Server logged in
+[2021.09.02-12.28.25:297][634]PIE: Play in editor total start time 0,117 seconds.
+[2021.09.02-12.28.27:675][717]LogNet: Browse: /Game/Kakuro/KakuroLevel
+[2021.09.02-12.28.27:675][717]LogLoad: LoadMap: /Game/Kakuro/KakuroLevel
+[2021.09.02-12.28.27:675][717]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMenuLevel
+[2021.09.02-12.28.27:675][717]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.09.02-12.28.27:675][717]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.02-12.28.27:771][717]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.02-12.28.27:777][717]LogUObjectHash: Compacting FUObjectHashTables data took   5.22ms
+[2021.09.02-12.28.27:778][717]LogPlayLevel: Creating play world package: /Game/Kakuro/UEDPIE_0_KakuroLevel
+[2021.09.02-12.28.27:783][717]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005011s)
+[2021.09.02-12.28.27:785][717]LogAIModule: Creating AISystem for world KakuroLevel
+[2021.09.02-12.28.27:785][717]LogPlayLevel: PIE: World Init took: (0.002089s)
+[2021.09.02-12.28.27:785][717]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kakuro/KakuroLevel.KakuroLevel to /Game/Kakuro/UEDPIE_0_KakuroLevel.KakuroLevel (0.007332s)
+[2021.09.02-12.28.27:785][717]LogAudio: Display: Audio Device (ID: 6) registered with world 'KakuroLevel'.
+[2021.09.02-12.28.27:785][717]LogLoad: Game class is 'GameModeBase'
+[2021.09.02-12.28.27:788][717]LogWorld: Bringing World /Game/Kakuro/UEDPIE_0_KakuroLevel.KakuroLevel up for play (max tick rate 0) at 2021.09.02-15.28.27
+[2021.09.02-12.28.27:788][717]LogWorld: Bringing up level for play took: 0.002250
+[2021.09.02-12.28.27:974][717]LogLoad: Took 0.299579 seconds to LoadMap(/Game/Kakuro/UEDPIE_0_KakuroLevel)
+[2021.09.02-12.28.29:525][774]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.02-12.28.29:525][774]LogWorld: BeginTearingDown for /Game/Kakuro/UEDPIE_0_KakuroLevel
+[2021.09.02-12.28.29:525][774]LogWorld: UWorld::CleanupWorld for KakuroLevel, bSessionEnded=true, bCleanupResources=true
+[2021.09.02-12.28.29:525][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.02-12.28.29:535][774]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.02-12.28.29:545][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.02-12.28.29:603][774]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.02-12.28.29:603][774]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.02-12.28.29:604][774]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.02-12.28.29:645][774]LogUObjectHash: Compacting FUObjectHashTables data took   5.37ms
+[2021.09.02-12.28.29:673][775]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2021.09.02-12.28.37:899][ 93]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.09.02-12.28.37:899][ 93]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.02-12.28.37:910][ 93]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.09.02-12.28.37:910][ 93]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.02-12.28.38:250][105]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.09.02-12.28.38:250][105]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.02-12.28.38:260][105]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.09.02-12.28.38:260][105]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.02-12.28.38:676][127]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.09.02-12.28.38:676][127]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.02-12.28.38:689][127]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.09.02-12.28.38:689][127]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.02-12.31.38:234][367]LogSlate: Window 'Color Picker' being destroyed
+[2021.09.02-12.33.32:283][193]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG_MainMenu" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/UMG_MainMenu.uasset" SILENT=true
+[2021.09.02-12.33.32:304][193]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_MainMenu7E328B0444857B46D15CB9BDF31ECA92.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/UMG_MainMenu.uasset'
+[2021.09.02-12.33.32:325][193]AssetCheck: New page: Asset Save: UMG_MainMenu
+[2021.09.02-12.33.32:325][193]LogContentValidation: Display: Validating WidgetBlueprint /Game/UMG_MainMenu.UMG_MainMenu
+[2021.09.02-12.34.56:277][957]BlueprintLog: New page: Compile UMG_MainMenu
+[2021.09.02-12.34.56:386][957]LogUObjectHash: Compacting FUObjectHashTables data took   8.64ms
+[2021.09.02-12.34.56:729][973]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG_MainMenu" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/UMG_MainMenu.uasset" SILENT=true
+[2021.09.02-12.34.56:759][973]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_MainMenuAAF45F9B41C3144BF1D0479F5A138BDB.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/UMG_MainMenu.uasset'
+[2021.09.02-12.34.56:773][973]AssetCheck: New page: Asset Save: UMG_MainMenu
+[2021.09.02-12.34.56:773][973]LogContentValidation: Display: Validating WidgetBlueprint /Game/UMG_MainMenu.UMG_MainMenu
+[2021.09.02-12.34.58:147][ 31]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.02-12.34.58:159][ 31]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.02-12.34.58:159][ 31]PIE: New page: PIE session: MainMenuLevel (2 сент. 2021 г., 18:34:58)
+[2021.09.02-12.34.58:159][ 31]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenuLevel
+[2021.09.02-12.34.58:161][ 31]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001964s)
+[2021.09.02-12.34.58:163][ 31]LogAIModule: Creating AISystem for world MainMenuLevel
+[2021.09.02-12.34.58:163][ 31]LogPlayLevel: PIE: World Init took: (0.001813s)
+[2021.09.02-12.34.58:163][ 31]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenuLevel.MainMenuLevel to /Game/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.004008s)
+[2021.09.02-12.34.58:216][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   7.55ms
+[2021.09.02-12.34.58:218][ 31]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.09.02-12.34.58:218][ 31]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.02-12.34.58:218][ 31]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.02-12.34.58:218][ 31]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.02-12.34.58:218][ 31]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.02-12.34.58:218][ 31]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.02-12.34.58:218][ 31]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.02-12.34.58:218][ 31]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.02-12.34.58:218][ 31]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.02-12.34.58:219][ 31]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.02-12.34.58:219][ 31]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.02-12.34.58:220][ 31]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.02-12.34.58:220][ 31]LogAudioMixer: Display: 1: FrontRight
+[2021.09.02-12.34.58:234][ 31]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2021.09.02-12.34.58:234][ 31]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.02-12.34.58:234][ 31]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.02-12.34.58:234][ 31]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.02-12.34.58:235][ 31]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.02-12.34.58:235][ 31]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.02-12.34.58:235][ 31]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.02-12.34.58:256][ 31]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.02-12.34.58:256][ 31]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.02-12.34.58:256][ 31]LogInit: FAudioDevice initialized.
+[2021.09.02-12.34.58:256][ 31]LogAudio: Display: Audio Device (ID: 7) registered with world 'MainMenuLevel'.
+[2021.09.02-12.34.58:268][ 31]LogLoad: Game class is 'GameModeBase'
+[2021.09.02-12.34.58:269][ 31]LogWorld: Bringing World /Game/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2021.09.02-15.34.58
+[2021.09.02-12.34.58:269][ 31]LogWorld: Bringing up level for play took: 0.000475
+[2021.09.02-12.34.58:270][ 31]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2021.09.02-12.34.58:274][ 31]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.02-12.34.58:274][ 31]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.09.02-12.34.58:274][ 31]PIE: Server logged in
+[2021.09.02-12.34.58:275][ 31]PIE: Play in editor total start time 0,118 seconds.
+[2021.09.02-12.35.01:070][137]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.02-12.35.01:070][137]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMenuLevel
+[2021.09.02-12.35.01:070][137]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.09.02-12.35.01:071][137]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.02-12.35.01:082][137]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.02-12.35.01:090][137]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.02-12.35.01:133][137]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.02-12.35.01:133][137]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.02-12.35.01:135][137]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.02-12.35.01:158][137]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.02-12.35.01:164][137]LogUObjectHash: Compacting FUObjectHashTables data took   5.24ms
+[2021.09.02-12.35.01:190][138]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2021.09.02-12.35.15:495][788]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG_MainMenu" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/UMG_MainMenu.uasset" SILENT=true
+[2021.09.02-12.35.15:524][788]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_MainMenu8485A3DD42A0525D72C0518383B45EF4.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/UMG_MainMenu.uasset'
+[2021.09.02-12.35.15:540][788]AssetCheck: New page: Asset Save: UMG_MainMenu
+[2021.09.02-12.35.15:541][788]LogContentValidation: Display: Validating WidgetBlueprint /Game/UMG_MainMenu.UMG_MainMenu
+[2021.09.02-12.35.17:212][862]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.02-12.35.17:220][862]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.09.02-12.35.17:222][862]LogPlayLevel: [PlayLevel] Compiling UMG_MainMenu before play...
+[2021.09.02-12.35.17:383][862]LogUObjectHash: Compacting FUObjectHashTables data took   8.00ms
+[2021.09.02-12.35.17:385][862]LogPlayLevel: PlayLevel: Blueprint regeneration took 165 ms (1 blueprints)
+[2021.09.02-12.35.17:386][862]PIE: New page: PIE session: MainMenuLevel (2 сент. 2021 г., 18:35:17)
+[2021.09.02-12.35.17:386][862]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenuLevel
+[2021.09.02-12.35.17:388][862]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001824s)
+[2021.09.02-12.35.17:389][862]LogAIModule: Creating AISystem for world MainMenuLevel
+[2021.09.02-12.35.17:389][862]LogPlayLevel: PIE: World Init took: (0.001732s)
+[2021.09.02-12.35.17:389][862]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenuLevel.MainMenuLevel to /Game/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.003726s)
+[2021.09.02-12.35.17:436][862]LogUObjectHash: Compacting FUObjectHashTables data took   5.35ms
+[2021.09.02-12.35.17:436][862]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.09.02-12.35.17:436][862]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.02-12.35.17:436][862]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.02-12.35.17:436][862]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.02-12.35.17:436][862]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.02-12.35.17:436][862]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.02-12.35.17:436][862]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.02-12.35.17:436][862]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.02-12.35.17:436][862]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.02-12.35.17:437][862]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.02-12.35.17:437][862]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.02-12.35.17:438][862]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.02-12.35.17:438][862]LogAudioMixer: Display: 1: FrontRight
+[2021.09.02-12.35.17:449][862]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2021.09.02-12.35.17:449][862]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.02-12.35.17:449][862]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.02-12.35.17:449][862]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.02-12.35.17:450][862]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.02-12.35.17:450][862]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.02-12.35.17:450][862]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.02-12.35.17:472][862]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.02-12.35.17:472][862]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.02-12.35.17:472][862]LogInit: FAudioDevice initialized.
+[2021.09.02-12.35.17:472][862]LogAudio: Display: Audio Device (ID: 8) registered with world 'MainMenuLevel'.
+[2021.09.02-12.35.17:483][862]LogLoad: Game class is 'GameModeBase'
+[2021.09.02-12.35.17:484][862]LogWorld: Bringing World /Game/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2021.09.02-15.35.17
+[2021.09.02-12.35.17:484][862]LogWorld: Bringing up level for play took: 0.000419
+[2021.09.02-12.35.17:485][862]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2021.09.02-12.35.17:488][862]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.02-12.35.17:488][862]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.09.02-12.35.17:489][862]PIE: Server logged in
+[2021.09.02-12.35.17:490][862]PIE: Play in editor total start time 0,27 seconds.
+[2021.09.02-12.35.22:387][ 80]LogNet: Browse: /Game/Kakuro/KakuroLevel
+[2021.09.02-12.35.22:387][ 80]LogLoad: LoadMap: /Game/Kakuro/KakuroLevel
+[2021.09.02-12.35.22:387][ 80]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMenuLevel
+[2021.09.02-12.35.22:387][ 80]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.09.02-12.35.22:387][ 80]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.02-12.35.22:432][ 80]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.02-12.35.22:438][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   5.25ms
+[2021.09.02-12.35.22:439][ 80]LogPlayLevel: Creating play world package: /Game/Kakuro/UEDPIE_0_KakuroLevel
+[2021.09.02-12.35.22:444][ 80]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004782s)
+[2021.09.02-12.35.22:446][ 80]LogAIModule: Creating AISystem for world KakuroLevel
+[2021.09.02-12.35.22:446][ 80]LogPlayLevel: PIE: World Init took: (0.002095s)
+[2021.09.02-12.35.22:446][ 80]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kakuro/KakuroLevel.KakuroLevel to /Game/Kakuro/UEDPIE_0_KakuroLevel.KakuroLevel (0.007087s)
+[2021.09.02-12.35.22:446][ 80]LogAudio: Display: Audio Device (ID: 8) registered with world 'KakuroLevel'.
+[2021.09.02-12.35.22:446][ 80]LogLoad: Game class is 'GameModeBase'
+[2021.09.02-12.35.22:449][ 80]LogWorld: Bringing World /Game/Kakuro/UEDPIE_0_KakuroLevel.KakuroLevel up for play (max tick rate 0) at 2021.09.02-15.35.22
+[2021.09.02-12.35.22:449][ 80]LogWorld: Bringing up level for play took: 0.001885
+[2021.09.02-12.35.22:673][ 80]LogLoad: Took 0.286347 seconds to LoadMap(/Game/Kakuro/UEDPIE_0_KakuroLevel)
+[2021.09.02-12.35.27:554][261]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.02-12.35.27:554][261]LogWorld: BeginTearingDown for /Game/Kakuro/UEDPIE_0_KakuroLevel
+[2021.09.02-12.35.27:554][261]LogWorld: UWorld::CleanupWorld for KakuroLevel, bSessionEnded=true, bCleanupResources=true
+[2021.09.02-12.35.27:555][261]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.02-12.35.27:561][261]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.02-12.35.27:571][261]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.02-12.35.27:622][261]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.02-12.35.27:622][261]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.02-12.35.27:623][261]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.02-12.35.27:666][261]LogUObjectHash: Compacting FUObjectHashTables data took   5.32ms
+[2021.09.02-12.35.27:694][262]LogPlayLevel: Display: Destroying online subsystem :Context_20
