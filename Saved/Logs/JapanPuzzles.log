@@ -4690,3 +4690,336 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.02-15.06.34:987][308]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2021.09.02-15.06.35:019][308]LogUObjectHash: Compacting FUObjectHashTables data took   5.30ms
 [2021.09.02-15.06.35:046][309]LogPlayLevel: Display: Destroying online subsystem :Context_73
+[2021.09.02-15.07.29:921][569]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.09.02-15.07.29:921][569]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.09.02-15.07.30:724][591]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.09.02-15.07.30:724][591]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.09.02-15.22.04:256][442]BlueprintLog: New page: Compile UMG_HitoriGameWidget
+[2021.09.02-15.22.04:360][442]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2021.09.02-15.22.54:993][618]LogSlate: Window 'Message Log' being destroyed
+[2021.09.02-15.22.55:007][618]LogSlate: Window 'Message Log' being destroyed
+[2021.09.02-15.23.12:325][477]LogSlate: Window 'Color Picker' being destroyed
+[2021.09.02-15.23.15:411][616]LogSlate: Window 'Color Picker' being destroyed
+[2021.09.02-15.23.18:162][744]Cmd: TRANSACTION UNDO
+[2021.09.02-15.23.18:162][744]LogEditorTransaction: Undo Edit Content Color and Opacity
+[2021.09.02-15.23.27:455][198]LogSlate: Window 'Color Picker' being destroyed
+[2021.09.02-15.24.15:778][675]LogSlate: Window 'Color Picker' being destroyed
+[2021.09.02-15.24.31:334][401]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 329655
+[2021.09.02-15.24.31:334][401]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.02-15.24.31:408][402]LogSlate: Took 0.005391 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.09.02-15.24.31:416][402]LogSlate: Took 0.001554 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.09.02-15.24.31:425][402]LogSlate: Took 0.001666 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.09.02-15.24.31:429][402]LogSlate: Took 0.001914 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.09.02-15.24.31:437][402]LogSlate: Took 0.002510 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.09.02-15.24.31:446][402]LogSlate: Took 0.001437 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.09.02-15.24.31:455][402]LogSlate: Took 0.000994 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.09.02-15.26.19:116][607]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hitori/UMG_HitoriGameWidget" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Hitori/UMG_HitoriGameWidget.uasset" SILENT=true
+[2021.09.02-15.26.19:166][607]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_HitoriGameWidget6781B6A148273AE16F4016B354FDCECB.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Hitori/UMG_HitoriGameWidget.uasset'
+[2021.09.02-15.26.19:188][607]AssetCheck: New page: Asset Save: UMG_HitoriGameWidget
+[2021.09.02-15.26.19:188][607]LogContentValidation: Display: Validating WidgetBlueprint /Game/Hitori/UMG_HitoriGameWidget.UMG_HitoriGameWidget
+[2021.09.02-15.26.26:266][937]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Kakuro/UMG_KakuroGameWidget.UMG_KakuroGameWidget
+[2021.09.02-15.27.11:350][935]LogSlate: Took 0.004534 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.09.02-15.27.49:377][726]LogEditorTransaction: Undo Reset to Default
+[2021.09.02-15.27.49:755][731]Cmd: TRANSACTION UNDO
+[2021.09.02-15.27.49:755][731]LogEditorTransaction: Undo Edit Horizontal Alignment
+[2021.09.02-15.27.50:236][744]Cmd: TRANSACTION UNDO
+[2021.09.02-15.27.50:236][744]LogEditorTransaction: Undo Edit Vertical Alignment
+[2021.09.02-15.28.20:963][199]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/UMG_KakuroGameWidget" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/UMG_KakuroGameWidget.uasset" SILENT=true
+[2021.09.02-15.28.21:248][199]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_KakuroGameWidget6D1F2BE24AD29A9803CA2B9FF94DC6BA.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/UMG_KakuroGameWidget.uasset'
+[2021.09.02-15.28.21:269][199]AssetCheck: New page: Asset Save: UMG_KakuroGameWidget
+[2021.09.02-15.28.21:269][199]LogContentValidation: Display: Validating WidgetBlueprint /Game/Kakuro/UMG_KakuroGameWidget.UMG_KakuroGameWidget
+[2021.09.02-15.28.27:285][481]BlueprintLog: New page: Compile UMG_HitoriGameWidget
+[2021.09.02-15.28.27:416][481]LogUObjectHash: Compacting FUObjectHashTables data took   6.24ms
+[2021.09.02-15.28.28:126][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hitori/UMG_HitoriGameWidget" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Hitori/UMG_HitoriGameWidget.uasset" SILENT=true
+[2021.09.02-15.28.28:177][503]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_HitoriGameWidget53A0010741562AC8FF6E91AAE3CADA67.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Hitori/UMG_HitoriGameWidget.uasset'
+[2021.09.02-15.28.28:191][503]AssetCheck: New page: Asset Save: UMG_HitoriGameWidget
+[2021.09.02-15.28.28:191][503]LogContentValidation: Display: Validating WidgetBlueprint /Game/Hitori/UMG_HitoriGameWidget.UMG_HitoriGameWidget
+[2021.09.02-15.28.50:841][553]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hitori/UMG_HitoriGameWidget" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Hitori/UMG_HitoriGameWidget.uasset" SILENT=true
+[2021.09.02-15.28.50:891][553]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_HitoriGameWidget11E3B33A44422A9B5A4F4F9DF1204F75.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Hitori/UMG_HitoriGameWidget.uasset'
+[2021.09.02-15.28.50:907][553]AssetCheck: New page: Asset Save: UMG_HitoriGameWidget
+[2021.09.02-15.28.50:907][553]LogContentValidation: Display: Validating WidgetBlueprint /Game/Hitori/UMG_HitoriGameWidget.UMG_HitoriGameWidget
+[2021.09.02-15.29.30:011][638]BlueprintLog: New page: Compile UMG_Hitori
+[2021.09.02-15.29.30:083][638]LogUObjectHash: Compacting FUObjectHashTables data took   5.96ms
+[2021.09.02-15.29.30:407][653]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hitori/UMG_Hitori" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Hitori/UMG_Hitori.uasset" SILENT=true
+[2021.09.02-15.29.30:424][653]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_HitoriC30FD20D4B20C5CA5A169E964BEF8AD2.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Hitori/UMG_Hitori.uasset'
+[2021.09.02-15.29.30:439][653]AssetCheck: New page: Asset Save: UMG_Hitori
+[2021.09.02-15.29.30:439][653]LogContentValidation: Display: Validating WidgetBlueprint /Game/Hitori/UMG_Hitori.UMG_Hitori
+[2021.09.02-15.29.31:479][704]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.02-15.29.31:491][704]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.09.02-15.29.31:498][704]LogPlayLevel: [PlayLevel] Compiling UMG_KakuroGameWidget before play...
+[2021.09.02-15.29.31:646][704]LogPlayLevel: [PlayLevel] Compiling UMG_HitoriGameWidget before play...
+[2021.09.02-15.29.31:842][704]LogUObjectHash: Compacting FUObjectHashTables data took   5.80ms
+[2021.09.02-15.29.31:843][704]LogPlayLevel: PlayLevel: Blueprint regeneration took 351 ms (2 blueprints)
+[2021.09.02-15.29.31:843][704]PIE: New page: PIE session: MainMenuLevel (2 сент. 2021 г., 21:29:31)
+[2021.09.02-15.29.31:843][704]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenuLevel
+[2021.09.02-15.29.31:845][704]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001842s)
+[2021.09.02-15.29.31:846][704]LogAIModule: Creating AISystem for world MainMenuLevel
+[2021.09.02-15.29.31:847][704]LogPlayLevel: PIE: World Init took: (0.001720s)
+[2021.09.02-15.29.31:847][704]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenuLevel.MainMenuLevel to /Game/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.003720s)
+[2021.09.02-15.29.31:892][704]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2021.09.02-15.29.31:892][704]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2021.09.02-15.29.31:892][704]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.02-15.29.31:892][704]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.02-15.29.31:892][704]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.02-15.29.31:892][704]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.02-15.29.31:892][704]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.02-15.29.31:892][704]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.02-15.29.31:892][704]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.02-15.29.31:892][704]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.02-15.29.31:893][704]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.02-15.29.31:893][704]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.02-15.29.31:895][704]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.02-15.29.31:896][704]LogAudioMixer: Display: 1: FrontRight
+[2021.09.02-15.29.31:908][704]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2021.09.02-15.29.31:909][704]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.02-15.29.31:909][704]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.02-15.29.31:909][704]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.02-15.29.31:910][704]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.02-15.29.31:910][704]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.02-15.29.31:910][704]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.02-15.29.31:931][704]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.02-15.29.31:931][704]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.02-15.29.31:931][704]LogInit: FAudioDevice initialized.
+[2021.09.02-15.29.31:931][704]LogAudio: Display: Audio Device (ID: 28) registered with world 'MainMenuLevel'.
+[2021.09.02-15.29.31:946][704]LogLoad: Game class is 'GameModeBase'
+[2021.09.02-15.29.31:947][704]LogWorld: Bringing World /Game/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2021.09.02-18.29.31
+[2021.09.02-15.29.31:947][704]LogWorld: Bringing up level for play took: 0.000450
+[2021.09.02-15.29.31:948][704]LogOnline: OSS: Creating online subsystem instance for: :Context_76
+[2021.09.02-15.29.31:952][704]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.02-15.29.31:952][704]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.09.02-15.29.31:952][704]PIE: Server logged in
+[2021.09.02-15.29.31:953][704]PIE: Play in editor total start time 0,462 seconds.
+[2021.09.02-15.29.34:467][806]LogNet: Browse: /Game/Hitori/HitoriLevel
+[2021.09.02-15.29.34:467][806]LogLoad: LoadMap: /Game/Hitori/HitoriLevel
+[2021.09.02-15.29.34:467][806]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMenuLevel
+[2021.09.02-15.29.34:468][806]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.09.02-15.29.34:468][806]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.02-15.29.34:511][806]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.02-15.29.34:516][806]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2021.09.02-15.29.34:544][806]LogAudio: Display: Audio Device (ID: 28) registered with world 'HitoriLevel'.
+[2021.09.02-15.29.34:545][806]LogAIModule: Creating AISystem for world HitoriLevel
+[2021.09.02-15.29.34:546][806]LogLoad: Game class is 'GameModeBase'
+[2021.09.02-15.29.34:547][806]LogWorld: Bringing World /Game/Hitori/UEDPIE_0_HitoriLevel.HitoriLevel up for play (max tick rate 0) at 2021.09.02-18.29.34
+[2021.09.02-15.29.34:547][806]LogWorld: Bringing up level for play took: 0.000594
+[2021.09.02-15.29.34:548][806]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.09.02-15.29.34:565][806]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Levels' of length 1 in '/Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel_C'!
+[2021.09.02-15.29.34:566][806]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Levels' of length 1 in '/Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel_C'!
+[2021.09.02-15.29.34:566][806]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Levels' of length 1 in '/Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel_C'!
+[2021.09.02-15.29.34:566][806]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'Levels' of length 1 in '/Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel_C'!
+[2021.09.02-15.29.34:566][806]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'Levels' of length 1 in '/Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel_C'!
+[2021.09.02-15.29.34:566][806]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'Levels' of length 1 in '/Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel_C'!
+[2021.09.02-15.29.34:566][806]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'Levels' of length 1 in '/Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel_C'!
+[2021.09.02-15.29.34:566][806]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'Levels' of length 1 in '/Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel_C'!
+[2021.09.02-15.29.34:566][806]LogScript: Warning: Script Msg: Attempted to access index 9 from array 'Levels' of length 1 in '/Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel_C'!
+[2021.09.02-15.29.34:566][806]LogScript: Warning: Script Msg: Attempted to access index 10 from array 'Levels' of length 1 in '/Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel_C'!
+[2021.09.02-15.29.34:566][806]LogScript: Warning: Script Msg: Attempted to access index 11 from array 'Levels' of length 1 in '/Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel_C'!
+[2021.09.02-15.29.34:567][806]LogLoad: Took 0.099565 seconds to LoadMap(/Game/Hitori/HitoriLevel)
+[2021.09.02-15.29.44:115][264]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.02-15.29.44:115][264]LogWorld: BeginTearingDown for /Game/Hitori/UEDPIE_0_HitoriLevel
+[2021.09.02-15.29.44:116][264]LogWorld: UWorld::CleanupWorld for HitoriLevel, bSessionEnded=true, bCleanupResources=true
+[2021.09.02-15.29.44:116][264]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.02-15.29.44:124][264]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.02-15.29.44:133][264]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.02-15.29.44:177][264]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.02-15.29.44:177][264]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.02-15.29.44:179][264]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.02-15.29.44:209][264]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2021.09.02-15.29.44:238][265]LogPlayLevel: Display: Destroying online subsystem :Context_76
+[2021.09.02-15.29.53:681][711]LogSlate: Took 0.000280 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.09.02-15.30.23:208][538]BlueprintLog: New page: Compile UMG_HitoriGameWidget
+[2021.09.02-15.30.23:326][538]LogUObjectHash: Compacting FUObjectHashTables data took   5.85ms
+[2021.09.02-15.30.23:970][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hitori/UMG_HitoriGameWidget" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Hitori/UMG_HitoriGameWidget.uasset" SILENT=true
+[2021.09.02-15.30.24:023][562]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_HitoriGameWidget1347E56E4722C7C6012A119C72DB6F17.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Hitori/UMG_HitoriGameWidget.uasset'
+[2021.09.02-15.30.24:039][562]AssetCheck: New page: Asset Save: UMG_HitoriGameWidget
+[2021.09.02-15.30.24:039][562]LogContentValidation: Display: Validating WidgetBlueprint /Game/Hitori/UMG_HitoriGameWidget.UMG_HitoriGameWidget
+[2021.09.02-15.30.58:768][572]BlueprintLog: New page: Compile UMG_Hitori
+[2021.09.02-15.30.58:840][572]LogUObjectHash: Compacting FUObjectHashTables data took   5.82ms
+[2021.09.02-15.30.59:202][590]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hitori/UMG_Hitori" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Hitori/UMG_Hitori.uasset" SILENT=true
+[2021.09.02-15.30.59:221][590]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_HitoriCCC2E68A47CD6627A8E675B30B584A60.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Hitori/UMG_Hitori.uasset'
+[2021.09.02-15.30.59:237][590]AssetCheck: New page: Asset Save: UMG_Hitori
+[2021.09.02-15.30.59:237][590]LogContentValidation: Display: Validating WidgetBlueprint /Game/Hitori/UMG_Hitori.UMG_Hitori
+[2021.09.02-15.31.00:213][637]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.02-15.31.00:223][637]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.02-15.31.00:223][637]PIE: New page: PIE session: MainMenuLevel (2 сент. 2021 г., 21:31:00)
+[2021.09.02-15.31.00:223][637]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenuLevel
+[2021.09.02-15.31.00:225][637]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001898s)
+[2021.09.02-15.31.00:226][637]LogAIModule: Creating AISystem for world MainMenuLevel
+[2021.09.02-15.31.00:227][637]LogPlayLevel: PIE: World Init took: (0.001761s)
+[2021.09.02-15.31.00:227][637]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenuLevel.MainMenuLevel to /Game/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.003820s)
+[2021.09.02-15.31.00:278][637]LogUObjectHash: Compacting FUObjectHashTables data took   5.43ms
+[2021.09.02-15.31.00:279][637]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2021.09.02-15.31.00:279][637]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.02-15.31.00:279][637]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.02-15.31.00:279][637]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.02-15.31.00:279][637]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.02-15.31.00:279][637]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.02-15.31.00:279][637]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.02-15.31.00:279][637]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.02-15.31.00:279][637]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.02-15.31.00:280][637]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.02-15.31.00:280][637]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.02-15.31.00:281][637]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.02-15.31.00:281][637]LogAudioMixer: Display: 1: FrontRight
+[2021.09.02-15.31.00:294][637]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2021.09.02-15.31.00:294][637]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.02-15.31.00:294][637]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.02-15.31.00:294][637]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.02-15.31.00:295][637]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.02-15.31.00:295][637]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.02-15.31.00:295][637]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.02-15.31.00:317][637]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.02-15.31.00:317][637]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.02-15.31.00:317][637]LogInit: FAudioDevice initialized.
+[2021.09.02-15.31.00:317][637]LogAudio: Display: Audio Device (ID: 29) registered with world 'MainMenuLevel'.
+[2021.09.02-15.31.00:335][637]LogLoad: Game class is 'GameModeBase'
+[2021.09.02-15.31.00:335][637]LogWorld: Bringing World /Game/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2021.09.02-18.31.00
+[2021.09.02-15.31.00:336][637]LogWorld: Bringing up level for play took: 0.000458
+[2021.09.02-15.31.00:336][637]LogOnline: OSS: Creating online subsystem instance for: :Context_77
+[2021.09.02-15.31.00:340][637]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.02-15.31.00:340][637]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.09.02-15.31.00:340][637]PIE: Server logged in
+[2021.09.02-15.31.00:341][637]PIE: Play in editor total start time 0,12 seconds.
+[2021.09.02-15.31.01:216][682]LogNet: Browse: /Game/Hitori/HitoriLevel
+[2021.09.02-15.31.01:216][682]LogLoad: LoadMap: /Game/Hitori/HitoriLevel
+[2021.09.02-15.31.01:216][682]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMenuLevel
+[2021.09.02-15.31.01:217][682]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.09.02-15.31.01:217][682]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.02-15.31.01:259][682]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.02-15.31.01:265][682]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2021.09.02-15.31.01:282][682]LogAudio: Display: Audio Device (ID: 29) registered with world 'HitoriLevel'.
+[2021.09.02-15.31.01:284][682]LogAIModule: Creating AISystem for world HitoriLevel
+[2021.09.02-15.31.01:284][682]LogLoad: Game class is 'GameModeBase'
+[2021.09.02-15.31.01:285][682]LogWorld: Bringing World /Game/Hitori/UEDPIE_0_HitoriLevel.HitoriLevel up for play (max tick rate 0) at 2021.09.02-18.31.01
+[2021.09.02-15.31.01:286][682]LogWorld: Bringing up level for play took: 0.000606
+[2021.09.02-15.31.01:286][682]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.09.02-15.31.01:305][682]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Levels' of length 1 in '/Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel_C'!
+[2021.09.02-15.31.01:305][682]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Levels' of length 1 in '/Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel_C'!
+[2021.09.02-15.31.01:305][682]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Levels' of length 1 in '/Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel_C'!
+[2021.09.02-15.31.01:305][682]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'Levels' of length 1 in '/Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel_C'!
+[2021.09.02-15.31.01:305][682]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'Levels' of length 1 in '/Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel_C'!
+[2021.09.02-15.31.01:305][682]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'Levels' of length 1 in '/Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel_C'!
+[2021.09.02-15.31.01:305][682]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'Levels' of length 1 in '/Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel_C'!
+[2021.09.02-15.31.01:305][682]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'Levels' of length 1 in '/Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel_C'!
+[2021.09.02-15.31.01:305][682]LogScript: Warning: Script Msg: Attempted to access index 9 from array 'Levels' of length 1 in '/Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel_C'!
+[2021.09.02-15.31.01:306][682]LogScript: Warning: Script Msg: Attempted to access index 10 from array 'Levels' of length 1 in '/Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel_C'!
+[2021.09.02-15.31.01:306][682]LogScript: Warning: Script Msg: Attempted to access index 11 from array 'Levels' of length 1 in '/Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel_C'!
+[2021.09.02-15.31.01:306][682]LogLoad: Took 0.088761 seconds to LoadMap(/Game/Hitori/HitoriLevel)
+[2021.09.02-15.31.03:273][779]LogBlueprintUserMessages: [Game] %%%Gameover%%%
+[2021.09.02-15.31.05:014][865]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.02-15.31.05:014][865]LogWorld: BeginTearingDown for /Game/Hitori/UEDPIE_0_HitoriLevel
+[2021.09.02-15.31.05:015][865]LogWorld: UWorld::CleanupWorld for HitoriLevel, bSessionEnded=true, bCleanupResources=true
+[2021.09.02-15.31.05:015][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.02-15.31.05:024][865]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.02-15.31.05:030][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.02-15.31.05:074][865]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.02-15.31.05:075][865]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.02-15.31.05:076][865]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.02-15.31.05:100][865]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.02-15.31.05:106][865]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2021.09.02-15.31.05:132][866]LogPlayLevel: Display: Destroying online subsystem :Context_77
+[2021.09.02-15.32.14:436][592]BlueprintLog: New page: Compile UMG_HitoriGameWidget
+[2021.09.02-15.32.14:554][592]LogUObjectHash: Compacting FUObjectHashTables data took   6.08ms
+[2021.09.02-15.32.15:098][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hitori/UMG_HitoriGameWidget" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Hitori/UMG_HitoriGameWidget.uasset" SILENT=true
+[2021.09.02-15.32.15:152][609]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_HitoriGameWidget022097344F76A324A652D1B1206C6481.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Hitori/UMG_HitoriGameWidget.uasset'
+[2021.09.02-15.32.15:166][609]AssetCheck: New page: Asset Save: UMG_HitoriGameWidget
+[2021.09.02-15.32.15:166][609]LogContentValidation: Display: Validating WidgetBlueprint /Game/Hitori/UMG_HitoriGameWidget.UMG_HitoriGameWidget
+[2021.09.02-15.32.15:934][647]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.02-15.32.15:944][647]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.02-15.32.15:944][647]PIE: New page: PIE session: MainMenuLevel (2 сент. 2021 г., 21:32:15)
+[2021.09.02-15.32.15:944][647]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenuLevel
+[2021.09.02-15.32.15:946][647]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001846s)
+[2021.09.02-15.32.15:947][647]LogAIModule: Creating AISystem for world MainMenuLevel
+[2021.09.02-15.32.15:948][647]LogPlayLevel: PIE: World Init took: (0.001662s)
+[2021.09.02-15.32.15:948][647]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenuLevel.MainMenuLevel to /Game/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.003659s)
+[2021.09.02-15.32.15:999][647]LogUObjectHash: Compacting FUObjectHashTables data took   5.39ms
+[2021.09.02-15.32.16:000][647]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2021.09.02-15.32.16:000][647]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.02-15.32.16:000][647]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.02-15.32.16:000][647]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.02-15.32.16:000][647]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.02-15.32.16:000][647]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.02-15.32.16:000][647]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.02-15.32.16:000][647]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.02-15.32.16:000][647]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.02-15.32.16:001][647]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.02-15.32.16:001][647]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.02-15.32.16:002][647]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.02-15.32.16:002][647]LogAudioMixer: Display: 1: FrontRight
+[2021.09.02-15.32.16:013][647]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2021.09.02-15.32.16:014][647]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.02-15.32.16:014][647]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.02-15.32.16:014][647]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.02-15.32.16:014][647]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.02-15.32.16:014][647]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.02-15.32.16:014][647]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.02-15.32.16:036][647]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.02-15.32.16:036][647]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.02-15.32.16:036][647]LogInit: FAudioDevice initialized.
+[2021.09.02-15.32.16:036][647]LogAudio: Display: Audio Device (ID: 30) registered with world 'MainMenuLevel'.
+[2021.09.02-15.32.16:049][647]LogLoad: Game class is 'GameModeBase'
+[2021.09.02-15.32.16:050][647]LogWorld: Bringing World /Game/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2021.09.02-18.32.16
+[2021.09.02-15.32.16:050][647]LogWorld: Bringing up level for play took: 0.000431
+[2021.09.02-15.32.16:050][647]LogOnline: OSS: Creating online subsystem instance for: :Context_78
+[2021.09.02-15.32.16:054][647]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.02-15.32.16:054][647]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.09.02-15.32.16:054][647]PIE: Server logged in
+[2021.09.02-15.32.16:055][647]PIE: Play in editor total start time 0,112 seconds.
+[2021.09.02-15.32.19:090][802]LogNet: Browse: /Game/Hitori/HitoriLevel
+[2021.09.02-15.32.19:090][802]LogLoad: LoadMap: /Game/Hitori/HitoriLevel
+[2021.09.02-15.32.19:090][802]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMenuLevel
+[2021.09.02-15.32.19:091][802]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.09.02-15.32.19:091][802]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.02-15.32.19:153][802]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.02-15.32.19:158][802]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2021.09.02-15.32.19:176][802]LogAudio: Display: Audio Device (ID: 30) registered with world 'HitoriLevel'.
+[2021.09.02-15.32.19:177][802]LogAIModule: Creating AISystem for world HitoriLevel
+[2021.09.02-15.32.19:177][802]LogLoad: Game class is 'GameModeBase'
+[2021.09.02-15.32.19:179][802]LogWorld: Bringing World /Game/Hitori/UEDPIE_0_HitoriLevel.HitoriLevel up for play (max tick rate 0) at 2021.09.02-18.32.19
+[2021.09.02-15.32.19:179][802]LogWorld: Bringing up level for play took: 0.000576
+[2021.09.02-15.32.19:179][802]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.09.02-15.32.19:197][802]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Levels' of length 1 in '/Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel_C'!
+[2021.09.02-15.32.19:197][802]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Levels' of length 1 in '/Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel_C'!
+[2021.09.02-15.32.19:197][802]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Levels' of length 1 in '/Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel_C'!
+[2021.09.02-15.32.19:197][802]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'Levels' of length 1 in '/Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel_C'!
+[2021.09.02-15.32.19:197][802]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'Levels' of length 1 in '/Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel_C'!
+[2021.09.02-15.32.19:197][802]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'Levels' of length 1 in '/Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel_C'!
+[2021.09.02-15.32.19:197][802]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'Levels' of length 1 in '/Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel_C'!
+[2021.09.02-15.32.19:197][802]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'Levels' of length 1 in '/Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel_C'!
+[2021.09.02-15.32.19:198][802]LogScript: Warning: Script Msg: Attempted to access index 9 from array 'Levels' of length 1 in '/Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel_C'!
+[2021.09.02-15.32.19:198][802]LogScript: Warning: Script Msg: Attempted to access index 10 from array 'Levels' of length 1 in '/Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel_C'!
+[2021.09.02-15.32.19:198][802]LogScript: Warning: Script Msg: Attempted to access index 11 from array 'Levels' of length 1 in '/Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel_C'!
+[2021.09.02-15.32.19:198][802]LogLoad: Took 0.107808 seconds to LoadMap(/Game/Hitori/HitoriLevel)
+[2021.09.02-15.32.23:755][ 25]LogSlate: Window 'UMG_KakuroGameWidget' being destroyed
+[2021.09.02-15.32.23:760][ 25]LogSlate: Window 'UMG_KakuroGameWidget' being destroyed
+[2021.09.02-15.32.23:766][ 25]LogWorld: UWorld::CleanupWorld for World_80, bSessionEnded=true, bCleanupResources=true
+[2021.09.02-15.32.23:766][ 25]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.02-15.32.23:778][ 25]LogWorld: UWorld::CleanupWorld for World_79, bSessionEnded=true, bCleanupResources=true
+[2021.09.02-15.32.23:778][ 25]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.02-15.32.23:844][ 25]LogWorld: UWorld::CleanupWorld for World_62, bSessionEnded=true, bCleanupResources=true
+[2021.09.02-15.32.23:844][ 25]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.02-15.32.23:853][ 25]LogWorld: UWorld::CleanupWorld for World_61, bSessionEnded=true, bCleanupResources=true
+[2021.09.02-15.32.23:853][ 25]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.02-15.32.23:949][ 25]LogWorld: UWorld::CleanupWorld for World_66, bSessionEnded=true, bCleanupResources=true
+[2021.09.02-15.32.23:949][ 25]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.02-15.32.23:958][ 25]LogWorld: UWorld::CleanupWorld for World_65, bSessionEnded=true, bCleanupResources=true
+[2021.09.02-15.32.23:958][ 25]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.02-15.32.24:071][ 25]LogWorld: UWorld::CleanupWorld for World_83, bSessionEnded=true, bCleanupResources=true
+[2021.09.02-15.32.24:071][ 25]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.02-15.32.24:079][ 25]LogWorld: UWorld::CleanupWorld for World_82, bSessionEnded=true, bCleanupResources=true
+[2021.09.02-15.32.24:079][ 25]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.02-15.32.24:172][ 25]LogWorld: UWorld::CleanupWorld for World_130, bSessionEnded=true, bCleanupResources=true
+[2021.09.02-15.32.24:172][ 25]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.02-15.32.24:181][ 25]LogWorld: UWorld::CleanupWorld for World_129, bSessionEnded=true, bCleanupResources=true
+[2021.09.02-15.32.24:181][ 25]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.02-15.32.26:513][164]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.02-15.32.26:513][164]LogWorld: BeginTearingDown for /Game/Hitori/UEDPIE_0_HitoriLevel
+[2021.09.02-15.32.26:514][164]LogWorld: UWorld::CleanupWorld for HitoriLevel, bSessionEnded=true, bCleanupResources=true
+[2021.09.02-15.32.26:514][164]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.02-15.32.26:526][164]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.02-15.32.26:532][164]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.02-15.32.26:561][164]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.02-15.32.26:561][164]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.02-15.32.26:562][164]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.02-15.32.26:587][164]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.02-15.32.26:633][164]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2021.09.02-15.32.26:668][165]LogPlayLevel: Display: Destroying online subsystem :Context_78
