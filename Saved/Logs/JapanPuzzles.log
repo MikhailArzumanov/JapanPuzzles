@@ -2631,3 +2631,105 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.04-17.23.27:378][710]LogContentValidation: Display: Validating World /Game/Kakuro/KakuroLevel.KakuroLevel
 [2021.09.04-17.23.27:378][710]LogContentValidation: Display: Validating WidgetBlueprint /Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel
 [2021.09.04-17.23.51:706][474]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2021.09.04-17.24.30:487][160]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.09.04-17.24.30:507][160]LogContentBrowser: Creating deferred item: NewFolder
+[2021.09.04-17.24.31:972][241]LogContentBrowser: Attempting asset rename: NewFolder -> Game
+[2021.09.04-17.24.31:973][241]LogContentBrowser: End creating deferred item NewFolder
+[2021.09.04-17.24.39:099][749]LogMetaData: Removing '/Game/Hitori/Game/UMG_HitoriTile.UMG_HitoriTile_C' ref from Metadata '/Game/Hitori/Tile/UMG_HitoriTile.PackageMetaData'
+[2021.09.04-17.24.39:099][749]LogMetaData: Removing '/Game/Hitori/Game/UMG_HitoriTile.UMG_HitoriTile_C:SetNum' ref from Metadata '/Game/Hitori/Tile/UMG_HitoriTile.PackageMetaData'
+[2021.09.04-17.24.39:099][749]LogMetaData: Removing '/Game/Hitori/Game/UMG_HitoriTile.UMG_HitoriTile_C:OnMouseButtonDown' ref from Metadata '/Game/Hitori/Tile/UMG_HitoriTile.PackageMetaData'
+[2021.09.04-17.24.39:099][749]LogMetaData: Removing '/Game/Hitori/Game/UMG_HitoriTile.SKEL_UMG_HitoriTile_C' ref from Metadata '/Game/Hitori/Tile/UMG_HitoriTile.PackageMetaData'
+[2021.09.04-17.24.39:099][749]LogMetaData: Removing '/Game/Hitori/Game/UMG_HitoriTile.SKEL_UMG_HitoriTile_C:Construct' ref from Metadata '/Game/Hitori/Tile/UMG_HitoriTile.PackageMetaData'
+[2021.09.04-17.24.39:099][749]LogMetaData: Removing '/Game/Hitori/Game/UMG_HitoriTile.SKEL_UMG_HitoriTile_C:SetNum' ref from Metadata '/Game/Hitori/Tile/UMG_HitoriTile.PackageMetaData'
+[2021.09.04-17.24.39:099][749]LogMetaData: Removing '/Game/Hitori/Game/UMG_HitoriTile.SKEL_UMG_HitoriTile_C:ChangeMode' ref from Metadata '/Game/Hitori/Tile/UMG_HitoriTile.PackageMetaData'
+[2021.09.04-17.24.39:099][749]LogMetaData: Removing '/Game/Hitori/Game/UMG_HitoriTile.SKEL_UMG_HitoriTile_C:ClearMode' ref from Metadata '/Game/Hitori/Tile/UMG_HitoriTile.PackageMetaData'
+[2021.09.04-17.24.39:099][749]LogMetaData: Removing '/Game/Hitori/Game/UMG_HitoriTile.SKEL_UMG_HitoriTile_C:OnMouseButtonDown' ref from Metadata '/Game/Hitori/Tile/UMG_HitoriTile.PackageMetaData'
+[2021.09.04-17.24.39:099][749]LogMetaData: Removing '/Game/Hitori/Game/UMG_HitoriTile.UMG_HitoriTile:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Hitori/Tile/UMG_HitoriTile.PackageMetaData'
+[2021.09.04-17.24.39:099][749]LogMetaData: Removing '/Game/Hitori/Game/UMG_HitoriTile.UMG_HitoriTile:OnMouseButtonDown.K2Node_FunctionEntry_0' ref from Metadata '/Game/Hitori/Tile/UMG_HitoriTile.PackageMetaData'
+[2021.09.04-17.24.39:100][749]LogMetaData: Removing '/Game/Hitori/Game/UMG_HitoriTile.UMG_HitoriTile:OnMouseButtonDown.K2Node_FunctionResult_0' ref from Metadata '/Game/Hitori/Tile/UMG_HitoriTile.PackageMetaData'
+[2021.09.04-17.24.39:148][749]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hitori/Game/UMG_HitoriTile" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Hitori/Game/UMG_HitoriTile.uasset" SILENT=true
+[2021.09.04-17.24.39:174][749]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_HitoriTile7CFDA72246B98802AF3838BDEB64E90D.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Hitori/Game/UMG_HitoriTile.uasset'
+[2021.09.04-17.24.39:276][749]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2021.09.04-17.24.39:308][749]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2021.09.04-17.24.39:333][749]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.09.04-17.24.39:365][749]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hitori/UMG_HitoriGameWidget" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Hitori/UMG_HitoriGameWidget.uasset" SILENT=true
+[2021.09.04-17.24.39:458][749]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_HitoriGameWidgetBE74AFD542913230765EE69A3E9B09E7.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Hitori/UMG_HitoriGameWidget.uasset'
+[2021.09.04-17.24.39:520][749]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.04-17.24.39:520][749]LogContentValidation: Display: Validating WidgetBlueprint /Game/Hitori/Game/UMG_HitoriTile.UMG_HitoriTile
+[2021.09.04-17.24.39:520][749]LogContentValidation: Display: Validating WidgetBlueprint /Game/Hitori/UMG_HitoriGameWidget.UMG_HitoriGameWidget
+[2021.09.04-17.24.41:817][  5]LogMetaData: Removing '/Game/Hitori/Game/HitoriTileModeEnum.HitoriTileModeEnum' ref from Metadata '/Game/Hitori/Tile/HitoriTileModeEnum.PackageMetaData'
+[2021.09.04-17.24.41:865][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hitori/Game/HitoriTileModeEnum" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Hitori/Game/HitoriTileModeEnum.uasset" SILENT=true
+[2021.09.04-17.24.41:866][  5]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/HitoriTileModeEnum48860CD341BF0253E522AD9F9E9D57A7.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Hitori/Game/HitoriTileModeEnum.uasset'
+[2021.09.04-17.24.41:962][  5]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2021.09.04-17.24.41:995][  5]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2021.09.04-17.24.42:019][  5]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.09.04-17.24.42:048][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hitori/UMG_HitoriGameWidget" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Hitori/UMG_HitoriGameWidget.uasset" SILENT=true
+[2021.09.04-17.24.42:127][  5]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_HitoriGameWidget9250B02840BF3CBCBE50B9AC012CDD34.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Hitori/UMG_HitoriGameWidget.uasset'
+[2021.09.04-17.24.42:128][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hitori/Game/UMG_HitoriTile" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Hitori/Game/UMG_HitoriTile.uasset" SILENT=true
+[2021.09.04-17.24.42:153][  5]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_HitoriTile2A5220874AC6860FB7EA18ADF8D25E50.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Hitori/Game/UMG_HitoriTile.uasset'
+[2021.09.04-17.24.42:199][  5]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.04-17.24.42:199][  5]LogContentValidation: Display: Validating UserDefinedEnum /Game/Hitori/Game/HitoriTileModeEnum.HitoriTileModeEnum
+[2021.09.04-17.24.42:199][  5]LogContentValidation: Display: Validating WidgetBlueprint /Game/Hitori/Game/UMG_HitoriTile.UMG_HitoriTile
+[2021.09.04-17.24.42:200][  5]LogContentValidation: Display: Validating WidgetBlueprint /Game/Hitori/UMG_HitoriGameWidget.UMG_HitoriGameWidget
+[2021.09.04-17.24.48:115][628]LogMetaData: Removing '/Game/Hitori/Game/UMG_HitoriGameWidget.UMG_HitoriGameWidget_C' ref from Metadata '/Game/Hitori/UMG_HitoriGameWidget.PackageMetaData'
+[2021.09.04-17.24.48:115][628]LogMetaData: Removing '/Game/Hitori/Game/UMG_HitoriGameWidget.UMG_HitoriGameWidget_C:Construct' ref from Metadata '/Game/Hitori/UMG_HitoriGameWidget.PackageMetaData'
+[2021.09.04-17.24.48:115][628]LogMetaData: Removing '/Game/Hitori/Game/UMG_HitoriGameWidget.UMG_HitoriGameWidget_C:GameInit' ref from Metadata '/Game/Hitori/UMG_HitoriGameWidget.PackageMetaData'
+[2021.09.04-17.24.48:115][628]LogMetaData: Removing '/Game/Hitori/Game/UMG_HitoriGameWidget.SKEL_UMG_HitoriGameWidget_C' ref from Metadata '/Game/Hitori/UMG_HitoriGameWidget.PackageMetaData'
+[2021.09.04-17.24.48:115][628]LogMetaData: Removing '/Game/Hitori/Game/UMG_HitoriGameWidget.SKEL_UMG_HitoriGameWidget_C:Construct' ref from Metadata '/Game/Hitori/UMG_HitoriGameWidget.PackageMetaData'
+[2021.09.04-17.24.48:115][628]LogMetaData: Removing '/Game/Hitori/Game/UMG_HitoriGameWidget.SKEL_UMG_HitoriGameWidget_C:TileChanged' ref from Metadata '/Game/Hitori/UMG_HitoriGameWidget.PackageMetaData'
+[2021.09.04-17.24.48:115][628]LogMetaData: Removing '/Game/Hitori/Game/UMG_HitoriGameWidget.SKEL_UMG_HitoriGameWidget_C:GameInit' ref from Metadata '/Game/Hitori/UMG_HitoriGameWidget.PackageMetaData'
+[2021.09.04-17.24.48:115][628]LogMetaData: Removing '/Game/Hitori/Game/UMG_HitoriGameWidget.SKEL_UMG_HitoriGameWidget_C:BndEvt__UMG_HitoriGameWidget_BackToMenuBTN_K2Node_ComponentBoundEvent_0_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/Hitori/UMG_HitoriGameWidget.PackageMetaData'
+[2021.09.04-17.24.48:115][628]LogMetaData: Removing '/Game/Hitori/Game/UMG_HitoriGameWidget.UMG_HitoriGameWidget:ChangeNumbers.K2Node_FunctionEntry_0' ref from Metadata '/Game/Hitori/UMG_HitoriGameWidget.PackageMetaData'
+[2021.09.04-17.24.48:116][628]LogMetaData: Removing '/Game/Hitori/Game/UMG_HitoriGameWidget.UMG_HitoriGameWidget:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Hitori/UMG_HitoriGameWidget.PackageMetaData'
+[2021.09.04-17.24.48:116][628]LogMetaData: Removing '/Game/Hitori/Game/UMG_HitoriGameWidget.UMG_HitoriGameWidget:InitGameTable.K2Node_FunctionEntry_0' ref from Metadata '/Game/Hitori/UMG_HitoriGameWidget.PackageMetaData'
+[2021.09.04-17.24.48:116][628]LogMetaData: Removing '/Game/Hitori/Game/UMG_HitoriGameWidget.UMG_HitoriGameWidget:IsGameover.K2Node_FunctionEntry_0' ref from Metadata '/Game/Hitori/UMG_HitoriGameWidget.PackageMetaData'
+[2021.09.04-17.24.48:116][628]LogMetaData: Removing '/Game/Hitori/Game/UMG_HitoriGameWidget.UMG_HitoriGameWidget:IsGameover.K2Node_FunctionResult_0' ref from Metadata '/Game/Hitori/UMG_HitoriGameWidget.PackageMetaData'
+[2021.09.04-17.24.48:165][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hitori/Game/UMG_HitoriGameWidget" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Hitori/Game/UMG_HitoriGameWidget.uasset" SILENT=true
+[2021.09.04-17.24.48:220][628]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_HitoriGameWidgetCA439D2E4F9BBDB64427148C3B90C59C.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Hitori/Game/UMG_HitoriGameWidget.uasset'
+[2021.09.04-17.24.48:313][628]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2021.09.04-17.24.48:345][628]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2021.09.04-17.24.48:369][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.09.04-17.24.48:398][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hitori/UMG_Hitori" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Hitori/UMG_Hitori.uasset" SILENT=true
+[2021.09.04-17.24.48:417][628]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_Hitori44CDD183453BE5A6B8B17CA9DBB654A3.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Hitori/UMG_Hitori.uasset'
+[2021.09.04-17.24.48:418][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hitori/Game/UMG_HitoriTile" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Hitori/Game/UMG_HitoriTile.uasset" SILENT=true
+[2021.09.04-17.24.48:443][628]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_HitoriTileA745FCFF4840FB426990EEAE973486E2.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Hitori/Game/UMG_HitoriTile.uasset'
+[2021.09.04-17.24.48:495][628]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.04-17.24.48:495][628]LogContentValidation: Display: Validating WidgetBlueprint /Game/Hitori/Game/UMG_HitoriTile.UMG_HitoriTile
+[2021.09.04-17.24.48:495][628]LogContentValidation: Display: Validating WidgetBlueprint /Game/Hitori/Game/UMG_HitoriGameWidget.UMG_HitoriGameWidget
+[2021.09.04-17.24.48:496][628]LogContentValidation: Display: Validating WidgetBlueprint /Game/Hitori/UMG_Hitori.UMG_Hitori
+[2021.09.04-17.24.53:016][ 33]LogMetaData: Removing '/Game/Hitori/Game/Tile/UMG_HitoriTile.UMG_HitoriTile_C' ref from Metadata '/Game/Hitori/Game/UMG_HitoriTile.PackageMetaData'
+[2021.09.04-17.24.53:016][ 33]LogMetaData: Removing '/Game/Hitori/Game/Tile/UMG_HitoriTile.UMG_HitoriTile_C:SetNum' ref from Metadata '/Game/Hitori/Game/UMG_HitoriTile.PackageMetaData'
+[2021.09.04-17.24.53:016][ 33]LogMetaData: Removing '/Game/Hitori/Game/Tile/UMG_HitoriTile.UMG_HitoriTile_C:OnMouseButtonDown' ref from Metadata '/Game/Hitori/Game/UMG_HitoriTile.PackageMetaData'
+[2021.09.04-17.24.53:016][ 33]LogMetaData: Removing '/Game/Hitori/Game/Tile/UMG_HitoriTile.SKEL_UMG_HitoriTile_C' ref from Metadata '/Game/Hitori/Game/UMG_HitoriTile.PackageMetaData'
+[2021.09.04-17.24.53:016][ 33]LogMetaData: Removing '/Game/Hitori/Game/Tile/UMG_HitoriTile.SKEL_UMG_HitoriTile_C:Construct' ref from Metadata '/Game/Hitori/Game/UMG_HitoriTile.PackageMetaData'
+[2021.09.04-17.24.53:016][ 33]LogMetaData: Removing '/Game/Hitori/Game/Tile/UMG_HitoriTile.SKEL_UMG_HitoriTile_C:SetNum' ref from Metadata '/Game/Hitori/Game/UMG_HitoriTile.PackageMetaData'
+[2021.09.04-17.24.53:016][ 33]LogMetaData: Removing '/Game/Hitori/Game/Tile/UMG_HitoriTile.SKEL_UMG_HitoriTile_C:ChangeMode' ref from Metadata '/Game/Hitori/Game/UMG_HitoriTile.PackageMetaData'
+[2021.09.04-17.24.53:016][ 33]LogMetaData: Removing '/Game/Hitori/Game/Tile/UMG_HitoriTile.SKEL_UMG_HitoriTile_C:ClearMode' ref from Metadata '/Game/Hitori/Game/UMG_HitoriTile.PackageMetaData'
+[2021.09.04-17.24.53:016][ 33]LogMetaData: Removing '/Game/Hitori/Game/Tile/UMG_HitoriTile.SKEL_UMG_HitoriTile_C:OnMouseButtonDown' ref from Metadata '/Game/Hitori/Game/UMG_HitoriTile.PackageMetaData'
+[2021.09.04-17.24.53:016][ 33]LogMetaData: Removing '/Game/Hitori/Game/Tile/UMG_HitoriTile.UMG_HitoriTile:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Hitori/Game/UMG_HitoriTile.PackageMetaData'
+[2021.09.04-17.24.53:016][ 33]LogMetaData: Removing '/Game/Hitori/Game/Tile/UMG_HitoriTile.UMG_HitoriTile:OnMouseButtonDown.K2Node_FunctionEntry_0' ref from Metadata '/Game/Hitori/Game/UMG_HitoriTile.PackageMetaData'
+[2021.09.04-17.24.53:016][ 33]LogMetaData: Removing '/Game/Hitori/Game/Tile/UMG_HitoriTile.UMG_HitoriTile:OnMouseButtonDown.K2Node_FunctionResult_0' ref from Metadata '/Game/Hitori/Game/UMG_HitoriTile.PackageMetaData'
+[2021.09.04-17.24.53:065][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hitori/Game/Tile/UMG_HitoriTile" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Hitori/Game/Tile/UMG_HitoriTile.uasset" SILENT=true
+[2021.09.04-17.24.53:089][ 33]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_HitoriTile17282D3F4D6A9234AD2CE286DBB7C70C.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Hitori/Game/Tile/UMG_HitoriTile.uasset'
+[2021.09.04-17.24.53:198][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2021.09.04-17.24.53:230][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2021.09.04-17.24.53:255][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.09.04-17.24.53:281][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hitori/Game/UMG_HitoriGameWidget" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Hitori/Game/UMG_HitoriGameWidget.uasset" SILENT=true
+[2021.09.04-17.24.53:335][ 33]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_HitoriGameWidgetCA18D6B5467BA6993ED66F8123B6F0E7.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Hitori/Game/UMG_HitoriGameWidget.uasset'
+[2021.09.04-17.24.53:384][ 33]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.04-17.24.53:384][ 33]LogContentValidation: Display: Validating WidgetBlueprint /Game/Hitori/Game/Tile/UMG_HitoriTile.UMG_HitoriTile
+[2021.09.04-17.24.53:385][ 33]LogContentValidation: Display: Validating WidgetBlueprint /Game/Hitori/Game/UMG_HitoriGameWidget.UMG_HitoriGameWidget
+[2021.09.04-17.24.54:481][150]LogMetaData: Removing '/Game/Hitori/Game/Tile/HitoriTileModeEnum.HitoriTileModeEnum' ref from Metadata '/Game/Hitori/Game/HitoriTileModeEnum.PackageMetaData'
+[2021.09.04-17.24.54:532][150]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hitori/Game/Tile/HitoriTileModeEnum" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Hitori/Game/Tile/HitoriTileModeEnum.uasset" SILENT=true
+[2021.09.04-17.24.54:533][150]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/HitoriTileModeEnum0B376A41453E6EDAC2662BBF3B1A985E.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Hitori/Game/Tile/HitoriTileModeEnum.uasset'
+[2021.09.04-17.24.54:630][150]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2021.09.04-17.24.54:662][150]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2021.09.04-17.24.54:686][150]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.09.04-17.24.54:714][150]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hitori/Game/Tile/UMG_HitoriTile" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Hitori/Game/Tile/UMG_HitoriTile.uasset" SILENT=true
+[2021.09.04-17.24.54:739][150]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_HitoriTile1C8632E748D052936EFA00A7B67972D2.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Hitori/Game/Tile/UMG_HitoriTile.uasset'
+[2021.09.04-17.24.54:740][150]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hitori/Game/UMG_HitoriGameWidget" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Hitori/Game/UMG_HitoriGameWidget.uasset" SILENT=true
+[2021.09.04-17.24.54:795][150]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_HitoriGameWidget088F8E244C5208C7366B1B8EC2ADF05E.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Hitori/Game/UMG_HitoriGameWidget.uasset'
+[2021.09.04-17.24.54:845][150]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.04-17.24.54:845][150]LogContentValidation: Display: Validating UserDefinedEnum /Game/Hitori/Game/Tile/HitoriTileModeEnum.HitoriTileModeEnum
+[2021.09.04-17.24.54:845][150]LogContentValidation: Display: Validating WidgetBlueprint /Game/Hitori/Game/Tile/UMG_HitoriTile.UMG_HitoriTile
+[2021.09.04-17.24.54:845][150]LogContentValidation: Display: Validating WidgetBlueprint /Game/Hitori/Game/UMG_HitoriGameWidget.UMG_HitoriGameWidget
