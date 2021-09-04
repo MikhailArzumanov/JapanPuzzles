@@ -2752,3 +2752,509 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.04-17.29.17:236][680]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/SudokuWritingToolEnum78267CE14C9AA49D72DAF5BC462313BA.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Sudoku/Game/SudokuWritingToolEnum.uasset'
 [2021.09.04-17.29.17:250][680]AssetCheck: New page: Asset Save: SudokuWritingToolEnum
 [2021.09.04-17.29.17:250][680]LogContentValidation: Display: Validating UserDefinedEnum /Game/Sudoku/Game/SudokuWritingToolEnum.SudokuWritingToolEnum
+[2021.09.04-17.31.36:592][ 59]LogEditorTransaction: Undo Remove Widget
+[2021.09.04-17.31.36:821][ 61]LogEditorTransaction: Undo Remove Widget
+[2021.09.04-17.31.37:055][ 64]LogEditorTransaction: Undo Remove Widget
+[2021.09.04-17.34.05:447][175]LogSlate: Took 0.012301 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.09.04-17.34.24:381][211]LogSlate: Took 0.013389 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.09.04-17.35.39:153][477]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.09.04-17.35.50:281][ 72]LogContentBrowser: Attempting asset rename: UMG_KakuroNumBtn -> UMG_SudokuNumBtn
+[2021.09.04-17.35.50:316][ 72]LogMetaData: Removing '/Game/Kakuro/Game/UMG_SudokuNumBtn.UMG_SudokuNumBtn_C' ref from Metadata '/Game/Kakuro/Game/UMG_KakuroNumBtn.PackageMetaData'
+[2021.09.04-17.35.50:316][ 72]LogMetaData: Removing '/Game/Kakuro/Game/UMG_SudokuNumBtn.UMG_SudokuNumBtn_C:Construct' ref from Metadata '/Game/Kakuro/Game/UMG_KakuroNumBtn.PackageMetaData'
+[2021.09.04-17.35.50:316][ 72]LogMetaData: Removing '/Game/Kakuro/Game/UMG_SudokuNumBtn.SKEL_UMG_SudokuNumBtn_C' ref from Metadata '/Game/Kakuro/Game/UMG_KakuroNumBtn.PackageMetaData'
+[2021.09.04-17.35.50:316][ 72]LogMetaData: Removing '/Game/Kakuro/Game/UMG_SudokuNumBtn.SKEL_UMG_SudokuNumBtn_C:BndEvt__UMG_KakuroNumBtn_OneBtn_K2Node_ComponentBoundEvent_0_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/Kakuro/Game/UMG_KakuroNumBtn.PackageMetaData'
+[2021.09.04-17.35.50:316][ 72]LogMetaData: Removing '/Game/Kakuro/Game/UMG_SudokuNumBtn.SKEL_UMG_SudokuNumBtn_C:Construct' ref from Metadata '/Game/Kakuro/Game/UMG_KakuroNumBtn.PackageMetaData'
+[2021.09.04-17.35.50:367][ 72]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/Game/UMG_SudokuNumBtn" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Game/UMG_SudokuNumBtn.uasset" SILENT=true
+[2021.09.04-17.35.50:379][ 72]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_SudokuNumBtnF8C379A6458D1548DAD23EB7357C1050.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Game/UMG_SudokuNumBtn.uasset'
+[2021.09.04-17.35.50:494][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   6.13ms
+[2021.09.04-17.35.50:539][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2021.09.04-17.35.50:579][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.09.04-17.35.50:616][ 72]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/Game/UMG_KakuroGameWidget" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Game/UMG_KakuroGameWidget.uasset" SILENT=true
+[2021.09.04-17.35.50:846][ 72]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_KakuroGameWidgetDA91A9724373276E8F1D809A69D5F152.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Game/UMG_KakuroGameWidget.uasset'
+[2021.09.04-17.35.50:899][ 72]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.04-17.35.50:899][ 72]LogContentValidation: Display: Validating WidgetBlueprint /Game/Kakuro/Game/UMG_SudokuNumBtn.UMG_SudokuNumBtn
+[2021.09.04-17.35.50:899][ 72]LogContentValidation: Display: Validating WidgetBlueprint /Game/Kakuro/Game/UMG_KakuroGameWidget.UMG_KakuroGameWidget
+[2021.09.04-17.35.51:634][106]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Kakuro/Game/UMG_SudokuNumBtn.UMG_SudokuNumBtn
+[2021.09.04-17.36.05:177][758]LogSlate: Window 'Change Variable Type' being destroyed
+[2021.09.04-17.36.07:292][836]LogSlate: Window 'Find in Blueprints' being destroyed
+[2021.09.04-17.36.07:298][836]LogSlate: Window 'Find in Blueprints' being destroyed
+[2021.09.04-17.36.22:166][549]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sudoku/Game/UMG_KakuroNumBtn" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Sudoku/Game/UMG_KakuroNumBtn.uasset" SILENT=true
+[2021.09.04-17.36.22:178][549]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_KakuroNumBtn17C01EF045F52AB5337526B7881EDBA9.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Sudoku/Game/UMG_KakuroNumBtn.uasset'
+[2021.09.04-17.36.22:197][549]AssetCheck: New page: Asset Save: UMG_KakuroNumBtn
+[2021.09.04-17.36.22:197][549]LogContentValidation: Display: Validating WidgetBlueprint /Game/Sudoku/Game/UMG_KakuroNumBtn.UMG_KakuroNumBtn
+[2021.09.04-17.36.23:656][625]LogWorld: UWorld::CleanupWorld for World_96, bSessionEnded=true, bCleanupResources=true
+[2021.09.04-17.36.23:656][625]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.04-17.36.23:665][625]LogWorld: UWorld::CleanupWorld for World_95, bSessionEnded=true, bCleanupResources=true
+[2021.09.04-17.36.23:665][625]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.04-17.37.19:497][419]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sudoku/Game/UMG_SudokuGameWidget" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Sudoku/Game/UMG_SudokuGameWidget.uasset" SILENT=true
+[2021.09.04-17.37.19:518][419]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_SudokuGameWidget46A522C1488A11652E13D29CB51DB23F.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Sudoku/Game/UMG_SudokuGameWidget.uasset'
+[2021.09.04-17.37.19:533][419]AssetCheck: New page: Asset Save: UMG_SudokuGameWidget
+[2021.09.04-17.37.19:533][419]LogContentValidation: Display: Validating WidgetBlueprint /Game/Sudoku/Game/UMG_SudokuGameWidget.UMG_SudokuGameWidget
+[2021.09.04-17.38.11:688][319]BlueprintLog: New page: Compile UMG_SudokuNumBtn
+[2021.09.04-17.38.11:707][319]LogBlueprint: Warning: [AssetLog] D:\Unreal Projects\JapanPuzzles\Content\Kakuro\Game\UMG_SudokuNumBtn.uasset: [Compiler] Could not find the function 'NumBtnPressed' called from  Num Btn Pressed
+[2021.09.04-17.38.11:795][319]LogUObjectHash: Compacting FUObjectHashTables data took   6.23ms
+[2021.09.04-17.38.11:906][319]LogSlate: Took 0.010718 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.09.04-17.38.13:060][374]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/Game/UMG_SudokuNumBtn" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Game/UMG_SudokuNumBtn.uasset" SILENT=true
+[2021.09.04-17.38.13:072][374]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_SudokuNumBtn339C99B04BC0CD0281F2F2BCCF105311.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Game/UMG_SudokuNumBtn.uasset'
+[2021.09.04-17.38.13:088][374]AssetCheck: New page: Asset Save: UMG_SudokuNumBtn
+[2021.09.04-17.38.13:088][374]LogContentValidation: Display: Validating WidgetBlueprint /Game/Kakuro/Game/UMG_SudokuNumBtn.UMG_SudokuNumBtn
+[2021.09.04-17.38.14:459][442]BlueprintLog: New page: Compile UMG_SudokuGameWidget
+[2021.09.04-17.38.14:475][442]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\JapanPuzzles\Content\Sudoku\Game\UMG_SudokuGameWidget.uasset: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2021.09.04-17.38.14:531][442]LogUObjectHash: Compacting FUObjectHashTables data took   5.69ms
+[2021.09.04-17.38.18:562][631]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.09.04-17.39.15:119][947]BlueprintLog: New page: Compile UMG_SudokuNumBtn
+[2021.09.04-17.39.15:181][947]LogUObjectHash: Compacting FUObjectHashTables data took   6.20ms
+[2021.09.04-17.39.36:175][328]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.09.04-17.39.36:175][328]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.09.04-17.39.37:023][396]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.09.04-17.39.37:023][396]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.09.04-17.40.01:327][900]BlueprintLog: New page: Collapse to Macro
+[2021.09.04-17.40.08:778][233]LogEditorTransaction: Undo Rename Function
+[2021.09.04-17.40.09:245][243]LogEditorTransaction: Undo Collapses selected nodes into a single node
+[2021.09.04-17.40.24:843][191]BlueprintLog: New page: Collapse to Macro
+[2021.09.04-17.42.16:383][297]BlueprintLog: New page: Compile UMG_KakuroGameWidget
+[2021.09.04-17.42.16:411][297]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\JapanPuzzles\Content\Kakuro\Game\UMG_KakuroGameWidget.uasset: [Compiler] In use pin  A2  no longer exists on node  Get Row and Column . Please refresh node or break links to remove pin.
+[2021.09.04-17.42.16:550][297]LogUObjectHash: Compacting FUObjectHashTables data took   6.52ms
+[2021.09.04-17.42.18:149][364]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/Game/UMG_KakuroGameWidget" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Game/UMG_KakuroGameWidget.uasset" SILENT=true
+[2021.09.04-17.42.18:401][364]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_KakuroGameWidget0F7F9D254D8F5B445AEC399960DD7B90.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Game/UMG_KakuroGameWidget.uasset'
+[2021.09.04-17.42.18:417][364]AssetCheck: New page: Asset Save: UMG_KakuroGameWidget
+[2021.09.04-17.42.18:417][364]LogContentValidation: Display: Validating WidgetBlueprint /Game/Kakuro/Game/UMG_KakuroGameWidget.UMG_KakuroGameWidget
+[2021.09.04-17.44.49:458][858]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetMathLibrary::Add_IntInt' [Элемент не найден.]
+[2021.09.04-17.45.44:258][537]LogMetaData: Removing '/Game/Kakuro/Game/UMG_KakuroNumBtn.SKEL_UMG_KakuroNumBtn_C' ref from Metadata '/Game/Sudoku/Game/UMG_KakuroNumBtn.PackageMetaData'
+[2021.09.04-17.45.44:258][537]LogMetaData: Removing '/Game/Kakuro/Game/UMG_KakuroNumBtn.SKEL_UMG_KakuroNumBtn_C:Construct' ref from Metadata '/Game/Sudoku/Game/UMG_KakuroNumBtn.PackageMetaData'
+[2021.09.04-17.45.44:258][537]LogMetaData: Removing '/Game/Kakuro/Game/UMG_KakuroNumBtn.SKEL_UMG_KakuroNumBtn_C:BndEvt__UMG_KakuroNumBtn_OneBtn_K2Node_ComponentBoundEvent_0_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/Sudoku/Game/UMG_KakuroNumBtn.PackageMetaData'
+[2021.09.04-17.45.44:258][537]LogMetaData: Removing '/Game/Kakuro/Game/UMG_KakuroNumBtn.UMG_KakuroNumBtn_C' ref from Metadata '/Game/Sudoku/Game/UMG_KakuroNumBtn.PackageMetaData'
+[2021.09.04-17.45.44:258][537]LogMetaData: Removing '/Game/Kakuro/Game/UMG_KakuroNumBtn.UMG_KakuroNumBtn_C:Construct' ref from Metadata '/Game/Sudoku/Game/UMG_KakuroNumBtn.PackageMetaData'
+[2021.09.04-17.45.44:306][537]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/Game/UMG_KakuroNumBtn" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Game/UMG_KakuroNumBtn.uasset" SILENT=true
+[2021.09.04-17.45.44:318][537]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_KakuroNumBtnA14B34B441538B21C410A4A78046E05C.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Game/UMG_KakuroNumBtn.uasset'
+[2021.09.04-17.45.44:479][537]LogUObjectHash: Compacting FUObjectHashTables data took   6.79ms
+[2021.09.04-17.45.44:524][537]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2021.09.04-17.45.44:560][537]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2021.09.04-17.45.44:590][537]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/Game/UMG_KakuroGameWidget" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Game/UMG_KakuroGameWidget.uasset" SILENT=true
+[2021.09.04-17.45.44:841][537]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_KakuroGameWidget1B7655BB4DD603B471D991825933C9CF.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Game/UMG_KakuroGameWidget.uasset'
+[2021.09.04-17.45.44:895][537]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.04-17.45.44:895][537]LogContentValidation: Display: Validating WidgetBlueprint /Game/Kakuro/Game/UMG_KakuroNumBtn.UMG_KakuroNumBtn
+[2021.09.04-17.45.44:896][537]LogContentValidation: Display: Validating WidgetBlueprint /Game/Kakuro/Game/UMG_KakuroGameWidget.UMG_KakuroGameWidget
+[2021.09.04-17.45.59:674][341]LogMetaData: Removing '/Game/Sudoku/Game/UMG_SudokuNumBtn.UMG_SudokuNumBtn_C' ref from Metadata '/Game/Kakuro/Game/UMG_SudokuNumBtn.PackageMetaData'
+[2021.09.04-17.45.59:674][341]LogMetaData: Removing '/Game/Sudoku/Game/UMG_SudokuNumBtn.UMG_SudokuNumBtn_C:Construct' ref from Metadata '/Game/Kakuro/Game/UMG_SudokuNumBtn.PackageMetaData'
+[2021.09.04-17.45.59:674][341]LogMetaData: Removing '/Game/Sudoku/Game/UMG_SudokuNumBtn.SKEL_UMG_SudokuNumBtn_C' ref from Metadata '/Game/Kakuro/Game/UMG_SudokuNumBtn.PackageMetaData'
+[2021.09.04-17.45.59:674][341]LogMetaData: Removing '/Game/Sudoku/Game/UMG_SudokuNumBtn.SKEL_UMG_SudokuNumBtn_C:BndEvt__UMG_KakuroNumBtn_OneBtn_K2Node_ComponentBoundEvent_0_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/Kakuro/Game/UMG_SudokuNumBtn.PackageMetaData'
+[2021.09.04-17.45.59:674][341]LogMetaData: Removing '/Game/Sudoku/Game/UMG_SudokuNumBtn.SKEL_UMG_SudokuNumBtn_C:Construct' ref from Metadata '/Game/Kakuro/Game/UMG_SudokuNumBtn.PackageMetaData'
+[2021.09.04-17.45.59:722][341]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sudoku/Game/UMG_SudokuNumBtn" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Sudoku/Game/UMG_SudokuNumBtn.uasset" SILENT=true
+[2021.09.04-17.45.59:734][341]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_SudokuNumBtn8769B6DF45405E5D9799FD8229AA9606.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Sudoku/Game/UMG_SudokuNumBtn.uasset'
+[2021.09.04-17.45.59:874][341]LogUObjectHash: Compacting FUObjectHashTables data took   5.59ms
+[2021.09.04-17.45.59:917][341]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2021.09.04-17.45.59:951][341]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2021.09.04-17.45.59:996][341]AssetCheck: New page: Asset Save: UMG_SudokuNumBtn
+[2021.09.04-17.45.59:996][341]LogContentValidation: Display: Validating WidgetBlueprint /Game/Sudoku/Game/UMG_SudokuNumBtn.UMG_SudokuNumBtn
+[2021.09.04-17.46.03:792][547]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sudoku/Game/UMG_SudokuGameWidget" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Sudoku/Game/UMG_SudokuGameWidget.uasset" SILENT=true
+[2021.09.04-17.46.03:870][547]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_SudokuGameWidgetDB9C51CC45CC1550D6B065A00F931301.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Sudoku/Game/UMG_SudokuGameWidget.uasset'
+[2021.09.04-17.46.03:889][547]AssetCheck: New page: Asset Save: UMG_SudokuGameWidget
+[2021.09.04-17.46.03:889][547]LogContentValidation: Display: Validating WidgetBlueprint /Game/Sudoku/Game/UMG_SudokuGameWidget.UMG_SudokuGameWidget
+[2021.09.04-17.46.10:388][868]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Kakuro/Game/UMG_KakuroNumBtn.UMG_KakuroNumBtn
+[2021.09.04-17.46.21:902][374]BlueprintLog: New page: Compile UMG_KakuroGameWidget
+[2021.09.04-17.46.22:070][374]LogUObjectHash: Compacting FUObjectHashTables data took   5.40ms
+[2021.09.04-17.46.27:487][608]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/Game/UMG_KakuroNumBtn" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Game/UMG_KakuroNumBtn.uasset" SILENT=true
+[2021.09.04-17.46.27:499][608]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_KakuroNumBtn8A4BA8C24DB227C7981FABAF08B19276.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Game/UMG_KakuroNumBtn.uasset'
+[2021.09.04-17.46.27:516][608]AssetCheck: New page: Asset Save: UMG_KakuroNumBtn
+[2021.09.04-17.46.27:516][608]LogContentValidation: Display: Validating WidgetBlueprint /Game/Kakuro/Game/UMG_KakuroNumBtn.UMG_KakuroNumBtn
+[2021.09.04-17.46.27:845][628]BlueprintLog: New page: Compile UMG_KakuroNumBtn
+[2021.09.04-17.46.27:936][628]LogUObjectHash: Compacting FUObjectHashTables data took   5.56ms
+[2021.09.04-17.46.29:064][680]BlueprintLog: New page: Compile UMG_KakuroGameWidget
+[2021.09.04-17.46.29:094][680]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\JapanPuzzles\Content\Kakuro\Game\UMG_KakuroGameWidget.uasset: [Compiler] In use pin  Val  no longer exists on node  Create Widget . Please refresh node or break links to remove pin.
+[2021.09.04-17.46.29:217][680]LogUObjectHash: Compacting FUObjectHashTables data took   5.57ms
+[2021.09.04-17.46.32:631][828]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.09.04-17.46.43:860][482]BlueprintLog: New page: Compile UMG_KakuroGameWidget
+[2021.09.04-17.46.44:003][482]LogUObjectHash: Compacting FUObjectHashTables data took   5.77ms
+[2021.09.04-17.46.46:022][569]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.04-17.46.46:032][569]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.09.04-17.46.46:033][569]LogPlayLevel: [PlayLevel] Compiling PROTO_BP_AnimBlueprint_0 before play...
+[2021.09.04-17.46.46:055][569]LogPlayLevel: [PlayLevel] Compiling UMG_SudokuGameWidget before play...
+[2021.09.04-17.46.46:112][569]LogPlayLevel: [PlayLevel] Compiling UMG_SudokuNumBtn before play...
+[2021.09.04-17.46.46:179][569]LogPlayLevel: [PlayLevel] Compiling UMG_MainMenu before play...
+[2021.09.04-17.46.46:194][569]LogPlayLevel: [PlayLevel] Compiling UMG_HitoriChooseLevel before play...
+[2021.09.04-17.46.46:247][569]LogPlayLevel: [PlayLevel] Compiling UMG_Hitori before play...
+[2021.09.04-17.46.46:276][569]LogPlayLevel: [PlayLevel] Compiling UMG_HitoriGameWidget before play...
+[2021.09.04-17.46.46:364][569]LogPlayLevel: [PlayLevel] Compiling UMG_HitoriTile before play...
+[2021.09.04-17.46.46:433][569]LogUObjectHash: Compacting FUObjectHashTables data took   5.81ms
+[2021.09.04-17.46.46:434][569]LogPlayLevel: PlayLevel: Blueprint regeneration took 401 ms (8 blueprints)
+[2021.09.04-17.46.46:434][569]PIE: New page: PIE session: MainMenuLevel (4 сент. 2021 г., 23:46:46)
+[2021.09.04-17.46.46:434][569]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenuLevel
+[2021.09.04-17.46.46:436][569]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001847s)
+[2021.09.04-17.46.46:437][569]LogAIModule: Creating AISystem for world MainMenuLevel
+[2021.09.04-17.46.46:438][569]LogPlayLevel: PIE: World Init took: (0.001625s)
+[2021.09.04-17.46.46:438][569]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenuLevel.MainMenuLevel to /Game/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.003638s)
+[2021.09.04-17.46.46:479][569]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2021.09.04-17.46.46:480][569]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.09.04-17.46.46:480][569]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.04-17.46.46:480][569]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.04-17.46.46:480][569]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.04-17.46.46:480][569]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.04-17.46.46:480][569]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.04-17.46.46:480][569]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.04-17.46.46:480][569]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.04-17.46.46:480][569]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.04-17.46.46:480][569]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.04-17.46.46:480][569]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.04-17.46.46:482][569]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.04-17.46.46:482][569]LogAudioMixer: Display: 1: FrontRight
+[2021.09.04-17.46.46:532][569]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2021.09.04-17.46.46:532][569]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.04-17.46.46:532][569]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.04-17.46.46:532][569]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.04-17.46.46:533][569]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.04-17.46.46:533][569]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.04-17.46.46:533][569]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.04-17.46.46:554][569]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.04-17.46.46:554][569]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.04-17.46.46:554][569]LogInit: FAudioDevice initialized.
+[2021.09.04-17.46.46:554][569]LogAudio: Display: Audio Device (ID: 4) registered with world 'MainMenuLevel'.
+[2021.09.04-17.46.46:567][569]LogLoad: Game class is 'GameModeBase'
+[2021.09.04-17.46.46:568][569]LogWorld: Bringing World /Game/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2021.09.04-20.46.46
+[2021.09.04-17.46.46:568][569]LogWorld: Bringing up level for play took: 0.000428
+[2021.09.04-17.46.46:568][569]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2021.09.04-17.46.46:572][569]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.04-17.46.46:572][569]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.09.04-17.46.46:573][569]PIE: Server logged in
+[2021.09.04-17.46.46:574][569]PIE: Play in editor total start time 0,542 seconds.
+[2021.09.04-17.46.49:380][696]LogNet: Browse: /Game/Hitori/HitoriLevel
+[2021.09.04-17.46.49:380][696]LogLoad: LoadMap: /Game/Hitori/HitoriLevel
+[2021.09.04-17.46.49:380][696]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMenuLevel
+[2021.09.04-17.46.49:380][696]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.09.04-17.46.49:381][696]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.04-17.46.49:422][696]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.04-17.46.49:427][696]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2021.09.04-17.46.49:428][696]LogPlayLevel: Creating play world package: /Game/Hitori/UEDPIE_0_HitoriLevel
+[2021.09.04-17.46.49:430][696]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001758s)
+[2021.09.04-17.46.49:431][696]LogAIModule: Creating AISystem for world HitoriLevel
+[2021.09.04-17.46.49:432][696]LogPlayLevel: PIE: World Init took: (0.001606s)
+[2021.09.04-17.46.49:432][696]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Hitori/HitoriLevel.HitoriLevel to /Game/Hitori/UEDPIE_0_HitoriLevel.HitoriLevel (0.003534s)
+[2021.09.04-17.46.49:432][696]LogAudio: Display: Audio Device (ID: 4) registered with world 'HitoriLevel'.
+[2021.09.04-17.46.49:432][696]LogLoad: Game class is 'GameModeBase'
+[2021.09.04-17.46.49:433][696]LogWorld: Bringing World /Game/Hitori/UEDPIE_0_HitoriLevel.HitoriLevel up for play (max tick rate 0) at 2021.09.04-20.46.49
+[2021.09.04-17.46.49:433][696]LogWorld: Bringing up level for play took: 0.000383
+[2021.09.04-17.46.49:434][696]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.09.04-17.46.49:451][696]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Levels' of length 1 in '/Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel_C'!
+[2021.09.04-17.46.49:451][696]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Levels' of length 1 in '/Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel_C'!
+[2021.09.04-17.46.49:451][696]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Levels' of length 1 in '/Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel_C'!
+[2021.09.04-17.46.49:451][696]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'Levels' of length 1 in '/Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel_C'!
+[2021.09.04-17.46.49:451][696]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'Levels' of length 1 in '/Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel_C'!
+[2021.09.04-17.46.49:451][696]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'Levels' of length 1 in '/Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel_C'!
+[2021.09.04-17.46.49:451][696]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'Levels' of length 1 in '/Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel_C'!
+[2021.09.04-17.46.49:451][696]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'Levels' of length 1 in '/Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel_C'!
+[2021.09.04-17.46.49:451][696]LogScript: Warning: Script Msg: Attempted to access index 9 from array 'Levels' of length 1 in '/Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel_C'!
+[2021.09.04-17.46.49:451][696]LogScript: Warning: Script Msg: Attempted to access index 10 from array 'Levels' of length 1 in '/Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel_C'!
+[2021.09.04-17.46.49:452][696]LogScript: Warning: Script Msg: Attempted to access index 11 from array 'Levels' of length 1 in '/Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel_C'!
+[2021.09.04-17.46.49:452][696]LogLoad: Took 0.072062 seconds to LoadMap(/Game/Hitori/UEDPIE_0_HitoriLevel)
+[2021.09.04-17.46.50:196][732]LogNet: Browse: /Game/MainMenuLevel
+[2021.09.04-17.46.50:197][732]LogLoad: LoadMap: /Game/MainMenuLevel
+[2021.09.04-17.46.50:197][732]LogWorld: BeginTearingDown for /Game/Hitori/UEDPIE_0_HitoriLevel
+[2021.09.04-17.46.50:198][732]LogWorld: UWorld::CleanupWorld for HitoriLevel, bSessionEnded=true, bCleanupResources=true
+[2021.09.04-17.46.50:198][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.04-17.46.50:238][732]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.04-17.46.50:244][732]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2021.09.04-17.46.50:244][732]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenuLevel
+[2021.09.04-17.46.50:246][732]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001761s)
+[2021.09.04-17.46.50:248][732]LogAIModule: Creating AISystem for world MainMenuLevel
+[2021.09.04-17.46.50:248][732]LogPlayLevel: PIE: World Init took: (0.001560s)
+[2021.09.04-17.46.50:248][732]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenuLevel.MainMenuLevel to /Game/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.003488s)
+[2021.09.04-17.46.50:248][732]LogAudio: Display: Audio Device (ID: 4) registered with world 'MainMenuLevel'.
+[2021.09.04-17.46.50:248][732]LogLoad: Game class is 'GameModeBase'
+[2021.09.04-17.46.50:249][732]LogWorld: Bringing World /Game/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2021.09.04-20.46.50
+[2021.09.04-17.46.50:249][732]LogWorld: Bringing up level for play took: 0.000369
+[2021.09.04-17.46.50:250][732]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.09.04-17.46.50:252][732]LogLoad: Took 0.055389 seconds to LoadMap(/Game/UEDPIE_0_MainMenuLevel)
+[2021.09.04-17.46.50:812][759]LogNet: Browse: /Game/Kakuro/KakuroLevel
+[2021.09.04-17.46.50:812][759]LogLoad: LoadMap: /Game/Kakuro/KakuroLevel
+[2021.09.04-17.46.50:812][759]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMenuLevel
+[2021.09.04-17.46.50:813][759]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.09.04-17.46.50:813][759]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.04-17.46.50:854][759]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.04-17.46.50:858][759]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2021.09.04-17.46.50:859][759]LogPlayLevel: Creating play world package: /Game/Kakuro/UEDPIE_0_KakuroLevel
+[2021.09.04-17.46.50:861][759]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002724s)
+[2021.09.04-17.46.50:863][759]LogAIModule: Creating AISystem for world KakuroLevel
+[2021.09.04-17.46.50:863][759]LogPlayLevel: PIE: World Init took: (0.001667s)
+[2021.09.04-17.46.50:863][759]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kakuro/KakuroLevel.KakuroLevel to /Game/Kakuro/UEDPIE_0_KakuroLevel.KakuroLevel (0.004563s)
+[2021.09.04-17.46.50:863][759]LogAudio: Display: Audio Device (ID: 4) registered with world 'KakuroLevel'.
+[2021.09.04-17.46.50:863][759]LogLoad: Game class is 'GameModeBase'
+[2021.09.04-17.46.50:864][759]LogWorld: Bringing World /Game/Kakuro/UEDPIE_0_KakuroLevel.KakuroLevel up for play (max tick rate 0) at 2021.09.04-20.46.50
+[2021.09.04-17.46.50:865][759]LogWorld: Bringing up level for play took: 0.000392
+[2021.09.04-17.46.50:865][759]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.09.04-17.46.51:067][759]LogLoad: Took 0.254023 seconds to LoadMap(/Game/Kakuro/UEDPIE_0_KakuroLevel)
+[2021.09.04-17.47.20:579][174]LogNet: Browse: /Game/MainMenuLevel
+[2021.09.04-17.47.20:579][174]LogLoad: LoadMap: /Game/MainMenuLevel
+[2021.09.04-17.47.20:579][174]LogWorld: BeginTearingDown for /Game/Kakuro/UEDPIE_0_KakuroLevel
+[2021.09.04-17.47.20:596][174]LogWorld: UWorld::CleanupWorld for KakuroLevel, bSessionEnded=true, bCleanupResources=true
+[2021.09.04-17.47.20:596][174]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.04-17.47.20:644][174]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.04-17.47.20:659][174]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2021.09.04-17.47.20:661][174]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenuLevel
+[2021.09.04-17.47.20:663][174]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001987s)
+[2021.09.04-17.47.20:664][174]LogAIModule: Creating AISystem for world MainMenuLevel
+[2021.09.04-17.47.20:664][174]LogPlayLevel: PIE: World Init took: (0.001742s)
+[2021.09.04-17.47.20:664][174]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenuLevel.MainMenuLevel to /Game/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.003904s)
+[2021.09.04-17.47.20:665][174]LogAudio: Display: Audio Device (ID: 4) registered with world 'MainMenuLevel'.
+[2021.09.04-17.47.20:665][174]LogLoad: Game class is 'GameModeBase'
+[2021.09.04-17.47.20:666][174]LogWorld: Bringing World /Game/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2021.09.04-20.47.20
+[2021.09.04-17.47.20:666][174]LogWorld: Bringing up level for play took: 0.000387
+[2021.09.04-17.47.20:667][174]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.09.04-17.47.20:669][174]LogLoad: Took 0.089848 seconds to LoadMap(/Game/UEDPIE_0_MainMenuLevel)
+[2021.09.04-17.47.24:125][342]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.04-17.47.24:125][342]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMenuLevel
+[2021.09.04-17.47.24:125][342]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.09.04-17.47.24:126][342]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.04-17.47.24:139][342]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.04-17.47.24:145][342]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.04-17.47.24:183][342]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.04-17.47.24:184][342]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.04-17.47.24:185][342]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.04-17.47.24:213][342]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2021.09.04-17.47.24:239][343]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2021.09.04-17.47.32:901][724]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/Game/UMG_KakuroGameWidget" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Game/UMG_KakuroGameWidget.uasset" SILENT=true
+[2021.09.04-17.47.33:204][724]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_KakuroGameWidget41F9E1C14B10140D0A797B82DC8DEEFA.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Game/UMG_KakuroGameWidget.uasset'
+[2021.09.04-17.47.33:220][724]AssetCheck: New page: Asset Save: UMG_KakuroGameWidget
+[2021.09.04-17.47.33:220][724]LogContentValidation: Display: Validating WidgetBlueprint /Game/Kakuro/Game/UMG_KakuroGameWidget.UMG_KakuroGameWidget
+[2021.09.04-17.47.46:502][511]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/Game/UMG_KakuroGameWidget" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Game/UMG_KakuroGameWidget.uasset" SILENT=true
+[2021.09.04-17.47.46:737][511]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_KakuroGameWidget1B3DC7AF4C022C91F34CE9A236DF16D4.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Game/UMG_KakuroGameWidget.uasset'
+[2021.09.04-17.47.46:752][511]AssetCheck: New page: Asset Save: UMG_KakuroGameWidget
+[2021.09.04-17.47.46:752][511]LogContentValidation: Display: Validating WidgetBlueprint /Game/Kakuro/Game/UMG_KakuroGameWidget.UMG_KakuroGameWidget
+[2021.09.04-17.47.47:075][531]BlueprintLog: New page: Compile UMG_KakuroGameWidget
+[2021.09.04-17.47.47:237][531]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2021.09.04-17.47.48:017][564]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/Game/UMG_KakuroGameWidget" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Game/UMG_KakuroGameWidget.uasset" SILENT=true
+[2021.09.04-17.47.48:271][564]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_KakuroGameWidget0389B1A74B6117763D7D989A14E9E22A.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Game/UMG_KakuroGameWidget.uasset'
+[2021.09.04-17.47.48:286][564]AssetCheck: New page: Asset Save: UMG_KakuroGameWidget
+[2021.09.04-17.47.48:286][564]LogContentValidation: Display: Validating WidgetBlueprint /Game/Kakuro/Game/UMG_KakuroGameWidget.UMG_KakuroGameWidget
+[2021.09.04-17.48.09:861][621]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.09.04-17.48.28:946][733]BlueprintLog: New page: Compile UMG_SudokuGameWidget
+[2021.09.04-17.48.29:024][733]LogUObjectHash: Compacting FUObjectHashTables data took   5.86ms
+[2021.09.04-17.48.59:564][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/Game/UMG_KakuroGameWidget" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Game/UMG_KakuroGameWidget.uasset" SILENT=true
+[2021.09.04-17.48.59:797][335]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_KakuroGameWidget28ADB28E4AC8AF3C467479BE17550654.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Game/UMG_KakuroGameWidget.uasset'
+[2021.09.04-17.48.59:813][335]AssetCheck: New page: Asset Save: UMG_KakuroGameWidget
+[2021.09.04-17.48.59:814][335]LogContentValidation: Display: Validating WidgetBlueprint /Game/Kakuro/Game/UMG_KakuroGameWidget.UMG_KakuroGameWidget
+[2021.09.04-17.48.59:994][346]BlueprintLog: New page: Compile UMG_KakuroGameWidget
+[2021.09.04-17.49.00:176][346]LogUObjectHash: Compacting FUObjectHashTables data took   5.73ms
+[2021.09.04-17.49.06:964][662]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sudoku/Game/UMG_SudokuGameWidget" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Sudoku/Game/UMG_SudokuGameWidget.uasset" SILENT=true
+[2021.09.04-17.49.07:007][662]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_SudokuGameWidgetF808BABF4046E3073BC431B7C748A1C9.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Sudoku/Game/UMG_SudokuGameWidget.uasset'
+[2021.09.04-17.49.07:021][662]AssetCheck: New page: Asset Save: UMG_SudokuGameWidget
+[2021.09.04-17.49.07:021][662]LogContentValidation: Display: Validating WidgetBlueprint /Game/Sudoku/Game/UMG_SudokuGameWidget.UMG_SudokuGameWidget
+[2021.09.04-17.50.03:106][489]LogUObjectHash: Compacting FUObjectHashTables data took   6.05ms
+[2021.09.04-17.50.03:108][489]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MainMenuLevel' took 0.062
+[2021.09.04-17.50.03:110][489]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sudoku/Game/UMG_SudokuGameWidget] ([2] browsable assets)...
+[2021.09.04-17.50.03:110][489]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sudoku/Game/UMG_SudokuGameWidget]
+[2021.09.04-17.50.03:154][489]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_SudokuGameWidget_Auto10539182346ECE7B903A1288F8E28CC5E.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Saved/Autosaves/Game/Sudoku/Game/UMG_SudokuGameWidget_Auto1.uasset'
+[2021.09.04-17.50.03:155][489]LogFileHelpers: Auto-saving content packages took 0.047
+[2021.09.04-18.04.38:310][397]BlueprintLog: New page: Compile UMG_SudokuGameWidget
+[2021.09.04-18.04.38:382][397]LogUObjectHash: Compacting FUObjectHashTables data took   5.92ms
+[2021.09.04-18.04.38:843][421]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sudoku/Game/UMG_SudokuGameWidget" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Sudoku/Game/UMG_SudokuGameWidget.uasset" SILENT=true
+[2021.09.04-18.04.38:890][421]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_SudokuGameWidgetEE2EF7B24B0AE7FD07C00F817C4C1811.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Sudoku/Game/UMG_SudokuGameWidget.uasset'
+[2021.09.04-18.04.38:904][421]AssetCheck: New page: Asset Save: UMG_SudokuGameWidget
+[2021.09.04-18.04.38:904][421]LogContentValidation: Display: Validating WidgetBlueprint /Game/Sudoku/Game/UMG_SudokuGameWidget.UMG_SudokuGameWidget
+[2021.09.04-18.06.44:036][873]BlueprintLog: New page: Compile UMG_KakuroGameWidget
+[2021.09.04-18.06.44:192][873]LogUObjectHash: Compacting FUObjectHashTables data took   6.07ms
+[2021.09.04-18.06.44:669][894]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/Game/UMG_KakuroGameWidget" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Game/UMG_KakuroGameWidget.uasset" SILENT=true
+[2021.09.04-18.06.44:946][894]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_KakuroGameWidget778ACF434EA9D4A3F972D7A9F3077BC5.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Game/UMG_KakuroGameWidget.uasset'
+[2021.09.04-18.06.44:961][894]AssetCheck: New page: Asset Save: UMG_KakuroGameWidget
+[2021.09.04-18.06.44:961][894]LogContentValidation: Display: Validating WidgetBlueprint /Game/Kakuro/Game/UMG_KakuroGameWidget.UMG_KakuroGameWidget
+[2021.09.04-18.08.01:148][599]BlueprintLog: New page: Compile UMG_SudokuGameWidget
+[2021.09.04-18.08.01:230][599]LogUObjectHash: Compacting FUObjectHashTables data took   6.11ms
+[2021.09.04-18.10.19:823][729]BlueprintLog: New page: Compile UMG_SudokuGameWidget
+[2021.09.04-18.10.19:901][729]LogUObjectHash: Compacting FUObjectHashTables data took   6.15ms
+[2021.09.04-18.10.20:759][765]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sudoku/Game/UMG_SudokuGameWidget" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Sudoku/Game/UMG_SudokuGameWidget.uasset" SILENT=true
+[2021.09.04-18.10.20:819][765]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_SudokuGameWidget2D83EB044D87FAB7738CF4BB79C9AC58.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Sudoku/Game/UMG_SudokuGameWidget.uasset'
+[2021.09.04-18.10.20:834][765]AssetCheck: New page: Asset Save: UMG_SudokuGameWidget
+[2021.09.04-18.10.20:834][765]LogContentValidation: Display: Validating WidgetBlueprint /Game/Sudoku/Game/UMG_SudokuGameWidget.UMG_SudokuGameWidget
+[2021.09.04-18.10.23:259][874]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sudoku/Game/UMG_SudokuGameWidget" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Sudoku/Game/UMG_SudokuGameWidget.uasset" SILENT=true
+[2021.09.04-18.10.23:345][874]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_SudokuGameWidgetDD84A889450CDCA6920AB6841352D2AF.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Sudoku/Game/UMG_SudokuGameWidget.uasset'
+[2021.09.04-18.10.23:359][874]AssetCheck: New page: Asset Save: UMG_SudokuGameWidget
+[2021.09.04-18.10.23:359][874]LogContentValidation: Display: Validating WidgetBlueprint /Game/Sudoku/Game/UMG_SudokuGameWidget.UMG_SudokuGameWidget
+[2021.09.04-18.10.35:397][542]BlueprintLog: New page: Compile UMG_SudokuGameWidget
+[2021.09.04-18.10.35:494][542]LogUObjectHash: Compacting FUObjectHashTables data took   5.66ms
+[2021.09.04-18.10.36:224][573]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sudoku/Game/UMG_SudokuGameWidget" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Sudoku/Game/UMG_SudokuGameWidget.uasset" SILENT=true
+[2021.09.04-18.10.36:284][573]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_SudokuGameWidgetC0156EA547CCE4525264DFA064F08A28.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Sudoku/Game/UMG_SudokuGameWidget.uasset'
+[2021.09.04-18.10.36:298][573]AssetCheck: New page: Asset Save: UMG_SudokuGameWidget
+[2021.09.04-18.10.36:298][573]LogContentValidation: Display: Validating WidgetBlueprint /Game/Sudoku/Game/UMG_SudokuGameWidget.UMG_SudokuGameWidget
+[2021.09.04-18.15.26:511][923]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sudoku/Game/UMG_SudokuGameWidget" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Sudoku/Game/UMG_SudokuGameWidget.uasset" SILENT=true
+[2021.09.04-18.15.26:634][923]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_SudokuGameWidget959F900E4E0FBD375DA41696187691B3.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Sudoku/Game/UMG_SudokuGameWidget.uasset'
+[2021.09.04-18.15.26:656][923]AssetCheck: New page: Asset Save: UMG_SudokuGameWidget
+[2021.09.04-18.15.26:656][923]LogContentValidation: Display: Validating WidgetBlueprint /Game/Sudoku/Game/UMG_SudokuGameWidget.UMG_SudokuGameWidget
+[2021.09.04-18.16.38:087][471]LogEditorTransaction: Undo Changed Anchors
+[2021.09.04-18.17.27:143][641]LogUObjectHash: Compacting FUObjectHashTables data took   6.53ms
+[2021.09.04-18.17.27:145][641]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MainMenuLevel' took 0.067
+[2021.09.04-18.17.27:146][641]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sudoku/Game/UMG_SudokuGameWidget] ([2] browsable assets)...
+[2021.09.04-18.17.27:146][641]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sudoku/Game/UMG_SudokuGameWidget]
+[2021.09.04-18.17.27:219][641]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_SudokuGameWidget_Auto2AB27BC93437BE7FF171500873B68646E.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Saved/Autosaves/Game/Sudoku/Game/UMG_SudokuGameWidget_Auto2.uasset'
+[2021.09.04-18.17.27:220][641]LogFileHelpers: Auto-saving content packages took 0.074
+[2021.09.04-18.17.47:821][569]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Hitori/Game/UMG_HitoriGameWidget.UMG_HitoriGameWidget
+[2021.09.04-18.18.08:206][431]LogWorld: UWorld::CleanupWorld for World_126, bSessionEnded=true, bCleanupResources=true
+[2021.09.04-18.18.08:206][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.04-18.18.08:218][431]LogWorld: UWorld::CleanupWorld for World_125, bSessionEnded=true, bCleanupResources=true
+[2021.09.04-18.18.08:218][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.04-18.18.12:637][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sudoku/Game/UMG_SudokuGameWidget" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Sudoku/Game/UMG_SudokuGameWidget.uasset" SILENT=true
+[2021.09.04-18.18.12:710][622]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_SudokuGameWidget0C3F81E94F6AA5C7283CD0ABB92132D1.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Sudoku/Game/UMG_SudokuGameWidget.uasset'
+[2021.09.04-18.18.12:724][622]AssetCheck: New page: Asset Save: UMG_SudokuGameWidget
+[2021.09.04-18.18.12:724][622]LogContentValidation: Display: Validating WidgetBlueprint /Game/Sudoku/Game/UMG_SudokuGameWidget.UMG_SudokuGameWidget
+[2021.09.04-18.18.13:440][657]BlueprintLog: New page: Compile UMG_SudokuGameWidget
+[2021.09.04-18.18.13:547][657]LogUObjectHash: Compacting FUObjectHashTables data took   6.16ms
+[2021.09.04-18.21.03:689][244]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.09.04-18.21.03:720][244]LogContentBrowser: Creating deferred item: NewFolder
+[2021.09.04-18.21.06:657][374]LogContentBrowser: Attempting asset rename: NewFolder -> SudokuTile
+[2021.09.04-18.21.06:657][374]LogContentBrowser: End creating deferred item NewFolder
+[2021.09.04-18.21.10:353][592]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2021.09.04-18.21.10:368][592]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2021.09.04-18.21.15:673][838]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> UMG_SudokuTile
+[2021.09.04-18.21.15:680][838]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2021.09.04-18.21.16:978][894]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sudoku/Game/SudokuTile/UMG_SudokuTile" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Sudoku/Game/SudokuTile/UMG_SudokuTile.uasset" SILENT=true
+[2021.09.04-18.21.16:983][894]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_SudokuTile57B0918B4E0D53231849EBB956D32274.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Sudoku/Game/SudokuTile/UMG_SudokuTile.uasset'
+[2021.09.04-18.21.16:997][894]AssetCheck: New page: Asset Save: UMG_SudokuTile
+[2021.09.04-18.21.16:997][894]LogContentValidation: Display: Validating WidgetBlueprint /Game/Sudoku/Game/SudokuTile/UMG_SudokuTile.UMG_SudokuTile
+[2021.09.04-18.21.20:719][ 64]LogContentBrowser: Attempting asset rename: SudokuTile -> Tile
+[2021.09.04-18.21.20:778][ 64]LogMetaData: Removing '/Game/Sudoku/Game/Tile/UMG_SudokuTile.SKEL_UMG_SudokuTile_C' ref from Metadata '/Game/Sudoku/Game/SudokuTile/UMG_SudokuTile.PackageMetaData'
+[2021.09.04-18.21.20:778][ 64]LogMetaData: Removing '/Game/Sudoku/Game/Tile/UMG_SudokuTile.UMG_SudokuTile_C' ref from Metadata '/Game/Sudoku/Game/SudokuTile/UMG_SudokuTile.PackageMetaData'
+[2021.09.04-18.21.20:778][ 64]LogMetaData: Removing '/Game/Sudoku/Game/Tile/UMG_SudokuTile.UMG_SudokuTile:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Sudoku/Game/SudokuTile/UMG_SudokuTile.PackageMetaData'
+[2021.09.04-18.21.20:778][ 64]LogMetaData: Removing '/Game/Sudoku/Game/Tile/UMG_SudokuTile.UMG_SudokuTile:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Sudoku/Game/SudokuTile/UMG_SudokuTile.PackageMetaData'
+[2021.09.04-18.21.20:778][ 64]LogMetaData: Removing '/Game/Sudoku/Game/Tile/UMG_SudokuTile.UMG_SudokuTile:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Sudoku/Game/SudokuTile/UMG_SudokuTile.PackageMetaData'
+[2021.09.04-18.21.20:827][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sudoku/Game/Tile/UMG_SudokuTile" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Sudoku/Game/Tile/UMG_SudokuTile.uasset" SILENT=true
+[2021.09.04-18.21.20:832][ 64]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_SudokuTile4172A2B7453A5ED1143F99BD4506A398.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Sudoku/Game/Tile/UMG_SudokuTile.uasset'
+[2021.09.04-18.21.20:957][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   6.29ms
+[2021.09.04-18.21.21:009][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2021.09.04-18.21.21:050][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2021.09.04-18.21.21:111][ 64]AssetCheck: New page: Asset Save: UMG_SudokuTile
+[2021.09.04-18.21.21:111][ 64]LogContentValidation: Display: Validating WidgetBlueprint /Game/Sudoku/Game/Tile/UMG_SudokuTile.UMG_SudokuTile
+[2021.09.04-18.24.01:857][663]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.09.04-18.26.59:895][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sudoku/Game/UMG_SudokuGameWidget" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Sudoku/Game/UMG_SudokuGameWidget.uasset" SILENT=true
+[2021.09.04-18.26.59:979][655]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_SudokuGameWidget72317BB64D97305933FC7DB7A0709180.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Sudoku/Game/UMG_SudokuGameWidget.uasset'
+[2021.09.04-18.26.59:999][655]AssetCheck: New page: Asset Save: UMG_SudokuGameWidget
+[2021.09.04-18.26.59:999][655]LogContentValidation: Display: Validating WidgetBlueprint /Game/Sudoku/Game/UMG_SudokuGameWidget.UMG_SudokuGameWidget
+[2021.09.04-18.27.04:844][869]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Sudoku/Game/Tile/UMG_SudokuTile.UMG_SudokuTile
+[2021.09.04-18.27.26:511][899]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sudoku/Game/Tile/UMG_SudokuTile" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Sudoku/Game/Tile/UMG_SudokuTile.uasset" SILENT=true
+[2021.09.04-18.27.26:519][899]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_SudokuTileDBC104194BAE0BC106F4A984620F0599.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Sudoku/Game/Tile/UMG_SudokuTile.uasset'
+[2021.09.04-18.27.26:537][899]AssetCheck: New page: Asset Save: UMG_SudokuTile
+[2021.09.04-18.27.26:537][899]LogContentValidation: Display: Validating WidgetBlueprint /Game/Sudoku/Game/Tile/UMG_SudokuTile.UMG_SudokuTile
+[2021.09.04-18.45.28:803][989]LogSlate: Window 'Color Picker' being destroyed
+[2021.09.04-18.46.38:944][485]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Kakuro/Game/Tile/UMG_KakuroTile.UMG_KakuroTile
+[2021.09.04-18.47.25:203][600]LogContentBrowser: Attempting asset rename: UMG_TileSmallNum -> UMG_KakuroTileSmallNum
+[2021.09.04-18.47.25:259][600]LogMetaData: Removing '/Game/Kakuro/Game/Tile/UMG_KakuroTileSmallNum.UMG_KakuroTileSmallNum_C' ref from Metadata '/Game/Kakuro/Game/Tile/UMG_TileSmallNum.PackageMetaData'
+[2021.09.04-18.47.25:259][600]LogMetaData: Removing '/Game/Kakuro/Game/Tile/UMG_KakuroTileSmallNum.UMG_KakuroTileSmallNum_C:Construct' ref from Metadata '/Game/Kakuro/Game/Tile/UMG_TileSmallNum.PackageMetaData'
+[2021.09.04-18.47.25:259][600]LogMetaData: Removing '/Game/Kakuro/Game/Tile/UMG_KakuroTileSmallNum.SKEL_UMG_KakuroTileSmallNum_C' ref from Metadata '/Game/Kakuro/Game/Tile/UMG_TileSmallNum.PackageMetaData'
+[2021.09.04-18.47.25:259][600]LogMetaData: Removing '/Game/Kakuro/Game/Tile/UMG_KakuroTileSmallNum.SKEL_UMG_KakuroTileSmallNum_C:Construct' ref from Metadata '/Game/Kakuro/Game/Tile/UMG_TileSmallNum.PackageMetaData'
+[2021.09.04-18.47.25:260][600]LogMetaData: Removing '/Game/Kakuro/Game/Tile/UMG_KakuroTileSmallNum.UMG_KakuroTileSmallNum:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Kakuro/Game/Tile/UMG_TileSmallNum.PackageMetaData'
+[2021.09.04-18.47.25:309][600]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/Game/Tile/UMG_KakuroTileSmallNum" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Game/Tile/UMG_KakuroTileSmallNum.uasset" SILENT=true
+[2021.09.04-18.47.25:317][600]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_KakuroTileSmallNum2519EA08400AC54A53C25DB7F4CA4080.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Game/Tile/UMG_KakuroTileSmallNum.uasset'
+[2021.09.04-18.47.25:486][600]LogUObjectHash: Compacting FUObjectHashTables data took   6.73ms
+[2021.09.04-18.47.25:541][600]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2021.09.04-18.47.25:586][600]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2021.09.04-18.47.25:625][600]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kakuro/Game/Tile/UMG_KakuroTile" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Game/Tile/UMG_KakuroTile.uasset" SILENT=true
+[2021.09.04-18.47.25:731][600]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_KakuroTile56236D5046828949A86845B935BAFF98.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Kakuro/Game/Tile/UMG_KakuroTile.uasset'
+[2021.09.04-18.47.25:784][600]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.04-18.47.25:784][600]LogContentValidation: Display: Validating WidgetBlueprint /Game/Kakuro/Game/Tile/UMG_KakuroTile.UMG_KakuroTile
+[2021.09.04-18.47.25:785][600]LogContentValidation: Display: Validating WidgetBlueprint /Game/Kakuro/Game/Tile/UMG_KakuroTileSmallNum.UMG_KakuroTileSmallNum
+[2021.09.04-18.47.48:209][639]BlueprintLog: New page: Compile UMG_SudokuTile
+[2021.09.04-18.47.48:276][639]LogUObjectHash: Compacting FUObjectHashTables data took   5.45ms
+[2021.09.04-18.47.58:497][111]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2021.09.04-18.47.58:514][111]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2021.09.04-18.48.09:026][604]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> UMG_SmallNum
+[2021.09.04-18.48.09:032][604]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2021.09.04-18.48.14:506][856]LogContentBrowser: Attempting asset rename: UMG_SmallNum -> UMG_SudokuSmallNum
+[2021.09.04-18.48.14:558][856]LogMetaData: Removing '/Game/Sudoku/Game/Tile/UMG_SudokuSmallNum.SKEL_UMG_SudokuSmallNum_C' ref from Metadata '/Game/Sudoku/Game/Tile/UMG_SmallNum.PackageMetaData'
+[2021.09.04-18.48.14:558][856]LogMetaData: Removing '/Game/Sudoku/Game/Tile/UMG_SudokuSmallNum.UMG_SudokuSmallNum_C' ref from Metadata '/Game/Sudoku/Game/Tile/UMG_SmallNum.PackageMetaData'
+[2021.09.04-18.48.14:558][856]LogMetaData: Removing '/Game/Sudoku/Game/Tile/UMG_SudokuSmallNum.UMG_SudokuSmallNum:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Sudoku/Game/Tile/UMG_SmallNum.PackageMetaData'
+[2021.09.04-18.48.14:558][856]LogMetaData: Removing '/Game/Sudoku/Game/Tile/UMG_SudokuSmallNum.UMG_SudokuSmallNum:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Sudoku/Game/Tile/UMG_SmallNum.PackageMetaData'
+[2021.09.04-18.48.14:558][856]LogMetaData: Removing '/Game/Sudoku/Game/Tile/UMG_SudokuSmallNum.UMG_SudokuSmallNum:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Sudoku/Game/Tile/UMG_SmallNum.PackageMetaData'
+[2021.09.04-18.48.14:606][856]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sudoku/Game/Tile/UMG_SudokuSmallNum" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Sudoku/Game/Tile/UMG_SudokuSmallNum.uasset" SILENT=true
+[2021.09.04-18.48.14:611][856]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_SudokuSmallNum268AC5E74CA8039DA600B2A988EB3AD5.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Sudoku/Game/Tile/UMG_SudokuSmallNum.uasset'
+[2021.09.04-18.48.14:743][856]LogUObjectHash: Compacting FUObjectHashTables data took   7.04ms
+[2021.09.04-18.48.14:800][856]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2021.09.04-18.48.14:849][856]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2021.09.04-18.48.14:900][856]AssetCheck: New page: Asset Save: UMG_SudokuSmallNum
+[2021.09.04-18.48.14:900][856]LogContentValidation: Display: Validating WidgetBlueprint /Game/Sudoku/Game/Tile/UMG_SudokuSmallNum.UMG_SudokuSmallNum
+[2021.09.04-18.48.21:448][172]LogSlate: Window 'UMG_KakuroTile' being destroyed
+[2021.09.04-18.50.49:984][532]LogEditorTransaction: Undo Change Parameter Type
+[2021.09.04-18.51.05:543][444]BlueprintLog: New page: Compile UMG_SudokuTile
+[2021.09.04-18.51.05:620][444]LogUObjectHash: Compacting FUObjectHashTables data took   6.22ms
+[2021.09.04-18.51.06:645][497]BlueprintLog: New page: Compile UMG_SudokuGameWidget
+[2021.09.04-18.51.06:731][497]LogUObjectHash: Compacting FUObjectHashTables data took   6.23ms
+[2021.09.04-18.51.11:668][771]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.09.04-18.51.30:831][914]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sudoku/Game/Tile/UMG_SudokuTile" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Sudoku/Game/Tile/UMG_SudokuTile.uasset" SILENT=true
+[2021.09.04-18.51.30:840][914]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_SudokuTile966989804E86BE77FD0A539417D9AEBE.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Sudoku/Game/Tile/UMG_SudokuTile.uasset'
+[2021.09.04-18.51.30:859][914]AssetCheck: New page: Asset Save: UMG_SudokuTile
+[2021.09.04-18.51.30:859][914]LogContentValidation: Display: Validating WidgetBlueprint /Game/Sudoku/Game/Tile/UMG_SudokuTile.UMG_SudokuTile
+[2021.09.04-18.51.50:264][946]BlueprintLog: New page: Compile UMG_SudokuTile
+[2021.09.04-18.51.50:284][946]LogClass: Warning: Type mismatch in Parent of UMG_SudokuTile_C - Previous (IntProperty) Current(ObjectProperty) for package:  FObjectReader
+[2021.09.04-18.51.50:380][946]LogUObjectHash: Compacting FUObjectHashTables data took   6.33ms
+[2021.09.04-18.51.50:746][963]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sudoku/Game/Tile/UMG_SudokuTile" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Sudoku/Game/Tile/UMG_SudokuTile.uasset" SILENT=true
+[2021.09.04-18.51.50:755][963]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_SudokuTile6352A1C24D0F5ECC5FD9BFBE3DF596EC.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Sudoku/Game/Tile/UMG_SudokuTile.uasset'
+[2021.09.04-18.51.50:769][963]AssetCheck: New page: Asset Save: UMG_SudokuTile
+[2021.09.04-18.51.50:769][963]LogContentValidation: Display: Validating WidgetBlueprint /Game/Sudoku/Game/Tile/UMG_SudokuTile.UMG_SudokuTile
+[2021.09.04-18.53.38:051][785]LogEditorTransaction: Undo Delete current selection
+[2021.09.04-18.54.07:852][375]BlueprintLog: New page: Compile UMG_SudokuGameWidget
+[2021.09.04-18.54.07:963][375]LogUObjectHash: Compacting FUObjectHashTables data took   6.73ms
+[2021.09.04-18.54.08:423][396]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sudoku/Game/UMG_SudokuGameWidget" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Sudoku/Game/UMG_SudokuGameWidget.uasset" SILENT=true
+[2021.09.04-18.54.08:506][396]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_SudokuGameWidgetBBACAAE04F60F47F6966C0B7EE2D7C60.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Sudoku/Game/UMG_SudokuGameWidget.uasset'
+[2021.09.04-18.54.08:522][396]AssetCheck: New page: Asset Save: UMG_SudokuGameWidget
+[2021.09.04-18.54.08:522][396]LogContentValidation: Display: Validating WidgetBlueprint /Game/Sudoku/Game/UMG_SudokuGameWidget.UMG_SudokuGameWidget
+[2021.09.04-18.54.08:906][412]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sudoku/Game/UMG_SudokuGameWidget" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Sudoku/Game/UMG_SudokuGameWidget.uasset" SILENT=true
+[2021.09.04-18.54.08:989][412]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_SudokuGameWidget18DF9B774999074902C708A9046CD67E.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Sudoku/Game/UMG_SudokuGameWidget.uasset'
+[2021.09.04-18.54.09:002][412]AssetCheck: New page: Asset Save: UMG_SudokuGameWidget
+[2021.09.04-18.54.09:002][412]LogContentValidation: Display: Validating WidgetBlueprint /Game/Sudoku/Game/UMG_SudokuGameWidget.UMG_SudokuGameWidget
+[2021.09.04-18.54.23:889][178]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sudoku/Game/UMG_SudokuGameWidget" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Sudoku/Game/UMG_SudokuGameWidget.uasset" SILENT=true
+[2021.09.04-18.54.23:972][178]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_SudokuGameWidget1F355CE54ABC5695163AE8BB2D9E889B.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Sudoku/Game/UMG_SudokuGameWidget.uasset'
+[2021.09.04-18.54.23:988][178]AssetCheck: New page: Asset Save: UMG_SudokuGameWidget
+[2021.09.04-18.54.23:988][178]LogContentValidation: Display: Validating WidgetBlueprint /Game/Sudoku/Game/UMG_SudokuGameWidget.UMG_SudokuGameWidget
+[2021.09.04-18.55.03:854][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sudoku/Game/UMG_SudokuGameWidget" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Sudoku/Game/UMG_SudokuGameWidget.uasset" SILENT=true
+[2021.09.04-18.55.03:936][210]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_SudokuGameWidget44A0B57444DCBDBDCB0677AE16E346C2.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Sudoku/Game/UMG_SudokuGameWidget.uasset'
+[2021.09.04-18.55.03:955][210]AssetCheck: New page: Asset Save: UMG_SudokuGameWidget
+[2021.09.04-18.55.03:955][210]LogContentValidation: Display: Validating WidgetBlueprint /Game/Sudoku/Game/UMG_SudokuGameWidget.UMG_SudokuGameWidget
+[2021.09.04-18.55.04:272][227]BlueprintLog: New page: Compile UMG_SudokuGameWidget
+[2021.09.04-18.55.04:404][227]LogUObjectHash: Compacting FUObjectHashTables data took   6.54ms
+[2021.09.04-18.55.35:999][924]LogEditorTransaction: Undo Move Nodes
+[2021.09.04-18.55.36:851][946]LogEditorTransaction: Undo Paste clipboard contents
+[2021.09.04-18.55.38:167][  9]LogEditorTransaction: Undo Delete current selection
+[2021.09.04-18.55.40:482][111]LogEditorTransaction: Undo Delete current selection
+[2021.09.04-18.56.09:140][734]BlueprintLog: New page: Compile UMG_SudokuGameWidget
+[2021.09.04-18.56.09:244][734]LogUObjectHash: Compacting FUObjectHashTables data took   6.89ms
+[2021.09.04-18.56.09:634][752]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sudoku/Game/UMG_SudokuGameWidget" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Sudoku/Game/UMG_SudokuGameWidget.uasset" SILENT=true
+[2021.09.04-18.56.09:743][752]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_SudokuGameWidgetB5D40CC14D5349AD49DDD1910385C49A.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Sudoku/Game/UMG_SudokuGameWidget.uasset'
+[2021.09.04-18.56.09:759][752]AssetCheck: New page: Asset Save: UMG_SudokuGameWidget
+[2021.09.04-18.56.09:760][752]LogContentValidation: Display: Validating WidgetBlueprint /Game/Sudoku/Game/UMG_SudokuGameWidget.UMG_SudokuGameWidget
+[2021.09.04-19.01.20:836][562]BlueprintLog: New page: Compile UMG_SudokuTile
+[2021.09.04-19.01.20:843][562]LogBlueprint: Warning: [AssetLog] D:\Unreal Projects\JapanPuzzles\Content\Sudoku\Game\Tile\UMG_SudokuTile.uasset: [Compiler] Could not find the function 'NumWrited' called from  Num Writed
+[2021.09.04-19.01.20:843][562]LogBlueprint: Warning: [AssetLog] D:\Unreal Projects\JapanPuzzles\Content\Sudoku\Game\Tile\UMG_SudokuTile.uasset: [Compiler] Could not find the function 'NumChanged' called from  Num Changed
+[2021.09.04-19.01.20:939][562]LogUObjectHash: Compacting FUObjectHashTables data took   7.29ms
+[2021.09.04-19.01.21:420][585]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sudoku/Game/Tile/UMG_SudokuTile" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Sudoku/Game/Tile/UMG_SudokuTile.uasset" SILENT=true
+[2021.09.04-19.01.21:436][585]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_SudokuTileD6A640A84D2B4BC2F04185B0F7AB4C65.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Sudoku/Game/Tile/UMG_SudokuTile.uasset'
+[2021.09.04-19.01.21:453][585]AssetCheck: New page: Asset Save: UMG_SudokuTile
+[2021.09.04-19.01.21:453][585]LogContentValidation: Display: Validating WidgetBlueprint /Game/Sudoku/Game/Tile/UMG_SudokuTile.UMG_SudokuTile
+[2021.09.04-19.01.23:973][708]BlueprintLog: New page: Compile UMG_SudokuGameWidget
+[2021.09.04-19.01.24:076][708]LogUObjectHash: Compacting FUObjectHashTables data took   6.52ms
+[2021.09.04-19.01.24:520][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sudoku/Game/UMG_SudokuGameWidget" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Sudoku/Game/UMG_SudokuGameWidget.uasset" SILENT=true
+[2021.09.04-19.01.24:607][728]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/UMG_SudokuGameWidgetC352726D4F7DCB4DCB65359283EEA297.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Sudoku/Game/UMG_SudokuGameWidget.uasset'
+[2021.09.04-19.01.24:622][728]AssetCheck: New page: Asset Save: UMG_SudokuGameWidget
+[2021.09.04-19.01.24:622][728]LogContentValidation: Display: Validating WidgetBlueprint /Game/Sudoku/Game/UMG_SudokuGameWidget.UMG_SudokuGameWidget
+[2021.09.04-19.01.26:691][836]BlueprintLog: New page: Compile UMG_SudokuTile
+[2021.09.04-19.01.26:770][836]LogUObjectHash: Compacting FUObjectHashTables data took   6.70ms
+[2021.09.04-19.01.27:820][883]LogWorld: UWorld::CleanupWorld for World_102, bSessionEnded=true, bCleanupResources=true
+[2021.09.04-19.01.27:820][883]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.04-19.01.27:832][883]LogWorld: UWorld::CleanupWorld for World_101, bSessionEnded=true, bCleanupResources=true
+[2021.09.04-19.01.27:832][883]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.04-19.01.28:188][897]LogWorld: UWorld::CleanupWorld for World_98, bSessionEnded=true, bCleanupResources=true
+[2021.09.04-19.01.28:188][897]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.04-19.01.28:199][897]LogWorld: UWorld::CleanupWorld for World_97, bSessionEnded=true, bCleanupResources=true
+[2021.09.04-19.01.28:199][897]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.04-19.01.28:590][920]LogWorld: UWorld::CleanupWorld for World_112, bSessionEnded=true, bCleanupResources=true
+[2021.09.04-19.01.28:590][920]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.04-19.01.28:601][920]LogWorld: UWorld::CleanupWorld for World_111, bSessionEnded=true, bCleanupResources=true
+[2021.09.04-19.01.28:601][920]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.04-19.01.28:985][937]LogWorld: UWorld::CleanupWorld for World_132, bSessionEnded=true, bCleanupResources=true
+[2021.09.04-19.01.28:985][937]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.04-19.01.28:997][937]LogWorld: UWorld::CleanupWorld for World_131, bSessionEnded=true, bCleanupResources=true
+[2021.09.04-19.01.28:997][937]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.04-19.01.29:405][953]LogWorld: UWorld::CleanupWorld for World_135, bSessionEnded=true, bCleanupResources=true
+[2021.09.04-19.01.29:405][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.04-19.01.29:417][953]LogWorld: UWorld::CleanupWorld for World_134, bSessionEnded=true, bCleanupResources=true
+[2021.09.04-19.01.29:417][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.04-19.01.31:396][ 45]LogSlate: Window 'UMG_SudokuGameWidget' being destroyed
+[2021.09.04-19.01.31:412][ 45]LogWorld: UWorld::CleanupWorld for World_94, bSessionEnded=true, bCleanupResources=true
+[2021.09.04-19.01.31:412][ 45]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.04-19.01.31:423][ 45]LogWorld: UWorld::CleanupWorld for World_93, bSessionEnded=true, bCleanupResources=true
+[2021.09.04-19.01.31:423][ 45]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
