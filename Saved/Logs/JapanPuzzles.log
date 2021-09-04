@@ -2733,3 +2733,22 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.04-17.24.54:845][150]LogContentValidation: Display: Validating UserDefinedEnum /Game/Hitori/Game/Tile/HitoriTileModeEnum.HitoriTileModeEnum
 [2021.09.04-17.24.54:845][150]LogContentValidation: Display: Validating WidgetBlueprint /Game/Hitori/Game/Tile/UMG_HitoriTile.UMG_HitoriTile
 [2021.09.04-17.24.54:845][150]LogContentValidation: Display: Validating WidgetBlueprint /Game/Hitori/Game/UMG_HitoriGameWidget.UMG_HitoriGameWidget
+[2021.09.04-17.25.31:196][261]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Sudoku/Game/UMG_SudokuGameWidget.UMG_SudokuGameWidget
+[2021.09.04-17.27.29:597][580]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.09.04-17.27.29:612][580]LogContentBrowser: Creating deferred item: NewFolder
+[2021.09.04-17.27.32:518][714]LogContentBrowser: Attempting asset rename: NewFolder -> General
+[2021.09.04-17.27.32:518][714]LogContentBrowser: End creating deferred item NewFolder
+[2021.09.04-17.28.02:996][218]LogUObjectHash: Compacting FUObjectHashTables data took   5.58ms
+[2021.09.04-17.28.04:378][269]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Sudoku/Game/UMG_KakuroNumBtn.UMG_KakuroNumBtn
+[2021.09.04-17.28.20:388][977]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Kakuro/Game/UMG_KakuroGameWidget.UMG_KakuroGameWidget
+[2021.09.04-17.28.41:945][914]LogSlate: Took 0.039218 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.09.04-17.28.50:204][316]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/Sudoku/Game/SudokuWritingToolEnum.SudokuWritingToolEnum
+[2021.09.04-17.29.01:153][828]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/Kakuro/Game/KakuroWritingToolEnum.KakuroWritingToolEnum
+[2021.09.04-17.29.16:519][646]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sudoku/Game/SudokuWritingToolEnum" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Sudoku/Game/SudokuWritingToolEnum.uasset" SILENT=true
+[2021.09.04-17.29.16:521][646]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/SudokuWritingToolEnum635FDC334DD2482ED617DD93ACFC85CF.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Sudoku/Game/SudokuWritingToolEnum.uasset'
+[2021.09.04-17.29.16:537][646]AssetCheck: New page: Asset Save: SudokuWritingToolEnum
+[2021.09.04-17.29.16:537][646]LogContentValidation: Display: Validating UserDefinedEnum /Game/Sudoku/Game/SudokuWritingToolEnum.SudokuWritingToolEnum
+[2021.09.04-17.29.17:235][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sudoku/Game/SudokuWritingToolEnum" FILE="../../../../../Unreal Projects/JapanPuzzles/Content/Sudoku/Game/SudokuWritingToolEnum.uasset" SILENT=true
+[2021.09.04-17.29.17:236][680]LogSavePackage: Moving '../../../../../Unreal Projects/JapanPuzzles/Saved/SudokuWritingToolEnum78267CE14C9AA49D72DAF5BC462313BA.tmp' to '../../../../../Unreal Projects/JapanPuzzles/Content/Sudoku/Game/SudokuWritingToolEnum.uasset'
+[2021.09.04-17.29.17:250][680]AssetCheck: New page: Asset Save: SudokuWritingToolEnum
+[2021.09.04-17.29.17:250][680]LogContentValidation: Display: Validating UserDefinedEnum /Game/Sudoku/Game/SudokuWritingToolEnum.SudokuWritingToolEnum
