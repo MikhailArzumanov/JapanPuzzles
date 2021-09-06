@@ -1256,3 +1256,6 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.06-16.58.54:002][297]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_SudokuLevelChooseCCBF820942E0D21F06AF47A622B5C4B2.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Sudoku/Levels/UMG_SudokuLevelChoose.uasset'
 [2021.09.06-16.58.54:016][297]AssetCheck: New page: Asset Save: UMG_SudokuLevelChoose
 [2021.09.06-16.58.54:016][297]LogContentValidation: Display: Validating WidgetBlueprint /Game/Sudoku/Levels/UMG_SudokuLevelChoose.UMG_SudokuLevelChoose
+[2021.09.06-17.01.02:760][281]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Kakuro/Levels/UMG_KakuroChooseLevel.UMG_KakuroChooseLevel
+[2021.09.06-17.01.40:537][802]LogEditorTransaction: Undo Paste clipboard contents
+[2021.09.06-17.02.40:154][ 25]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/Kakuro/Levels/KakuroLevelsTable.KakuroLevelsTable
