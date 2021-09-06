@@ -1259,3 +1259,116 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.06-17.01.02:760][281]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Kakuro/Levels/UMG_KakuroChooseLevel.UMG_KakuroChooseLevel
 [2021.09.06-17.01.40:537][802]LogEditorTransaction: Undo Paste clipboard contents
 [2021.09.06-17.02.40:154][ 25]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/Kakuro/Levels/KakuroLevelsTable.KakuroLevelsTable
+[2021.09.06-17.04.18:086][779]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sudoku/Levels/UMG_SudokuLevelChoose" FILE="../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Sudoku/Levels/UMG_SudokuLevelChoose.uasset" SILENT=true
+[2021.09.06-17.04.18:090][779]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_SudokuLevelChoose50FC0B3747EDE52746C629BB56969691.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Sudoku/Levels/UMG_SudokuLevelChoose.uasset'
+[2021.09.06-17.04.18:109][779]AssetCheck: New page: Asset Save: UMG_SudokuLevelChoose
+[2021.09.06-17.04.18:109][779]LogContentValidation: Display: Validating WidgetBlueprint /Game/Sudoku/Levels/UMG_SudokuLevelChoose.UMG_SudokuLevelChoose
+[2021.09.06-17.07.33:340][366]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Kakuro/Levels/UMG_KakuroLevelButton.UMG_KakuroLevelButton
+[2021.09.06-17.07.40:527][693]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2021.09.06-17.07.40:543][693]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2021.09.06-17.07.45:992][883]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> UMG_SudokuLevelButton
+[2021.09.06-17.07.45:995][883]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2021.09.06-17.07.47:392][930]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Sudoku/Levels/UMG_SudokuLevelButton.UMG_SudokuLevelButton
+[2021.09.06-17.09.10:005][966]LogEditorTransaction: Undo Drag and Drop Widget
+[2021.09.06-17.10.59:192][208]LogBlueprint: Warning: [AssetLog] /Game/Sudoku/Levels/UMG_SudokuLevelButton.UMG_SudokuLevelButton (no disk path found): [Compiler] Variable ButtonIndex is marked as 'Expose on Spawn' but not marked as 'Instance Editable'; please make it 'Instance Editable'
+[2021.09.06-17.13.34:340][637]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetMathLibrary::Divide_IntInt' [Элемент не найден.]
+[2021.09.06-17.15.13:156][654]BlueprintLog: New page: Compile UMG_SudokuLevelButton
+[2021.09.06-17.15.13:237][654]LogUObjectHash: Compacting FUObjectHashTables data took   6.25ms
+[2021.09.06-17.15.13:720][671]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sudoku/Levels/UMG_SudokuLevelButton" FILE="../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Sudoku/Levels/UMG_SudokuLevelButton.uasset" SILENT=true
+[2021.09.06-17.15.13:734][671]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_SudokuLevelButtonCAF75CDA4C6A0115E27652BFB92854E7.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Sudoku/Levels/UMG_SudokuLevelButton.uasset'
+[2021.09.06-17.15.13:750][671]AssetCheck: New page: Asset Save: UMG_SudokuLevelButton
+[2021.09.06-17.15.13:750][671]LogContentValidation: Display: Validating WidgetBlueprint /Game/Sudoku/Levels/UMG_SudokuLevelButton.UMG_SudokuLevelButton
+[2021.09.06-17.16.15:070][863]LogEditorTransaction: Undo Create Pin Link
+[2021.09.06-17.16.15:341][869]LogEditorTransaction: Undo Move Node
+[2021.09.06-17.16.15:664][875]LogEditorTransaction: Undo Create Reroute Node
+[2021.09.06-17.16.16:090][903]LogEditorTransaction: Undo Move Node
+[2021.09.06-17.16.16:547][919]LogEditorTransaction: Undo Create Pin Link
+[2021.09.06-17.16.17:021][935]LogEditorTransaction: Undo Create Pin Link
+[2021.09.06-17.16.17:522][952]LogEditorTransaction: Undo Move Node
+[2021.09.06-17.16.18:027][969]LogEditorTransaction: Undo Function Dropped on Graph
+[2021.09.06-17.16.18:569][986]LogEditorTransaction: Undo Move Pin Down
+[2021.09.06-17.16.44:875][398]BlueprintLog: New page: Compile UMG_SudokuLevelButton
+[2021.09.06-17.16.44:964][398]LogUObjectHash: Compacting FUObjectHashTables data took   6.36ms
+[2021.09.06-17.16.45:466][415]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sudoku/Levels/UMG_SudokuLevelButton" FILE="../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Sudoku/Levels/UMG_SudokuLevelButton.uasset" SILENT=true
+[2021.09.06-17.16.45:484][415]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_SudokuLevelButton282544EE4047E0B32325348FC2E339E2.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Sudoku/Levels/UMG_SudokuLevelButton.uasset'
+[2021.09.06-17.16.45:500][415]AssetCheck: New page: Asset Save: UMG_SudokuLevelButton
+[2021.09.06-17.16.45:501][415]LogContentValidation: Display: Validating WidgetBlueprint /Game/Sudoku/Levels/UMG_SudokuLevelButton.UMG_SudokuLevelButton
+[2021.09.06-17.17.05:619][124]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal Projects\JapanPuzzles\Content\Sudoku\Levels\UMG_SudokuLevelButton.uasset: [Compiler] Variable LevelNum is marked as 'Expose on Spawn' but not marked as 'Instance Editable'; please make it 'Instance Editable'
+[2021.09.06-17.17.23:931][740]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Sudoku/Levels/SudokuLevelStruct.SudokuLevelStruct
+[2021.09.06-17.20.18:796][571]LogUObjectHash: Compacting FUObjectHashTables data took   6.33ms
+[2021.09.06-17.20.18:799][571]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.087
+[2021.09.06-17.20.18:800][571]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sudoku/Levels/UMG_SudokuLevelChoose] ([2] browsable assets)...
+[2021.09.06-17.20.18:800][571]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sudoku/Levels/UMG_SudokuLevelChoose]
+[2021.09.06-17.20.18:814][571]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_SudokuLevelChoose_Auto193B9F5C84B7791B414BC359575180E14.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/Autosaves/Game/Sudoku/Levels/UMG_SudokuLevelChoose_Auto1.uasset'
+[2021.09.06-17.20.18:815][571]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sudoku/Levels/UMG_SudokuLevelButton] ([2] browsable assets)...
+[2021.09.06-17.20.18:815][571]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sudoku/Levels/UMG_SudokuLevelButton]
+[2021.09.06-17.20.18:834][571]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_SudokuLevelButton_Auto1E7DEA968440F353F88251C837977AF69.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/Autosaves/Game/Sudoku/Levels/UMG_SudokuLevelButton_Auto1.uasset'
+[2021.09.06-17.20.18:835][571]LogFileHelpers: Auto-saving content packages took 0.036
+[2021.09.06-17.20.34:439][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sudoku/Levels/UMG_SudokuLevelChoose" FILE="../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Sudoku/Levels/UMG_SudokuLevelChoose.uasset" SILENT=true
+[2021.09.06-17.20.34:453][ 99]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_SudokuLevelChoose567F1355414E6779CCE942ACE6C5646F.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Sudoku/Levels/UMG_SudokuLevelChoose.uasset'
+[2021.09.06-17.20.34:468][ 99]AssetCheck: New page: Asset Save: UMG_SudokuLevelChoose
+[2021.09.06-17.20.34:468][ 99]LogContentValidation: Display: Validating WidgetBlueprint /Game/Sudoku/Levels/UMG_SudokuLevelChoose.UMG_SudokuLevelChoose
+[2021.09.06-17.20.35:381][132]BlueprintLog: New page: Compile UMG_SudokuLevelChoose
+[2021.09.06-17.20.35:462][132]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2021.09.06-17.20.36:121][156]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sudoku/Levels/UMG_SudokuLevelChoose" FILE="../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Sudoku/Levels/UMG_SudokuLevelChoose.uasset" SILENT=true
+[2021.09.06-17.20.36:138][156]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_SudokuLevelChoose0D5DB8D64036E6F2DE0333BDB0DA2A31.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Sudoku/Levels/UMG_SudokuLevelChoose.uasset'
+[2021.09.06-17.20.36:153][156]AssetCheck: New page: Asset Save: UMG_SudokuLevelChoose
+[2021.09.06-17.20.36:153][156]LogContentValidation: Display: Validating WidgetBlueprint /Game/Sudoku/Levels/UMG_SudokuLevelChoose.UMG_SudokuLevelChoose
+[2021.09.06-17.20.40:118][297]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2021.09.06-17.20.40:118][297]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.06-17.20.40:128][297]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2021.09.06-17.20.40:128][297]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.06-17.20.41:230][337]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2021.09.06-17.20.41:230][337]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.06-17.20.41:241][337]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2021.09.06-17.20.41:241][337]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.06-17.20.51:521][670]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Sudoku/Game/UMG_SudokuGameWidget.UMG_SudokuGameWidget
+[2021.09.06-17.21.41:619][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sudoku/Game/UMG_SudokuGameWidget" FILE="../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Sudoku/Game/UMG_SudokuGameWidget.uasset" SILENT=true
+[2021.09.06-17.21.41:650][633]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_SudokuGameWidgetB35BE44D414F323BF2EC628E1349A6FB.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Sudoku/Game/UMG_SudokuGameWidget.uasset'
+[2021.09.06-17.21.41:669][633]AssetCheck: New page: Asset Save: UMG_SudokuGameWidget
+[2021.09.06-17.21.41:669][633]LogContentValidation: Display: Validating WidgetBlueprint /Game/Sudoku/Game/UMG_SudokuGameWidget.UMG_SudokuGameWidget
+[2021.09.06-17.22.09:463][100]LogEditorTransaction: Undo Add Node
+[2021.09.06-17.22.46:574][122]BlueprintLog: New page: Compile UMG_SudokuLevelButton
+[2021.09.06-17.22.46:651][122]LogUObjectHash: Compacting FUObjectHashTables data took   7.03ms
+[2021.09.06-17.22.47:033][138]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sudoku/Levels/UMG_SudokuLevelButton" FILE="../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Sudoku/Levels/UMG_SudokuLevelButton.uasset" SILENT=true
+[2021.09.06-17.22.47:056][138]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_SudokuLevelButtonB0DE70FC420EB1A231955D907537D8A4.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Sudoku/Levels/UMG_SudokuLevelButton.uasset'
+[2021.09.06-17.22.47:071][138]AssetCheck: New page: Asset Save: UMG_SudokuLevelButton
+[2021.09.06-17.22.47:072][138]LogContentValidation: Display: Validating WidgetBlueprint /Game/Sudoku/Levels/UMG_SudokuLevelButton.UMG_SudokuLevelButton
+[2021.09.06-17.22.54:616][432]BlueprintLog: New page: Compile UMG_SudokuLevelButton
+[2021.09.06-17.22.54:697][432]LogUObjectHash: Compacting FUObjectHashTables data took   6.02ms
+[2021.09.06-17.22.55:165][451]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sudoku/Levels/UMG_SudokuLevelButton" FILE="../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Sudoku/Levels/UMG_SudokuLevelButton.uasset" SILENT=true
+[2021.09.06-17.22.55:187][451]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_SudokuLevelButton5BFBCE7D4010F7234D01AEA63A197265.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Sudoku/Levels/UMG_SudokuLevelButton.uasset'
+[2021.09.06-17.22.55:202][451]AssetCheck: New page: Asset Save: UMG_SudokuLevelButton
+[2021.09.06-17.22.55:202][451]LogContentValidation: Display: Validating WidgetBlueprint /Game/Sudoku/Levels/UMG_SudokuLevelButton.UMG_SudokuLevelButton
+[2021.09.06-17.23.16:564][ 46]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Sudoku/UMG_Sudoku.UMG_Sudoku
+[2021.09.06-17.24.06:762][356]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sudoku/UMG_Sudoku" FILE="../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Sudoku/UMG_Sudoku.uasset" SILENT=true
+[2021.09.06-17.24.06:766][356]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_SudokuC6F15A8B436FB3F66FC01996AD969602.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Sudoku/UMG_Sudoku.uasset'
+[2021.09.06-17.24.06:782][356]AssetCheck: New page: Asset Save: UMG_Sudoku
+[2021.09.06-17.24.06:782][356]LogContentValidation: Display: Validating WidgetBlueprint /Game/Sudoku/UMG_Sudoku.UMG_Sudoku
+[2021.09.06-17.24.07:211][376]BlueprintLog: New page: Compile UMG_Sudoku
+[2021.09.06-17.24.07:298][376]LogUObjectHash: Compacting FUObjectHashTables data took   6.07ms
+[2021.09.06-17.24.07:880][398]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sudoku/UMG_Sudoku" FILE="../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Sudoku/UMG_Sudoku.uasset" SILENT=true
+[2021.09.06-17.24.07:884][398]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_Sudoku9594F5384EBAD52B3013FE883AFD37CE.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Sudoku/UMG_Sudoku.uasset'
+[2021.09.06-17.24.07:898][398]AssetCheck: New page: Asset Save: UMG_Sudoku
+[2021.09.06-17.24.07:898][398]LogContentValidation: Display: Validating WidgetBlueprint /Game/Sudoku/UMG_Sudoku.UMG_Sudoku
+[2021.09.06-17.24.59:160][142]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sudoku/UMG_Sudoku" FILE="../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Sudoku/UMG_Sudoku.uasset" SILENT=true
+[2021.09.06-17.24.59:164][142]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_Sudoku4A78500D4CD1262D666EDF9B929D9A38.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Sudoku/UMG_Sudoku.uasset'
+[2021.09.06-17.24.59:182][142]AssetCheck: New page: Asset Save: UMG_Sudoku
+[2021.09.06-17.24.59:183][142]LogContentValidation: Display: Validating WidgetBlueprint /Game/Sudoku/UMG_Sudoku.UMG_Sudoku
+[2021.09.06-17.29.40:897][841]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Kakuro/UMG_Kakuro.UMG_Kakuro
+[2021.09.06-17.29.54:750][293]LogWorld: UWorld::CleanupWorld for World_63, bSessionEnded=true, bCleanupResources=true
+[2021.09.06-17.29.54:750][293]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.06-17.29.54:765][293]LogWorld: UWorld::CleanupWorld for World_62, bSessionEnded=true, bCleanupResources=true
+[2021.09.06-17.29.54:765][293]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.06-17.32.06:441][741]BlueprintLog: New page: Compile UMG_Sudoku
+[2021.09.06-17.32.06:445][741]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal Projects\JapanPuzzles\Content\Sudoku\UMG_Sudoku.uasset: [Compiler] Could not find the function 'InitGame' called from  Init Game
+[2021.09.06-17.32.06:445][741]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal Projects\JapanPuzzles\Content\Sudoku\UMG_Sudoku.uasset: [Compiler] Could not find the function 'InitGame' called from  Init Game
+[2021.09.06-17.32.06:585][741]LogUObjectHash: Compacting FUObjectHashTables data took   7.36ms
+[2021.09.06-17.32.07:557][771]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sudoku/UMG_Sudoku" FILE="../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Sudoku/UMG_Sudoku.uasset" SILENT=true
+[2021.09.06-17.32.07:592][771]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_SudokuA2DAF9D841D4EC6B4789BD82F91D99B5.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Sudoku/UMG_Sudoku.uasset'
+[2021.09.06-17.32.07:608][771]AssetCheck: New page: Asset Save: UMG_Sudoku
+[2021.09.06-17.32.07:608][771]LogContentValidation: Display: Validating WidgetBlueprint /Game/Sudoku/UMG_Sudoku.UMG_Sudoku
+[2021.09.06-17.32.13:143][977]BlueprintLog: New page: Compile UMG_SudokuGameWidget
+[2021.09.06-17.32.13:267][977]LogUObjectHash: Compacting FUObjectHashTables data took   6.43ms
+[2021.09.06-17.32.14:848][ 34]BlueprintLog: New page: Compile UMG_Sudoku
+[2021.09.06-17.32.14:919][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   6.59ms
