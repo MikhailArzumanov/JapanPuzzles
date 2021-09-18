@@ -2077,3 +2077,29 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.18-08.42.33:363][116]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_HitoriChooseLevel3ADF99414054A63DFB6AF49FB0A3A374.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Hitori/Level/UMG_HitoriChooseLevel.uasset'
 [2021.09.18-08.42.33:383][116]AssetCheck: New page: Asset Save: UMG_HitoriChooseLevel
 [2021.09.18-08.42.33:383][116]LogContentValidation: Display: Validating WidgetBlueprint /Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel
+[2021.09.18-08.44.36:013][ 11]BlueprintLog: New page: Collapse to Function
+[2021.09.18-08.44.56:028][983]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Hitori/Level/UMG_HitoriLevelButton.UMG_HitoriLevelButton
+[2021.09.18-08.45.02:535][264]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.09.18-08.45.02:535][264]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.18-08.45.02:546][264]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.09.18-08.45.02:546][264]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.18-08.45.07:027][402]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hitori/Level/UMG_HitoriChooseLevel" FILE="../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Hitori/Level/UMG_HitoriChooseLevel.uasset" SILENT=true
+[2021.09.18-08.45.07:106][402]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_HitoriChooseLevelB18545B040F07615BA8FD99DCFA6059C.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Hitori/Level/UMG_HitoriChooseLevel.uasset'
+[2021.09.18-08.45.07:122][402]AssetCheck: New page: Asset Save: UMG_HitoriChooseLevel
+[2021.09.18-08.45.07:122][402]LogContentValidation: Display: Validating WidgetBlueprint /Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel
+[2021.09.18-08.45.07:674][428]BlueprintLog: New page: Compile UMG_HitoriChooseLevel
+[2021.09.18-08.45.07:785][428]LogUObjectHash: Compacting FUObjectHashTables data took   5.93ms
+[2021.09.18-08.45.38:675][451]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hitori/Level/UMG_HitoriChooseLevel" FILE="../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Hitori/Level/UMG_HitoriChooseLevel.uasset" SILENT=true
+[2021.09.18-08.45.38:753][451]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_HitoriChooseLevel3A3F6FBA4D2FB40FFA9C7AB8FE2B82E3.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Hitori/Level/UMG_HitoriChooseLevel.uasset'
+[2021.09.18-08.45.38:769][451]AssetCheck: New page: Asset Save: UMG_HitoriChooseLevel
+[2021.09.18-08.45.38:769][451]LogContentValidation: Display: Validating WidgetBlueprint /Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel
+[2021.09.18-08.46.46:472][523]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Engine/EditorBlueprintResources/StandardMacros.StandardMacros
+[2021.09.18-08.46.56:747][ 72]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.09.18-08.46.56:748][ 72]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.18-08.47.58:523][223]BlueprintLog: New page: Collapse to Function
+[2021.09.18-08.48.47:273][906]BlueprintLog: New page: Compile UMG_HitoriChooseLevel
+[2021.09.18-08.48.47:383][906]LogUObjectHash: Compacting FUObjectHashTables data took   6.79ms
+[2021.09.18-08.48.48:033][938]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hitori/Level/UMG_HitoriChooseLevel" FILE="../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Hitori/Level/UMG_HitoriChooseLevel.uasset" SILENT=true
+[2021.09.18-08.48.48:113][938]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_HitoriChooseLevel2D1CB9C24BE8177423CA3084AC80E173.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Hitori/Level/UMG_HitoriChooseLevel.uasset'
+[2021.09.18-08.48.48:127][938]AssetCheck: New page: Asset Save: UMG_HitoriChooseLevel
+[2021.09.18-08.48.48:127][938]LogContentValidation: Display: Validating WidgetBlueprint /Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel
