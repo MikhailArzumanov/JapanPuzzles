@@ -3540,3 +3540,141 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.18-16.09.55:865][362]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2021.09.18-16.09.55:874][362]LogUObjectHash: Compacting FUObjectHashTables data took   7.55ms
 [2021.09.18-16.09.55:907][363]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2021.09.18-16.10.52:349][685]BlueprintLog: New page: Compile UMG_MainMenu
+[2021.09.18-16.10.52:410][685]LogUObjectHash: Compacting FUObjectHashTables data took   7.50ms
+[2021.09.18-16.10.53:037][715]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG_MainMenu" FILE="../../../../../Projects/Unreal Projects/JapanPuzzles/Content/UMG_MainMenu.uasset" SILENT=true
+[2021.09.18-16.10.53:069][715]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_MainMenu2A7BAA4D4761FB229989B7BD5D0C408B.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/UMG_MainMenu.uasset'
+[2021.09.18-16.10.53:085][715]AssetCheck: New page: Asset Save: UMG_MainMenu
+[2021.09.18-16.10.53:085][715]LogContentValidation: Display: Validating WidgetBlueprint /Game/UMG_MainMenu.UMG_MainMenu
+[2021.09.18-16.10.53:956][759]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.18-16.10.53:965][759]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.18-16.10.53:965][759]PIE: New page: PIE session: SudokuLevel (18 сент. 2021 г., 22:10:53)
+[2021.09.18-16.10.53:965][759]LogPlayLevel: Creating play world package: /Game/Sudoku/UEDPIE_0_SudokuLevel
+[2021.09.18-16.10.53:967][759]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001799s)
+[2021.09.18-16.10.53:968][759]LogAIModule: Creating AISystem for world SudokuLevel
+[2021.09.18-16.10.53:968][759]LogPlayLevel: PIE: World Init took: (0.001657s)
+[2021.09.18-16.10.53:969][759]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Sudoku/SudokuLevel.SudokuLevel to /Game/Sudoku/UEDPIE_0_SudokuLevel.SudokuLevel (0.003625s)
+[2021.09.18-16.10.54:014][759]LogUObjectHash: Compacting FUObjectHashTables data took   7.54ms
+[2021.09.18-16.10.54:015][759]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2021.09.18-16.10.54:015][759]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.18-16.10.54:015][759]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.18-16.10.54:015][759]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.18-16.10.54:015][759]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.18-16.10.54:015][759]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.18-16.10.54:015][759]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.18-16.10.54:015][759]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.18-16.10.54:015][759]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.18-16.10.54:016][759]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.18-16.10.54:016][759]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.18-16.10.54:017][759]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.18-16.10.54:017][759]LogAudioMixer: Display: 1: FrontRight
+[2021.09.18-16.10.54:028][759]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2021.09.18-16.10.54:029][759]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.18-16.10.54:029][759]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.18-16.10.54:029][759]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.18-16.10.54:029][759]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.18-16.10.54:029][759]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.18-16.10.54:029][759]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.18-16.10.54:051][759]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.18-16.10.54:051][759]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.18-16.10.54:051][759]LogInit: FAudioDevice initialized.
+[2021.09.18-16.10.54:052][759]LogAudio: Display: Audio Device (ID: 30) registered with world 'SudokuLevel'.
+[2021.09.18-16.10.54:066][759]LogLoad: Game class is 'GameModeBase'
+[2021.09.18-16.10.54:067][759]LogWorld: Bringing World /Game/Sudoku/UEDPIE_0_SudokuLevel.SudokuLevel up for play (max tick rate 0) at 2021.09.18-19.10.54
+[2021.09.18-16.10.54:067][759]LogWorld: Bringing up level for play took: 0.000419
+[2021.09.18-16.10.54:068][759]LogOnline: OSS: Creating online subsystem instance for: :Context_64
+[2021.09.18-16.10.54:223][759]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.18-16.10.54:223][759]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.09.18-16.10.54:223][759]PIE: Server logged in
+[2021.09.18-16.10.54:224][759]PIE: Play in editor total start time 0,26 seconds.
+[2021.09.18-16.10.56:253][833]LogNet: Browse: /Game/MainMenuLevel
+[2021.09.18-16.10.56:254][833]LogLoad: LoadMap: /Game/MainMenuLevel
+[2021.09.18-16.10.56:254][833]LogWorld: BeginTearingDown for /Game/Sudoku/UEDPIE_0_SudokuLevel
+[2021.09.18-16.10.56:264][833]LogWorld: UWorld::CleanupWorld for SudokuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.09.18-16.10.56:265][833]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.18-16.10.56:304][833]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.18-16.10.56:319][833]LogUObjectHash: Compacting FUObjectHashTables data took   6.10ms
+[2021.09.18-16.10.56:335][833]LogAudio: Display: Audio Device (ID: 30) registered with world 'MainMenuLevel'.
+[2021.09.18-16.10.56:336][833]LogAIModule: Creating AISystem for world MainMenuLevel
+[2021.09.18-16.10.56:337][833]LogLoad: Game class is 'GameModeBase'
+[2021.09.18-16.10.56:338][833]LogWorld: Bringing World /Game/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2021.09.18-19.10.56
+[2021.09.18-16.10.56:338][833]LogWorld: Bringing up level for play took: 0.000590
+[2021.09.18-16.10.56:339][833]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.09.18-16.10.56:341][833]LogLoad: Took 0.087620 seconds to LoadMap(/Game/MainMenuLevel)
+[2021.09.18-16.10.58:995][968]LogSlate: Window 'UMG_MainMenu' being destroyed
+[2021.09.18-16.10.59:009][968]LogSlate: Window 'UMG_MainMenu' being destroyed
+[2021.09.18-16.10.59:014][968]LogWorld: UWorld::CleanupWorld for World_64, bSessionEnded=true, bCleanupResources=true
+[2021.09.18-16.10.59:014][968]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.18-16.10.59:024][968]LogWorld: UWorld::CleanupWorld for World_63, bSessionEnded=true, bCleanupResources=true
+[2021.09.18-16.10.59:024][968]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.18-16.11.01:390][111]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.18-16.11.01:390][111]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMenuLevel
+[2021.09.18-16.11.01:390][111]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.09.18-16.11.01:390][111]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.18-16.11.01:399][111]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.18-16.11.01:408][111]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.18-16.11.01:442][111]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.18-16.11.01:442][111]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.18-16.11.01:443][111]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.18-16.11.01:467][111]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.18-16.11.01:477][111]LogUObjectHash: Compacting FUObjectHashTables data took   6.19ms
+[2021.09.18-16.11.01:500][112]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2021.09.18-16.42.45:355][600]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2021.09.18-16.42.45:380][600]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2021.09.18-16.42.46:927][686]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.09.18-16.42.46:928][686]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.09.18-16.42.59:389][384]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.09.18-16.42.59:389][384]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.09.18-16.43.03:850][692]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> UMG_Slitherlink
+[2021.09.18-16.43.03:875][692]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2021.09.18-16.43.05:002][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Slitherlink/UMG_Slitherlink" FILE="../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Slitherlink/UMG_Slitherlink.uasset" SILENT=true
+[2021.09.18-16.43.05:013][751]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_Slitherlink61B95E174E4F6DA215CC229B08BF6CDC.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Slitherlink/UMG_Slitherlink.uasset'
+[2021.09.18-16.43.05:054][751]AssetCheck: New page: Asset Save: UMG_Slitherlink
+[2021.09.18-16.43.05:054][751]LogContentValidation: Display: Validating WidgetBlueprint /Game/Slitherlink/UMG_Slitherlink.UMG_Slitherlink
+[2021.09.18-16.43.05:782][790]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Slitherlink/UMG_Slitherlink.UMG_Slitherlink
+[2021.09.18-16.43.09:177][901]LogSlate: Window 'UMG_Slitherlink' being destroyed
+[2021.09.18-16.43.09:188][901]LogSlate: Window 'UMG_Slitherlink' being destroyed
+[2021.09.18-16.43.09:192][901]LogWorld: UWorld::CleanupWorld for World_70, bSessionEnded=true, bCleanupResources=true
+[2021.09.18-16.43.09:192][901]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.18-16.43.09:202][901]LogWorld: UWorld::CleanupWorld for World_69, bSessionEnded=true, bCleanupResources=true
+[2021.09.18-16.43.09:202][901]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.18-16.43.12:074][181]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2021.09.18-16.43.12:091][181]LogContentBrowser: Creating deferred item: NewWorld
+[2021.09.18-16.43.16:369][417]LogContentBrowser: Attempting asset rename: NewWorld -> SlitherlinkLevel
+[2021.09.18-16.43.16:416][417]LogContentBrowser: End creating deferred item NewWorld
+[2021.09.18-16.43.17:423][467]LogUObjectHash: Compacting FUObjectHashTables data took   7.09ms
+[2021.09.18-16.43.17:430][467]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/SlitherlinkLevelC0D31AB142F7DC69EE21FD9722DBBAB5.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Slitherlink/SlitherlinkLevel.umap'
+[2021.09.18-16.43.17:432][467]LogFileHelpers: Saving map 'SlitherlinkLevel' took 0.085
+[2021.09.18-16.43.17:446][467]AssetCheck: New page: Asset Save: SlitherlinkLevel
+[2021.09.18-16.43.17:446][467]LogContentValidation: Display: Validating World /Game/Slitherlink/SlitherlinkLevel.SlitherlinkLevel
+[2021.09.18-16.43.24:843][955]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.09.18-16.43.24:891][955]LogContentBrowser: Creating deferred item: NewFolder
+[2021.09.18-16.43.27:708][111]LogContentBrowser: Attempting asset rename: NewFolder -> Level
+[2021.09.18-16.43.27:708][111]LogContentBrowser: End creating deferred item NewFolder
+[2021.09.18-16.43.39:658][938]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.09.18-16.43.39:693][938]LogContentBrowser: Creating deferred item: NewFolder
+[2021.09.18-16.44.23:122][336]LogContentBrowser: Attempting asset rename: NewFolder -> Game
+[2021.09.18-16.44.23:123][336]LogContentBrowser: End creating deferred item NewFolder
+[2021.09.18-16.44.26:074][586]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2021.09.18-16.44.26:089][586]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2021.09.18-16.44.32:633][978]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> UMG_SlitherlinkGame
+[2021.09.18-16.44.32:639][978]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2021.09.18-16.44.33:676][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Slitherlink/Game/UMG_SlitherlinkGame" FILE="../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Slitherlink/Game/UMG_SlitherlinkGame.uasset" SILENT=true
+[2021.09.18-16.44.33:681][ 32]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_SlitherlinkGame63247D1442AB21DCEA23919EC97A9474.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Slitherlink/Game/UMG_SlitherlinkGame.uasset'
+[2021.09.18-16.44.33:697][ 32]AssetCheck: New page: Asset Save: UMG_SlitherlinkGame
+[2021.09.18-16.44.33:698][ 32]LogContentValidation: Display: Validating WidgetBlueprint /Game/Slitherlink/Game/UMG_SlitherlinkGame.UMG_SlitherlinkGame
+[2021.09.18-16.44.37:135][397]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.09.18-16.44.37:153][397]LogContentBrowser: Creating deferred item: NewFolder
+[2021.09.18-16.44.38:534][473]LogContentBrowser: Attempting asset rename: NewFolder -> Tile
+[2021.09.18-16.44.38:534][473]LogContentBrowser: End creating deferred item NewFolder
+[2021.09.18-16.44.41:239][678]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.09.18-16.44.41:269][678]LogContentBrowser: Creating deferred item: NewFolder
+[2021.09.18-16.44.56:442][615]LogContentBrowser: Attempting asset rename: NewFolder -> Walls
+[2021.09.18-16.44.56:443][615]LogContentBrowser: End creating deferred item NewFolder
+[2021.09.18-16.45.11:800][610]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2021.09.18-16.45.11:816][610]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2021.09.18-16.45.23:532][254]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> UMG_SlitherlinkLevelChoose
+[2021.09.18-16.45.23:538][254]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2021.09.18-16.45.25:362][351]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_SlitherlinkLevelChoose7A8F3499425F0E5AE4B9EF8C7DB77B34.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Slitherlink/Level/UMG_SlitherlinkLevelChoose.uasset'
+[2021.09.18-16.45.25:394][351]AssetCheck: New page: Asset Save: UMG_SlitherlinkLevelChoose
+[2021.09.18-16.45.25:394][351]LogContentValidation: Display: Validating WidgetBlueprint /Game/Slitherlink/Level/UMG_SlitherlinkLevelChoose.UMG_SlitherlinkLevelChoose
