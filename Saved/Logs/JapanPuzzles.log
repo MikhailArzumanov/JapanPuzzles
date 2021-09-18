@@ -3188,3 +3188,355 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.18-14.56.57:149][108]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_SudokuGameWidgetBE50A32D4EE0DBEC2682878A9D3484D7.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Sudoku/Game/UMG_SudokuGameWidget.uasset'
 [2021.09.18-14.56.57:170][108]AssetCheck: New page: Asset Save: UMG_SudokuGameWidget
 [2021.09.18-14.56.57:170][108]LogContentValidation: Display: Validating WidgetBlueprint /Game/Sudoku/Game/UMG_SudokuGameWidget.UMG_SudokuGameWidget
+[2021.09.18-14.58.14:166][817]LogSlate: Window 'SudokuLineClass' being destroyed
+[2021.09.18-14.58.14:171][817]LogSlate: Window 'SudokuLineClass' being destroyed
+[2021.09.18-14.58.14:176][817]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2021.09.18-14.58.14:176][817]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.18-14.58.14:193][817]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2021.09.18-14.58.14:193][817]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.18-14.58.14:267][817]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2021.09.18-14.58.14:268][817]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.18-14.58.14:277][817]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2021.09.18-14.58.14:277][817]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.18-14.58.14:344][817]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2021.09.18-14.58.14:345][817]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.18-16.04.46:819][884]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.09.18-16.04.46:819][884]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.09.18-16.04.49:071][996]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.18-16.04.49:080][996]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.18-16.04.49:080][996]PIE: New page: PIE session: SudokuLevel (18 сент. 2021 г., 22:04:49)
+[2021.09.18-16.04.49:080][996]LogPlayLevel: Creating play world package: /Game/Sudoku/UEDPIE_0_SudokuLevel
+[2021.09.18-16.04.49:082][996]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002349s)
+[2021.09.18-16.04.49:084][996]LogAIModule: Creating AISystem for world SudokuLevel
+[2021.09.18-16.04.49:084][996]LogPlayLevel: PIE: World Init took: (0.001988s)
+[2021.09.18-16.04.49:084][996]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Sudoku/SudokuLevel.SudokuLevel to /Game/Sudoku/UEDPIE_0_SudokuLevel.SudokuLevel (0.004534s)
+[2021.09.18-16.04.49:147][996]LogUObjectHash: Compacting FUObjectHashTables data took   8.62ms
+[2021.09.18-16.04.49:151][996]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2021.09.18-16.04.49:152][996]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.18-16.04.49:152][996]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.18-16.04.49:152][996]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.18-16.04.49:152][996]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.18-16.04.49:152][996]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.18-16.04.49:152][996]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.18-16.04.49:152][996]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.18-16.04.49:152][996]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.18-16.04.49:152][996]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.18-16.04.49:152][996]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.18-16.04.49:154][996]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.18-16.04.49:154][996]LogAudioMixer: Display: 1: FrontRight
+[2021.09.18-16.04.49:164][996]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2021.09.18-16.04.49:165][996]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.18-16.04.49:165][996]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.18-16.04.49:165][996]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.18-16.04.49:166][996]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.18-16.04.49:166][996]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.18-16.04.49:166][996]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.18-16.04.49:188][996]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.18-16.04.49:188][996]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.18-16.04.49:188][996]LogInit: FAudioDevice initialized.
+[2021.09.18-16.04.49:188][996]LogAudio: Display: Audio Device (ID: 27) registered with world 'SudokuLevel'.
+[2021.09.18-16.04.49:199][996]LogLoad: Game class is 'GameModeBase'
+[2021.09.18-16.04.49:201][996]LogWorld: Bringing World /Game/Sudoku/UEDPIE_0_SudokuLevel.SudokuLevel up for play (max tick rate 0) at 2021.09.18-19.04.49
+[2021.09.18-16.04.49:201][996]LogWorld: Bringing up level for play took: 0.000625
+[2021.09.18-16.04.49:201][996]LogOnline: OSS: Creating online subsystem instance for: :Context_55
+[2021.09.18-16.04.49:354][996]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.18-16.04.49:354][996]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.09.18-16.04.49:355][996]PIE: Server logged in
+[2021.09.18-16.04.49:356][996]PIE: Play in editor total start time 0,277 seconds.
+[2021.09.18-16.05.19:742][809]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.18-16.05.19:742][809]LogWorld: BeginTearingDown for /Game/Sudoku/UEDPIE_0_SudokuLevel
+[2021.09.18-16.05.19:742][809]LogWorld: UWorld::CleanupWorld for SudokuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.09.18-16.05.19:742][809]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.18-16.05.19:752][809]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.18-16.05.19:765][809]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.18-16.05.19:804][809]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.18-16.05.19:804][809]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.18-16.05.19:806][809]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.18-16.05.19:830][809]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.18-16.05.19:846][809]LogUObjectHash: Compacting FUObjectHashTables data took   6.85ms
+[2021.09.18-16.05.19:868][810]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2021.09.18-16.05.24:893][ 97]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Sudoku/UMG_Sudoku.UMG_Sudoku
+[2021.09.18-16.05.50:321][157]LogSlate: Window 'Message Log' being destroyed
+[2021.09.18-16.05.50:334][157]LogSlate: Window 'Message Log' being destroyed
+[2021.09.18-16.05.55:439][496]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.09.18-16.05.55:439][496]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.09.18-16.06.05:337][100]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sudoku/UMG_Sudoku" FILE="../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Sudoku/UMG_Sudoku.uasset" SILENT=true
+[2021.09.18-16.06.05:414][100]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_SudokuCDA2F86546BADFFE0854ECB8020C0E25.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Sudoku/UMG_Sudoku.uasset'
+[2021.09.18-16.06.05:454][100]AssetCheck: New page: Asset Save: UMG_Sudoku
+[2021.09.18-16.06.05:454][100]LogContentValidation: Display: Validating WidgetBlueprint /Game/Sudoku/UMG_Sudoku.UMG_Sudoku
+[2021.09.18-16.06.35:777][833]BlueprintLog: New page: Compile UMG_Sudoku
+[2021.09.18-16.06.35:887][833]LogUObjectHash: Compacting FUObjectHashTables data took   8.17ms
+[2021.09.18-16.06.38:684][ 13]BlueprintLog: New page: Compile UMG_Sudoku
+[2021.09.18-16.06.38:753][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   8.08ms
+[2021.09.18-16.06.42:432][253]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sudoku/UMG_Sudoku" FILE="../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Sudoku/UMG_Sudoku.uasset" SILENT=true
+[2021.09.18-16.06.42:456][253]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_Sudoku1A1EC3C9481BB219355347AEDB9E299E.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Sudoku/UMG_Sudoku.uasset'
+[2021.09.18-16.06.42:474][253]AssetCheck: New page: Asset Save: UMG_Sudoku
+[2021.09.18-16.06.42:474][253]LogContentValidation: Display: Validating WidgetBlueprint /Game/Sudoku/UMG_Sudoku.UMG_Sudoku
+[2021.09.18-16.07.00:550][276]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Sudoku/Levels/UMG_SudokuLevelChoose.UMG_SudokuLevelChoose
+[2021.09.18-16.07.39:961][445]BlueprintLog: New page: Compile UMG_SudokuLevelChoose
+[2021.09.18-16.07.40:115][445]LogUObjectHash: Compacting FUObjectHashTables data took   8.76ms
+[2021.09.18-16.07.40:379][458]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sudoku/Levels/UMG_SudokuLevelChoose" FILE="../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Sudoku/Levels/UMG_SudokuLevelChoose.uasset" SILENT=true
+[2021.09.18-16.07.40:455][458]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_SudokuLevelChooseF146F54349D0F781C6274BA0AB538CE7.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Sudoku/Levels/UMG_SudokuLevelChoose.uasset'
+[2021.09.18-16.07.40:474][458]AssetCheck: New page: Asset Save: UMG_SudokuLevelChoose
+[2021.09.18-16.07.40:474][458]LogContentValidation: Display: Validating WidgetBlueprint /Game/Sudoku/Levels/UMG_SudokuLevelChoose.UMG_SudokuLevelChoose
+[2021.09.18-16.07.41:491][507]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.18-16.07.41:500][507]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.18-16.07.41:500][507]PIE: New page: PIE session: SudokuLevel (18 сент. 2021 г., 22:07:41)
+[2021.09.18-16.07.41:500][507]LogPlayLevel: Creating play world package: /Game/Sudoku/UEDPIE_0_SudokuLevel
+[2021.09.18-16.07.41:502][507]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001796s)
+[2021.09.18-16.07.41:504][507]LogAIModule: Creating AISystem for world SudokuLevel
+[2021.09.18-16.07.41:504][507]LogPlayLevel: PIE: World Init took: (0.001678s)
+[2021.09.18-16.07.41:504][507]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Sudoku/SudokuLevel.SudokuLevel to /Game/Sudoku/UEDPIE_0_SudokuLevel.SudokuLevel (0.003637s)
+[2021.09.18-16.07.41:554][507]LogUObjectHash: Compacting FUObjectHashTables data took   8.02ms
+[2021.09.18-16.07.41:555][507]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2021.09.18-16.07.41:555][507]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.18-16.07.41:555][507]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.18-16.07.41:555][507]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.18-16.07.41:555][507]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.18-16.07.41:555][507]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.18-16.07.41:555][507]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.18-16.07.41:555][507]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.18-16.07.41:555][507]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.18-16.07.41:556][507]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.18-16.07.41:556][507]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.18-16.07.41:557][507]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.18-16.07.41:557][507]LogAudioMixer: Display: 1: FrontRight
+[2021.09.18-16.07.41:569][507]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2021.09.18-16.07.41:569][507]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.18-16.07.41:569][507]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.18-16.07.41:569][507]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.18-16.07.41:570][507]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.18-16.07.41:570][507]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.18-16.07.41:570][507]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.18-16.07.41:594][507]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.18-16.07.41:594][507]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.18-16.07.41:594][507]LogInit: FAudioDevice initialized.
+[2021.09.18-16.07.41:594][507]LogAudio: Display: Audio Device (ID: 28) registered with world 'SudokuLevel'.
+[2021.09.18-16.07.41:606][507]LogLoad: Game class is 'GameModeBase'
+[2021.09.18-16.07.41:607][507]LogWorld: Bringing World /Game/Sudoku/UEDPIE_0_SudokuLevel.SudokuLevel up for play (max tick rate 0) at 2021.09.18-19.07.41
+[2021.09.18-16.07.41:607][507]LogWorld: Bringing up level for play took: 0.000476
+[2021.09.18-16.07.41:608][507]LogOnline: OSS: Creating online subsystem instance for: :Context_60
+[2021.09.18-16.07.41:759][507]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.18-16.07.41:760][507]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.09.18-16.07.41:760][507]PIE: Server logged in
+[2021.09.18-16.07.41:761][507]PIE: Play in editor total start time 0,262 seconds.
+[2021.09.18-16.07.43:198][567]LogNet: Browse: /Game/MainMenuLevel
+[2021.09.18-16.07.43:198][567]LogLoad: LoadMap: /Game/MainMenuLevel
+[2021.09.18-16.07.43:198][567]LogWorld: BeginTearingDown for /Game/Sudoku/UEDPIE_0_SudokuLevel
+[2021.09.18-16.07.43:208][567]LogWorld: UWorld::CleanupWorld for SudokuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.09.18-16.07.43:209][567]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.18-16.07.43:252][567]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.18-16.07.43:266][567]LogUObjectHash: Compacting FUObjectHashTables data took   5.94ms
+[2021.09.18-16.07.43:281][567]LogAudio: Display: Audio Device (ID: 28) registered with world 'MainMenuLevel'.
+[2021.09.18-16.07.43:282][567]LogAIModule: Creating AISystem for world MainMenuLevel
+[2021.09.18-16.07.43:282][567]LogLoad: Game class is 'GameModeBase'
+[2021.09.18-16.07.43:284][567]LogWorld: Bringing World /Game/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2021.09.18-19.07.43
+[2021.09.18-16.07.43:284][567]LogWorld: Bringing up level for play took: 0.000567
+[2021.09.18-16.07.43:284][567]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.09.18-16.07.43:287][567]LogLoad: Took 0.088667 seconds to LoadMap(/Game/MainMenuLevel)
+[2021.09.18-16.07.47:181][766]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.18-16.07.47:181][766]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMenuLevel
+[2021.09.18-16.07.47:181][766]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.09.18-16.07.47:181][766]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.18-16.07.47:188][766]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.18-16.07.47:198][766]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.18-16.07.47:239][766]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.18-16.07.47:239][766]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.18-16.07.47:240][766]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.18-16.07.47:264][766]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.18-16.07.47:271][766]LogUObjectHash: Compacting FUObjectHashTables data took   6.02ms
+[2021.09.18-16.07.47:299][767]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2021.09.18-16.07.51:978][957]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UMG_MainMenu.UMG_MainMenu
+[2021.09.18-16.07.54:778][ 59]LogWorld: UWorld::CleanupWorld for World_61, bSessionEnded=true, bCleanupResources=true
+[2021.09.18-16.07.54:778][ 59]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.18-16.07.54:788][ 59]LogWorld: UWorld::CleanupWorld for World_60, bSessionEnded=true, bCleanupResources=true
+[2021.09.18-16.07.54:788][ 59]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.18-16.07.56:746][174]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
+[2021.09.18-16.07.56:746][174]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.18-16.07.56:756][174]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2021.09.18-16.07.56:756][174]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.18-16.09.10:783][294]BlueprintLog: New page: Compile UMG_MainMenu
+[2021.09.18-16.09.10:852][294]LogUObjectHash: Compacting FUObjectHashTables data took   8.44ms
+[2021.09.18-16.09.11:508][327]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG_MainMenu" FILE="../../../../../Projects/Unreal Projects/JapanPuzzles/Content/UMG_MainMenu.uasset" SILENT=true
+[2021.09.18-16.09.11:540][327]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_MainMenu204D52F5405F01751EF22990984BC44F.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/UMG_MainMenu.uasset'
+[2021.09.18-16.09.11:559][327]AssetCheck: New page: Asset Save: UMG_MainMenu
+[2021.09.18-16.09.11:559][327]LogContentValidation: Display: Validating WidgetBlueprint /Game/UMG_MainMenu.UMG_MainMenu
+[2021.09.18-16.09.24:423][867]BlueprintLog: New page: Compile UMG_MainMenu
+[2021.09.18-16.09.24:519][867]LogUObjectHash: Compacting FUObjectHashTables data took   8.06ms
+[2021.09.18-16.09.25:007][891]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG_MainMenu" FILE="../../../../../Projects/Unreal Projects/JapanPuzzles/Content/UMG_MainMenu.uasset" SILENT=true
+[2021.09.18-16.09.25:039][891]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_MainMenu6CF42399405579578519488EBA06AAA6.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/UMG_MainMenu.uasset'
+[2021.09.18-16.09.25:058][891]AssetCheck: New page: Asset Save: UMG_MainMenu
+[2021.09.18-16.09.25:058][891]LogContentValidation: Display: Validating WidgetBlueprint /Game/UMG_MainMenu.UMG_MainMenu
+[2021.09.18-16.09.25:726][927]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.18-16.09.25:736][927]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.18-16.09.25:736][927]PIE: New page: PIE session: SudokuLevel (18 сент. 2021 г., 22:09:25)
+[2021.09.18-16.09.25:736][927]LogPlayLevel: Creating play world package: /Game/Sudoku/UEDPIE_0_SudokuLevel
+[2021.09.18-16.09.25:738][927]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001910s)
+[2021.09.18-16.09.25:739][927]LogAIModule: Creating AISystem for world SudokuLevel
+[2021.09.18-16.09.25:740][927]LogPlayLevel: PIE: World Init took: (0.001894s)
+[2021.09.18-16.09.25:740][927]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Sudoku/SudokuLevel.SudokuLevel to /Game/Sudoku/UEDPIE_0_SudokuLevel.SudokuLevel (0.003968s)
+[2021.09.18-16.09.25:785][927]LogUObjectHash: Compacting FUObjectHashTables data took   7.43ms
+[2021.09.18-16.09.25:786][927]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2021.09.18-16.09.25:786][927]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.18-16.09.25:786][927]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.18-16.09.25:786][927]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.18-16.09.25:786][927]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.18-16.09.25:786][927]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.18-16.09.25:786][927]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.18-16.09.25:786][927]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.18-16.09.25:786][927]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.18-16.09.25:786][927]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.18-16.09.25:786][927]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.18-16.09.25:788][927]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.18-16.09.25:788][927]LogAudioMixer: Display: 1: FrontRight
+[2021.09.18-16.09.25:800][927]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2021.09.18-16.09.25:800][927]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.18-16.09.25:800][927]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.18-16.09.25:800][927]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.18-16.09.25:801][927]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.18-16.09.25:801][927]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.18-16.09.25:801][927]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.18-16.09.25:824][927]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.18-16.09.25:824][927]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.18-16.09.25:824][927]LogInit: FAudioDevice initialized.
+[2021.09.18-16.09.25:824][927]LogAudio: Display: Audio Device (ID: 29) registered with world 'SudokuLevel'.
+[2021.09.18-16.09.25:838][927]LogLoad: Game class is 'GameModeBase'
+[2021.09.18-16.09.25:839][927]LogWorld: Bringing World /Game/Sudoku/UEDPIE_0_SudokuLevel.SudokuLevel up for play (max tick rate 0) at 2021.09.18-19.09.25
+[2021.09.18-16.09.25:840][927]LogWorld: Bringing up level for play took: 0.000463
+[2021.09.18-16.09.25:840][927]LogOnline: OSS: Creating online subsystem instance for: :Context_63
+[2021.09.18-16.09.25:995][927]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.18-16.09.25:995][927]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.09.18-16.09.25:995][927]PIE: Server logged in
+[2021.09.18-16.09.25:996][927]PIE: Play in editor total start time 0,26 seconds.
+[2021.09.18-16.09.27:957][ 21]LogNet: Browse: /Game/MainMenuLevel
+[2021.09.18-16.09.27:957][ 21]LogLoad: LoadMap: /Game/MainMenuLevel
+[2021.09.18-16.09.27:957][ 21]LogWorld: BeginTearingDown for /Game/Sudoku/UEDPIE_0_SudokuLevel
+[2021.09.18-16.09.27:968][ 21]LogWorld: UWorld::CleanupWorld for SudokuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.09.18-16.09.27:968][ 21]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.18-16.09.28:007][ 21]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.18-16.09.28:023][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   6.01ms
+[2021.09.18-16.09.28:039][ 21]LogAudio: Display: Audio Device (ID: 29) registered with world 'MainMenuLevel'.
+[2021.09.18-16.09.28:040][ 21]LogAIModule: Creating AISystem for world MainMenuLevel
+[2021.09.18-16.09.28:041][ 21]LogLoad: Game class is 'GameModeBase'
+[2021.09.18-16.09.28:042][ 21]LogWorld: Bringing World /Game/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2021.09.18-19.09.28
+[2021.09.18-16.09.28:042][ 21]LogWorld: Bringing up level for play took: 0.000572
+[2021.09.18-16.09.28:043][ 21]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.09.18-16.09.28:045][ 21]LogLoad: Took 0.087741 seconds to LoadMap(/Game/MainMenuLevel)
+[2021.09.18-16.09.28:617][ 50]LogNet: Browse: /Game/Hitori/HitoriLevel
+[2021.09.18-16.09.28:617][ 50]LogLoad: LoadMap: /Game/Hitori/HitoriLevel
+[2021.09.18-16.09.28:617][ 50]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMenuLevel
+[2021.09.18-16.09.28:618][ 50]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.09.18-16.09.28:618][ 50]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.18-16.09.28:653][ 50]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.18-16.09.28:660][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   5.77ms
+[2021.09.18-16.09.28:681][ 50]LogAudio: Display: Audio Device (ID: 29) registered with world 'HitoriLevel'.
+[2021.09.18-16.09.28:682][ 50]LogAIModule: Creating AISystem for world HitoriLevel
+[2021.09.18-16.09.28:682][ 50]LogLoad: Game class is 'GameModeBase'
+[2021.09.18-16.09.28:684][ 50]LogWorld: Bringing World /Game/Hitori/UEDPIE_0_HitoriLevel.HitoriLevel up for play (max tick rate 0) at 2021.09.18-19.09.28
+[2021.09.18-16.09.28:684][ 50]LogWorld: Bringing up level for play took: 0.000570
+[2021.09.18-16.09.28:684][ 50]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.09.18-16.09.28:701][ 50]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Levels' of length 1 in '/Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel_C'!
+[2021.09.18-16.09.28:702][ 50]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Levels' of length 1 in '/Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel_C'!
+[2021.09.18-16.09.28:702][ 50]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Levels' of length 1 in '/Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel_C'!
+[2021.09.18-16.09.28:702][ 50]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'Levels' of length 1 in '/Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel_C'!
+[2021.09.18-16.09.28:702][ 50]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'Levels' of length 1 in '/Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel_C'!
+[2021.09.18-16.09.28:702][ 50]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'Levels' of length 1 in '/Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel_C'!
+[2021.09.18-16.09.28:702][ 50]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'Levels' of length 1 in '/Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel_C'!
+[2021.09.18-16.09.28:702][ 50]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'Levels' of length 1 in '/Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel_C'!
+[2021.09.18-16.09.28:702][ 50]LogScript: Warning: Script Msg: Attempted to access index 9 from array 'Levels' of length 1 in '/Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel_C'!
+[2021.09.18-16.09.28:702][ 50]LogScript: Warning: Script Msg: Attempted to access index 10 from array 'Levels' of length 1 in '/Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel_C'!
+[2021.09.18-16.09.28:702][ 50]LogScript: Warning: Script Msg: Attempted to access index 11 from array 'Levels' of length 1 in '/Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel_C'!
+[2021.09.18-16.09.28:703][ 50]LogLoad: Took 0.085714 seconds to LoadMap(/Game/Hitori/HitoriLevel)
+[2021.09.18-16.09.29:692][100]LogNet: Browse: /Game/MainMenuLevel
+[2021.09.18-16.09.29:692][100]LogLoad: LoadMap: /Game/MainMenuLevel
+[2021.09.18-16.09.29:692][100]LogWorld: BeginTearingDown for /Game/Hitori/UEDPIE_0_HitoriLevel
+[2021.09.18-16.09.29:694][100]LogWorld: UWorld::CleanupWorld for HitoriLevel, bSessionEnded=true, bCleanupResources=true
+[2021.09.18-16.09.29:694][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.18-16.09.29:730][100]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.18-16.09.29:737][100]LogUObjectHash: Compacting FUObjectHashTables data took   5.77ms
+[2021.09.18-16.09.29:752][100]LogAudio: Display: Audio Device (ID: 29) registered with world 'MainMenuLevel'.
+[2021.09.18-16.09.29:754][100]LogAIModule: Creating AISystem for world MainMenuLevel
+[2021.09.18-16.09.29:754][100]LogLoad: Game class is 'GameModeBase'
+[2021.09.18-16.09.29:755][100]LogWorld: Bringing World /Game/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2021.09.18-19.09.29
+[2021.09.18-16.09.29:756][100]LogWorld: Bringing up level for play took: 0.000564
+[2021.09.18-16.09.29:756][100]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.09.18-16.09.29:758][100]LogLoad: Took 0.065779 seconds to LoadMap(/Game/MainMenuLevel)
+[2021.09.18-16.09.30:256][125]LogNet: Browse: /Game/Hitori/HitoriLevel
+[2021.09.18-16.09.30:256][125]LogLoad: LoadMap: /Game/Hitori/HitoriLevel
+[2021.09.18-16.09.30:256][125]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMenuLevel
+[2021.09.18-16.09.30:257][125]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.09.18-16.09.30:257][125]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.18-16.09.30:293][125]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.18-16.09.30:300][125]LogUObjectHash: Compacting FUObjectHashTables data took   5.74ms
+[2021.09.18-16.09.30:316][125]LogAudio: Display: Audio Device (ID: 29) registered with world 'HitoriLevel'.
+[2021.09.18-16.09.30:317][125]LogAIModule: Creating AISystem for world HitoriLevel
+[2021.09.18-16.09.30:318][125]LogLoad: Game class is 'GameModeBase'
+[2021.09.18-16.09.30:319][125]LogWorld: Bringing World /Game/Hitori/UEDPIE_0_HitoriLevel.HitoriLevel up for play (max tick rate 0) at 2021.09.18-19.09.30
+[2021.09.18-16.09.30:319][125]LogWorld: Bringing up level for play took: 0.000500
+[2021.09.18-16.09.30:319][125]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.09.18-16.09.30:337][125]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Levels' of length 1 in '/Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel_C'!
+[2021.09.18-16.09.30:337][125]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Levels' of length 1 in '/Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel_C'!
+[2021.09.18-16.09.30:337][125]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Levels' of length 1 in '/Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel_C'!
+[2021.09.18-16.09.30:337][125]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'Levels' of length 1 in '/Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel_C'!
+[2021.09.18-16.09.30:337][125]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'Levels' of length 1 in '/Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel_C'!
+[2021.09.18-16.09.30:337][125]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'Levels' of length 1 in '/Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel_C'!
+[2021.09.18-16.09.30:337][125]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'Levels' of length 1 in '/Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel_C'!
+[2021.09.18-16.09.30:337][125]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'Levels' of length 1 in '/Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel_C'!
+[2021.09.18-16.09.30:337][125]LogScript: Warning: Script Msg: Attempted to access index 9 from array 'Levels' of length 1 in '/Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel_C'!
+[2021.09.18-16.09.30:337][125]LogScript: Warning: Script Msg: Attempted to access index 10 from array 'Levels' of length 1 in '/Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel_C'!
+[2021.09.18-16.09.30:337][125]LogScript: Warning: Script Msg: Attempted to access index 11 from array 'Levels' of length 1 in '/Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel_C'!
+[2021.09.18-16.09.30:338][125]LogLoad: Took 0.081838 seconds to LoadMap(/Game/Hitori/HitoriLevel)
+[2021.09.18-16.09.35:407][380]LogNet: Browse: /Game/MainMenuLevel
+[2021.09.18-16.09.35:407][380]LogLoad: LoadMap: /Game/MainMenuLevel
+[2021.09.18-16.09.35:407][380]LogWorld: BeginTearingDown for /Game/Hitori/UEDPIE_0_HitoriLevel
+[2021.09.18-16.09.35:409][380]LogWorld: UWorld::CleanupWorld for HitoriLevel, bSessionEnded=true, bCleanupResources=true
+[2021.09.18-16.09.35:409][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.18-16.09.35:445][380]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.18-16.09.35:453][380]LogUObjectHash: Compacting FUObjectHashTables data took   5.69ms
+[2021.09.18-16.09.35:469][380]LogAudio: Display: Audio Device (ID: 29) registered with world 'MainMenuLevel'.
+[2021.09.18-16.09.35:470][380]LogAIModule: Creating AISystem for world MainMenuLevel
+[2021.09.18-16.09.35:470][380]LogLoad: Game class is 'GameModeBase'
+[2021.09.18-16.09.35:471][380]LogWorld: Bringing World /Game/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2021.09.18-19.09.35
+[2021.09.18-16.09.35:472][380]LogWorld: Bringing up level for play took: 0.000573
+[2021.09.18-16.09.35:472][380]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.09.18-16.09.35:474][380]LogLoad: Took 0.067053 seconds to LoadMap(/Game/MainMenuLevel)
+[2021.09.18-16.09.36:146][414]LogNet: Browse: /Game/Kakuro/KakuroLevel
+[2021.09.18-16.09.36:146][414]LogLoad: LoadMap: /Game/Kakuro/KakuroLevel
+[2021.09.18-16.09.36:146][414]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMenuLevel
+[2021.09.18-16.09.36:147][414]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.09.18-16.09.36:147][414]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.18-16.09.36:203][414]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.18-16.09.36:210][414]LogUObjectHash: Compacting FUObjectHashTables data took   5.68ms
+[2021.09.18-16.09.36:232][414]LogAudio: Display: Audio Device (ID: 29) registered with world 'KakuroLevel'.
+[2021.09.18-16.09.36:233][414]LogAIModule: Creating AISystem for world KakuroLevel
+[2021.09.18-16.09.36:234][414]LogLoad: Game class is 'GameModeBase'
+[2021.09.18-16.09.36:235][414]LogWorld: Bringing World /Game/Kakuro/UEDPIE_0_KakuroLevel.KakuroLevel up for play (max tick rate 0) at 2021.09.18-19.09.36
+[2021.09.18-16.09.36:235][414]LogWorld: Bringing up level for play took: 0.000573
+[2021.09.18-16.09.36:236][414]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.09.18-16.09.36:418][414]LogLoad: Took 0.272398 seconds to LoadMap(/Game/Kakuro/KakuroLevel)
+[2021.09.18-16.09.49:124][ 47]LogNet: Browse: /Game/MainMenuLevel
+[2021.09.18-16.09.49:124][ 47]LogLoad: LoadMap: /Game/MainMenuLevel
+[2021.09.18-16.09.49:124][ 47]LogWorld: BeginTearingDown for /Game/Kakuro/UEDPIE_0_KakuroLevel
+[2021.09.18-16.09.49:142][ 47]LogWorld: UWorld::CleanupWorld for KakuroLevel, bSessionEnded=true, bCleanupResources=true
+[2021.09.18-16.09.49:142][ 47]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.18-16.09.49:184][ 47]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.18-16.09.49:201][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   5.88ms
+[2021.09.18-16.09.49:216][ 47]LogAudio: Display: Audio Device (ID: 29) registered with world 'MainMenuLevel'.
+[2021.09.18-16.09.49:217][ 47]LogAIModule: Creating AISystem for world MainMenuLevel
+[2021.09.18-16.09.49:218][ 47]LogLoad: Game class is 'GameModeBase'
+[2021.09.18-16.09.49:219][ 47]LogWorld: Bringing World /Game/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2021.09.18-19.09.49
+[2021.09.18-16.09.49:219][ 47]LogWorld: Bringing up level for play took: 0.000583
+[2021.09.18-16.09.49:220][ 47]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.09.18-16.09.49:222][ 47]LogLoad: Took 0.097750 seconds to LoadMap(/Game/MainMenuLevel)
+[2021.09.18-16.09.55:780][362]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.18-16.09.55:780][362]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMenuLevel
+[2021.09.18-16.09.55:780][362]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.09.18-16.09.55:780][362]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.18-16.09.55:792][362]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.18-16.09.55:802][362]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.18-16.09.55:840][362]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.18-16.09.55:840][362]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.18-16.09.55:841][362]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.18-16.09.55:865][362]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.18-16.09.55:874][362]LogUObjectHash: Compacting FUObjectHashTables data took   7.55ms
+[2021.09.18-16.09.55:907][363]LogPlayLevel: Display: Destroying online subsystem :Context_63
