@@ -2103,3 +2103,1024 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.18-08.48.48:113][938]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_HitoriChooseLevel2D1CB9C24BE8177423CA3084AC80E173.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Hitori/Level/UMG_HitoriChooseLevel.uasset'
 [2021.09.18-08.48.48:127][938]AssetCheck: New page: Asset Save: UMG_HitoriChooseLevel
 [2021.09.18-08.48.48:127][938]LogContentValidation: Display: Validating WidgetBlueprint /Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel
+[2021.09.18-08.51.22:849][563]BlueprintLog: New page: Collapse to Macro
+[2021.09.18-08.51.49:074][ 56]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hitori/Level/UMG_HitoriChooseLevel" FILE="../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Hitori/Level/UMG_HitoriChooseLevel.uasset" SILENT=true
+[2021.09.18-08.51.49:158][ 56]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_HitoriChooseLevel1802BBB94E7741602941079EF18573F3.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Hitori/Level/UMG_HitoriChooseLevel.uasset'
+[2021.09.18-08.51.49:173][ 56]AssetCheck: New page: Asset Save: UMG_HitoriChooseLevel
+[2021.09.18-08.51.49:173][ 56]LogContentValidation: Display: Validating WidgetBlueprint /Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel
+[2021.09.18-08.52.16:606][601]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hitori/Level/UMG_HitoriChooseLevel" FILE="../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Hitori/Level/UMG_HitoriChooseLevel.uasset" SILENT=true
+[2021.09.18-08.52.16:688][601]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_HitoriChooseLevel3C8FCBB842F93378FB364983FB9AD17E.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Hitori/Level/UMG_HitoriChooseLevel.uasset'
+[2021.09.18-08.52.16:703][601]AssetCheck: New page: Asset Save: UMG_HitoriChooseLevel
+[2021.09.18-08.52.16:703][601]LogContentValidation: Display: Validating WidgetBlueprint /Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel
+[2021.09.18-08.52.26:089][ 10]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Hitori/Level/UMG_HitoriLevelButton.UMG_HitoriLevelButton
+[2021.09.18-08.53.12:919][361]LogEditorTransaction: Undo Change Text Pin Value
+[2021.09.18-08.53.14:924][431]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hitori/Level/UMG_HitoriLevelButton" FILE="../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Hitori/Level/UMG_HitoriLevelButton.uasset" SILENT=true
+[2021.09.18-08.53.14:960][431]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_HitoriLevelButton33DEB16244D0453120854C8305508BA3.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Hitori/Level/UMG_HitoriLevelButton.uasset'
+[2021.09.18-08.53.14:988][431]AssetCheck: New page: Asset Save: UMG_HitoriLevelButton
+[2021.09.18-08.53.14:988][431]LogContentValidation: Display: Validating WidgetBlueprint /Game/Hitori/Level/UMG_HitoriLevelButton.UMG_HitoriLevelButton
+[2021.09.18-08.56.23:397][ 51]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.09.18-08.56.23:397][ 51]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.09.18-08.56.37:276][667]LogSlate: Window 'UMG_HitoriLevelButton' being destroyed
+[2021.09.18-08.56.37:286][667]LogSlate: Window 'UMG_HitoriLevelButton' being destroyed
+[2021.09.18-08.56.37:290][667]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.09.18-08.56.37:290][667]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.18-08.56.37:302][667]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.09.18-08.56.37:302][667]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.18-08.56.37:371][667]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.09.18-08.56.37:371][667]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.18-08.56.37:380][667]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.09.18-08.56.37:380][667]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.18-08.56.42:466][943]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2021.09.18-08.56.42:508][943]Candidate modules for hot reload:
+[2021.09.18-08.56.42:508][943]  JapanPuzzles
+[2021.09.18-08.56.42:509][943]Launching UnrealBuildTool... [D:/UE/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=JapanPuzzles,7001 JapanPuzzlesEditor Win64 Development -Project="D:/Projects/Unreal Projects/JapanPuzzles/JapanPuzzles.uproject" "D:/Projects/Unreal Projects/JapanPuzzles/JapanPuzzles.uproject"  -IgnoreJunk]
+[2021.09.18-08.56.42:510][943]Warning: Starting HotReload took  0.1s.
+[2021.09.18-08.57.07:644][423]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Hitori/Level/HitoriLevelStruct.HitoriLevelStruct
+[2021.09.18-08.57.13:703][710]LogSlate: Window 'HitoriLevelStruct' being destroyed
+[2021.09.18-08.57.13:717][710]LogSlate: Window 'HitoriLevelStruct' being destroyed
+[2021.09.18-08.57.14:676][762]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/Hitori/Level/HitoriLevelsTable.HitoriLevelsTable
+[2021.09.18-08.57.52:322][905]CompilerResultsLog: New page: Compilation - 18 сент. 2021 г., 14:57:52
+[2021.09.18-08.57.52:366][905]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Projects\Unreal Projects\JapanPuzzles).
+[2021.09.18-08.57.52:366][905]CompilerResultsLog: Invalidating makefile for JapanPuzzlesEditor (source file removed)
+[2021.09.18-08.57.52:366][905]CompilerResultsLog: Parsing headers for JapanPuzzlesEditor
+[2021.09.18-08.57.52:366][905]CompilerResultsLog:   Running UnrealHeaderTool "D:\Projects\Unreal Projects\JapanPuzzles\JapanPuzzles.uproject" "D:\Projects\Unreal Projects\JapanPuzzles\Intermediate\Build\Win64\JapanPuzzlesEditor\Development\JapanPuzzlesEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Mikhaill\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.09.18-08.57.52:366][905]CompilerResultsLog: Reflection code generated for JapanPuzzlesEditor in 20,1132588 seconds
+[2021.09.18-08.57.52:366][905]CompilerResultsLog: Building JapanPuzzlesEditor...
+[2021.09.18-08.57.52:366][905]CompilerResultsLog: Using Visual Studio 2019 14.29.30038 toolchain (D:\VisualStudio\VC\Tools\MSVC\14.29.30037) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.09.18-08.57.52:366][905]CompilerResultsLog: Building 9 actions with 8 processes...
+[2021.09.18-08.57.52:366][905]CompilerResultsLog:   [1/9] Default.rc2
+[2021.09.18-08.57.52:462][905]LogMainFrame: MainFrame: Module compiling took 69.995 seconds
+[2021.09.18-08.57.52:498][905]Warning: HotReload failed, recompile failed
+[2021.09.18-08.57.55:765][ 54]LogSlate: Took 0.025118 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.09.18-08.57.58:715][173]LogSlate: Window 'Message Log' being destroyed
+[2021.09.18-08.57.58:725][173]LogSlate: Window 'Message Log' being destroyed
+[2021.09.18-08.58.21:476][743]LogSlate: Window 'HitoriLevelsTable' being destroyed
+[2021.09.18-08.58.21:481][743]LogSlate: Window 'HitoriLevelsTable' being destroyed
+[2021.09.18-08.58.27:962][113]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.18-08.58.27:970][113]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.09.18-08.58.27:974][113]LogPlayLevel: [PlayLevel] Compiling UMG_HitoriChooseLevel before play...
+[2021.09.18-08.58.28:053][113]LogPlayLevel: [PlayLevel] Compiling UMG_HitoriLevelButton before play...
+[2021.09.18-08.58.28:239][113]LogUObjectHash: Compacting FUObjectHashTables data took   9.10ms
+[2021.09.18-08.58.28:244][113]LogPlayLevel: PlayLevel: Blueprint regeneration took 273 ms (2 blueprints)
+[2021.09.18-08.58.28:244][113]PIE: New page: PIE session: HitoriLevel (18 сент. 2021 г., 14:58:28)
+[2021.09.18-08.58.28:244][113]LogPlayLevel: Creating play world package: /Game/Hitori/UEDPIE_0_HitoriLevel
+[2021.09.18-08.58.28:246][113]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002035s)
+[2021.09.18-08.58.28:248][113]LogAIModule: Creating AISystem for world HitoriLevel
+[2021.09.18-08.58.28:249][113]LogPlayLevel: PIE: World Init took: (0.002540s)
+[2021.09.18-08.58.28:249][113]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Hitori/HitoriLevel.HitoriLevel to /Game/Hitori/UEDPIE_0_HitoriLevel.HitoriLevel (0.004756s)
+[2021.09.18-08.58.28:328][113]LogUObjectHash: Compacting FUObjectHashTables data took   5.80ms
+[2021.09.18-08.58.28:330][113]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2021.09.18-08.58.28:331][113]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.18-08.58.28:331][113]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.18-08.58.28:331][113]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.18-08.58.28:331][113]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.18-08.58.28:331][113]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.18-08.58.28:331][113]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.18-08.58.28:331][113]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.18-08.58.28:331][113]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.18-08.58.28:331][113]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.18-08.58.28:331][113]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.18-08.58.28:333][113]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.18-08.58.28:333][113]LogAudioMixer: Display: 1: FrontRight
+[2021.09.18-08.58.28:344][113]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2021.09.18-08.58.28:345][113]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.18-08.58.28:345][113]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.18-08.58.28:345][113]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.18-08.58.28:346][113]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.18-08.58.28:346][113]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.18-08.58.28:346][113]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.18-08.58.28:368][113]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.18-08.58.28:368][113]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.18-08.58.28:368][113]LogInit: FAudioDevice initialized.
+[2021.09.18-08.58.28:368][113]LogAudio: Display: Audio Device (ID: 15) registered with world 'HitoriLevel'.
+[2021.09.18-08.58.28:380][113]LogLoad: Game class is 'GameModeBase'
+[2021.09.18-08.58.28:381][113]LogWorld: Bringing World /Game/Hitori/UEDPIE_0_HitoriLevel.HitoriLevel up for play (max tick rate 0) at 2021.09.18-11.58.28
+[2021.09.18-08.58.28:382][113]LogWorld: Bringing up level for play took: 0.000470
+[2021.09.18-08.58.28:382][113]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2021.09.18-08.58.28:401][113]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Levels' of length 1 in '/Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel_C'!
+[2021.09.18-08.58.28:401][113]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Levels' of length 1 in '/Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel_C'!
+[2021.09.18-08.58.28:401][113]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Levels' of length 1 in '/Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel_C'!
+[2021.09.18-08.58.28:401][113]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'Levels' of length 1 in '/Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel_C'!
+[2021.09.18-08.58.28:401][113]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'Levels' of length 1 in '/Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel_C'!
+[2021.09.18-08.58.28:401][113]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'Levels' of length 1 in '/Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel_C'!
+[2021.09.18-08.58.28:402][113]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'Levels' of length 1 in '/Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel_C'!
+[2021.09.18-08.58.28:402][113]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'Levels' of length 1 in '/Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel_C'!
+[2021.09.18-08.58.28:402][113]LogScript: Warning: Script Msg: Attempted to access index 9 from array 'Levels' of length 1 in '/Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel_C'!
+[2021.09.18-08.58.28:402][113]LogScript: Warning: Script Msg: Attempted to access index 10 from array 'Levels' of length 1 in '/Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel_C'!
+[2021.09.18-08.58.28:402][113]LogScript: Warning: Script Msg: Attempted to access index 11 from array 'Levels' of length 1 in '/Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel_C'!
+[2021.09.18-08.58.28:402][113]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.18-08.58.28:402][113]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.09.18-08.58.28:402][113]PIE: Server logged in
+[2021.09.18-08.58.28:403][113]PIE: Play in editor total start time 0,434 seconds.
+[2021.09.18-08.58.36:647][601]LogNet: Browse: /Game/MainMenuLevel
+[2021.09.18-08.58.36:647][601]LogLoad: LoadMap: /Game/MainMenuLevel
+[2021.09.18-08.58.36:647][601]LogWorld: BeginTearingDown for /Game/Hitori/UEDPIE_0_HitoriLevel
+[2021.09.18-08.58.36:649][601]LogWorld: UWorld::CleanupWorld for HitoriLevel, bSessionEnded=true, bCleanupResources=true
+[2021.09.18-08.58.36:649][601]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.18-08.58.36:675][601]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.18-08.58.36:681][601]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2021.09.18-08.58.36:734][601]LogAudio: Display: Audio Device (ID: 15) registered with world 'MainMenuLevel'.
+[2021.09.18-08.58.36:735][601]LogAIModule: Creating AISystem for world MainMenuLevel
+[2021.09.18-08.58.36:736][601]LogLoad: Game class is 'GameModeBase'
+[2021.09.18-08.58.36:737][601]LogWorld: Bringing World /Game/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2021.09.18-11.58.36
+[2021.09.18-08.58.36:737][601]LogWorld: Bringing up level for play took: 0.000577
+[2021.09.18-08.58.36:738][601]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.09.18-08.58.36:740][601]LogLoad: Took 0.092861 seconds to LoadMap(/Game/MainMenuLevel)
+[2021.09.18-08.58.38:900][730]LogNet: Browse: /Game/Kakuro/KakuroLevel
+[2021.09.18-08.58.38:900][730]LogLoad: LoadMap: /Game/Kakuro/KakuroLevel
+[2021.09.18-08.58.38:900][730]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMenuLevel
+[2021.09.18-08.58.38:900][730]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.09.18-08.58.38:900][730]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.18-08.58.38:951][730]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.18-08.58.38:956][730]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2021.09.18-08.58.38:973][730]LogAudio: Display: Audio Device (ID: 15) registered with world 'KakuroLevel'.
+[2021.09.18-08.58.38:974][730]LogAIModule: Creating AISystem for world KakuroLevel
+[2021.09.18-08.58.38:975][730]LogLoad: Game class is 'GameModeBase'
+[2021.09.18-08.58.38:976][730]LogWorld: Bringing World /Game/Kakuro/UEDPIE_0_KakuroLevel.KakuroLevel up for play (max tick rate 0) at 2021.09.18-11.58.38
+[2021.09.18-08.58.38:976][730]LogWorld: Bringing up level for play took: 0.000589
+[2021.09.18-08.58.38:977][730]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.09.18-08.58.39:160][730]LogLoad: Took 0.259609 seconds to LoadMap(/Game/Kakuro/KakuroLevel)
+[2021.09.18-08.58.52:407][520]LogNet: Browse: /Game/MainMenuLevel
+[2021.09.18-08.58.52:407][520]LogLoad: LoadMap: /Game/MainMenuLevel
+[2021.09.18-08.58.52:407][520]LogWorld: BeginTearingDown for /Game/Kakuro/UEDPIE_0_KakuroLevel
+[2021.09.18-08.58.52:421][520]LogWorld: UWorld::CleanupWorld for KakuroLevel, bSessionEnded=true, bCleanupResources=true
+[2021.09.18-08.58.52:421][520]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.18-08.58.52:488][520]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.18-08.58.52:502][520]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2021.09.18-08.58.52:513][520]LogAudio: Display: Audio Device (ID: 15) registered with world 'MainMenuLevel'.
+[2021.09.18-08.58.52:514][520]LogAIModule: Creating AISystem for world MainMenuLevel
+[2021.09.18-08.58.52:515][520]LogLoad: Game class is 'GameModeBase'
+[2021.09.18-08.58.52:516][520]LogWorld: Bringing World /Game/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2021.09.18-11.58.52
+[2021.09.18-08.58.52:516][520]LogWorld: Bringing up level for play took: 0.000746
+[2021.09.18-08.58.52:517][520]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.09.18-08.58.52:519][520]LogLoad: Took 0.111708 seconds to LoadMap(/Game/MainMenuLevel)
+[2021.09.18-08.58.56:577][767]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.18-08.58.56:577][767]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMenuLevel
+[2021.09.18-08.58.56:577][767]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.09.18-08.58.56:577][767]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.18-08.58.56:586][767]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.18-08.58.56:591][767]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.18-08.58.56:616][767]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.18-08.58.56:617][767]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.18-08.58.56:618][767]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.18-08.58.56:641][767]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.18-08.58.56:646][767]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2021.09.18-08.58.56:664][768]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2021.09.18-08.59.05:487][290]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Sudoku/UMG_Sudoku.UMG_Sudoku
+[2021.09.18-08.59.08:781][411]LogSlate: Window 'UMG_Sudoku' being destroyed
+[2021.09.18-08.59.08:794][411]LogSlate: Window 'UMG_Sudoku' being destroyed
+[2021.09.18-08.59.08:797][411]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2021.09.18-08.59.08:797][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.18-08.59.08:805][411]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2021.09.18-08.59.08:806][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.18-08.59.09:947][477]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2021.09.18-08.59.10:001][477]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Sudoku/SudokuLevel.SudokuLevel
+[2021.09.18-08.59.10:002][477]Cmd: MAP LOAD FILE="../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Sudoku/SudokuLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.09.18-08.59.10:002][477]LightingResults: New page: Lighting Build
+[2021.09.18-08.59.10:005][477]LoadErrors: New page: Loading map: SudokuLevel.umap
+[2021.09.18-08.59.10:005][477]LogWorld: UWorld::CleanupWorld for HitoriLevel, bSessionEnded=true, bCleanupResources=true
+[2021.09.18-08.59.10:006][477]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.18-08.59.10:006][477]MapCheck: New page: Map Check
+[2021.09.18-08.59.10:006][477]LightingResults: New page: Lighting Build
+[2021.09.18-08.59.10:032][477]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.18-08.59.10:042][477]LogUObjectHash: Compacting FUObjectHashTables data took   5.10ms
+[2021.09.18-08.59.10:042][477]LogAudio: Display: Audio Device (ID: 1) registered with world 'SudokuLevel'.
+[2021.09.18-08.59.10:044][477]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.09.18-08.59.10:044][477]LogAIModule: Creating AISystem for world SudokuLevel
+[2021.09.18-08.59.10:078][477]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2021.09.18-08.59.10:086][477]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.09.18-08.59.10:086][477]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,105ms to complete.
+[2021.09.18-08.59.10:086][477]LogFileHelpers: Loading map 'SudokuLevel' took 0.084
+[2021.09.18-08.59.12:009][589]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.18-08.59.12:018][589]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.18-08.59.12:018][589]PIE: New page: PIE session: SudokuLevel (18 сент. 2021 г., 14:59:12)
+[2021.09.18-08.59.12:018][589]LogPlayLevel: Creating play world package: /Game/Sudoku/UEDPIE_0_SudokuLevel
+[2021.09.18-08.59.12:020][589]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001812s)
+[2021.09.18-08.59.12:021][589]LogAIModule: Creating AISystem for world SudokuLevel
+[2021.09.18-08.59.12:022][589]LogPlayLevel: PIE: World Init took: (0.001582s)
+[2021.09.18-08.59.12:022][589]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Sudoku/SudokuLevel.SudokuLevel to /Game/Sudoku/UEDPIE_0_SudokuLevel.SudokuLevel (0.003547s)
+[2021.09.18-08.59.12:052][589]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2021.09.18-08.59.12:052][589]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2021.09.18-08.59.12:053][589]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.18-08.59.12:053][589]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.18-08.59.12:053][589]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.18-08.59.12:053][589]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.18-08.59.12:053][589]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.18-08.59.12:053][589]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.18-08.59.12:053][589]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.18-08.59.12:053][589]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.18-08.59.12:053][589]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.18-08.59.12:053][589]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.18-08.59.12:055][589]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.18-08.59.12:055][589]LogAudioMixer: Display: 1: FrontRight
+[2021.09.18-08.59.12:065][589]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2021.09.18-08.59.12:065][589]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.18-08.59.12:065][589]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.18-08.59.12:065][589]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.18-08.59.12:066][589]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.18-08.59.12:066][589]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.18-08.59.12:066][589]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.18-08.59.12:089][589]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.18-08.59.12:089][589]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.18-08.59.12:089][589]LogInit: FAudioDevice initialized.
+[2021.09.18-08.59.12:089][589]LogAudio: Display: Audio Device (ID: 16) registered with world 'SudokuLevel'.
+[2021.09.18-08.59.12:099][589]LogLoad: Game class is 'GameModeBase'
+[2021.09.18-08.59.12:100][589]LogWorld: Bringing World /Game/Sudoku/UEDPIE_0_SudokuLevel.SudokuLevel up for play (max tick rate 0) at 2021.09.18-11.59.12
+[2021.09.18-08.59.12:100][589]LogWorld: Bringing up level for play took: 0.000432
+[2021.09.18-08.59.12:100][589]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2021.09.18-08.59.12:254][589]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.18-08.59.12:254][589]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.09.18-08.59.12:254][589]PIE: Server logged in
+[2021.09.18-08.59.12:255][589]PIE: Play in editor total start time 0,238 seconds.
+[2021.09.18-08.59.14:314][715]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Sudoku/UMG_Sudoku.UMG_Sudoku
+[2021.09.18-08.59.16:528][800]LogSlate: Window 'UMG_Sudoku' being destroyed
+[2021.09.18-08.59.16:535][800]LogSlate: Window 'UMG_Sudoku' being destroyed
+[2021.09.18-08.59.16:538][800]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2021.09.18-08.59.16:538][800]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.18-08.59.16:548][800]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2021.09.18-08.59.16:549][800]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.18-08.59.23:047][196]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.18-08.59.23:047][196]LogWorld: BeginTearingDown for /Game/Sudoku/UEDPIE_0_SudokuLevel
+[2021.09.18-08.59.23:047][196]LogWorld: UWorld::CleanupWorld for SudokuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.09.18-08.59.23:047][196]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.18-08.59.23:056][196]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.18-08.59.23:070][196]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.18-08.59.23:116][196]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.18-08.59.23:116][196]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.18-08.59.23:118][196]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.18-08.59.23:162][196]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2021.09.18-08.59.23:186][197]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2021.09.18-08.59.25:355][336]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/Sudoku/Levels/SudokuLevelsTable.SudokuLevelsTable
+[2021.09.18-08.59.41:316][104]LogSlate: Window 'SudokuLevelsTable' being destroyed
+[2021.09.18-08.59.41:321][104]LogSlate: Window 'SudokuLevelsTable' being destroyed
+[2021.09.18-09.04.47:386][ 58]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.09.18-09.04.47:386][ 58]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.09.18-09.04.50:603][228]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Sudoku/Levels/IntegerPairStruct.IntegerPairStruct
+[2021.09.18-09.04.53:455][374]LogSlate: Window 'IntegerPairStruct' being destroyed
+[2021.09.18-09.04.53:464][374]LogSlate: Window 'IntegerPairStruct' being destroyed
+[2021.09.18-09.04.56:053][516]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Sudoku/Levels/SudokuLevelStruct.SudokuLevelStruct
+[2021.09.18-09.05.05:364][964]LogSlate: Window 'SudokuLevelStruct' being destroyed
+[2021.09.18-09.05.05:369][964]LogSlate: Window 'SudokuLevelStruct' being destroyed
+[2021.09.18-09.05.06:802][ 44]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/Sudoku/Levels/SudokuLevelsTable.SudokuLevelsTable
+[2021.09.18-09.05.09:773][185]LogSlate: Window 'SudokuLevelsTable' being destroyed
+[2021.09.18-09.05.09:783][185]LogSlate: Window 'SudokuLevelsTable' being destroyed
+[2021.09.18-09.05.23:535][942]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Sudoku/Levels/UMG_SudokuLevelChoose.UMG_SudokuLevelChoose
+[2021.09.18-09.06.31:498][513]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Kakuro/Levels/UMG_KakuroChooseLevel.UMG_KakuroChooseLevel
+[2021.09.18-09.06.36:611][710]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2021.09.18-09.06.36:611][710]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.18-09.06.36:620][710]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2021.09.18-09.06.36:620][710]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.18-09.06.41:247][915]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel
+[2021.09.18-09.07.28:469][ 61]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.18-09.07.28:478][ 61]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.09.18-09.07.28:482][ 61]LogPlayLevel: [PlayLevel] Compiling UMG_HitoriChooseLevel before play...
+[2021.09.18-09.07.28:562][ 61]LogPlayLevel: [PlayLevel] Compiling UMG_SudokuLevelChoose before play...
+[2021.09.18-09.07.28:696][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   6.21ms
+[2021.09.18-09.07.28:698][ 61]LogPlayLevel: PlayLevel: Blueprint regeneration took 220 ms (2 blueprints)
+[2021.09.18-09.07.28:699][ 61]PIE: New page: PIE session: SudokuLevel (18 сент. 2021 г., 15:07:28)
+[2021.09.18-09.07.28:699][ 61]LogPlayLevel: Creating play world package: /Game/Sudoku/UEDPIE_0_SudokuLevel
+[2021.09.18-09.07.28:701][ 61]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001785s)
+[2021.09.18-09.07.28:702][ 61]LogAIModule: Creating AISystem for world SudokuLevel
+[2021.09.18-09.07.28:702][ 61]LogPlayLevel: PIE: World Init took: (0.001690s)
+[2021.09.18-09.07.28:702][ 61]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Sudoku/SudokuLevel.SudokuLevel to /Game/Sudoku/UEDPIE_0_SudokuLevel.SudokuLevel (0.003631s)
+[2021.09.18-09.07.28:740][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2021.09.18-09.07.28:740][ 61]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2021.09.18-09.07.28:740][ 61]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.18-09.07.28:740][ 61]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.18-09.07.28:740][ 61]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.18-09.07.28:740][ 61]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.18-09.07.28:740][ 61]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.18-09.07.28:740][ 61]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.18-09.07.28:740][ 61]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.18-09.07.28:740][ 61]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.18-09.07.28:741][ 61]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.18-09.07.28:741][ 61]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.18-09.07.28:742][ 61]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.18-09.07.28:743][ 61]LogAudioMixer: Display: 1: FrontRight
+[2021.09.18-09.07.28:754][ 61]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2021.09.18-09.07.28:755][ 61]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.18-09.07.28:755][ 61]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.18-09.07.28:755][ 61]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.18-09.07.28:755][ 61]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.18-09.07.28:756][ 61]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.18-09.07.28:756][ 61]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.18-09.07.28:778][ 61]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.18-09.07.28:778][ 61]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.18-09.07.28:778][ 61]LogInit: FAudioDevice initialized.
+[2021.09.18-09.07.28:778][ 61]LogAudio: Display: Audio Device (ID: 17) registered with world 'SudokuLevel'.
+[2021.09.18-09.07.28:791][ 61]LogLoad: Game class is 'GameModeBase'
+[2021.09.18-09.07.28:792][ 61]LogWorld: Bringing World /Game/Sudoku/UEDPIE_0_SudokuLevel.SudokuLevel up for play (max tick rate 0) at 2021.09.18-12.07.28
+[2021.09.18-09.07.28:792][ 61]LogWorld: Bringing up level for play took: 0.000469
+[2021.09.18-09.07.28:792][ 61]LogOnline: OSS: Creating online subsystem instance for: :Context_39
+[2021.09.18-09.07.28:961][ 61]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.18-09.07.28:962][ 61]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.09.18-09.07.28:962][ 61]PIE: Server logged in
+[2021.09.18-09.07.28:964][ 61]PIE: Play in editor total start time 0,487 seconds.
+[2021.09.18-09.07.36:494][299]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.18-09.07.36:494][299]LogWorld: BeginTearingDown for /Game/Sudoku/UEDPIE_0_SudokuLevel
+[2021.09.18-09.07.36:494][299]LogWorld: UWorld::CleanupWorld for SudokuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.09.18-09.07.36:495][299]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.18-09.07.36:508][299]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.18-09.07.36:517][299]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.18-09.07.36:557][299]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.18-09.07.36:558][299]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.18-09.07.36:559][299]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.18-09.07.36:595][299]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2021.09.18-09.07.36:622][300]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2021.09.18-09.07.43:562][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hitori/Level/UMG_HitoriChooseLevel" FILE="../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Hitori/Level/UMG_HitoriChooseLevel.uasset" SILENT=true
+[2021.09.18-09.07.43:729][605]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_HitoriChooseLevel6182A640442B505D42033189C35EA009.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Hitori/Level/UMG_HitoriChooseLevel.uasset'
+[2021.09.18-09.07.43:744][605]AssetCheck: New page: Asset Save: UMG_HitoriChooseLevel
+[2021.09.18-09.07.43:744][605]LogContentValidation: Display: Validating WidgetBlueprint /Game/Hitori/Level/UMG_HitoriChooseLevel.UMG_HitoriChooseLevel
+[2021.09.18-09.07.45:186][673]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2021.09.18-09.07.45:186][673]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.18-09.07.45:195][673]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2021.09.18-09.07.45:195][673]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.18-09.07.50:882][938]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sudoku/Levels/UMG_SudokuLevelChoose" FILE="../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Sudoku/Levels/UMG_SudokuLevelChoose.uasset" SILENT=true
+[2021.09.18-09.07.51:020][938]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_SudokuLevelChooseD77D859E421452A44A38B5B13264032E.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Sudoku/Levels/UMG_SudokuLevelChoose.uasset'
+[2021.09.18-09.07.51:045][938]AssetCheck: New page: Asset Save: UMG_SudokuLevelChoose
+[2021.09.18-09.07.51:045][938]LogContentValidation: Display: Validating WidgetBlueprint /Game/Sudoku/Levels/UMG_SudokuLevelChoose.UMG_SudokuLevelChoose
+[2021.09.18-12.41.11:585][123]LogSlate: Window 'UMG_SudokuLevelChoose' being destroyed
+[2021.09.18-12.41.11:596][123]LogSlate: Window 'UMG_SudokuLevelChoose' being destroyed
+[2021.09.18-12.41.11:601][123]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2021.09.18-12.41.11:601][123]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.18-12.41.11:613][123]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2021.09.18-12.41.11:613][123]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.18-12.41.12:683][179]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/Hitori/Level/HitoriLevelsTable.HitoriLevelsTable
+[2021.09.18-12.41.17:956][413]LogSlate: Window 'HitoriLevelsTable' being destroyed
+[2021.09.18-12.41.17:966][413]LogSlate: Window 'HitoriLevelsTable' being destroyed
+[2021.09.18-12.41.24:032][763]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/Sudoku/Levels/SudokuLevelsTable.SudokuLevelsTable
+[2021.09.18-13.11.19:108][611]LogSlate: Window 'SudokuLevelsTable' being destroyed
+[2021.09.18-13.11.19:113][611]LogSlate: Window 'SudokuLevelsTable' being destroyed
+[2021.09.18-13.11.27:214][ 65]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Sudoku/Game/UMG_SudokuGameWidget.UMG_SudokuGameWidget
+[2021.09.18-13.11.34:749][401]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.18-13.11.34:758][401]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.18-13.11.34:758][401]PIE: New page: PIE session: SudokuLevel (18 сент. 2021 г., 19:11:34)
+[2021.09.18-13.11.34:759][401]LogPlayLevel: Creating play world package: /Game/Sudoku/UEDPIE_0_SudokuLevel
+[2021.09.18-13.11.34:761][401]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001894s)
+[2021.09.18-13.11.34:762][401]LogAIModule: Creating AISystem for world SudokuLevel
+[2021.09.18-13.11.34:762][401]LogPlayLevel: PIE: World Init took: (0.001746s)
+[2021.09.18-13.11.34:762][401]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Sudoku/SudokuLevel.SudokuLevel to /Game/Sudoku/UEDPIE_0_SudokuLevel.SudokuLevel (0.003811s)
+[2021.09.18-13.11.34:805][401]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2021.09.18-13.11.34:809][401]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2021.09.18-13.11.34:810][401]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.18-13.11.34:810][401]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.18-13.11.34:810][401]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.18-13.11.34:810][401]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.18-13.11.34:810][401]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.18-13.11.34:810][401]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.18-13.11.34:810][401]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.18-13.11.34:810][401]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.18-13.11.34:810][401]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.18-13.11.34:810][401]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.18-13.11.34:812][401]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.18-13.11.34:812][401]LogAudioMixer: Display: 1: FrontRight
+[2021.09.18-13.11.34:824][401]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2021.09.18-13.11.34:825][401]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.18-13.11.34:825][401]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.18-13.11.34:825][401]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.18-13.11.34:826][401]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.18-13.11.34:826][401]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.18-13.11.34:826][401]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.18-13.11.34:848][401]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.18-13.11.34:848][401]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.18-13.11.34:848][401]LogInit: FAudioDevice initialized.
+[2021.09.18-13.11.34:848][401]LogAudio: Display: Audio Device (ID: 18) registered with world 'SudokuLevel'.
+[2021.09.18-13.11.34:860][401]LogLoad: Game class is 'GameModeBase'
+[2021.09.18-13.11.34:861][401]LogWorld: Bringing World /Game/Sudoku/UEDPIE_0_SudokuLevel.SudokuLevel up for play (max tick rate 0) at 2021.09.18-16.11.34
+[2021.09.18-13.11.34:861][401]LogWorld: Bringing up level for play took: 0.000433
+[2021.09.18-13.11.34:862][401]LogOnline: OSS: Creating online subsystem instance for: :Context_42
+[2021.09.18-13.11.35:093][401]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.18-13.11.35:093][401]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.09.18-13.11.35:093][401]PIE: Server logged in
+[2021.09.18-13.11.35:094][401]PIE: Play in editor total start time 0,337 seconds.
+[2021.09.18-13.12.07:455][932]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.18-13.12.07:455][932]LogWorld: BeginTearingDown for /Game/Sudoku/UEDPIE_0_SudokuLevel
+[2021.09.18-13.12.07:455][932]LogWorld: UWorld::CleanupWorld for SudokuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.09.18-13.12.07:455][932]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.18-13.12.07:462][932]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.18-13.12.07:471][932]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.18-13.12.07:507][932]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.18-13.12.07:507][932]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.18-13.12.07:508][932]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.18-13.12.07:532][932]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.18-13.12.07:545][932]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2021.09.18-13.12.07:568][933]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2021.09.18-13.13.01:276][534]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Sudoku/Game/Tile/UMG_SudokuTile.UMG_SudokuTile
+[2021.09.18-13.13.23:436][612]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.09.18-13.13.23:436][612]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.09.18-13.13.26:836][767]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.09.18-13.13.26:836][767]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.09.18-13.13.34:665][ 79]LogSlate: Took 0.010512 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.09.18-13.14.05:474][520]LogUObjectHash: Compacting FUObjectHashTables data took   5.94ms
+[2021.09.18-13.14.05:477][520]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Sudoku/SudokuLevel' took 0.050
+[2021.09.18-13.14.05:478][520]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sudoku/Game/UMG_SudokuGameWidget] ([1] browsable assets)...
+[2021.09.18-13.14.05:478][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sudoku/Game/UMG_SudokuGameWidget]
+[2021.09.18-13.14.05:579][520]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_SudokuGameWidget_Auto1DA3F693C4EFDB3EEEA2A2AB7505931BC.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/Autosaves/Game/Sudoku/Game/UMG_SudokuGameWidget_Auto1.uasset'
+[2021.09.18-13.14.05:581][520]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sudoku/Game/Tile/UMG_SudokuTile] ([1] browsable assets)...
+[2021.09.18-13.14.05:581][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sudoku/Game/Tile/UMG_SudokuTile]
+[2021.09.18-13.14.05:666][520]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_SudokuTile_Auto107082E834A57FE0402FAD7BB77D87BF6.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/Autosaves/Game/Sudoku/Game/Tile/UMG_SudokuTile_Auto1.uasset'
+[2021.09.18-13.14.05:667][520]LogFileHelpers: Auto-saving content packages took 0.189
+[2021.09.18-13.14.28:488][559]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sudoku/Game/Tile/UMG_SudokuTile" FILE="../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Sudoku/Game/Tile/UMG_SudokuTile.uasset" SILENT=true
+[2021.09.18-13.14.28:618][559]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_SudokuTileAF63432348D569C3379689AB8E54E6AD.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Sudoku/Game/Tile/UMG_SudokuTile.uasset'
+[2021.09.18-13.14.28:637][559]AssetCheck: New page: Asset Save: UMG_SudokuTile
+[2021.09.18-13.14.28:638][559]LogContentValidation: Display: Validating WidgetBlueprint /Game/Sudoku/Game/Tile/UMG_SudokuTile.UMG_SudokuTile
+[2021.09.18-13.14.35:221][860]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sudoku/Game/UMG_SudokuGameWidget" FILE="../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Sudoku/Game/UMG_SudokuGameWidget.uasset" SILENT=true
+[2021.09.18-13.14.35:320][860]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_SudokuGameWidget759096E34D21C3323EB6AFA0EE736A84.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Sudoku/Game/UMG_SudokuGameWidget.uasset'
+[2021.09.18-13.14.35:333][860]AssetCheck: New page: Asset Save: UMG_SudokuGameWidget
+[2021.09.18-13.14.35:333][860]LogContentValidation: Display: Validating WidgetBlueprint /Game/Sudoku/Game/UMG_SudokuGameWidget.UMG_SudokuGameWidget
+[2021.09.18-13.15.09:319][591]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sudoku/Game/Tile/UMG_SudokuTile" FILE="../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Sudoku/Game/Tile/UMG_SudokuTile.uasset" SILENT=true
+[2021.09.18-13.15.09:411][591]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_SudokuTileAF3B1BE942B2BC73387FF59EF46B00DA.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Sudoku/Game/Tile/UMG_SudokuTile.uasset'
+[2021.09.18-13.15.09:428][591]AssetCheck: New page: Asset Save: UMG_SudokuTile
+[2021.09.18-13.15.09:428][591]LogContentValidation: Display: Validating WidgetBlueprint /Game/Sudoku/Game/Tile/UMG_SudokuTile.UMG_SudokuTile
+[2021.09.18-13.15.12:434][743]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.09.18-13.15.12:477][743]LogContentBrowser: Creating deferred item: NewFolder
+[2021.09.18-13.15.15:223][902]LogContentBrowser: Attempting asset rename: NewFolder -> NewFolder
+[2021.09.18-13.15.15:224][902]LogContentBrowser: End creating deferred item NewFolder
+[2021.09.18-13.15.20:752][246]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Sudoku/Game/Line/SudokuLineClass.SudokuLineClass
+[2021.09.18-13.19.46:006][351]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sudoku/Game/UMG_SudokuGameWidget" FILE="../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Sudoku/Game/UMG_SudokuGameWidget.uasset" SILENT=true
+[2021.09.18-13.19.46:142][351]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_SudokuGameWidget8225641241F76F98C589E5B14D9BDD4C.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Sudoku/Game/UMG_SudokuGameWidget.uasset'
+[2021.09.18-13.19.46:159][351]AssetCheck: New page: Asset Save: UMG_SudokuGameWidget
+[2021.09.18-13.19.46:159][351]LogContentValidation: Display: Validating WidgetBlueprint /Game/Sudoku/Game/UMG_SudokuGameWidget.UMG_SudokuGameWidget
+[2021.09.18-13.23.54:400][ 49]LogEditorTransaction: Undo Move Node
+[2021.09.18-13.25.05:475][126]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sudoku/Game/UMG_SudokuGameWidget" FILE="../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Sudoku/Game/UMG_SudokuGameWidget.uasset" SILENT=true
+[2021.09.18-13.25.05:604][126]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_SudokuGameWidget85F119174098B8E5784599951D55AB7F.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Sudoku/Game/UMG_SudokuGameWidget.uasset'
+[2021.09.18-13.25.05:621][126]AssetCheck: New page: Asset Save: UMG_SudokuGameWidget
+[2021.09.18-13.25.05:622][126]LogContentValidation: Display: Validating WidgetBlueprint /Game/Sudoku/Game/UMG_SudokuGameWidget.UMG_SudokuGameWidget
+[2021.09.18-13.25.06:302][156]BlueprintLog: New page: Compile UMG_SudokuGameWidget
+[2021.09.18-13.25.06:322][156]LogBlueprint: Error: [AssetLog] D:\Projects\Unreal Projects\JapanPuzzles\Content\Sudoku\Game\UMG_SudokuGameWidget.uasset: [Compiler] Outer object is required in  Construct Object from Class
+[2021.09.18-13.25.06:323][156]LogBlueprint: Error: [AssetLog] D:\Projects\Unreal Projects\JapanPuzzles\Content\Sudoku\Game\UMG_SudokuGameWidget.uasset: [Compiler] Outer object is required in  Construct Object from Class
+[2021.09.18-13.25.06:493][156]LogUObjectHash: Compacting FUObjectHashTables data took   6.44ms
+[2021.09.18-13.25.06:892][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sudoku/Game/UMG_SudokuGameWidget" FILE="../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Sudoku/Game/UMG_SudokuGameWidget.uasset" SILENT=true
+[2021.09.18-13.25.07:018][172]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_SudokuGameWidgetA5C33AEB4ADA21ACFEB4E68B266DA774.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Sudoku/Game/UMG_SudokuGameWidget.uasset'
+[2021.09.18-13.25.07:034][172]AssetCheck: New page: Asset Save: UMG_SudokuGameWidget
+[2021.09.18-13.25.07:034][172]LogContentValidation: Display: Validating WidgetBlueprint /Game/Sudoku/Game/UMG_SudokuGameWidget.UMG_SudokuGameWidget
+[2021.09.18-13.25.32:085][738]BlueprintLog: New page: Compile UMG_SudokuGameWidget
+[2021.09.18-13.25.32:219][738]LogUObjectHash: Compacting FUObjectHashTables data took   5.91ms
+[2021.09.18-13.25.33:674][797]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sudoku/Game/UMG_SudokuGameWidget" FILE="../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Sudoku/Game/UMG_SudokuGameWidget.uasset" SILENT=true
+[2021.09.18-13.25.33:808][797]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_SudokuGameWidgetC08FE8C042DCBE096528659EACA2C9C1.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Sudoku/Game/UMG_SudokuGameWidget.uasset'
+[2021.09.18-13.25.33:824][797]AssetCheck: New page: Asset Save: UMG_SudokuGameWidget
+[2021.09.18-13.25.33:824][797]LogContentValidation: Display: Validating WidgetBlueprint /Game/Sudoku/Game/UMG_SudokuGameWidget.UMG_SudokuGameWidget
+[2021.09.18-13.25.34:619][836]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.18-13.25.34:629][836]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.18-13.25.34:629][836]PIE: New page: PIE session: SudokuLevel (18 сент. 2021 г., 19:25:34)
+[2021.09.18-13.25.34:629][836]LogPlayLevel: Creating play world package: /Game/Sudoku/UEDPIE_0_SudokuLevel
+[2021.09.18-13.25.34:631][836]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001999s)
+[2021.09.18-13.25.34:633][836]LogAIModule: Creating AISystem for world SudokuLevel
+[2021.09.18-13.25.34:633][836]LogPlayLevel: PIE: World Init took: (0.001732s)
+[2021.09.18-13.25.34:633][836]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Sudoku/SudokuLevel.SudokuLevel to /Game/Sudoku/UEDPIE_0_SudokuLevel.SudokuLevel (0.003890s)
+[2021.09.18-13.25.34:680][836]LogUObjectHash: Compacting FUObjectHashTables data took   5.62ms
+[2021.09.18-13.25.34:682][836]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2021.09.18-13.25.34:682][836]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.18-13.25.34:682][836]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.18-13.25.34:682][836]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.18-13.25.34:682][836]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.18-13.25.34:682][836]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.18-13.25.34:682][836]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.18-13.25.34:682][836]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.18-13.25.34:682][836]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.18-13.25.34:683][836]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.18-13.25.34:683][836]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.18-13.25.34:684][836]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.18-13.25.34:684][836]LogAudioMixer: Display: 1: FrontRight
+[2021.09.18-13.25.34:696][836]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2021.09.18-13.25.34:696][836]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.18-13.25.34:696][836]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.18-13.25.34:696][836]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.18-13.25.34:697][836]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.18-13.25.34:697][836]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.18-13.25.34:697][836]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.18-13.25.34:719][836]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.18-13.25.34:720][836]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.18-13.25.34:720][836]LogInit: FAudioDevice initialized.
+[2021.09.18-13.25.34:720][836]LogAudio: Display: Audio Device (ID: 19) registered with world 'SudokuLevel'.
+[2021.09.18-13.25.34:736][836]LogLoad: Game class is 'GameModeBase'
+[2021.09.18-13.25.34:736][836]LogWorld: Bringing World /Game/Sudoku/UEDPIE_0_SudokuLevel.SudokuLevel up for play (max tick rate 0) at 2021.09.18-16.25.34
+[2021.09.18-13.25.34:737][836]LogWorld: Bringing up level for play took: 0.000494
+[2021.09.18-13.25.34:737][836]LogOnline: OSS: Creating online subsystem instance for: :Context_46
+[2021.09.18-13.25.38:794][836]LogScript: Warning: Runaway loop detected (over 1 000 000 iterations) - see log for stack trace
+	UMG_SudokuGameWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_17.UMG_Sudoku_C_0.WidgetTree.Game
+	Function /Game/Sudoku/Game/UMG_SudokuGameWidget.UMG_SudokuGameWidget_C:InitLines:000B
+[2021.09.18-13.25.38:803][836]PIE: Error: Infinite loop detected. Blueprint:  UMG_SudokuGameWidget Function:  Inputs Call Stack:  Show
+[2021.09.18-13.25.38:807][836]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.18-13.25.38:807][836]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.09.18-13.25.38:808][836]PIE: Server logged in
+[2021.09.18-13.25.38:809][836]PIE: Play in editor total start time 4,18 seconds.
+[2021.09.18-13.25.38:819][836]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.18-13.25.38:820][836]LogWorld: BeginTearingDown for /Game/Sudoku/UEDPIE_0_SudokuLevel
+[2021.09.18-13.25.38:820][836]LogWorld: UWorld::CleanupWorld for SudokuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.09.18-13.25.38:820][836]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.18-13.25.38:829][836]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.18-13.25.38:858][836]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.18-13.25.38:954][836]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.18-13.25.39:077][836]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.18-13.25.39:078][836]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.18-13.25.39:102][836]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.18-13.25.39:765][836]LogUObjectHash: Compacting FUObjectHashTables data took  22.63ms
+[2021.09.18-13.25.39:894][837]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2021.09.18-13.25.44:602][ 37]LogSlate: Window 'Message Log' being destroyed
+[2021.09.18-13.25.44:612][ 37]LogSlate: Window 'Message Log' being destroyed
+[2021.09.18-13.26.02:714][ 19]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sudoku/Game/UMG_SudokuGameWidget" FILE="../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Sudoku/Game/UMG_SudokuGameWidget.uasset" SILENT=true
+[2021.09.18-13.26.02:870][ 19]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_SudokuGameWidget66398C4549AC1F1D07B9F0AB1F69567B.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Sudoku/Game/UMG_SudokuGameWidget.uasset'
+[2021.09.18-13.26.02:891][ 19]AssetCheck: New page: Asset Save: UMG_SudokuGameWidget
+[2021.09.18-13.26.02:891][ 19]LogContentValidation: Display: Validating WidgetBlueprint /Game/Sudoku/Game/UMG_SudokuGameWidget.UMG_SudokuGameWidget
+[2021.09.18-13.26.03:240][ 36]BlueprintLog: New page: Compile UMG_SudokuGameWidget
+[2021.09.18-13.26.03:396][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   8.30ms
+[2021.09.18-13.26.03:891][ 52]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sudoku/Game/UMG_SudokuGameWidget" FILE="../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Sudoku/Game/UMG_SudokuGameWidget.uasset" SILENT=true
+[2021.09.18-13.26.04:025][ 52]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_SudokuGameWidgetF53A07B641F8A31B23DF9981F915A83A.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Sudoku/Game/UMG_SudokuGameWidget.uasset'
+[2021.09.18-13.26.04:047][ 52]AssetCheck: New page: Asset Save: UMG_SudokuGameWidget
+[2021.09.18-13.26.04:047][ 52]LogContentValidation: Display: Validating WidgetBlueprint /Game/Sudoku/Game/UMG_SudokuGameWidget.UMG_SudokuGameWidget
+[2021.09.18-13.26.05:280][108]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.18-13.26.05:289][108]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.18-13.26.05:289][108]PIE: New page: PIE session: SudokuLevel (18 сент. 2021 г., 19:26:05)
+[2021.09.18-13.26.05:289][108]LogPlayLevel: Creating play world package: /Game/Sudoku/UEDPIE_0_SudokuLevel
+[2021.09.18-13.26.05:291][108]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001960s)
+[2021.09.18-13.26.05:293][108]LogAIModule: Creating AISystem for world SudokuLevel
+[2021.09.18-13.26.05:293][108]LogPlayLevel: PIE: World Init took: (0.001682s)
+[2021.09.18-13.26.05:293][108]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Sudoku/SudokuLevel.SudokuLevel to /Game/Sudoku/UEDPIE_0_SudokuLevel.SudokuLevel (0.003796s)
+[2021.09.18-13.26.05:345][108]LogUObjectHash: Compacting FUObjectHashTables data took   7.50ms
+[2021.09.18-13.26.05:346][108]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2021.09.18-13.26.05:346][108]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.18-13.26.05:346][108]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.18-13.26.05:346][108]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.18-13.26.05:346][108]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.18-13.26.05:346][108]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.18-13.26.05:346][108]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.18-13.26.05:346][108]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.18-13.26.05:346][108]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.18-13.26.05:346][108]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.18-13.26.05:346][108]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.18-13.26.05:348][108]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.18-13.26.05:348][108]LogAudioMixer: Display: 1: FrontRight
+[2021.09.18-13.26.05:358][108]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2021.09.18-13.26.05:359][108]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.18-13.26.05:359][108]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.18-13.26.05:359][108]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.18-13.26.05:359][108]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.18-13.26.05:359][108]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.18-13.26.05:360][108]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.18-13.26.05:382][108]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.18-13.26.05:382][108]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.18-13.26.05:382][108]LogInit: FAudioDevice initialized.
+[2021.09.18-13.26.05:382][108]LogAudio: Display: Audio Device (ID: 20) registered with world 'SudokuLevel'.
+[2021.09.18-13.26.05:399][108]LogLoad: Game class is 'GameModeBase'
+[2021.09.18-13.26.05:400][108]LogWorld: Bringing World /Game/Sudoku/UEDPIE_0_SudokuLevel.SudokuLevel up for play (max tick rate 0) at 2021.09.18-16.26.05
+[2021.09.18-13.26.05:400][108]LogWorld: Bringing up level for play took: 0.000547
+[2021.09.18-13.26.05:400][108]LogOnline: OSS: Creating online subsystem instance for: :Context_47
+[2021.09.18-13.26.05:553][108]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.18-13.26.05:553][108]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.09.18-13.26.05:553][108]PIE: Server logged in
+[2021.09.18-13.26.05:554][108]PIE: Play in editor total start time 0,266 seconds.
+[2021.09.18-13.26.09:719][298]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2021.09.18-13.26.09:719][298]LogScript: Warning: Script Msg: Modulo by zero
+[2021.09.18-13.26.10:232][323]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2021.09.18-13.26.10:232][323]LogScript: Warning: Script Msg: Modulo by zero
+[2021.09.18-13.26.13:041][433]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2021.09.18-13.26.13:041][433]LogScript: Warning: Script Msg: Modulo by zero
+[2021.09.18-13.26.14:351][494]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.18-13.26.14:351][494]LogWorld: BeginTearingDown for /Game/Sudoku/UEDPIE_0_SudokuLevel
+[2021.09.18-13.26.14:351][494]LogWorld: UWorld::CleanupWorld for SudokuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.09.18-13.26.14:351][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.18-13.26.14:360][494]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.18-13.26.14:372][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.18-13.26.14:418][494]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.18-13.26.14:422][494]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.18-13.26.14:424][494]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.18-13.26.14:447][494]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.18-13.26.14:461][494]LogUObjectHash: Compacting FUObjectHashTables data took   5.94ms
+[2021.09.18-13.26.14:489][495]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2021.09.18-13.26.45:167][142]LogSlate: Took 0.033370 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.09.18-13.27.17:161][  5]BlueprintLog: New page: Compile UMG_SudokuGameWidget
+[2021.09.18-13.27.17:214][  5]LogBlueprint: Error: [AssetLog] D:\Projects\Unreal Projects\JapanPuzzles\Content\Sudoku\Game\UMG_SudokuGameWidget.uasset: [Compiler] This blueprint (self) is not a SudokuLineClass_C, therefore ' Target ' must have a connection.
+[2021.09.18-13.27.17:292][  5]LogUObjectHash: Compacting FUObjectHashTables data took   7.30ms
+[2021.09.18-13.27.17:570][ 11]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sudoku/Game/UMG_SudokuGameWidget" FILE="../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Sudoku/Game/UMG_SudokuGameWidget.uasset" SILENT=true
+[2021.09.18-13.27.17:700][ 11]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_SudokuGameWidgetBB97FB124972199292C4418DCC783B92.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Sudoku/Game/UMG_SudokuGameWidget.uasset'
+[2021.09.18-13.27.17:720][ 11]AssetCheck: New page: Asset Save: UMG_SudokuGameWidget
+[2021.09.18-13.27.17:720][ 11]LogContentValidation: Display: Validating WidgetBlueprint /Game/Sudoku/Game/UMG_SudokuGameWidget.UMG_SudokuGameWidget
+[2021.09.18-13.27.55:841][892]BlueprintLog: New page: Compile UMG_SudokuGameWidget
+[2021.09.18-13.27.56:005][892]LogUObjectHash: Compacting FUObjectHashTables data took   8.16ms
+[2021.09.18-13.27.56:385][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sudoku/Game/UMG_SudokuGameWidget" FILE="../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Sudoku/Game/UMG_SudokuGameWidget.uasset" SILENT=true
+[2021.09.18-13.27.56:527][902]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_SudokuGameWidgetAFADAAF9432A1D9F761FD0BB8EEC9723.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Sudoku/Game/UMG_SudokuGameWidget.uasset'
+[2021.09.18-13.27.56:569][902]AssetCheck: New page: Asset Save: UMG_SudokuGameWidget
+[2021.09.18-13.27.56:570][902]LogContentValidation: Display: Validating WidgetBlueprint /Game/Sudoku/Game/UMG_SudokuGameWidget.UMG_SudokuGameWidget
+[2021.09.18-13.27.57:423][945]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.18-13.27.57:437][945]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.18-13.27.57:437][945]PIE: New page: PIE session: SudokuLevel (18 сент. 2021 г., 19:27:57)
+[2021.09.18-13.27.57:437][945]LogPlayLevel: Creating play world package: /Game/Sudoku/UEDPIE_0_SudokuLevel
+[2021.09.18-13.27.57:439][945]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001846s)
+[2021.09.18-13.27.57:440][945]LogAIModule: Creating AISystem for world SudokuLevel
+[2021.09.18-13.27.57:441][945]LogPlayLevel: PIE: World Init took: (0.001831s)
+[2021.09.18-13.27.57:441][945]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Sudoku/SudokuLevel.SudokuLevel to /Game/Sudoku/UEDPIE_0_SudokuLevel.SudokuLevel (0.003838s)
+[2021.09.18-13.27.57:493][945]LogUObjectHash: Compacting FUObjectHashTables data took   7.80ms
+[2021.09.18-13.27.57:494][945]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2021.09.18-13.27.57:494][945]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.18-13.27.57:494][945]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.18-13.27.57:494][945]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.18-13.27.57:494][945]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.18-13.27.57:494][945]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.18-13.27.57:494][945]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.18-13.27.57:494][945]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.18-13.27.57:494][945]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.18-13.27.57:495][945]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.18-13.27.57:495][945]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.18-13.27.57:496][945]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.18-13.27.57:497][945]LogAudioMixer: Display: 1: FrontRight
+[2021.09.18-13.27.57:508][945]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2021.09.18-13.27.57:508][945]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.18-13.27.57:508][945]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.18-13.27.57:508][945]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.18-13.27.57:509][945]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.18-13.27.57:509][945]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.18-13.27.57:509][945]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.18-13.27.57:531][945]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.18-13.27.57:531][945]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.18-13.27.57:531][945]LogInit: FAudioDevice initialized.
+[2021.09.18-13.27.57:531][945]LogAudio: Display: Audio Device (ID: 21) registered with world 'SudokuLevel'.
+[2021.09.18-13.27.57:548][945]LogLoad: Game class is 'GameModeBase'
+[2021.09.18-13.27.57:549][945]LogWorld: Bringing World /Game/Sudoku/UEDPIE_0_SudokuLevel.SudokuLevel up for play (max tick rate 0) at 2021.09.18-16.27.57
+[2021.09.18-13.27.57:549][945]LogWorld: Bringing up level for play took: 0.000469
+[2021.09.18-13.27.57:549][945]LogOnline: OSS: Creating online subsystem instance for: :Context_48
+[2021.09.18-13.27.57:749][945]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.18-13.27.57:749][945]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.09.18-13.27.57:750][945]PIE: Server logged in
+[2021.09.18-13.27.57:751][945]PIE: Play in editor total start time 0,315 seconds.
+[2021.09.18-13.28.02:099][115]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2021.09.18-13.28.02:099][115]LogScript: Warning: Script Msg: Modulo by zero
+[2021.09.18-13.28.03:290][115]LogScript: Warning: Runaway loop detected (over 1 000 000 iterations) - see log for stack trace
+	SudokuLineClass_C /Game/Sudoku/Game/Line/SudokuLineClass.SudokuLineClass:SudokuLineClass_C_494769
+	Function /Game/Sudoku/Game/Line/SudokuLineClass.SudokuLineClass_C:IsThereError:0088
+[2021.09.18-13.28.03:291][115]PIE: Error: Infinite loop detected. Blueprint:  SudokuLineClass Function:  Sequence Call Stack:  Show
+[2021.09.18-13.28.04:511][115]LogScript: Warning: Runaway loop detected (over 1 000 000 iterations) - see log for stack trace
+	SudokuLineClass_C /Game/Sudoku/Game/Line/SudokuLineClass.SudokuLineClass:SudokuLineClass_C_494771
+	Function /Game/Sudoku/Game/Line/SudokuLineClass.SudokuLineClass_C:IsThereError:007B
+[2021.09.18-13.28.04:511][115]PIE: Error: Infinite loop detected. Blueprint:  SudokuLineClass Function:  Branch Call Stack:  Show
+[2021.09.18-13.28.05:802][115]LogScript: Warning: Runaway loop detected (over 1 000 000 iterations) - see log for stack trace
+	SudokuLineClass_C /Game/Sudoku/Game/Line/SudokuLineClass.SudokuLineClass:SudokuLineClass_C_494773
+	Function /Game/Sudoku/Game/Line/SudokuLineClass.SudokuLineClass_C:IsThereError:007B
+[2021.09.18-13.28.05:802][115]PIE: Error: Infinite loop detected. Blueprint:  SudokuLineClass Function:  Branch Call Stack:  Show
+[2021.09.18-13.28.07:081][115]LogScript: Warning: Runaway loop detected (over 1 000 000 iterations) - see log for stack trace
+	SudokuLineClass_C /Game/Sudoku/Game/Line/SudokuLineClass.SudokuLineClass:SudokuLineClass_C_494775
+	Function /Game/Sudoku/Game/Line/SudokuLineClass.SudokuLineClass_C:IsThereError:007B
+[2021.09.18-13.28.07:081][115]PIE: Error: Infinite loop detected. Blueprint:  SudokuLineClass Function:  Branch Call Stack:  Show
+[2021.09.18-13.28.08:274][115]LogScript: Warning: Runaway loop detected (over 1 000 000 iterations) - see log for stack trace
+	SudokuLineClass_C /Game/Sudoku/Game/Line/SudokuLineClass.SudokuLineClass:SudokuLineClass_C_494777
+	Function /Game/Sudoku/Game/Line/SudokuLineClass.SudokuLineClass_C:IsThereError:007B
+[2021.09.18-13.28.08:274][115]PIE: Error: Infinite loop detected. Blueprint:  SudokuLineClass Function:  Branch Call Stack:  Show
+[2021.09.18-13.28.09:509][115]LogScript: Warning: Runaway loop detected (over 1 000 000 iterations) - see log for stack trace
+	SudokuLineClass_C /Game/Sudoku/Game/Line/SudokuLineClass.SudokuLineClass:SudokuLineClass_C_494779
+	Function /Game/Sudoku/Game/Line/SudokuLineClass.SudokuLineClass_C:IsThereError:007B
+[2021.09.18-13.28.09:509][115]PIE: Error: Infinite loop detected. Blueprint:  SudokuLineClass Function:  Branch Call Stack:  Show
+[2021.09.18-13.28.10:745][115]LogScript: Warning: Runaway loop detected (over 1 000 000 iterations) - see log for stack trace
+	SudokuLineClass_C /Game/Sudoku/Game/Line/SudokuLineClass.SudokuLineClass:SudokuLineClass_C_494781
+	Function /Game/Sudoku/Game/Line/SudokuLineClass.SudokuLineClass_C:IsThereError:007B
+[2021.09.18-13.28.10:745][115]PIE: Error: Infinite loop detected. Blueprint:  SudokuLineClass Function:  Branch Call Stack:  Show
+[2021.09.18-13.28.11:987][115]LogScript: Warning: Runaway loop detected (over 1 000 000 iterations) - see log for stack trace
+	SudokuLineClass_C /Game/Sudoku/Game/Line/SudokuLineClass.SudokuLineClass:SudokuLineClass_C_494783
+	Function /Game/Sudoku/Game/Line/SudokuLineClass.SudokuLineClass_C:IsThereError:007B
+[2021.09.18-13.28.11:987][115]PIE: Error: Infinite loop detected. Blueprint:  SudokuLineClass Function:  Branch Call Stack:  Show
+[2021.09.18-13.28.13:231][115]LogScript: Warning: Runaway loop detected (over 1 000 000 iterations) - see log for stack trace
+	SudokuLineClass_C /Game/Sudoku/Game/Line/SudokuLineClass.SudokuLineClass:SudokuLineClass_C_494785
+	Function /Game/Sudoku/Game/Line/SudokuLineClass.SudokuLineClass_C:IsThereError:007B
+[2021.09.18-13.28.13:232][115]PIE: Error: Infinite loop detected. Blueprint:  SudokuLineClass Function:  Branch Call Stack:  Show
+[2021.09.18-13.28.14:525][115]LogScript: Warning: Runaway loop detected (over 1 000 000 iterations) - see log for stack trace
+	SudokuLineClass_C /Game/Sudoku/Game/Line/SudokuLineClass.SudokuLineClass:SudokuLineClass_C_494768
+	Function /Game/Sudoku/Game/Line/SudokuLineClass.SudokuLineClass_C:IsThereError:0024
+[2021.09.18-13.28.14:525][115]PIE: Error: Infinite loop detected. Blueprint:  SudokuLineClass Function:  Inputs Call Stack:  Show
+[2021.09.18-13.28.15:757][115]LogScript: Warning: Runaway loop detected (over 1 000 000 iterations) - see log for stack trace
+	SudokuLineClass_C /Game/Sudoku/Game/Line/SudokuLineClass.SudokuLineClass:SudokuLineClass_C_494770
+	Function /Game/Sudoku/Game/Line/SudokuLineClass.SudokuLineClass_C:IsThereError:007B
+[2021.09.18-13.28.15:757][115]PIE: Error: Infinite loop detected. Blueprint:  SudokuLineClass Function:  Branch Call Stack:  Show
+[2021.09.18-13.28.16:953][115]LogScript: Warning: Runaway loop detected (over 1 000 000 iterations) - see log for stack trace
+	SudokuLineClass_C /Game/Sudoku/Game/Line/SudokuLineClass.SudokuLineClass:SudokuLineClass_C_494772
+	Function /Game/Sudoku/Game/Line/SudokuLineClass.SudokuLineClass_C:IsThereError:007B
+[2021.09.18-13.28.16:953][115]PIE: Error: Infinite loop detected. Blueprint:  SudokuLineClass Function:  Branch Call Stack:  Show
+[2021.09.18-13.28.18:174][115]LogScript: Warning: Runaway loop detected (over 1 000 000 iterations) - see log for stack trace
+	SudokuLineClass_C /Game/Sudoku/Game/Line/SudokuLineClass.SudokuLineClass:SudokuLineClass_C_494774
+	Function /Game/Sudoku/Game/Line/SudokuLineClass.SudokuLineClass_C:IsThereError:007B
+[2021.09.18-13.28.18:174][115]PIE: Error: Infinite loop detected. Blueprint:  SudokuLineClass Function:  Branch Call Stack:  Show
+[2021.09.18-13.28.19:520][115]LogScript: Warning: Runaway loop detected (over 1 000 000 iterations) - see log for stack trace
+	SudokuLineClass_C /Game/Sudoku/Game/Line/SudokuLineClass.SudokuLineClass:SudokuLineClass_C_494776
+	Function /Game/Sudoku/Game/Line/SudokuLineClass.SudokuLineClass_C:IsThereError:007B
+[2021.09.18-13.28.19:520][115]PIE: Error: Infinite loop detected. Blueprint:  SudokuLineClass Function:  Branch Call Stack:  Show
+[2021.09.18-13.28.20:821][115]LogScript: Warning: Runaway loop detected (over 1 000 000 iterations) - see log for stack trace
+	SudokuLineClass_C /Game/Sudoku/Game/Line/SudokuLineClass.SudokuLineClass:SudokuLineClass_C_494778
+	Function /Game/Sudoku/Game/Line/SudokuLineClass.SudokuLineClass_C:IsThereError:007B
+[2021.09.18-13.28.20:822][115]PIE: Error: Infinite loop detected. Blueprint:  SudokuLineClass Function:  Branch Call Stack:  Show
+[2021.09.18-13.28.22:070][115]LogScript: Warning: Runaway loop detected (over 1 000 000 iterations) - see log for stack trace
+	SudokuLineClass_C /Game/Sudoku/Game/Line/SudokuLineClass.SudokuLineClass:SudokuLineClass_C_494780
+	Function /Game/Sudoku/Game/Line/SudokuLineClass.SudokuLineClass_C:IsThereError:007B
+[2021.09.18-13.28.22:070][115]PIE: Error: Infinite loop detected. Blueprint:  SudokuLineClass Function:  Branch Call Stack:  Show
+[2021.09.18-13.28.23:307][115]LogScript: Warning: Runaway loop detected (over 1 000 000 iterations) - see log for stack trace
+	SudokuLineClass_C /Game/Sudoku/Game/Line/SudokuLineClass.SudokuLineClass:SudokuLineClass_C_494782
+	Function /Game/Sudoku/Game/Line/SudokuLineClass.SudokuLineClass_C:IsThereError:007B
+[2021.09.18-13.28.23:307][115]PIE: Error: Infinite loop detected. Blueprint:  SudokuLineClass Function:  Branch Call Stack:  Show
+[2021.09.18-13.28.24:677][115]LogScript: Warning: Runaway loop detected (over 1 000 000 iterations) - see log for stack trace
+	SudokuLineClass_C /Game/Sudoku/Game/Line/SudokuLineClass.SudokuLineClass:SudokuLineClass_C_494784
+	Function /Game/Sudoku/Game/Line/SudokuLineClass.SudokuLineClass_C:IsThereError:007B
+[2021.09.18-13.28.24:677][115]PIE: Error: Infinite loop detected. Blueprint:  SudokuLineClass Function:  Branch Call Stack:  Show
+[2021.09.18-13.28.24:772][115]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.18-13.28.24:772][115]LogWorld: BeginTearingDown for /Game/Sudoku/UEDPIE_0_SudokuLevel
+[2021.09.18-13.28.24:772][115]LogWorld: UWorld::CleanupWorld for SudokuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.09.18-13.28.24:773][115]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.18-13.28.24:793][115]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.18-13.28.24:806][115]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.18-13.28.24:853][115]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.18-13.28.24:854][115]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.18-13.28.24:855][115]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.18-13.28.24:880][115]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.18-13.28.24:895][115]LogUObjectHash: Compacting FUObjectHashTables data took   6.61ms
+[2021.09.18-13.28.25:032][116]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2021.09.18-13.28.29:749][241]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Engine/EditorBlueprintResources/StandardMacros.StandardMacros
+[2021.09.18-13.29.21:467][ 19]BlueprintLog: New page: Compile SudokuLineClass
+[2021.09.18-13.29.21:550][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   8.09ms
+[2021.09.18-13.29.22:115][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sudoku/Game/Line/SudokuLineClass" FILE="../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Sudoku/Game/Line/SudokuLineClass.uasset" SILENT=true
+[2021.09.18-13.29.22:133][ 36]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/SudokuLineClass0340DEE3409C9BCD35B4D0B7D44FDDE4.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Sudoku/Game/Line/SudokuLineClass.uasset'
+[2021.09.18-13.29.22:154][ 36]AssetCheck: New page: Asset Save: SudokuLineClass
+[2021.09.18-13.29.22:154][ 36]LogContentValidation: Display: Validating Blueprint /Game/Sudoku/Game/Line/SudokuLineClass.SudokuLineClass
+[2021.09.18-13.29.22:952][ 64]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.18-13.29.22:961][ 64]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.18-13.29.22:961][ 64]PIE: New page: PIE session: SudokuLevel (18 сент. 2021 г., 19:29:22)
+[2021.09.18-13.29.22:961][ 64]LogPlayLevel: Creating play world package: /Game/Sudoku/UEDPIE_0_SudokuLevel
+[2021.09.18-13.29.22:963][ 64]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001750s)
+[2021.09.18-13.29.22:965][ 64]LogAIModule: Creating AISystem for world SudokuLevel
+[2021.09.18-13.29.22:965][ 64]LogPlayLevel: PIE: World Init took: (0.001738s)
+[2021.09.18-13.29.22:965][ 64]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Sudoku/SudokuLevel.SudokuLevel to /Game/Sudoku/UEDPIE_0_SudokuLevel.SudokuLevel (0.003646s)
+[2021.09.18-13.29.23:018][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   7.87ms
+[2021.09.18-13.29.23:019][ 64]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2021.09.18-13.29.23:019][ 64]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.18-13.29.23:019][ 64]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.18-13.29.23:019][ 64]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.18-13.29.23:019][ 64]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.18-13.29.23:019][ 64]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.18-13.29.23:019][ 64]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.18-13.29.23:019][ 64]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.18-13.29.23:019][ 64]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.18-13.29.23:020][ 64]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.18-13.29.23:020][ 64]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.18-13.29.23:021][ 64]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.18-13.29.23:021][ 64]LogAudioMixer: Display: 1: FrontRight
+[2021.09.18-13.29.23:032][ 64]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2021.09.18-13.29.23:032][ 64]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.18-13.29.23:032][ 64]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.18-13.29.23:032][ 64]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.18-13.29.23:033][ 64]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.18-13.29.23:033][ 64]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.18-13.29.23:033][ 64]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.18-13.29.23:055][ 64]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.18-13.29.23:055][ 64]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.18-13.29.23:055][ 64]LogInit: FAudioDevice initialized.
+[2021.09.18-13.29.23:056][ 64]LogAudio: Display: Audio Device (ID: 22) registered with world 'SudokuLevel'.
+[2021.09.18-13.29.23:070][ 64]LogLoad: Game class is 'GameModeBase'
+[2021.09.18-13.29.23:071][ 64]LogWorld: Bringing World /Game/Sudoku/UEDPIE_0_SudokuLevel.SudokuLevel up for play (max tick rate 0) at 2021.09.18-16.29.23
+[2021.09.18-13.29.23:071][ 64]LogWorld: Bringing up level for play took: 0.000491
+[2021.09.18-13.29.23:072][ 64]LogOnline: OSS: Creating online subsystem instance for: :Context_50
+[2021.09.18-13.29.23:228][ 64]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.18-13.29.23:228][ 64]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.09.18-13.29.23:228][ 64]PIE: Server logged in
+[2021.09.18-13.29.23:230][ 64]PIE: Play in editor total start time 0,269 seconds.
+[2021.09.18-13.29.24:090][100]LogSlate: Window 'Message Log' being destroyed
+[2021.09.18-13.29.24:106][100]LogSlate: Window 'Message Log' being destroyed
+[2021.09.18-13.29.28:309][306]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2021.09.18-13.29.28:309][306]LogScript: Warning: Script Msg: Modulo by zero
+[2021.09.18-13.29.30:974][417]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2021.09.18-13.29.30:974][417]LogScript: Warning: Script Msg: Modulo by zero
+[2021.09.18-13.29.31:488][442]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2021.09.18-13.29.31:488][442]LogScript: Warning: Script Msg: Modulo by zero
+[2021.09.18-13.29.31:915][463]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2021.09.18-13.29.31:915][463]LogScript: Warning: Script Msg: Modulo by zero
+[2021.09.18-13.29.32:735][503]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2021.09.18-13.29.32:735][503]LogScript: Warning: Script Msg: Modulo by zero
+[2021.09.18-13.29.33:245][528]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2021.09.18-13.29.33:245][528]LogScript: Warning: Script Msg: Modulo by zero
+[2021.09.18-13.29.35:739][637]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.18-13.29.35:739][637]LogWorld: BeginTearingDown for /Game/Sudoku/UEDPIE_0_SudokuLevel
+[2021.09.18-13.29.35:739][637]LogWorld: UWorld::CleanupWorld for SudokuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.09.18-13.29.35:739][637]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.18-13.29.35:745][637]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.18-13.29.35:770][637]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.18-13.29.35:841][637]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.18-13.29.35:842][637]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.18-13.29.35:844][637]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.18-13.29.35:867][637]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.18-13.29.35:882][637]LogUObjectHash: Compacting FUObjectHashTables data took   6.62ms
+[2021.09.18-13.29.35:910][638]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2021.09.18-13.29.59:354][ 66]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sudoku/Game/Line/SudokuLineClass" FILE="../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Sudoku/Game/Line/SudokuLineClass.uasset" SILENT=true
+[2021.09.18-13.29.59:387][ 66]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/SudokuLineClass5BC7698747021EA54D48DC8717AB50C8.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Sudoku/Game/Line/SudokuLineClass.uasset'
+[2021.09.18-13.29.59:410][ 66]AssetCheck: New page: Asset Save: SudokuLineClass
+[2021.09.18-13.29.59:410][ 66]LogContentValidation: Display: Validating Blueprint /Game/Sudoku/Game/Line/SudokuLineClass.SudokuLineClass
+[2021.09.18-13.30.00:814][126]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.18-13.30.00:825][126]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.09.18-13.30.00:830][126]LogPlayLevel: [PlayLevel] Compiling SudokuLineClass before play...
+[2021.09.18-13.30.00:930][126]LogUObjectHash: Compacting FUObjectHashTables data took   8.61ms
+[2021.09.18-13.30.00:930][126]LogPlayLevel: PlayLevel: Blueprint regeneration took 105 ms (1 blueprints)
+[2021.09.18-13.30.00:930][126]PIE: New page: PIE session: SudokuLevel (18 сент. 2021 г., 19:30:00)
+[2021.09.18-13.30.00:932][126]LogPlayLevel: Creating play world package: /Game/Sudoku/UEDPIE_0_SudokuLevel
+[2021.09.18-13.30.00:933][126]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001751s)
+[2021.09.18-13.30.00:935][126]LogAIModule: Creating AISystem for world SudokuLevel
+[2021.09.18-13.30.00:935][126]LogPlayLevel: PIE: World Init took: (0.001570s)
+[2021.09.18-13.30.00:935][126]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Sudoku/SudokuLevel.SudokuLevel to /Game/Sudoku/UEDPIE_0_SudokuLevel.SudokuLevel (0.003468s)
+[2021.09.18-13.30.00:985][126]LogUObjectHash: Compacting FUObjectHashTables data took   5.67ms
+[2021.09.18-13.30.00:985][126]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2021.09.18-13.30.00:985][126]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.18-13.30.00:985][126]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.18-13.30.00:985][126]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.18-13.30.00:985][126]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.18-13.30.00:986][126]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.18-13.30.00:986][126]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.18-13.30.00:986][126]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.18-13.30.00:986][126]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.18-13.30.00:986][126]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.18-13.30.00:986][126]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.18-13.30.00:988][126]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.18-13.30.00:988][126]LogAudioMixer: Display: 1: FrontRight
+[2021.09.18-13.30.01:000][126]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2021.09.18-13.30.01:000][126]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.18-13.30.01:000][126]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.18-13.30.01:000][126]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.18-13.30.01:001][126]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.18-13.30.01:001][126]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.18-13.30.01:001][126]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.18-13.30.01:023][126]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.18-13.30.01:023][126]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.18-13.30.01:023][126]LogInit: FAudioDevice initialized.
+[2021.09.18-13.30.01:023][126]LogAudio: Display: Audio Device (ID: 23) registered with world 'SudokuLevel'.
+[2021.09.18-13.30.01:033][126]LogLoad: Game class is 'GameModeBase'
+[2021.09.18-13.30.01:033][126]LogWorld: Bringing World /Game/Sudoku/UEDPIE_0_SudokuLevel.SudokuLevel up for play (max tick rate 0) at 2021.09.18-16.30.01
+[2021.09.18-13.30.01:034][126]LogWorld: Bringing up level for play took: 0.000481
+[2021.09.18-13.30.01:034][126]LogOnline: OSS: Creating online subsystem instance for: :Context_51
+[2021.09.18-13.30.01:198][126]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.18-13.30.01:198][126]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.09.18-13.30.01:198][126]PIE: Server logged in
+[2021.09.18-13.30.01:200][126]PIE: Play in editor total start time 0,375 seconds.
+[2021.09.18-13.30.05:850][332]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2021.09.18-13.30.05:850][332]LogScript: Warning: Script Msg: Modulo by zero
+[2021.09.18-13.30.07:267][402]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2021.09.18-13.30.07:267][402]LogScript: Warning: Script Msg: Modulo by zero
+[2021.09.18-13.30.08:999][453]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2021.09.18-13.30.08:999][453]LogScript: Warning: Script Msg: Modulo by zero
+[2021.09.18-13.30.12:410][603]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.18-13.30.12:410][603]LogWorld: BeginTearingDown for /Game/Sudoku/UEDPIE_0_SudokuLevel
+[2021.09.18-13.30.12:410][603]LogWorld: UWorld::CleanupWorld for SudokuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.09.18-13.30.12:410][603]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.18-13.30.12:418][603]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.18-13.30.12:429][603]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.18-13.30.12:479][603]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.18-13.30.12:479][603]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.18-13.30.12:480][603]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.18-13.30.12:519][603]LogUObjectHash: Compacting FUObjectHashTables data took   6.20ms
+[2021.09.18-13.30.12:547][604]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2021.09.18-13.30.39:225][818]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2021.09.18-13.30.39:225][818]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.18-13.31.49:031][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sudoku/Game/Line/SudokuLineClass" FILE="../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Sudoku/Game/Line/SudokuLineClass.uasset" SILENT=true
+[2021.09.18-13.31.49:069][ 98]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/SudokuLineClass2DE5B1394E8588A8BB382B87D0B1783B.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Sudoku/Game/Line/SudokuLineClass.uasset'
+[2021.09.18-13.31.49:091][ 98]AssetCheck: New page: Asset Save: SudokuLineClass
+[2021.09.18-13.31.49:091][ 98]LogContentValidation: Display: Validating Blueprint /Game/Sudoku/Game/Line/SudokuLineClass.SudokuLineClass
+[2021.09.18-13.32.40:159][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sudoku/Game/UMG_SudokuGameWidget" FILE="../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Sudoku/Game/UMG_SudokuGameWidget.uasset" SILENT=true
+[2021.09.18-13.32.40:306][838]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_SudokuGameWidget7BB3290F491F801E09CE4AAD3D8E1302.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Sudoku/Game/UMG_SudokuGameWidget.uasset'
+[2021.09.18-13.32.40:328][838]AssetCheck: New page: Asset Save: UMG_SudokuGameWidget
+[2021.09.18-13.32.40:328][838]LogContentValidation: Display: Validating WidgetBlueprint /Game/Sudoku/Game/UMG_SudokuGameWidget.UMG_SudokuGameWidget
+[2021.09.18-13.32.41:412][883]BlueprintLog: New page: Compile UMG_SudokuGameWidget
+[2021.09.18-13.32.41:466][883]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal Projects\JapanPuzzles\Content\Sudoku\Game\UMG_SudokuGameWidget.uasset: [Compiler] Could not find the function 'ClearLine' called from  Clear Line
+[2021.09.18-13.32.41:466][883]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal Projects\JapanPuzzles\Content\Sudoku\Game\UMG_SudokuGameWidget.uasset: [Compiler] Could not find the function 'ClearLine' called from  Clear Line
+[2021.09.18-13.32.41:596][883]LogUObjectHash: Compacting FUObjectHashTables data took   8.43ms
+[2021.09.18-13.32.41:874][891]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sudoku/Game/UMG_SudokuGameWidget" FILE="../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Sudoku/Game/UMG_SudokuGameWidget.uasset" SILENT=true
+[2021.09.18-13.32.42:012][891]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_SudokuGameWidget4E99F116496FAE5C166F179B8C6D7553.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Sudoku/Game/UMG_SudokuGameWidget.uasset'
+[2021.09.18-13.32.42:035][891]AssetCheck: New page: Asset Save: UMG_SudokuGameWidget
+[2021.09.18-13.32.42:035][891]LogContentValidation: Display: Validating WidgetBlueprint /Game/Sudoku/Game/UMG_SudokuGameWidget.UMG_SudokuGameWidget
+[2021.09.18-13.32.45:616][ 59]BlueprintLog: New page: Compile SudokuLineClass
+[2021.09.18-13.32.45:699][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   8.54ms
+[2021.09.18-13.32.46:777][105]BlueprintLog: New page: Compile UMG_SudokuGameWidget
+[2021.09.18-13.32.46:899][105]LogUObjectHash: Compacting FUObjectHashTables data took   7.75ms
+[2021.09.18-13.33.00:576][769]BlueprintLog: New page: Compile UMG_SudokuGameWidget
+[2021.09.18-13.33.00:703][769]LogUObjectHash: Compacting FUObjectHashTables data took   8.24ms
+[2021.09.18-13.33.01:206][789]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sudoku/Game/UMG_SudokuGameWidget" FILE="../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Sudoku/Game/UMG_SudokuGameWidget.uasset" SILENT=true
+[2021.09.18-13.33.01:344][789]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_SudokuGameWidget49BD96F749B1D9D297A66CAD348D1AED.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Sudoku/Game/UMG_SudokuGameWidget.uasset'
+[2021.09.18-13.33.01:364][789]AssetCheck: New page: Asset Save: UMG_SudokuGameWidget
+[2021.09.18-13.33.01:364][789]LogContentValidation: Display: Validating WidgetBlueprint /Game/Sudoku/Game/UMG_SudokuGameWidget.UMG_SudokuGameWidget
+[2021.09.18-13.33.04:385][922]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.18-13.33.04:395][922]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.09.18-13.33.04:400][922]LogPlayLevel: [PlayLevel] Compiling UMG_SudokuGameWidget before play...
+[2021.09.18-13.33.04:611][922]LogUObjectHash: Compacting FUObjectHashTables data took   8.23ms
+[2021.09.18-13.33.04:612][922]LogPlayLevel: PlayLevel: Blueprint regeneration took 217 ms (1 blueprints)
+[2021.09.18-13.33.04:612][922]PIE: New page: PIE session: SudokuLevel (18 сент. 2021 г., 19:33:04)
+[2021.09.18-13.33.04:612][922]LogPlayLevel: Creating play world package: /Game/Sudoku/UEDPIE_0_SudokuLevel
+[2021.09.18-13.33.04:614][922]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001808s)
+[2021.09.18-13.33.04:616][922]LogAIModule: Creating AISystem for world SudokuLevel
+[2021.09.18-13.33.04:616][922]LogPlayLevel: PIE: World Init took: (0.001715s)
+[2021.09.18-13.33.04:616][922]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Sudoku/SudokuLevel.SudokuLevel to /Game/Sudoku/UEDPIE_0_SudokuLevel.SudokuLevel (0.003678s)
+[2021.09.18-13.33.04:661][922]LogUObjectHash: Compacting FUObjectHashTables data took   5.78ms
+[2021.09.18-13.33.04:661][922]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2021.09.18-13.33.04:661][922]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.18-13.33.04:661][922]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.18-13.33.04:661][922]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.18-13.33.04:661][922]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.18-13.33.04:661][922]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.18-13.33.04:661][922]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.18-13.33.04:661][922]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.18-13.33.04:661][922]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.18-13.33.04:662][922]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.18-13.33.04:662][922]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.18-13.33.04:663][922]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.18-13.33.04:663][922]LogAudioMixer: Display: 1: FrontRight
+[2021.09.18-13.33.04:674][922]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2021.09.18-13.33.04:675][922]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.18-13.33.04:675][922]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.18-13.33.04:675][922]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.18-13.33.04:676][922]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.18-13.33.04:676][922]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.18-13.33.04:676][922]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.18-13.33.04:698][922]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.18-13.33.04:698][922]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.18-13.33.04:698][922]LogInit: FAudioDevice initialized.
+[2021.09.18-13.33.04:698][922]LogAudio: Display: Audio Device (ID: 24) registered with world 'SudokuLevel'.
+[2021.09.18-13.33.04:711][922]LogLoad: Game class is 'GameModeBase'
+[2021.09.18-13.33.04:712][922]LogWorld: Bringing World /Game/Sudoku/UEDPIE_0_SudokuLevel.SudokuLevel up for play (max tick rate 0) at 2021.09.18-16.33.04
+[2021.09.18-13.33.04:712][922]LogWorld: Bringing up level for play took: 0.000491
+[2021.09.18-13.33.04:712][922]LogOnline: OSS: Creating online subsystem instance for: :Context_52
+[2021.09.18-13.33.04:866][922]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.18-13.33.04:867][922]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.09.18-13.33.04:867][922]PIE: Server logged in
+[2021.09.18-13.33.04:868][922]PIE: Play in editor total start time 0,474 seconds.
+[2021.09.18-13.33.08:298][ 65]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2021.09.18-13.33.08:298][ 65]LogScript: Warning: Script Msg: Modulo by zero
+[2021.09.18-13.33.10:488][173]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2021.09.18-13.33.10:488][173]LogScript: Warning: Script Msg: Modulo by zero
+[2021.09.18-13.33.16:129][456]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.18-13.33.16:129][456]LogWorld: BeginTearingDown for /Game/Sudoku/UEDPIE_0_SudokuLevel
+[2021.09.18-13.33.16:130][456]LogWorld: UWorld::CleanupWorld for SudokuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.09.18-13.33.16:130][456]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.18-13.33.16:136][456]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.18-13.33.16:152][456]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.18-13.33.16:199][456]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.18-13.33.16:205][456]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.18-13.33.16:206][456]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.18-13.33.16:230][456]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.18-13.33.16:247][456]LogUObjectHash: Compacting FUObjectHashTables data took   6.54ms
+[2021.09.18-13.33.16:282][457]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2021.09.18-13.33.25:120][909]LogEditorTransaction: Undo Move Node
+[2021.09.18-13.33.27:550][ 26]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.18-13.33.27:559][ 26]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.09.18-13.33.27:565][ 26]LogPlayLevel: [PlayLevel] Compiling UMG_SudokuGameWidget before play...
+[2021.09.18-13.33.27:761][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   8.00ms
+[2021.09.18-13.33.27:762][ 26]LogPlayLevel: PlayLevel: Blueprint regeneration took 203 ms (1 blueprints)
+[2021.09.18-13.33.27:763][ 26]PIE: New page: PIE session: SudokuLevel (18 сент. 2021 г., 19:33:27)
+[2021.09.18-13.33.27:763][ 26]LogPlayLevel: Creating play world package: /Game/Sudoku/UEDPIE_0_SudokuLevel
+[2021.09.18-13.33.27:765][ 26]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001807s)
+[2021.09.18-13.33.27:766][ 26]LogAIModule: Creating AISystem for world SudokuLevel
+[2021.09.18-13.33.27:766][ 26]LogPlayLevel: PIE: World Init took: (0.001648s)
+[2021.09.18-13.33.27:766][ 26]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Sudoku/SudokuLevel.SudokuLevel to /Game/Sudoku/UEDPIE_0_SudokuLevel.SudokuLevel (0.003611s)
+[2021.09.18-13.33.27:813][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   5.76ms
+[2021.09.18-13.33.27:813][ 26]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2021.09.18-13.33.27:813][ 26]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.18-13.33.27:813][ 26]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.18-13.33.27:813][ 26]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.18-13.33.27:813][ 26]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.18-13.33.27:813][ 26]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.18-13.33.27:813][ 26]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.18-13.33.27:813][ 26]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.18-13.33.27:813][ 26]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.18-13.33.27:814][ 26]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.18-13.33.27:814][ 26]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.18-13.33.27:815][ 26]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.18-13.33.27:815][ 26]LogAudioMixer: Display: 1: FrontRight
+[2021.09.18-13.33.27:825][ 26]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2021.09.18-13.33.27:825][ 26]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.18-13.33.27:826][ 26]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.18-13.33.27:826][ 26]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.18-13.33.27:826][ 26]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.18-13.33.27:826][ 26]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.18-13.33.27:826][ 26]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.18-13.33.27:848][ 26]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.18-13.33.27:848][ 26]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.18-13.33.27:848][ 26]LogInit: FAudioDevice initialized.
+[2021.09.18-13.33.27:848][ 26]LogAudio: Display: Audio Device (ID: 25) registered with world 'SudokuLevel'.
+[2021.09.18-13.33.27:865][ 26]LogLoad: Game class is 'GameModeBase'
+[2021.09.18-13.33.27:866][ 26]LogWorld: Bringing World /Game/Sudoku/UEDPIE_0_SudokuLevel.SudokuLevel up for play (max tick rate 0) at 2021.09.18-16.33.27
+[2021.09.18-13.33.27:866][ 26]LogWorld: Bringing up level for play took: 0.000465
+[2021.09.18-13.33.27:866][ 26]LogOnline: OSS: Creating online subsystem instance for: :Context_53
+[2021.09.18-13.33.28:017][ 26]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.18-13.33.28:017][ 26]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.09.18-13.33.28:018][ 26]PIE: Server logged in
+[2021.09.18-13.33.28:019][ 26]PIE: Play in editor total start time 0,46 seconds.
+[2021.09.18-13.33.32:996][262]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2021.09.18-13.33.32:996][262]LogScript: Warning: Script Msg: Modulo by zero
+[2021.09.18-13.33.35:557][368]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2021.09.18-13.33.35:557][368]LogScript: Warning: Script Msg: Modulo by zero
+[2021.09.18-13.33.36:980][440]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2021.09.18-13.33.36:980][440]LogScript: Warning: Script Msg: Modulo by zero
+[2021.09.18-13.33.38:360][509]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.18-13.33.38:360][509]LogWorld: BeginTearingDown for /Game/Sudoku/UEDPIE_0_SudokuLevel
+[2021.09.18-13.33.38:361][509]LogWorld: UWorld::CleanupWorld for SudokuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.09.18-13.33.38:361][509]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.18-13.33.38:372][509]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.18-13.33.38:383][509]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.18-13.33.38:431][509]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.18-13.33.38:431][509]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.18-13.33.38:433][509]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.18-13.33.38:472][509]LogUObjectHash: Compacting FUObjectHashTables data took   6.26ms
+[2021.09.18-13.33.38:504][510]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2021.09.18-13.33.42:738][581]LogUObjectHash: Compacting FUObjectHashTables data took   6.35ms
+[2021.09.18-13.33.44:169][581]LogSlate: Window 'Save Content' being destroyed
+[2021.09.18-13.33.44:207][581]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sudoku/Game/UMG_SudokuGameWidget" FILE="../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Sudoku/Game/UMG_SudokuGameWidget.uasset" SILENT=true
+[2021.09.18-13.33.44:347][581]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_SudokuGameWidget57E73CC147B0913A3016F9ABC9D90A08.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Sudoku/Game/UMG_SudokuGameWidget.uasset'
+[2021.09.18-13.33.44:367][581]AssetCheck: New page: Asset Save: UMG_SudokuGameWidget
+[2021.09.18-13.33.44:367][581]LogContentValidation: Display: Validating WidgetBlueprint /Game/Sudoku/Game/UMG_SudokuGameWidget.UMG_SudokuGameWidget
