@@ -849,3 +849,41 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.19-11.53.26:587][594]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/Slitherlink/Level/SlitherlinkLevelsTable.SlitherlinkLevelsTable
 [2021.09.19-11.53.28:464][648]LogSlate: Window 'SlitherlinkLevelsTable' being destroyed
 [2021.09.19-11.53.28:468][648]LogSlate: Window 'SlitherlinkLevelsTable' being destroyed
+[2021.09.19-11.54.23:834][440]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Slitherlink/Game/UMG_SlitherlinkGame.UMG_SlitherlinkGame
+[2021.09.19-11.56.49:863][123]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2021.09.19-11.56.49:877][123]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2021.09.19-11.56.53:375][254]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> NewWidgetBlueprint
+[2021.09.19-11.56.53:377][254]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2021.09.19-11.56.54:791][309]LogUObjectHash: Compacting FUObjectHashTables data took   7.17ms
+[2021.09.19-11.56.55:909][309]LogSlate: Window 'Delete Assets' being destroyed
+[2021.09.19-11.56.56:049][309]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2021.09.19-11.56.56:773][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Slitherlink/Game/UMG_SlitherlinkGame" FILE="../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Slitherlink/Game/UMG_SlitherlinkGame.uasset" SILENT=true
+[2021.09.19-11.56.56:778][335]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_SlitherlinkGame173A209B4129A70BD907379A2F53E4DF.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Slitherlink/Game/UMG_SlitherlinkGame.uasset'
+[2021.09.19-11.56.56:791][335]AssetCheck: New page: Asset Save: UMG_SlitherlinkGame
+[2021.09.19-11.56.56:791][335]LogContentValidation: Display: Validating WidgetBlueprint /Game/Slitherlink/Game/UMG_SlitherlinkGame.UMG_SlitherlinkGame
+[2021.09.19-11.57.01:801][641]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2021.09.19-11.57.01:814][641]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2021.09.19-11.57.06:608][820]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> UMG_SlitherlinkWall
+[2021.09.19-11.57.06:610][820]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2021.09.19-11.57.08:660][893]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_SlitherlinkWall6BE1CD9244E46D10241112A89D832A42.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Slitherlink/Game/Walls/UMG_SlitherlinkWall.uasset'
+[2021.09.19-11.57.08:694][893]AssetCheck: New page: Asset Save: UMG_SlitherlinkWall
+[2021.09.19-11.57.08:694][893]LogContentValidation: Display: Validating WidgetBlueprint /Game/Slitherlink/Game/Walls/UMG_SlitherlinkWall.UMG_SlitherlinkWall
+[2021.09.19-11.57.12:260][ 94]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2021.09.19-11.57.12:272][ 94]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2021.09.19-11.57.18:455][324]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> UMG_SlitherlinkTile
+[2021.09.19-11.57.18:458][324]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2021.09.19-11.57.19:610][364]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_SlitherlinkTile1BBBB260442C6D216501E0B4F50C6D37.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Slitherlink/Game/Tile/UMG_SlitherlinkTile.uasset'
+[2021.09.19-11.57.19:622][364]AssetCheck: New page: Asset Save: UMG_SlitherlinkTile
+[2021.09.19-11.57.19:622][364]LogContentValidation: Display: Validating WidgetBlueprint /Game/Slitherlink/Game/Tile/UMG_SlitherlinkTile.UMG_SlitherlinkTile
+[2021.09.19-11.57.23:179][584]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.09.19-11.57.23:228][584]LogContentBrowser: Creating deferred item: NewFolder
+[2021.09.19-11.57.39:763][241]LogContentBrowser: Attempting asset rename: NewFolder -> NewFolder
+[2021.09.19-11.57.39:780][241]LogContentBrowser: End creating deferred item NewFolder
+[2021.09.19-11.57.46:931][644]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2021.09.19-11.57.46:944][644]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2021.09.19-11.57.54:366][920]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> UMG_GridCorners
+[2021.09.19-11.57.54:368][920]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2021.09.19-11.57.55:387][955]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Slitherlink/Game/Walls/UMG_GridCorners" FILE="../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Slitherlink/Game/Walls/UMG_GridCorners.uasset" SILENT=true
+[2021.09.19-11.57.55:392][955]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_GridCorners64C8113845BC82205B38D8AA7AD528A7.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Slitherlink/Game/Walls/UMG_GridCorners.uasset'
+[2021.09.19-11.57.55:409][955]AssetCheck: New page: Asset Save: UMG_GridCorners
+[2021.09.19-11.57.55:409][955]LogContentValidation: Display: Validating WidgetBlueprint /Game/Slitherlink/Game/Walls/UMG_GridCorners.UMG_GridCorners
