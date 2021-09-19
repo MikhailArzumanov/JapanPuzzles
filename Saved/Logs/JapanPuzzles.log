@@ -887,3 +887,95 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.19-11.57.55:392][955]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_GridCorners64C8113845BC82205B38D8AA7AD528A7.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Slitherlink/Game/Walls/UMG_GridCorners.uasset'
 [2021.09.19-11.57.55:409][955]AssetCheck: New page: Asset Save: UMG_GridCorners
 [2021.09.19-11.57.55:409][955]LogContentValidation: Display: Validating WidgetBlueprint /Game/Slitherlink/Game/Walls/UMG_GridCorners.UMG_GridCorners
+[2021.09.19-11.59.03:701][942]LogContentBrowser: Attempting asset rename: UMG_SlitherlinkWall -> UMG_SlitherlinkWall
+[2021.09.19-11.59.04:684][985]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Slitherlink/Game/Walls/UMG_SlitherlinkWall.UMG_SlitherlinkWall
+[2021.09.19-11.59.20:248][772]LogContentBrowser: Deferred new asset file creation: NewUserDefinedEnum
+[2021.09.19-11.59.20:264][772]LogContentBrowser: Creating deferred item: NewUserDefinedEnum
+[2021.09.19-11.59.26:584][  9]LogContentBrowser: Attempting asset rename: NewUserDefinedEnum -> SlitherlinkWallTypeEnum
+[2021.09.19-11.59.26:585][  9]LogContentBrowser: End creating deferred item NewUserDefinedEnum
+[2021.09.19-11.59.27:399][ 37]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/Slitherlink/Game/Walls/SlitherlinkWallTypeEnum.SlitherlinkWallTypeEnum
+[2021.09.19-11.59.50:050][950]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/SlitherlinkWallTypeEnum392003594FEA214C0771E6A9DF3964C1.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Slitherlink/Game/Walls/SlitherlinkWallTypeEnum.uasset'
+[2021.09.19-11.59.50:070][950]AssetCheck: New page: Asset Save: SlitherlinkWallTypeEnum
+[2021.09.19-11.59.50:070][950]LogContentValidation: Display: Validating UserDefinedEnum /Game/Slitherlink/Game/Walls/SlitherlinkWallTypeEnum.SlitherlinkWallTypeEnum
+[2021.09.19-12.00.37:234][828]LogUObjectHash: Compacting FUObjectHashTables data took   5.13ms
+[2021.09.19-12.00.37:235][828]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.053
+[2021.09.19-12.00.37:253][828]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Slitherlink/Game/Walls/UMG_SlitherlinkWall] ([1] browsable assets)...
+[2021.09.19-12.00.37:253][828]OBJ SavePackage: Finished generating thumbnails for package [/Game/Slitherlink/Game/Walls/UMG_SlitherlinkWall]
+[2021.09.19-12.00.37:264][828]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_SlitherlinkWall_Auto14EF7900A422B39351C0494B634809DDB.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/Autosaves/Game/Slitherlink/Game/Walls/UMG_SlitherlinkWall_Auto1.uasset'
+[2021.09.19-12.00.37:265][828]LogFileHelpers: Auto-saving content packages took 0.030
+[2021.09.19-12.11.41:328][152]BlueprintLog: New page: Compile UMG_SlitherlinkWall
+[2021.09.19-12.11.41:375][152]LogUObjectHash: Compacting FUObjectHashTables data took   5.13ms
+[2021.09.19-12.12.03:779][248]BlueprintLog: New page: Compile UMG_SlitherlinkWall
+[2021.09.19-12.12.03:790][248]LogClass: Warning: Type mismatch in Postion of UMG_SlitherlinkWall_C - Previous (IntProperty) Current(StructProperty) for package:  FObjectReader
+[2021.09.19-12.12.03:829][248]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2021.09.19-12.12.13:600][679]BlueprintLog: New page: Compile UMG_SlitherlinkWall
+[2021.09.19-12.12.13:601][679]LogClass: Warning: Type mismatch in Postion of UMG_SlitherlinkWall_C - Previous (StructProperty) Current(IntProperty) for package:  FObjectReader
+[2021.09.19-12.12.13:639][679]LogUObjectHash: Compacting FUObjectHashTables data took   4.76ms
+[2021.09.19-12.12.49:159][ 64]LogSlate: Took 0.010407 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.09.19-12.13.41:141][877]LogSlate: Took 0.016918 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.09.19-12.15.46:156][ 75]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_SlitherlinkWallBA211D0F45462FEDCADA66AA62F1FEE4.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Slitherlink/Game/Walls/UMG_SlitherlinkWall.uasset'
+[2021.09.19-12.15.46:172][ 75]AssetCheck: New page: Asset Save: UMG_SlitherlinkWall
+[2021.09.19-12.15.46:172][ 75]LogContentValidation: Display: Validating WidgetBlueprint /Game/Slitherlink/Game/Walls/UMG_SlitherlinkWall.UMG_SlitherlinkWall
+[2021.09.19-12.16.22:387][ 20]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_SlitherlinkWallB6CB00324F7A768195AF6984CE56CAA5.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Slitherlink/Game/Walls/UMG_SlitherlinkWall.uasset'
+[2021.09.19-12.16.22:410][ 20]AssetCheck: New page: Asset Save: UMG_SlitherlinkWall
+[2021.09.19-12.16.22:410][ 20]LogContentValidation: Display: Validating WidgetBlueprint /Game/Slitherlink/Game/Walls/UMG_SlitherlinkWall.UMG_SlitherlinkWall
+[2021.09.19-12.18.04:531][869]LogUObjectHash: Compacting FUObjectHashTables data took   5.41ms
+[2021.09.19-12.18.04:533][869]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.074
+[2021.09.19-12.18.04:533][869]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Slitherlink/Game/UMG_SlitherlinkGame] ([1] browsable assets)...
+[2021.09.19-12.18.04:533][869]OBJ SavePackage: Finished generating thumbnails for package [/Game/Slitherlink/Game/UMG_SlitherlinkGame]
+[2021.09.19-12.18.04:538][869]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_SlitherlinkGame_Auto246B9338748BD214577F108B5055CEEFB.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/Autosaves/Game/Slitherlink/Game/UMG_SlitherlinkGame_Auto2.uasset'
+[2021.09.19-12.18.04:539][869]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Slitherlink/Game/Walls/UMG_SlitherlinkWall] ([1] browsable assets)...
+[2021.09.19-12.18.04:539][869]OBJ SavePackage: Finished generating thumbnails for package [/Game/Slitherlink/Game/Walls/UMG_SlitherlinkWall]
+[2021.09.19-12.18.04:558][869]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_SlitherlinkWall_Auto251A8F4094946D18A532BC5B004464D22.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/Autosaves/Game/Slitherlink/Game/Walls/UMG_SlitherlinkWall_Auto2.uasset'
+[2021.09.19-12.18.04:558][869]LogFileHelpers: Auto-saving content packages took 0.026
+[2021.09.19-12.31.32:403][704]BlueprintLog: New page: Compile UMG_SlitherlinkWall
+[2021.09.19-12.31.32:408][704]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal Projects\JapanPuzzles\Content\Slitherlink\Game\Walls\UMG_SlitherlinkWall.uasset: [Compiler] Could not find the function 'WallChanged' called from  Wall Changed
+[2021.09.19-12.31.32:452][704]LogUObjectHash: Compacting FUObjectHashTables data took   5.65ms
+[2021.09.19-12.31.33:099][728]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_SlitherlinkWallBBD511994D6F0F4EA982AC9B608727B2.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Slitherlink/Game/Walls/UMG_SlitherlinkWall.uasset'
+[2021.09.19-12.31.33:112][728]AssetCheck: New page: Asset Save: UMG_SlitherlinkWall
+[2021.09.19-12.31.33:112][728]LogContentValidation: Display: Validating WidgetBlueprint /Game/Slitherlink/Game/Walls/UMG_SlitherlinkWall.UMG_SlitherlinkWall
+[2021.09.19-12.31.36:347][856]BlueprintLog: New page: Compile UMG_SlitherlinkWall
+[2021.09.19-12.31.36:352][856]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal Projects\JapanPuzzles\Content\Slitherlink\Game\Walls\UMG_SlitherlinkWall.uasset: [Compiler] Could not find the function 'WallChanged' called from  Wall Changed
+[2021.09.19-12.31.36:409][856]LogUObjectHash: Compacting FUObjectHashTables data took   5.15ms
+[2021.09.19-12.31.37:711][913]BlueprintLog: New page: Compile UMG_SlitherlinkGame
+[2021.09.19-12.31.37:753][913]LogUObjectHash: Compacting FUObjectHashTables data took   5.05ms
+[2021.09.19-12.31.39:871][995]BlueprintLog: New page: Compile UMG_SlitherlinkWall
+[2021.09.19-12.31.39:915][995]LogUObjectHash: Compacting FUObjectHashTables data took   5.08ms
+[2021.09.19-12.32.44:264][591]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_SlitherlinkWallA63B58F64F259418F73DB09AD9C6942A.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Slitherlink/Game/Walls/UMG_SlitherlinkWall.uasset'
+[2021.09.19-12.32.44:287][591]AssetCheck: New page: Asset Save: UMG_SlitherlinkWall
+[2021.09.19-12.32.44:287][591]LogContentValidation: Display: Validating WidgetBlueprint /Game/Slitherlink/Game/Walls/UMG_SlitherlinkWall.UMG_SlitherlinkWall
+[2021.09.19-12.32.45:932][656]BlueprintLog: New page: Compile UMG_SlitherlinkWall
+[2021.09.19-12.32.45:996][656]LogUObjectHash: Compacting FUObjectHashTables data took   5.43ms
+[2021.09.19-12.33.20:363][161]BlueprintLog: New page: Compile UMG_SlitherlinkWall
+[2021.09.19-12.33.20:410][161]LogUObjectHash: Compacting FUObjectHashTables data took   5.09ms
+[2021.09.19-12.33.21:010][186]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_SlitherlinkWall381AE48F46E6D43DE439E3A573687268.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Slitherlink/Game/Walls/UMG_SlitherlinkWall.uasset'
+[2021.09.19-12.33.21:024][186]AssetCheck: New page: Asset Save: UMG_SlitherlinkWall
+[2021.09.19-12.33.21:024][186]LogContentValidation: Display: Validating WidgetBlueprint /Game/Slitherlink/Game/Walls/UMG_SlitherlinkWall.UMG_SlitherlinkWall
+[2021.09.19-12.33.33:465][750]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_SlitherlinkWall8A10F8D7441EB959134F6E99203FD8DA.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Slitherlink/Game/Walls/UMG_SlitherlinkWall.uasset'
+[2021.09.19-12.33.33:481][750]AssetCheck: New page: Asset Save: UMG_SlitherlinkWall
+[2021.09.19-12.33.33:481][750]LogContentValidation: Display: Validating WidgetBlueprint /Game/Slitherlink/Game/Walls/UMG_SlitherlinkWall.UMG_SlitherlinkWall
+[2021.09.19-12.34.01:793][266]BlueprintLog: New page: Compile UMG_SlitherlinkWall
+[2021.09.19-12.34.01:859][266]LogUObjectHash: Compacting FUObjectHashTables data took   5.36ms
+[2021.09.19-12.34.02:263][281]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_SlitherlinkWallB6DFE97B4D543641BFC57A94C8D05780.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Slitherlink/Game/Walls/UMG_SlitherlinkWall.uasset'
+[2021.09.19-12.34.02:276][281]AssetCheck: New page: Asset Save: UMG_SlitherlinkWall
+[2021.09.19-12.34.02:276][281]LogContentValidation: Display: Validating WidgetBlueprint /Game/Slitherlink/Game/Walls/UMG_SlitherlinkWall.UMG_SlitherlinkWall
+[2021.09.19-12.34.05:836][419]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Slitherlink/Game/UMG_SlitherlinkGame" FILE="../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Slitherlink/Game/UMG_SlitherlinkGame.uasset" SILENT=true
+[2021.09.19-12.34.05:841][419]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_SlitherlinkGame16E2BED84993CC37CDDAEB94A0FA81DE.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Slitherlink/Game/UMG_SlitherlinkGame.uasset'
+[2021.09.19-12.34.05:854][419]AssetCheck: New page: Asset Save: UMG_SlitherlinkGame
+[2021.09.19-12.34.05:854][419]LogContentValidation: Display: Validating WidgetBlueprint /Game/Slitherlink/Game/UMG_SlitherlinkGame.UMG_SlitherlinkGame
+[2021.09.19-12.35.34:871][601]BlueprintLog: New page: Compile UMG_SlitherlinkGame
+[2021.09.19-12.35.34:939][601]LogUObjectHash: Compacting FUObjectHashTables data took   5.52ms
+[2021.09.19-12.35.36:281][670]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Slitherlink/Game/UMG_SlitherlinkGame" FILE="../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Slitherlink/Game/UMG_SlitherlinkGame.uasset" SILENT=true
+[2021.09.19-12.35.36:287][670]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_SlitherlinkGame431E2CDA4948EB89CBA2DA8B2E575949.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Slitherlink/Game/UMG_SlitherlinkGame.uasset'
+[2021.09.19-12.35.36:301][670]AssetCheck: New page: Asset Save: UMG_SlitherlinkGame
+[2021.09.19-12.35.36:301][670]LogContentValidation: Display: Validating WidgetBlueprint /Game/Slitherlink/Game/UMG_SlitherlinkGame.UMG_SlitherlinkGame
+[2021.09.19-12.40.11:993][917]LogSlate: Window 'UMG_SlitherlinkWall' being destroyed
+[2021.09.19-12.40.12:000][917]LogSlate: Window 'UMG_SlitherlinkWall' being destroyed
+[2021.09.19-12.40.12:007][917]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.09.19-12.40.12:007][917]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.19-12.40.12:022][917]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.09.19-12.40.12:022][917]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.19-12.40.12:079][917]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.09.19-12.40.12:079][917]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.19-12.40.12:088][917]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.09.19-12.40.12:088][917]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
