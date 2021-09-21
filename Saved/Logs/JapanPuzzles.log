@@ -1196,3 +1196,33 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.20-18.26.24:544][359]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2021.09.20-18.26.24:556][359]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
 [2021.09.20-18.26.24:579][360]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2021.09.21-03.51.40:712][467]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.09.21-03.51.40:712][467]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.09.21-03.52.08:857][817]LogSlate: Window 'UMG_SudokuGameWidget' being destroyed
+[2021.09.21-03.52.08:862][817]LogSlate: Window 'UMG_SudokuGameWidget' being destroyed
+[2021.09.21-03.52.08:866][817]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.09.21-03.52.08:866][817]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.21-03.52.08:888][817]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.09.21-03.52.08:888][817]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.21-03.52.16:126][249]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Slitherlink/Game/UMG_SlitherlinkGame.UMG_SlitherlinkGame
+[2021.09.21-03.52.25:365][677]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.09.21-03.52.25:365][677]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.09.21-03.52.27:600][796]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.09.21-03.52.27:600][796]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.09.21-03.52.51:196][937]BlueprintLog: New page: Compile UMG_SlitherlinkGame
+[2021.09.21-03.52.51:238][937]LogUObjectHash: Compacting FUObjectHashTables data took   5.77ms
+[2021.09.21-03.52.51:722][964]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Slitherlink/Game/UMG_SlitherlinkGame" FILE="../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Slitherlink/Game/UMG_SlitherlinkGame.uasset" SILENT=true
+[2021.09.21-03.52.51:729][964]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_SlitherlinkGameD58138C3427EF267AEDA399A336A7F91.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Slitherlink/Game/UMG_SlitherlinkGame.uasset'
+[2021.09.21-03.52.51:743][964]AssetCheck: New page: Asset Save: UMG_SlitherlinkGame
+[2021.09.21-03.52.51:743][964]LogContentValidation: Display: Validating WidgetBlueprint /Game/Slitherlink/Game/UMG_SlitherlinkGame.UMG_SlitherlinkGame
+[2021.09.21-03.53.41:520][962]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Slitherlink/Game/Walls/UMG_GridCorners.UMG_GridCorners
+[2021.09.21-03.53.44:386][ 67]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Slitherlink/Game/Walls/UMG_SlitherlinkWall.UMG_SlitherlinkWall
+[2021.09.21-03.53.50:220][314]LogEditorTransaction: Undo Remove Widget
+[2021.09.21-03.53.51:950][386]LogEditorTransaction: Undo Rename Function
+[2021.09.21-03.53.54:368][505]Cmd: TRANSACTION REDO
+[2021.09.21-03.53.54:368][505]LogEditorTransaction: Redo Rename Function
+[2021.09.21-03.54.44:486][151]LogSlate: Window 'Color Picker' being destroyed
+[2021.09.21-03.54.45:983][222]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Slitherlink/Game/Walls/UMG_GridCorners" FILE="../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Slitherlink/Game/Walls/UMG_GridCorners.uasset" SILENT=true
+[2021.09.21-03.54.45:989][222]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_GridCornersAE948F2A451BD0422606C9AD5729748B.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Slitherlink/Game/Walls/UMG_GridCorners.uasset'
+[2021.09.21-03.54.46:010][222]AssetCheck: New page: Asset Save: UMG_GridCorners
+[2021.09.21-03.54.46:010][222]LogContentValidation: Display: Validating WidgetBlueprint /Game/Slitherlink/Game/Walls/UMG_GridCorners.UMG_GridCorners
