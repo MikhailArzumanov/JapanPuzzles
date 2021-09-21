@@ -1361,3 +1361,854 @@ Make sure 'UMG_SlitherlinkGame_C' has been compiled for  Get j
 [2021.09.21-04.25.23:967][646]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_SlitherlinkGame9F58B0D7432A54B66ED58E9ADB8EA164.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Slitherlink/Game/UMG_SlitherlinkGame.uasset'
 [2021.09.21-04.25.23:981][646]AssetCheck: New page: Asset Save: UMG_SlitherlinkGame
 [2021.09.21-04.25.23:981][646]LogContentValidation: Display: Validating WidgetBlueprint /Game/Slitherlink/Game/UMG_SlitherlinkGame.UMG_SlitherlinkGame
+[2021.09.21-04.25.59:155][163]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Slitherlink/UMG_Slitherlink.UMG_Slitherlink
+[2021.09.21-04.26.42:150][350]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Slitherlink/UMG_Slitherlink" FILE="../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Slitherlink/UMG_Slitherlink.uasset" SILENT=true
+[2021.09.21-04.26.42:156][350]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_Slitherlink933B790B4D7FEA6960292DA1785F20D3.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Slitherlink/UMG_Slitherlink.uasset'
+[2021.09.21-04.26.42:173][350]AssetCheck: New page: Asset Save: UMG_Slitherlink
+[2021.09.21-04.26.42:173][350]LogContentValidation: Display: Validating WidgetBlueprint /Game/Slitherlink/UMG_Slitherlink.UMG_Slitherlink
+[2021.09.21-04.26.42:635][376]BlueprintLog: New page: Compile UMG_Slitherlink
+[2021.09.21-04.26.42:723][376]LogUObjectHash: Compacting FUObjectHashTables data took   5.87ms
+[2021.09.21-04.26.44:454][461]BlueprintLog: New page: Compile UMG_SlitherlinkGame
+[2021.09.21-04.26.44:595][461]LogUObjectHash: Compacting FUObjectHashTables data took   5.02ms
+[2021.09.21-04.26.45:367][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Slitherlink/Game/UMG_SlitherlinkGame" FILE="../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Slitherlink/Game/UMG_SlitherlinkGame.uasset" SILENT=true
+[2021.09.21-04.26.45:448][493]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_SlitherlinkGame22251D274053C19519496CA211BE3CA6.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Slitherlink/Game/UMG_SlitherlinkGame.uasset'
+[2021.09.21-04.26.45:462][493]AssetCheck: New page: Asset Save: UMG_SlitherlinkGame
+[2021.09.21-04.26.45:462][493]LogContentValidation: Display: Validating WidgetBlueprint /Game/Slitherlink/Game/UMG_SlitherlinkGame.UMG_SlitherlinkGame
+[2021.09.21-04.26.50:378][746]LogUObjectHash: Compacting FUObjectHashTables data took   4.90ms
+[2021.09.21-04.26.50:416][746]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Slitherlink/SlitherlinkLevel.SlitherlinkLevel
+[2021.09.21-04.26.50:416][746]Cmd: MAP LOAD FILE="../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Slitherlink/SlitherlinkLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.09.21-04.26.50:416][746]LightingResults: New page: Lighting Build
+[2021.09.21-04.26.50:420][746]LoadErrors: New page: Loading map: SlitherlinkLevel.umap
+[2021.09.21-04.26.50:428][746]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.09.21-04.26.50:428][746]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.21-04.26.50:429][746]MapCheck: New page: Map Check
+[2021.09.21-04.26.50:429][746]LightingResults: New page: Lighting Build
+[2021.09.21-04.26.50:466][746]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.21-04.26.50:473][746]LogUObjectHash: Compacting FUObjectHashTables data took   5.12ms
+[2021.09.21-04.26.50:474][746]LogAudio: Display: Audio Device (ID: 1) registered with world 'SlitherlinkLevel'.
+[2021.09.21-04.26.50:475][746]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.09.21-04.26.50:475][746]LogAIModule: Creating AISystem for world SlitherlinkLevel
+[2021.09.21-04.26.50:519][746]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2021.09.21-04.26.50:527][746]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.09.21-04.26.50:527][746]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,087ms to complete.
+[2021.09.21-04.26.50:527][746]LogFileHelpers: Loading map 'SlitherlinkLevel' took 0.110
+[2021.09.21-04.26.54:651][986]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Slitherlink/SlitherlinkLevel.SlitherlinkLevel:PersistentLevel.SlitherlinkLevel
+[2021.09.21-04.27.36:525][467]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.09.21-04.27.54:286][708]BlueprintLog: New page: Compile SlitherlinkLevel
+[2021.09.21-04.27.54:349][708]LogUObjectHash: Compacting FUObjectHashTables data took   5.02ms
+[2021.09.21-04.27.55:497][755]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2021.09.21-04.27.55:506][755]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/SlitherlinkLevel1A5ECC1C45D357D5D8303AAE60EF4372.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Slitherlink/SlitherlinkLevel.umap'
+[2021.09.21-04.27.55:516][755]LogFileHelpers: Saving map 'SlitherlinkLevel' took 0.106
+[2021.09.21-04.27.55:528][755]AssetCheck: New page: Asset Save: SlitherlinkLevel
+[2021.09.21-04.27.55:528][755]LogContentValidation: Display: Validating World /Game/Slitherlink/SlitherlinkLevel.SlitherlinkLevel
+[2021.09.21-04.28.05:452][342]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2021.09.21-04.28.05:481][342]LogAssetEditorSubsystem: Opening Asset editor for World /Game/MainMenuLevel.MainMenuLevel
+[2021.09.21-04.28.05:481][342]Cmd: MAP LOAD FILE="../../../../../Projects/Unreal Projects/JapanPuzzles/Content/MainMenuLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.09.21-04.28.05:481][342]LightingResults: New page: Lighting Build
+[2021.09.21-04.28.05:481][342]LoadErrors: New page: Loading map: MainMenuLevel.umap
+[2021.09.21-04.28.05:498][342]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2021.09.21-04.28.05:499][342]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.21-04.28.05:552][342]LogWorld: UWorld::CleanupWorld for SlitherlinkLevel, bSessionEnded=true, bCleanupResources=true
+[2021.09.21-04.28.05:552][342]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.21-04.28.05:552][342]MapCheck: New page: Map Check
+[2021.09.21-04.28.05:552][342]LightingResults: New page: Lighting Build
+[2021.09.21-04.28.05:591][342]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.21-04.28.05:598][342]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2021.09.21-04.28.05:599][342]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenuLevel'.
+[2021.09.21-04.28.05:600][342]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.09.21-04.28.05:600][342]LogAIModule: Creating AISystem for world MainMenuLevel
+[2021.09.21-04.28.05:646][342]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2021.09.21-04.28.05:654][342]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.09.21-04.28.05:654][342]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,117ms to complete.
+[2021.09.21-04.28.05:654][342]LogFileHelpers: Loading map 'MainMenuLevel' took 0.173
+[2021.09.21-04.28.06:676][390]LogEditorViewport: Clicking Background
+[2021.09.21-04.28.07:814][465]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel
+[2021.09.21-04.28.27:948][355]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2021.09.21-04.28.27:992][355]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Slitherlink/SlitherlinkLevel.SlitherlinkLevel
+[2021.09.21-04.28.27:992][355]Cmd: MAP LOAD FILE="../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Slitherlink/SlitherlinkLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.09.21-04.28.27:992][355]LightingResults: New page: Lighting Build
+[2021.09.21-04.28.27:993][355]LoadErrors: New page: Loading map: SlitherlinkLevel.umap
+[2021.09.21-04.28.28:003][355]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2021.09.21-04.28.28:003][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.21-04.28.28:051][355]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.09.21-04.28.28:051][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.21-04.28.28:051][355]MapCheck: New page: Map Check
+[2021.09.21-04.28.28:051][355]LightingResults: New page: Lighting Build
+[2021.09.21-04.28.28:089][355]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.21-04.28.28:097][355]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2021.09.21-04.28.28:097][355]LogAudio: Display: Audio Device (ID: 1) registered with world 'SlitherlinkLevel'.
+[2021.09.21-04.28.28:098][355]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.09.21-04.28.28:098][355]LogAIModule: Creating AISystem for world SlitherlinkLevel
+[2021.09.21-04.28.28:142][355]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2021.09.21-04.28.28:149][355]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.09.21-04.28.28:149][355]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,088ms to complete.
+[2021.09.21-04.28.28:149][355]LogFileHelpers: Loading map 'SlitherlinkLevel' took 0.157
+[2021.09.21-04.28.30:880][523]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Slitherlink/SlitherlinkLevel.SlitherlinkLevel:PersistentLevel.SlitherlinkLevel
+[2021.09.21-04.28.39:754][  4]LogEditorTransaction: Undo Move Node
+[2021.09.21-04.28.56:534][910]BlueprintLog: New page: Compile SlitherlinkLevel
+[2021.09.21-04.28.56:624][910]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2021.09.21-04.28.57:057][931]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2021.09.21-04.28.57:067][931]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/SlitherlinkLevel83435F194C1296BF2CCDA1988C5E4C24.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Slitherlink/SlitherlinkLevel.umap'
+[2021.09.21-04.28.57:076][931]LogFileHelpers: Saving map 'SlitherlinkLevel' took 0.064
+[2021.09.21-04.28.57:089][931]AssetCheck: New page: Asset Save: SlitherlinkLevel
+[2021.09.21-04.28.57:089][931]LogContentValidation: Display: Validating World /Game/Slitherlink/SlitherlinkLevel.SlitherlinkLevel
+[2021.09.21-04.28.58:685][ 14]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.21-04.28.58:695][ 14]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.09.21-04.28.58:698][ 14]LogPlayLevel: [PlayLevel] Compiling UMG_SlitherlinkGridCorners before play...
+[2021.09.21-04.28.58:835][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   5.22ms
+[2021.09.21-04.28.58:835][ 14]LogPlayLevel: PlayLevel: Blueprint regeneration took 139 ms (1 blueprints)
+[2021.09.21-04.28.58:835][ 14]PIE: New page: PIE session: SlitherlinkLevel (21 сент. 2021 г., 10:28:58)
+[2021.09.21-04.28.58:835][ 14]LogPlayLevel: Creating play world package: /Game/Slitherlink/UEDPIE_0_SlitherlinkLevel
+[2021.09.21-04.28.58:837][ 14]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001800s)
+[2021.09.21-04.28.58:838][ 14]LogAIModule: Creating AISystem for world SlitherlinkLevel
+[2021.09.21-04.28.58:839][ 14]LogPlayLevel: PIE: World Init took: (0.001750s)
+[2021.09.21-04.28.58:839][ 14]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Slitherlink/SlitherlinkLevel.SlitherlinkLevel to /Game/Slitherlink/UEDPIE_0_SlitherlinkLevel.SlitherlinkLevel (0.003737s)
+[2021.09.21-04.28.58:882][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2021.09.21-04.28.58:882][ 14]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.09.21-04.28.58:882][ 14]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.21-04.28.58:882][ 14]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.21-04.28.58:882][ 14]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.21-04.28.58:882][ 14]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.21-04.28.58:882][ 14]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.21-04.28.58:882][ 14]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.21-04.28.58:882][ 14]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.21-04.28.58:882][ 14]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.21-04.28.58:883][ 14]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.21-04.28.58:883][ 14]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.21-04.28.58:885][ 14]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.21-04.28.58:885][ 14]LogAudioMixer: Display: 1: FrontRight
+[2021.09.21-04.28.58:899][ 14]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2021.09.21-04.28.58:899][ 14]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.21-04.28.58:899][ 14]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.21-04.28.58:900][ 14]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.21-04.28.58:900][ 14]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.21-04.28.58:900][ 14]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.21-04.28.58:900][ 14]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.21-04.28.58:923][ 14]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.21-04.28.58:923][ 14]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.21-04.28.58:923][ 14]LogInit: FAudioDevice initialized.
+[2021.09.21-04.28.58:923][ 14]LogAudio: Display: Audio Device (ID: 6) registered with world 'SlitherlinkLevel'.
+[2021.09.21-04.28.58:940][ 14]LogLoad: Game class is 'GameModeBase'
+[2021.09.21-04.28.58:941][ 14]LogWorld: Bringing World /Game/Slitherlink/UEDPIE_0_SlitherlinkLevel.SlitherlinkLevel up for play (max tick rate 0) at 2021.09.21-07.28.58
+[2021.09.21-04.28.58:941][ 14]LogWorld: Bringing up level for play took: 0.000488
+[2021.09.21-04.28.58:941][ 14]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2021.09.21-04.28.59:016][ 14]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.21-04.28.59:016][ 14]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.09.21-04.28.59:016][ 14]PIE: Server logged in
+[2021.09.21-04.28.59:017][ 14]PIE: Play in editor total start time 0,323 seconds.
+[2021.09.21-04.29.02:642][177]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.21-04.29.02:642][177]LogWorld: BeginTearingDown for /Game/Slitherlink/UEDPIE_0_SlitherlinkLevel
+[2021.09.21-04.29.02:642][177]LogWorld: UWorld::CleanupWorld for SlitherlinkLevel, bSessionEnded=true, bCleanupResources=true
+[2021.09.21-04.29.02:643][177]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.21-04.29.02:654][177]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.21-04.29.02:661][177]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.21-04.29.02:708][177]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.21-04.29.02:708][177]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.21-04.29.02:710][177]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.21-04.29.02:740][177]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2021.09.21-04.29.02:763][178]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2021.09.21-04.29.11:857][609]LogSlate: Window 'Color Picker' being destroyed
+[2021.09.21-04.29.13:844][707]BlueprintLog: New page: Compile UMG_SlitherlinkWall
+[2021.09.21-04.29.13:902][707]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2021.09.21-04.29.14:523][731]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_SlitherlinkWall0B10D62C463110719638909A3835F630.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Slitherlink/Game/Walls/UMG_SlitherlinkWall.uasset'
+[2021.09.21-04.29.14:538][731]AssetCheck: New page: Asset Save: UMG_SlitherlinkWall
+[2021.09.21-04.29.14:538][731]LogContentValidation: Display: Validating WidgetBlueprint /Game/Slitherlink/Game/Walls/UMG_SlitherlinkWall.UMG_SlitherlinkWall
+[2021.09.21-04.29.15:186][764]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.21-04.29.15:196][764]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.21-04.29.15:196][764]PIE: New page: PIE session: SlitherlinkLevel (21 сент. 2021 г., 10:29:15)
+[2021.09.21-04.29.15:196][764]LogPlayLevel: Creating play world package: /Game/Slitherlink/UEDPIE_0_SlitherlinkLevel
+[2021.09.21-04.29.15:198][764]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001903s)
+[2021.09.21-04.29.15:200][764]LogAIModule: Creating AISystem for world SlitherlinkLevel
+[2021.09.21-04.29.15:200][764]LogPlayLevel: PIE: World Init took: (0.001689s)
+[2021.09.21-04.29.15:200][764]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Slitherlink/SlitherlinkLevel.SlitherlinkLevel to /Game/Slitherlink/UEDPIE_0_SlitherlinkLevel.SlitherlinkLevel (0.003749s)
+[2021.09.21-04.29.15:250][764]LogUObjectHash: Compacting FUObjectHashTables data took   5.33ms
+[2021.09.21-04.29.15:250][764]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.09.21-04.29.15:250][764]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.21-04.29.15:250][764]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.21-04.29.15:250][764]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.21-04.29.15:250][764]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.21-04.29.15:250][764]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.21-04.29.15:250][764]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.21-04.29.15:250][764]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.21-04.29.15:250][764]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.21-04.29.15:251][764]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.21-04.29.15:251][764]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.21-04.29.15:252][764]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.21-04.29.15:252][764]LogAudioMixer: Display: 1: FrontRight
+[2021.09.21-04.29.15:262][764]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2021.09.21-04.29.15:263][764]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.21-04.29.15:263][764]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.21-04.29.15:263][764]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.21-04.29.15:264][764]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.21-04.29.15:264][764]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.21-04.29.15:264][764]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.21-04.29.15:286][764]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.21-04.29.15:286][764]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.21-04.29.15:286][764]LogInit: FAudioDevice initialized.
+[2021.09.21-04.29.15:286][764]LogAudio: Display: Audio Device (ID: 7) registered with world 'SlitherlinkLevel'.
+[2021.09.21-04.29.15:300][764]LogLoad: Game class is 'GameModeBase'
+[2021.09.21-04.29.15:301][764]LogWorld: Bringing World /Game/Slitherlink/UEDPIE_0_SlitherlinkLevel.SlitherlinkLevel up for play (max tick rate 0) at 2021.09.21-07.29.15
+[2021.09.21-04.29.15:301][764]LogWorld: Bringing up level for play took: 0.000432
+[2021.09.21-04.29.15:301][764]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2021.09.21-04.29.15:343][764]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.21-04.29.15:343][764]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.09.21-04.29.15:344][764]PIE: Server logged in
+[2021.09.21-04.29.15:345][764]PIE: Play in editor total start time 0,15 seconds.
+[2021.09.21-04.29.34:212][565]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.21-04.29.34:212][565]LogWorld: BeginTearingDown for /Game/Slitherlink/UEDPIE_0_SlitherlinkLevel
+[2021.09.21-04.29.34:212][565]LogWorld: UWorld::CleanupWorld for SlitherlinkLevel, bSessionEnded=true, bCleanupResources=true
+[2021.09.21-04.29.34:213][565]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.21-04.29.34:222][565]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.21-04.29.34:230][565]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.21-04.29.34:271][565]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.21-04.29.34:273][565]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.21-04.29.34:274][565]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.21-04.29.34:306][565]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2021.09.21-04.29.34:332][566]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2021.09.21-04.29.49:659][430]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.21-04.29.49:669][430]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.09.21-04.29.49:673][430]LogPlayLevel: [PlayLevel] Compiling UMG_SlitherlinkGame before play...
+[2021.09.21-04.29.49:803][430]LogUObjectHash: Compacting FUObjectHashTables data took   5.43ms
+[2021.09.21-04.29.49:804][430]LogPlayLevel: PlayLevel: Blueprint regeneration took 135 ms (1 blueprints)
+[2021.09.21-04.29.49:804][430]PIE: New page: PIE session: SlitherlinkLevel (21 сент. 2021 г., 10:29:49)
+[2021.09.21-04.29.49:804][430]LogPlayLevel: Creating play world package: /Game/Slitherlink/UEDPIE_0_SlitherlinkLevel
+[2021.09.21-04.29.49:806][430]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001810s)
+[2021.09.21-04.29.49:808][430]LogAIModule: Creating AISystem for world SlitherlinkLevel
+[2021.09.21-04.29.49:808][430]LogPlayLevel: PIE: World Init took: (0.001617s)
+[2021.09.21-04.29.49:808][430]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Slitherlink/SlitherlinkLevel.SlitherlinkLevel to /Game/Slitherlink/UEDPIE_0_SlitherlinkLevel.SlitherlinkLevel (0.003588s)
+[2021.09.21-04.29.49:854][430]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2021.09.21-04.29.49:854][430]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.09.21-04.29.49:855][430]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.21-04.29.49:855][430]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.21-04.29.49:855][430]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.21-04.29.49:855][430]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.21-04.29.49:855][430]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.21-04.29.49:855][430]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.21-04.29.49:855][430]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.21-04.29.49:855][430]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.21-04.29.49:855][430]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.21-04.29.49:855][430]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.21-04.29.49:857][430]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.21-04.29.49:857][430]LogAudioMixer: Display: 1: FrontRight
+[2021.09.21-04.29.49:867][430]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2021.09.21-04.29.49:867][430]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.21-04.29.49:867][430]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.21-04.29.49:868][430]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.21-04.29.49:868][430]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.21-04.29.49:868][430]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.21-04.29.49:868][430]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.21-04.29.49:890][430]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.21-04.29.49:890][430]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.21-04.29.49:890][430]LogInit: FAudioDevice initialized.
+[2021.09.21-04.29.49:891][430]LogAudio: Display: Audio Device (ID: 8) registered with world 'SlitherlinkLevel'.
+[2021.09.21-04.29.49:904][430]LogLoad: Game class is 'GameModeBase'
+[2021.09.21-04.29.49:905][430]LogWorld: Bringing World /Game/Slitherlink/UEDPIE_0_SlitherlinkLevel.SlitherlinkLevel up for play (max tick rate 0) at 2021.09.21-07.29.49
+[2021.09.21-04.29.49:905][430]LogWorld: Bringing up level for play took: 0.000453
+[2021.09.21-04.29.49:906][430]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2021.09.21-04.29.49:947][430]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.21-04.29.49:947][430]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.09.21-04.29.49:947][430]PIE: Server logged in
+[2021.09.21-04.29.49:948][430]PIE: Play in editor total start time 0,281 seconds.
+[2021.09.21-04.29.51:677][520]LogBlueprintUserMessages: [Game] TODO
+[2021.09.21-04.29.53:876][636]LogBlueprintUserMessages: [Game] TODO
+[2021.09.21-04.29.54:405][664]LogBlueprintUserMessages: [Game] TODO
+[2021.09.21-04.29.58:716][891]LogBlueprintUserMessages: [Game] TODO
+[2021.09.21-04.29.59:774][947]LogBlueprintUserMessages: [Game] TODO
+[2021.09.21-04.30.00:606][991]LogBlueprintUserMessages: [Game] TODO
+[2021.09.21-04.30.01:403][ 33]LogBlueprintUserMessages: [Game] TODO
+[2021.09.21-04.30.02:200][ 75]LogBlueprintUserMessages: [Game] TODO
+[2021.09.21-04.30.09:822][477]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.21-04.30.09:822][477]LogWorld: BeginTearingDown for /Game/Slitherlink/UEDPIE_0_SlitherlinkLevel
+[2021.09.21-04.30.09:822][477]LogWorld: UWorld::CleanupWorld for SlitherlinkLevel, bSessionEnded=true, bCleanupResources=true
+[2021.09.21-04.30.09:822][477]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.21-04.30.09:830][477]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.21-04.30.09:837][477]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.21-04.30.09:883][477]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.21-04.30.09:883][477]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.21-04.30.09:884][477]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.21-04.30.09:915][477]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2021.09.21-04.30.09:942][478]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2021.09.21-04.30.38:946][907]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.21-04.30.38:956][907]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.09.21-04.30.38:958][907]LogPlayLevel: [PlayLevel] Compiling UMG_SlitherlinkWall before play...
+[2021.09.21-04.30.39:057][907]LogUObjectHash: Compacting FUObjectHashTables data took   5.38ms
+[2021.09.21-04.30.39:059][907]LogPlayLevel: PlayLevel: Blueprint regeneration took 103 ms (1 blueprints)
+[2021.09.21-04.30.39:059][907]PIE: New page: PIE session: SlitherlinkLevel (21 сент. 2021 г., 10:30:39)
+[2021.09.21-04.30.39:059][907]LogPlayLevel: Creating play world package: /Game/Slitherlink/UEDPIE_0_SlitherlinkLevel
+[2021.09.21-04.30.39:061][907]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001840s)
+[2021.09.21-04.30.39:063][907]LogAIModule: Creating AISystem for world SlitherlinkLevel
+[2021.09.21-04.30.39:063][907]LogPlayLevel: PIE: World Init took: (0.001649s)
+[2021.09.21-04.30.39:063][907]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Slitherlink/SlitherlinkLevel.SlitherlinkLevel to /Game/Slitherlink/UEDPIE_0_SlitherlinkLevel.SlitherlinkLevel (0.003653s)
+[2021.09.21-04.30.39:107][907]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2021.09.21-04.30.39:108][907]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.09.21-04.30.39:108][907]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.21-04.30.39:108][907]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.21-04.30.39:108][907]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.21-04.30.39:108][907]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.21-04.30.39:108][907]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.21-04.30.39:108][907]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.21-04.30.39:108][907]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.21-04.30.39:108][907]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.21-04.30.39:109][907]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.21-04.30.39:109][907]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.21-04.30.39:110][907]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.21-04.30.39:110][907]LogAudioMixer: Display: 1: FrontRight
+[2021.09.21-04.30.39:120][907]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2021.09.21-04.30.39:121][907]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.21-04.30.39:121][907]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.21-04.30.39:121][907]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.21-04.30.39:122][907]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.21-04.30.39:122][907]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.21-04.30.39:122][907]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.21-04.30.39:144][907]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.21-04.30.39:144][907]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.21-04.30.39:144][907]LogInit: FAudioDevice initialized.
+[2021.09.21-04.30.39:144][907]LogAudio: Display: Audio Device (ID: 9) registered with world 'SlitherlinkLevel'.
+[2021.09.21-04.30.39:162][907]LogLoad: Game class is 'GameModeBase'
+[2021.09.21-04.30.39:163][907]LogWorld: Bringing World /Game/Slitherlink/UEDPIE_0_SlitherlinkLevel.SlitherlinkLevel up for play (max tick rate 0) at 2021.09.21-07.30.39
+[2021.09.21-04.30.39:163][907]LogWorld: Bringing up level for play took: 0.000470
+[2021.09.21-04.30.39:163][907]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2021.09.21-04.30.39:205][907]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.21-04.30.39:205][907]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.09.21-04.30.39:205][907]PIE: Server logged in
+[2021.09.21-04.30.39:206][907]PIE: Play in editor total start time 0,252 seconds.
+[2021.09.21-04.30.40:878][991]LogBlueprintUserMessages: [Game] TODO
+[2021.09.21-04.30.41:411][ 19]LogBlueprintUserMessages: [Game] TODO
+[2021.09.21-04.30.44:522][180]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.21-04.30.44:522][180]LogWorld: BeginTearingDown for /Game/Slitherlink/UEDPIE_0_SlitherlinkLevel
+[2021.09.21-04.30.44:522][180]LogWorld: UWorld::CleanupWorld for SlitherlinkLevel, bSessionEnded=true, bCleanupResources=true
+[2021.09.21-04.30.44:522][180]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.21-04.30.44:529][180]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.21-04.30.44:535][180]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.21-04.30.44:578][180]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.21-04.30.44:579][180]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.21-04.30.44:580][180]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.21-04.30.44:611][180]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2021.09.21-04.30.44:635][181]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2021.09.21-04.31.41:338][234]LogSlate: Window 'Color Picker' being destroyed
+[2021.09.21-04.31.42:750][344]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_SlitherlinkWallD45A0FD04FC979CA42D3A7A60BE20321.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Slitherlink/Game/Walls/UMG_SlitherlinkWall.uasset'
+[2021.09.21-04.31.42:765][344]AssetCheck: New page: Asset Save: UMG_SlitherlinkWall
+[2021.09.21-04.31.42:765][344]LogContentValidation: Display: Validating WidgetBlueprint /Game/Slitherlink/Game/Walls/UMG_SlitherlinkWall.UMG_SlitherlinkWall
+[2021.09.21-04.31.43:227][381]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.21-04.31.43:237][381]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.09.21-04.31.43:239][381]LogPlayLevel: [PlayLevel] Compiling UMG_SlitherlinkWall before play...
+[2021.09.21-04.31.43:347][381]LogUObjectHash: Compacting FUObjectHashTables data took   5.60ms
+[2021.09.21-04.31.43:349][381]LogPlayLevel: PlayLevel: Blueprint regeneration took 112 ms (1 blueprints)
+[2021.09.21-04.31.43:349][381]PIE: New page: PIE session: SlitherlinkLevel (21 сент. 2021 г., 10:31:43)
+[2021.09.21-04.31.43:349][381]LogPlayLevel: Creating play world package: /Game/Slitherlink/UEDPIE_0_SlitherlinkLevel
+[2021.09.21-04.31.43:351][381]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001893s)
+[2021.09.21-04.31.43:352][381]LogAIModule: Creating AISystem for world SlitherlinkLevel
+[2021.09.21-04.31.43:353][381]LogPlayLevel: PIE: World Init took: (0.001793s)
+[2021.09.21-04.31.43:353][381]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Slitherlink/SlitherlinkLevel.SlitherlinkLevel to /Game/Slitherlink/UEDPIE_0_SlitherlinkLevel.SlitherlinkLevel (0.003847s)
+[2021.09.21-04.31.43:397][381]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2021.09.21-04.31.43:398][381]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2021.09.21-04.31.43:398][381]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.21-04.31.43:398][381]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.21-04.31.43:398][381]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.21-04.31.43:398][381]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.21-04.31.43:398][381]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.21-04.31.43:398][381]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.21-04.31.43:398][381]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.21-04.31.43:398][381]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.21-04.31.43:399][381]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.21-04.31.43:399][381]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.21-04.31.43:400][381]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.21-04.31.43:400][381]LogAudioMixer: Display: 1: FrontRight
+[2021.09.21-04.31.43:410][381]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2021.09.21-04.31.43:411][381]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.21-04.31.43:411][381]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.21-04.31.43:411][381]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.21-04.31.43:411][381]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.21-04.31.43:411][381]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.21-04.31.43:412][381]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.21-04.31.43:435][381]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.21-04.31.43:435][381]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.21-04.31.43:435][381]LogInit: FAudioDevice initialized.
+[2021.09.21-04.31.43:435][381]LogAudio: Display: Audio Device (ID: 10) registered with world 'SlitherlinkLevel'.
+[2021.09.21-04.31.43:447][381]LogLoad: Game class is 'GameModeBase'
+[2021.09.21-04.31.43:448][381]LogWorld: Bringing World /Game/Slitherlink/UEDPIE_0_SlitherlinkLevel.SlitherlinkLevel up for play (max tick rate 0) at 2021.09.21-07.31.43
+[2021.09.21-04.31.43:448][381]LogWorld: Bringing up level for play took: 0.000563
+[2021.09.21-04.31.43:448][381]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2021.09.21-04.31.43:491][381]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.21-04.31.43:491][381]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.09.21-04.31.43:491][381]PIE: Server logged in
+[2021.09.21-04.31.43:492][381]PIE: Play in editor total start time 0,256 seconds.
+[2021.09.21-04.31.47:371][566]LogBlueprintUserMessages: [Game] TODO
+[2021.09.21-04.31.48:382][619]LogBlueprintUserMessages: [Game] TODO
+[2021.09.21-04.31.49:172][660]LogBlueprintUserMessages: [Game] TODO
+[2021.09.21-04.31.50:105][709]LogBlueprintUserMessages: [Game] TODO
+[2021.09.21-04.31.50:712][741]LogBlueprintUserMessages: [Game] TODO
+[2021.09.21-04.31.51:542][784]LogBlueprintUserMessages: [Game] TODO
+[2021.09.21-04.31.54:082][914]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.21-04.31.54:082][914]LogWorld: BeginTearingDown for /Game/Slitherlink/UEDPIE_0_SlitherlinkLevel
+[2021.09.21-04.31.54:082][914]LogWorld: UWorld::CleanupWorld for SlitherlinkLevel, bSessionEnded=true, bCleanupResources=true
+[2021.09.21-04.31.54:082][914]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.21-04.31.54:091][914]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.21-04.31.54:097][914]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.21-04.31.54:139][914]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.21-04.31.54:140][914]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.21-04.31.54:141][914]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.21-04.31.54:172][914]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2021.09.21-04.31.54:196][915]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2021.09.21-04.31.59:374][228]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.21-04.31.59:384][228]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.09.21-04.31.59:387][228]LogPlayLevel: [PlayLevel] Compiling UMG_SlitherlinkWall before play...
+[2021.09.21-04.31.59:486][228]LogUObjectHash: Compacting FUObjectHashTables data took   4.90ms
+[2021.09.21-04.31.59:487][228]LogPlayLevel: PlayLevel: Blueprint regeneration took 102 ms (1 blueprints)
+[2021.09.21-04.31.59:487][228]PIE: New page: PIE session: SlitherlinkLevel (21 сент. 2021 г., 10:31:59)
+[2021.09.21-04.31.59:487][228]LogPlayLevel: Creating play world package: /Game/Slitherlink/UEDPIE_0_SlitherlinkLevel
+[2021.09.21-04.31.59:489][228]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001871s)
+[2021.09.21-04.31.59:490][228]LogAIModule: Creating AISystem for world SlitherlinkLevel
+[2021.09.21-04.31.59:490][228]LogPlayLevel: PIE: World Init took: (0.001570s)
+[2021.09.21-04.31.59:490][228]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Slitherlink/SlitherlinkLevel.SlitherlinkLevel to /Game/Slitherlink/UEDPIE_0_SlitherlinkLevel.SlitherlinkLevel (0.003586s)
+[2021.09.21-04.31.59:535][228]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2021.09.21-04.31.59:535][228]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2021.09.21-04.31.59:535][228]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.21-04.31.59:535][228]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.21-04.31.59:535][228]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.21-04.31.59:535][228]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.21-04.31.59:535][228]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.21-04.31.59:535][228]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.21-04.31.59:535][228]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.21-04.31.59:535][228]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.21-04.31.59:536][228]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.21-04.31.59:536][228]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.21-04.31.59:537][228]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.21-04.31.59:537][228]LogAudioMixer: Display: 1: FrontRight
+[2021.09.21-04.31.59:547][228]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2021.09.21-04.31.59:547][228]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.21-04.31.59:547][228]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.21-04.31.59:547][228]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.21-04.31.59:548][228]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.21-04.31.59:548][228]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.21-04.31.59:548][228]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.21-04.31.59:571][228]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.21-04.31.59:571][228]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.21-04.31.59:571][228]LogInit: FAudioDevice initialized.
+[2021.09.21-04.31.59:571][228]LogAudio: Display: Audio Device (ID: 11) registered with world 'SlitherlinkLevel'.
+[2021.09.21-04.31.59:587][228]LogLoad: Game class is 'GameModeBase'
+[2021.09.21-04.31.59:588][228]LogWorld: Bringing World /Game/Slitherlink/UEDPIE_0_SlitherlinkLevel.SlitherlinkLevel up for play (max tick rate 0) at 2021.09.21-07.31.59
+[2021.09.21-04.31.59:588][228]LogWorld: Bringing up level for play took: 0.000578
+[2021.09.21-04.31.59:588][228]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2021.09.21-04.31.59:671][228]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.21-04.31.59:671][228]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.09.21-04.31.59:671][228]PIE: Server logged in
+[2021.09.21-04.31.59:672][228]PIE: Play in editor total start time 0,289 seconds.
+[2021.09.21-04.32.01:134][303]LogBlueprintUserMessages: [Game] TODO
+[2021.09.21-04.32.02:101][354]LogBlueprintUserMessages: [Game] TODO
+[2021.09.21-04.32.02:584][379]LogBlueprintUserMessages: [Game] TODO
+[2021.09.21-04.32.03:578][431]LogBlueprintUserMessages: [Game] TODO
+[2021.09.21-04.32.04:127][460]LogBlueprintUserMessages: [Game] TODO
+[2021.09.21-04.32.06:062][560]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.21-04.32.06:062][560]LogWorld: BeginTearingDown for /Game/Slitherlink/UEDPIE_0_SlitherlinkLevel
+[2021.09.21-04.32.06:062][560]LogWorld: UWorld::CleanupWorld for SlitherlinkLevel, bSessionEnded=true, bCleanupResources=true
+[2021.09.21-04.32.06:062][560]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.21-04.32.06:073][560]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.21-04.32.06:080][560]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.21-04.32.06:125][560]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.21-04.32.06:125][560]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.21-04.32.06:127][560]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.21-04.32.06:157][560]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2021.09.21-04.32.06:182][561]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2021.09.21-04.32.26:930][815]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.21-04.32.26:941][815]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.09.21-04.32.26:943][815]LogPlayLevel: [PlayLevel] Compiling UMG_SlitherlinkWall before play...
+[2021.09.21-04.32.27:046][815]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2021.09.21-04.32.27:047][815]LogPlayLevel: PlayLevel: Blueprint regeneration took 106 ms (1 blueprints)
+[2021.09.21-04.32.27:048][815]PIE: New page: PIE session: SlitherlinkLevel (21 сент. 2021 г., 10:32:27)
+[2021.09.21-04.32.27:048][815]LogPlayLevel: Creating play world package: /Game/Slitherlink/UEDPIE_0_SlitherlinkLevel
+[2021.09.21-04.32.27:050][815]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001828s)
+[2021.09.21-04.32.27:051][815]LogAIModule: Creating AISystem for world SlitherlinkLevel
+[2021.09.21-04.32.27:051][815]LogPlayLevel: PIE: World Init took: (0.001669s)
+[2021.09.21-04.32.27:052][815]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Slitherlink/SlitherlinkLevel.SlitherlinkLevel to /Game/Slitherlink/UEDPIE_0_SlitherlinkLevel.SlitherlinkLevel (0.003731s)
+[2021.09.21-04.32.27:096][815]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2021.09.21-04.32.27:096][815]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2021.09.21-04.32.27:096][815]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.21-04.32.27:096][815]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.21-04.32.27:096][815]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.21-04.32.27:096][815]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.21-04.32.27:096][815]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.21-04.32.27:096][815]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.21-04.32.27:096][815]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.21-04.32.27:096][815]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.21-04.32.27:097][815]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.21-04.32.27:097][815]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.21-04.32.27:098][815]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.21-04.32.27:098][815]LogAudioMixer: Display: 1: FrontRight
+[2021.09.21-04.32.27:111][815]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2021.09.21-04.32.27:112][815]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.21-04.32.27:112][815]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.21-04.32.27:112][815]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.21-04.32.27:113][815]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.21-04.32.27:113][815]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.21-04.32.27:113][815]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.21-04.32.27:135][815]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.21-04.32.27:136][815]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.21-04.32.27:136][815]LogInit: FAudioDevice initialized.
+[2021.09.21-04.32.27:136][815]LogAudio: Display: Audio Device (ID: 12) registered with world 'SlitherlinkLevel'.
+[2021.09.21-04.32.27:152][815]LogLoad: Game class is 'GameModeBase'
+[2021.09.21-04.32.27:153][815]LogWorld: Bringing World /Game/Slitherlink/UEDPIE_0_SlitherlinkLevel.SlitherlinkLevel up for play (max tick rate 0) at 2021.09.21-07.32.27
+[2021.09.21-04.32.27:153][815]LogWorld: Bringing up level for play took: 0.000476
+[2021.09.21-04.32.27:153][815]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2021.09.21-04.32.27:195][815]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.21-04.32.27:195][815]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.09.21-04.32.27:195][815]PIE: Server logged in
+[2021.09.21-04.32.27:196][815]PIE: Play in editor total start time 0,256 seconds.
+[2021.09.21-04.32.29:193][916]LogBlueprintUserMessages: [Game] TODO
+[2021.09.21-04.32.29:193][916]LogBlueprintUserMessages: [UMG_SlitherlinkWall_C_65] a
+[2021.09.21-04.32.29:918][954]LogBlueprintUserMessages: [Game] TODO
+[2021.09.21-04.32.29:918][954]LogBlueprintUserMessages: [UMG_SlitherlinkWall_C_65] b
+[2021.09.21-04.32.32:321][ 80]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.21-04.32.32:321][ 80]LogWorld: BeginTearingDown for /Game/Slitherlink/UEDPIE_0_SlitherlinkLevel
+[2021.09.21-04.32.32:321][ 80]LogWorld: UWorld::CleanupWorld for SlitherlinkLevel, bSessionEnded=true, bCleanupResources=true
+[2021.09.21-04.32.32:321][ 80]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.21-04.32.32:333][ 80]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.21-04.32.32:341][ 80]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.21-04.32.32:383][ 80]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.21-04.32.32:385][ 80]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.21-04.32.32:386][ 80]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.21-04.32.32:410][ 80]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.21-04.32.32:417][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2021.09.21-04.32.32:442][ 81]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2021.09.21-04.33.04:017][844]LogSlate: Window 'Color Picker' being destroyed
+[2021.09.21-04.33.16:522][513]LogSlate: Window 'Color Picker' being destroyed
+[2021.09.21-04.33.17:374][570]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.21-04.33.17:384][570]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.09.21-04.33.17:386][570]LogPlayLevel: [PlayLevel] Compiling UMG_SlitherlinkWall before play...
+[2021.09.21-04.33.17:493][570]LogUObjectHash: Compacting FUObjectHashTables data took   5.09ms
+[2021.09.21-04.33.17:495][570]LogPlayLevel: PlayLevel: Blueprint regeneration took 109 ms (1 blueprints)
+[2021.09.21-04.33.17:495][570]PIE: New page: PIE session: SlitherlinkLevel (21 сент. 2021 г., 10:33:17)
+[2021.09.21-04.33.17:495][570]LogPlayLevel: Creating play world package: /Game/Slitherlink/UEDPIE_0_SlitherlinkLevel
+[2021.09.21-04.33.17:497][570]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001873s)
+[2021.09.21-04.33.17:498][570]LogAIModule: Creating AISystem for world SlitherlinkLevel
+[2021.09.21-04.33.17:499][570]LogPlayLevel: PIE: World Init took: (0.001849s)
+[2021.09.21-04.33.17:499][570]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Slitherlink/SlitherlinkLevel.SlitherlinkLevel to /Game/Slitherlink/UEDPIE_0_SlitherlinkLevel.SlitherlinkLevel (0.003898s)
+[2021.09.21-04.33.17:543][570]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2021.09.21-04.33.17:544][570]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2021.09.21-04.33.17:544][570]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.21-04.33.17:544][570]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.21-04.33.17:544][570]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.21-04.33.17:544][570]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.21-04.33.17:544][570]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.21-04.33.17:544][570]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.21-04.33.17:544][570]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.21-04.33.17:544][570]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.21-04.33.17:544][570]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.21-04.33.17:544][570]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.21-04.33.17:546][570]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.21-04.33.17:546][570]LogAudioMixer: Display: 1: FrontRight
+[2021.09.21-04.33.17:557][570]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2021.09.21-04.33.17:557][570]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.21-04.33.17:557][570]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.21-04.33.17:557][570]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.21-04.33.17:558][570]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.21-04.33.17:558][570]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.21-04.33.17:558][570]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.21-04.33.17:580][570]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.21-04.33.17:580][570]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.21-04.33.17:580][570]LogInit: FAudioDevice initialized.
+[2021.09.21-04.33.17:580][570]LogAudio: Display: Audio Device (ID: 13) registered with world 'SlitherlinkLevel'.
+[2021.09.21-04.33.17:597][570]LogLoad: Game class is 'GameModeBase'
+[2021.09.21-04.33.17:598][570]LogWorld: Bringing World /Game/Slitherlink/UEDPIE_0_SlitherlinkLevel.SlitherlinkLevel up for play (max tick rate 0) at 2021.09.21-07.33.17
+[2021.09.21-04.33.17:598][570]LogWorld: Bringing up level for play took: 0.000503
+[2021.09.21-04.33.17:598][570]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2021.09.21-04.33.17:640][570]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.21-04.33.17:640][570]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.09.21-04.33.17:641][570]PIE: Server logged in
+[2021.09.21-04.33.17:642][570]PIE: Play in editor total start time 0,258 seconds.
+[2021.09.21-04.33.19:009][639]LogBlueprintUserMessages: [Game] TODO
+[2021.09.21-04.33.19:009][639]LogBlueprintUserMessages: [UMG_SlitherlinkWall_C_45] a
+[2021.09.21-04.33.19:855][683]LogBlueprintUserMessages: [Game] TODO
+[2021.09.21-04.33.19:856][683]LogBlueprintUserMessages: [UMG_SlitherlinkWall_C_45] b
+[2021.09.21-04.33.20:932][739]LogBlueprintUserMessages: [Game] TODO
+[2021.09.21-04.33.20:932][739]LogBlueprintUserMessages: [UMG_SlitherlinkWall_C_45] a
+[2021.09.21-04.33.21:829][786]LogBlueprintUserMessages: [Game] TODO
+[2021.09.21-04.33.21:829][786]LogBlueprintUserMessages: [UMG_SlitherlinkWall_C_45] b
+[2021.09.21-04.33.23:443][870]LogBlueprintUserMessages: [Game] TODO
+[2021.09.21-04.33.23:443][870]LogBlueprintUserMessages: [UMG_SlitherlinkWall_C_46] a
+[2021.09.21-04.33.24:346][917]LogBlueprintUserMessages: [Game] TODO
+[2021.09.21-04.33.24:346][917]LogBlueprintUserMessages: [UMG_SlitherlinkWall_C_46] b
+[2021.09.21-04.33.25:884][997]LogBlueprintUserMessages: [Game] TODO
+[2021.09.21-04.33.25:884][997]LogBlueprintUserMessages: [UMG_SlitherlinkWall_C_160] a
+[2021.09.21-04.33.26:573][ 33]LogBlueprintUserMessages: [Game] TODO
+[2021.09.21-04.33.26:573][ 33]LogBlueprintUserMessages: [UMG_SlitherlinkWall_C_160] b
+[2021.09.21-04.33.27:531][ 83]LogBlueprintUserMessages: [Game] TODO
+[2021.09.21-04.33.27:531][ 83]LogBlueprintUserMessages: [UMG_SlitherlinkWall_C_149] a
+[2021.09.21-04.33.29:067][163]LogBlueprintUserMessages: [Game] TODO
+[2021.09.21-04.33.29:067][163]LogBlueprintUserMessages: [UMG_SlitherlinkWall_C_45] a
+[2021.09.21-04.33.29:930][208]LogBlueprintUserMessages: [Game] TODO
+[2021.09.21-04.33.29:930][208]LogBlueprintUserMessages: [UMG_SlitherlinkWall_C_160] a
+[2021.09.21-04.33.30:755][251]LogBlueprintUserMessages: [Game] TODO
+[2021.09.21-04.33.30:755][251]LogBlueprintUserMessages: [UMG_SlitherlinkWall_C_46] a
+[2021.09.21-04.33.33:441][391]LogBlueprintUserMessages: [Game] TODO
+[2021.09.21-04.33.33:441][391]LogBlueprintUserMessages: [UMG_SlitherlinkWall_C_44] a
+[2021.09.21-04.33.34:096][425]LogBlueprintUserMessages: [Game] TODO
+[2021.09.21-04.33.34:096][425]LogBlueprintUserMessages: [UMG_SlitherlinkWall_C_148] a
+[2021.09.21-04.33.34:595][451]LogBlueprintUserMessages: [Game] TODO
+[2021.09.21-04.33.34:595][451]LogBlueprintUserMessages: [UMG_SlitherlinkWall_C_159] a
+[2021.09.21-04.33.38:581][658]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.21-04.33.38:581][658]LogWorld: BeginTearingDown for /Game/Slitherlink/UEDPIE_0_SlitherlinkLevel
+[2021.09.21-04.33.38:581][658]LogWorld: UWorld::CleanupWorld for SlitherlinkLevel, bSessionEnded=true, bCleanupResources=true
+[2021.09.21-04.33.38:582][658]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.21-04.33.38:589][658]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.21-04.33.38:596][658]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.21-04.33.38:641][658]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.21-04.33.38:641][658]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.21-04.33.38:643][658]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.21-04.33.38:674][658]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2021.09.21-04.33.38:700][659]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2021.09.21-04.34.01:398][942]BlueprintLog: New page: Compile UMG_SlitherlinkWall
+[2021.09.21-04.34.01:482][942]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2021.09.21-04.34.02:743][ 15]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_SlitherlinkWall71AF077D4DFA7AF2B690EBA3801A7804.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Slitherlink/Game/Walls/UMG_SlitherlinkWall.uasset'
+[2021.09.21-04.34.02:758][ 15]AssetCheck: New page: Asset Save: UMG_SlitherlinkWall
+[2021.09.21-04.34.02:758][ 15]LogContentValidation: Display: Validating WidgetBlueprint /Game/Slitherlink/Game/Walls/UMG_SlitherlinkWall.UMG_SlitherlinkWall
+[2021.09.21-04.34.38:407][751]LogSlate: Window 'Color Picker' being destroyed
+[2021.09.21-04.34.46:705][150]BlueprintLog: New page: Compile UMG_SlitherlinkWall
+[2021.09.21-04.34.46:795][150]LogUObjectHash: Compacting FUObjectHashTables data took   5.79ms
+[2021.09.21-04.34.47:392][177]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_SlitherlinkWall3D4C6080415637E75251028CDC197BBF.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Slitherlink/Game/Walls/UMG_SlitherlinkWall.uasset'
+[2021.09.21-04.34.47:407][177]AssetCheck: New page: Asset Save: UMG_SlitherlinkWall
+[2021.09.21-04.34.47:407][177]LogContentValidation: Display: Validating WidgetBlueprint /Game/Slitherlink/Game/Walls/UMG_SlitherlinkWall.UMG_SlitherlinkWall
+[2021.09.21-04.34.48:626][234]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.21-04.34.48:636][234]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.21-04.34.48:636][234]PIE: New page: PIE session: SlitherlinkLevel (21 сент. 2021 г., 10:34:48)
+[2021.09.21-04.34.48:636][234]LogPlayLevel: Creating play world package: /Game/Slitherlink/UEDPIE_0_SlitherlinkLevel
+[2021.09.21-04.34.48:638][234]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002044s)
+[2021.09.21-04.34.48:639][234]LogAIModule: Creating AISystem for world SlitherlinkLevel
+[2021.09.21-04.34.48:640][234]LogPlayLevel: PIE: World Init took: (0.001756s)
+[2021.09.21-04.34.48:640][234]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Slitherlink/SlitherlinkLevel.SlitherlinkLevel to /Game/Slitherlink/UEDPIE_0_SlitherlinkLevel.SlitherlinkLevel (0.003961s)
+[2021.09.21-04.34.48:688][234]LogUObjectHash: Compacting FUObjectHashTables data took   5.24ms
+[2021.09.21-04.34.48:689][234]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2021.09.21-04.34.48:689][234]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.21-04.34.48:689][234]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.21-04.34.48:689][234]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.21-04.34.48:689][234]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.21-04.34.48:689][234]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.21-04.34.48:689][234]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.21-04.34.48:689][234]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.21-04.34.48:689][234]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.21-04.34.48:690][234]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.21-04.34.48:690][234]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.21-04.34.48:691][234]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.21-04.34.48:691][234]LogAudioMixer: Display: 1: FrontRight
+[2021.09.21-04.34.48:702][234]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2021.09.21-04.34.48:702][234]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.21-04.34.48:702][234]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.21-04.34.48:703][234]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.21-04.34.48:703][234]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.21-04.34.48:703][234]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.21-04.34.48:703][234]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.21-04.34.48:726][234]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.21-04.34.48:726][234]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.21-04.34.48:726][234]LogInit: FAudioDevice initialized.
+[2021.09.21-04.34.48:726][234]LogAudio: Display: Audio Device (ID: 14) registered with world 'SlitherlinkLevel'.
+[2021.09.21-04.34.48:742][234]LogLoad: Game class is 'GameModeBase'
+[2021.09.21-04.34.48:743][234]LogWorld: Bringing World /Game/Slitherlink/UEDPIE_0_SlitherlinkLevel.SlitherlinkLevel up for play (max tick rate 0) at 2021.09.21-07.34.48
+[2021.09.21-04.34.48:743][234]LogWorld: Bringing up level for play took: 0.000458
+[2021.09.21-04.34.48:744][234]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2021.09.21-04.34.48:786][234]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.21-04.34.48:786][234]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.09.21-04.34.48:786][234]PIE: Server logged in
+[2021.09.21-04.34.48:787][234]PIE: Play in editor total start time 0,152 seconds.
+[2021.09.21-04.34.51:995][381]LogBlueprintUserMessages: [Game] TODO
+[2021.09.21-04.34.53:155][442]LogBlueprintUserMessages: [Game] TODO
+[2021.09.21-04.34.53:907][481]LogBlueprintUserMessages: [Game] TODO
+[2021.09.21-04.34.54:670][521]LogBlueprintUserMessages: [Game] TODO
+[2021.09.21-04.34.56:380][613]LogBlueprintUserMessages: [Game] TODO
+[2021.09.21-04.34.58:571][728]LogBlueprintUserMessages: [Game] TODO
+[2021.09.21-04.34.59:603][782]LogBlueprintUserMessages: [Game] TODO
+[2021.09.21-04.35.00:642][835]LogBlueprintUserMessages: [Game] TODO
+[2021.09.21-04.35.01:318][871]LogBlueprintUserMessages: [Game] TODO
+[2021.09.21-04.35.02:477][932]LogBlueprintUserMessages: [Game] TODO
+[2021.09.21-04.35.03:455][983]LogBlueprintUserMessages: [Game] TODO
+[2021.09.21-04.35.05:788][105]LogBlueprintUserMessages: [Game] TODO
+[2021.09.21-04.35.07:311][185]LogBlueprintUserMessages: [Game] TODO
+[2021.09.21-04.35.11:012][379]LogBlueprintUserMessages: [Game] TODO
+[2021.09.21-04.35.11:587][409]LogBlueprintUserMessages: [Game] TODO
+[2021.09.21-04.35.12:542][459]LogBlueprintUserMessages: [Game] TODO
+[2021.09.21-04.35.13:852][528]LogBlueprintUserMessages: [Game] TODO
+[2021.09.21-04.35.14:451][559]LogBlueprintUserMessages: [Game] TODO
+[2021.09.21-04.35.16:903][686]LogBlueprintUserMessages: [Game] TODO
+[2021.09.21-04.35.18:927][792]LogBlueprintUserMessages: [Game] TODO
+[2021.09.21-04.35.19:970][847]LogBlueprintUserMessages: [Game] TODO
+[2021.09.21-04.35.21:213][912]LogBlueprintUserMessages: [Game] TODO
+[2021.09.21-04.35.37:681][777]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.21-04.35.37:681][777]LogWorld: BeginTearingDown for /Game/Slitherlink/UEDPIE_0_SlitherlinkLevel
+[2021.09.21-04.35.37:681][777]LogWorld: UWorld::CleanupWorld for SlitherlinkLevel, bSessionEnded=true, bCleanupResources=true
+[2021.09.21-04.35.37:681][777]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.21-04.35.37:690][777]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.21-04.35.37:697][777]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.21-04.35.37:745][777]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.21-04.35.37:745][777]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.21-04.35.37:747][777]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.21-04.35.37:770][777]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.21-04.35.37:778][777]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2021.09.21-04.35.37:803][778]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2021.09.21-04.35.52:448][220]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Slitherlink/Game/UMG_SlitherlinkGame" FILE="../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Slitherlink/Game/UMG_SlitherlinkGame.uasset" SILENT=true
+[2021.09.21-04.35.52:559][220]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_SlitherlinkGameF72AC2734F5E794F5B6BA2BBE700EA97.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Slitherlink/Game/UMG_SlitherlinkGame.uasset'
+[2021.09.21-04.35.52:573][220]AssetCheck: New page: Asset Save: UMG_SlitherlinkGame
+[2021.09.21-04.35.52:574][220]LogContentValidation: Display: Validating WidgetBlueprint /Game/Slitherlink/Game/UMG_SlitherlinkGame.UMG_SlitherlinkGame
+[2021.09.21-04.35.59:278][562]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.09.21-04.35.59:278][562]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.21-04.35.59:287][562]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.09.21-04.35.59:287][562]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.21-04.36.03:516][771]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2021.09.21-04.36.03:516][771]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.21-04.37.53:425][334]BlueprintLog: New page: Compile UMG_SlitherlinkGame
+[2021.09.21-04.37.53:549][334]LogUObjectHash: Compacting FUObjectHashTables data took   5.76ms
+[2021.09.21-04.37.54:206][364]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Slitherlink/Game/UMG_SlitherlinkGame" FILE="../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Slitherlink/Game/UMG_SlitherlinkGame.uasset" SILENT=true
+[2021.09.21-04.37.54:290][364]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_SlitherlinkGame050BC98241156DF5010E198203140C71.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Slitherlink/Game/UMG_SlitherlinkGame.uasset'
+[2021.09.21-04.37.54:305][364]AssetCheck: New page: Asset Save: UMG_SlitherlinkGame
+[2021.09.21-04.37.54:305][364]LogContentValidation: Display: Validating WidgetBlueprint /Game/Slitherlink/Game/UMG_SlitherlinkGame.UMG_SlitherlinkGame
+[2021.09.21-04.38.03:805][857]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Slitherlink/Game/UMG_SlitherlinkGame" FILE="../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Slitherlink/Game/UMG_SlitherlinkGame.uasset" SILENT=true
+[2021.09.21-04.38.03:890][857]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_SlitherlinkGameFB19B09947DC3A9F30D02A941062E6C9.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Slitherlink/Game/UMG_SlitherlinkGame.uasset'
+[2021.09.21-04.38.03:904][857]AssetCheck: New page: Asset Save: UMG_SlitherlinkGame
+[2021.09.21-04.38.03:904][857]LogContentValidation: Display: Validating WidgetBlueprint /Game/Slitherlink/Game/UMG_SlitherlinkGame.UMG_SlitherlinkGame
+[2021.09.21-04.38.44:655][971]BlueprintLog: New page: Collapse to Macro
+[2021.09.21-04.40.02:101][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Slitherlink/Game/UMG_SlitherlinkGame" FILE="../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Slitherlink/Game/UMG_SlitherlinkGame.uasset" SILENT=true
+[2021.09.21-04.40.02:188][473]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_SlitherlinkGameD746DC8645C2806EF9A043956E03A3CF.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Slitherlink/Game/UMG_SlitherlinkGame.uasset'
+[2021.09.21-04.40.02:205][473]AssetCheck: New page: Asset Save: UMG_SlitherlinkGame
+[2021.09.21-04.40.02:205][473]LogContentValidation: Display: Validating WidgetBlueprint /Game/Slitherlink/Game/UMG_SlitherlinkGame.UMG_SlitherlinkGame
+[2021.09.21-04.40.02:570][495]BlueprintLog: New page: Compile UMG_SlitherlinkGame
+[2021.09.21-04.40.02:678][495]LogUObjectHash: Compacting FUObjectHashTables data took   5.92ms
+[2021.09.21-04.40.03:168][518]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Slitherlink/Game/UMG_SlitherlinkGame" FILE="../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Slitherlink/Game/UMG_SlitherlinkGame.uasset" SILENT=true
+[2021.09.21-04.40.03:253][518]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_SlitherlinkGame61521867405E24667FF47EBA26544FA4.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Slitherlink/Game/UMG_SlitherlinkGame.uasset'
+[2021.09.21-04.40.03:267][518]AssetCheck: New page: Asset Save: UMG_SlitherlinkGame
+[2021.09.21-04.40.03:267][518]LogContentValidation: Display: Validating WidgetBlueprint /Game/Slitherlink/Game/UMG_SlitherlinkGame.UMG_SlitherlinkGame
+[2021.09.21-04.40.43:602][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Slitherlink/Game/UMG_SlitherlinkGame" FILE="../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Slitherlink/Game/UMG_SlitherlinkGame.uasset" SILENT=true
+[2021.09.21-04.40.43:707][830]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_SlitherlinkGame7EB267FE409009D29B2D4E89BC2F0842.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Slitherlink/Game/UMG_SlitherlinkGame.uasset'
+[2021.09.21-04.40.43:722][830]AssetCheck: New page: Asset Save: UMG_SlitherlinkGame
+[2021.09.21-04.40.43:722][830]LogContentValidation: Display: Validating WidgetBlueprint /Game/Slitherlink/Game/UMG_SlitherlinkGame.UMG_SlitherlinkGame
+[2021.09.21-04.42.13:755][164]BlueprintLog: New page: Compile UMG_SlitherlinkGame
+[2021.09.21-04.42.13:864][164]LogUObjectHash: Compacting FUObjectHashTables data took   5.85ms
+[2021.09.21-04.42.14:546][198]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Slitherlink/Game/UMG_SlitherlinkGame" FILE="../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Slitherlink/Game/UMG_SlitherlinkGame.uasset" SILENT=true
+[2021.09.21-04.42.14:635][198]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_SlitherlinkGameC79AADF74AB1277F94130BAFD22981A2.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Slitherlink/Game/UMG_SlitherlinkGame.uasset'
+[2021.09.21-04.42.14:650][198]AssetCheck: New page: Asset Save: UMG_SlitherlinkGame
+[2021.09.21-04.42.14:650][198]LogContentValidation: Display: Validating WidgetBlueprint /Game/Slitherlink/Game/UMG_SlitherlinkGame.UMG_SlitherlinkGame
+[2021.09.21-04.42.33:745][140]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Slitherlink/Game/UMG_SlitherlinkGame" FILE="../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Slitherlink/Game/UMG_SlitherlinkGame.uasset" SILENT=true
+[2021.09.21-04.42.33:835][140]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_SlitherlinkGameBA22043B47B92CADD45B66A8F8DE4194.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Slitherlink/Game/UMG_SlitherlinkGame.uasset'
+[2021.09.21-04.42.33:849][140]AssetCheck: New page: Asset Save: UMG_SlitherlinkGame
+[2021.09.21-04.42.33:849][140]LogContentValidation: Display: Validating WidgetBlueprint /Game/Slitherlink/Game/UMG_SlitherlinkGame.UMG_SlitherlinkGame
+[2021.09.21-04.42.38:254][357]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.21-04.42.38:264][357]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.09.21-04.42.38:267][357]LogPlayLevel: [PlayLevel] Compiling UMG_SlitherlinkGame before play...
+[2021.09.21-04.42.38:393][357]LogUObjectHash: Compacting FUObjectHashTables data took   5.28ms
+[2021.09.21-04.42.38:395][357]LogPlayLevel: PlayLevel: Blueprint regeneration took 130 ms (1 blueprints)
+[2021.09.21-04.42.38:395][357]PIE: New page: PIE session: SlitherlinkLevel (21 сент. 2021 г., 10:42:38)
+[2021.09.21-04.42.38:396][357]LogPlayLevel: Creating play world package: /Game/Slitherlink/UEDPIE_0_SlitherlinkLevel
+[2021.09.21-04.42.38:398][357]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001951s)
+[2021.09.21-04.42.38:399][357]LogAIModule: Creating AISystem for world SlitherlinkLevel
+[2021.09.21-04.42.38:399][357]LogPlayLevel: PIE: World Init took: (0.001712s)
+[2021.09.21-04.42.38:399][357]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Slitherlink/SlitherlinkLevel.SlitherlinkLevel to /Game/Slitherlink/UEDPIE_0_SlitherlinkLevel.SlitherlinkLevel (0.003823s)
+[2021.09.21-04.42.38:438][357]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2021.09.21-04.42.38:438][357]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2021.09.21-04.42.38:438][357]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.21-04.42.38:438][357]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.21-04.42.38:438][357]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.21-04.42.38:438][357]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.21-04.42.38:438][357]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.21-04.42.38:439][357]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.21-04.42.38:439][357]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.21-04.42.38:439][357]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.21-04.42.38:439][357]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.21-04.42.38:439][357]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.21-04.42.38:441][357]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.21-04.42.38:441][357]LogAudioMixer: Display: 1: FrontRight
+[2021.09.21-04.42.38:452][357]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2021.09.21-04.42.38:452][357]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.21-04.42.38:452][357]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.21-04.42.38:452][357]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.21-04.42.38:453][357]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.21-04.42.38:453][357]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.21-04.42.38:453][357]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.21-04.42.38:476][357]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.21-04.42.38:476][357]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.21-04.42.38:476][357]LogInit: FAudioDevice initialized.
+[2021.09.21-04.42.38:477][357]LogAudio: Display: Audio Device (ID: 15) registered with world 'SlitherlinkLevel'.
+[2021.09.21-04.42.38:488][357]LogLoad: Game class is 'GameModeBase'
+[2021.09.21-04.42.38:489][357]LogWorld: Bringing World /Game/Slitherlink/UEDPIE_0_SlitherlinkLevel.SlitherlinkLevel up for play (max tick rate 0) at 2021.09.21-07.42.38
+[2021.09.21-04.42.38:489][357]LogWorld: Bringing up level for play took: 0.000449
+[2021.09.21-04.42.38:490][357]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2021.09.21-04.42.38:532][357]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.21-04.42.38:532][357]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.09.21-04.42.38:532][357]PIE: Server logged in
+[2021.09.21-04.42.38:533][357]PIE: Play in editor total start time 0,27 seconds.
+[2021.09.21-04.42.45:499][707]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.21-04.42.45:499][707]LogWorld: BeginTearingDown for /Game/Slitherlink/UEDPIE_0_SlitherlinkLevel
+[2021.09.21-04.42.45:499][707]LogWorld: UWorld::CleanupWorld for SlitherlinkLevel, bSessionEnded=true, bCleanupResources=true
+[2021.09.21-04.42.45:499][707]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.21-04.42.45:506][707]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.21-04.42.45:513][707]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.21-04.42.45:552][707]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.21-04.42.45:552][707]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.21-04.42.45:553][707]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.21-04.42.45:584][707]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2021.09.21-04.42.45:609][708]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2021.09.21-04.43.00:342][474]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.21-04.43.00:351][474]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.21-04.43.00:351][474]PIE: New page: PIE session: SlitherlinkLevel (21 сент. 2021 г., 10:43:00)
+[2021.09.21-04.43.00:352][474]LogPlayLevel: Creating play world package: /Game/Slitherlink/UEDPIE_0_SlitherlinkLevel
+[2021.09.21-04.43.00:354][474]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002398s)
+[2021.09.21-04.43.00:356][474]LogAIModule: Creating AISystem for world SlitherlinkLevel
+[2021.09.21-04.43.00:356][474]LogPlayLevel: PIE: World Init took: (0.001818s)
+[2021.09.21-04.43.00:356][474]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Slitherlink/SlitherlinkLevel.SlitherlinkLevel to /Game/Slitherlink/UEDPIE_0_SlitherlinkLevel.SlitherlinkLevel (0.004414s)
+[2021.09.21-04.43.00:396][474]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2021.09.21-04.43.00:397][474]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2021.09.21-04.43.00:398][474]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.21-04.43.00:398][474]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.21-04.43.00:398][474]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.21-04.43.00:398][474]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.21-04.43.00:398][474]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.21-04.43.00:398][474]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.21-04.43.00:398][474]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.21-04.43.00:398][474]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.21-04.43.00:398][474]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.21-04.43.00:398][474]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.21-04.43.00:400][474]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.21-04.43.00:400][474]LogAudioMixer: Display: 1: FrontRight
+[2021.09.21-04.43.00:410][474]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2021.09.21-04.43.00:410][474]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.21-04.43.00:410][474]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.21-04.43.00:410][474]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.21-04.43.00:411][474]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.21-04.43.00:411][474]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.21-04.43.00:411][474]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.21-04.43.00:433][474]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.21-04.43.00:433][474]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.21-04.43.00:433][474]LogInit: FAudioDevice initialized.
+[2021.09.21-04.43.00:433][474]LogAudio: Display: Audio Device (ID: 16) registered with world 'SlitherlinkLevel'.
+[2021.09.21-04.43.00:446][474]LogLoad: Game class is 'GameModeBase'
+[2021.09.21-04.43.00:447][474]LogWorld: Bringing World /Game/Slitherlink/UEDPIE_0_SlitherlinkLevel.SlitherlinkLevel up for play (max tick rate 0) at 2021.09.21-07.43.00
+[2021.09.21-04.43.00:447][474]LogWorld: Bringing up level for play took: 0.000474
+[2021.09.21-04.43.00:447][474]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2021.09.21-04.43.00:489][474]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.21-04.43.00:489][474]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.09.21-04.43.00:490][474]PIE: Server logged in
+[2021.09.21-04.43.00:491][474]PIE: Play in editor total start time 0,14 seconds.
+[2021.09.21-04.43.11:358][ 51]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.21-04.43.11:358][ 51]LogWorld: BeginTearingDown for /Game/Slitherlink/UEDPIE_0_SlitherlinkLevel
+[2021.09.21-04.43.11:358][ 51]LogWorld: UWorld::CleanupWorld for SlitherlinkLevel, bSessionEnded=true, bCleanupResources=true
+[2021.09.21-04.43.11:359][ 51]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.21-04.43.11:366][ 51]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.21-04.43.11:374][ 51]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.21-04.43.11:410][ 51]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.21-04.43.11:410][ 51]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.21-04.43.11:411][ 51]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.21-04.43.11:444][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2021.09.21-04.43.11:467][ 52]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2021.09.21-04.43.36:176][223]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Slitherlink/Game/UMG_SlitherlinkGame" FILE="../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Slitherlink/Game/UMG_SlitherlinkGame.uasset" SILENT=true
+[2021.09.21-04.43.36:266][223]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_SlitherlinkGame08715BFB4D054DA0B2C4738ACE8774C6.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Slitherlink/Game/UMG_SlitherlinkGame.uasset'
+[2021.09.21-04.43.36:285][223]AssetCheck: New page: Asset Save: UMG_SlitherlinkGame
+[2021.09.21-04.43.36:285][223]LogContentValidation: Display: Validating WidgetBlueprint /Game/Slitherlink/Game/UMG_SlitherlinkGame.UMG_SlitherlinkGame
+[2021.09.21-04.44.26:590][899]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Slitherlink/Game/UMG_SlitherlinkGame" FILE="../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Slitherlink/Game/UMG_SlitherlinkGame.uasset" SILENT=true
+[2021.09.21-04.44.26:681][899]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_SlitherlinkGame5BC80C3249B43819AD2D0F83102C92A6.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Slitherlink/Game/UMG_SlitherlinkGame.uasset'
+[2021.09.21-04.44.26:696][899]AssetCheck: New page: Asset Save: UMG_SlitherlinkGame
+[2021.09.21-04.44.26:696][899]LogContentValidation: Display: Validating WidgetBlueprint /Game/Slitherlink/Game/UMG_SlitherlinkGame.UMG_SlitherlinkGame
+[2021.09.21-04.45.28:748][851]LogSlate: Window 'Change Variable Type' being destroyed
+[2021.09.21-04.45.30:711][919]LogSlate: Window 'Find in Blueprints' being destroyed
+[2021.09.21-04.45.30:717][919]LogSlate: Window 'Find in Blueprints' being destroyed
+[2021.09.21-04.47.47:278][226]BlueprintLog: New page: Compile UMG_SlitherlinkGame
+[2021.09.21-04.47.47:392][226]LogUObjectHash: Compacting FUObjectHashTables data took   5.80ms
+[2021.09.21-04.47.47:748][242]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Slitherlink/Game/UMG_SlitherlinkGame" FILE="../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Slitherlink/Game/UMG_SlitherlinkGame.uasset" SILENT=true
+[2021.09.21-04.47.47:844][242]LogSavePackage: Moving '../../../../../Projects/Unreal Projects/JapanPuzzles/Saved/UMG_SlitherlinkGame03699D0545D5BC367EDE7C837DF99D99.tmp' to '../../../../../Projects/Unreal Projects/JapanPuzzles/Content/Slitherlink/Game/UMG_SlitherlinkGame.uasset'
+[2021.09.21-04.47.47:859][242]AssetCheck: New page: Asset Save: UMG_SlitherlinkGame
+[2021.09.21-04.47.47:859][242]LogContentValidation: Display: Validating WidgetBlueprint /Game/Slitherlink/Game/UMG_SlitherlinkGame.UMG_SlitherlinkGame
